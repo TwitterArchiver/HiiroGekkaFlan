@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2079408031625023545",
+    "created_at": "2026-07-21T17:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T18:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079617897178243250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1978101548828762112",
+          "start": 0,
+          "username": "atashisetsunasa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079617897178243250",
+    "in_reply_to_user_id": "1978101548828762112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079408031625023545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@atashisetsunasa （扣了一堆帽子）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_2079408017637023744",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNuKkypaoAAuVoI.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNuKkypaoAAuVoI.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2079408031625023545",
+        "created_at": "2026-07-21T17:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079617897178243250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1978101548828762112",
+              "start": 0,
+              "username": "atashisetsunasa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079617897178243250",
+        "in_reply_to_user_id": "1978101548828762112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079408031625023545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@atashisetsunasa （扣了一堆帽子）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2079408017637023744"
+          ]
+        },
+        "author_id": "1978101548828762112",
+        "conversation_id": "2079408031625023545",
+        "created_at": "2026-07-21T03:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079408031625023545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/co8TfovKs7",
+              "end": 158,
+              "expanded_url": "https://x.com/atashisetsunasa/status/2079408031625023545/photo/1",
+              "media_key": "16_2079408017637023744",
+              "start": 135,
+              "url": "https://t.co/co8TfovKs7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079408031625023545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我在帖子底下评论时展现的政治观点很大概率上受原帖子内容影响并靠拢。这是一种取悦与调和主义。但只要是我觉得似乎可以交朋友的人，我都不是很想与其发生冲突，有时我自嘲几乎处于墙头草与投降主义。\n当然，那些明显不是朋友而是路人的人会被我无视。那些明显是敌人的人会被我抨击。 https://t.co/co8TfovKs7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 903,
+          "like_count": 13552,
+          "listed_count": 2,
+          "media_count": 468,
+          "tweet_count": 4034
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T14:12:29.000Z",
+        "description": "新幹線，連絡船，運命線よ教えて，\nわたし ，明日は ，どこでどうしてるの？——\n皖西北河南风长三角人，纯粹的北方人，卢森堡主义者，透明少女，伪装乐观的无可救药抑郁症者，电气工程及其自动化，人文关怀者，可能的LBGT成员，农民世家，伪文艺青年，乘坐轨道交通痴迷，邦摇，苏联摇滚，wowaka，自我放逐，“共青团员”",
+        "id": "1978101548828762112",
+        "location": "宮城県 仙台市 東北大魯迅記念像",
+        "name": "スマトラ警備隊",
+        "pinned_tweet_id": "2074903596790128778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067631512535879680/AnE-gKo0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 114,
+          "like_count": 708,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 688
+        },
+        "url": "",
+        "username": "atashisetsunasa",
+        "verified": false
+      }
+    ]
+  }
+}

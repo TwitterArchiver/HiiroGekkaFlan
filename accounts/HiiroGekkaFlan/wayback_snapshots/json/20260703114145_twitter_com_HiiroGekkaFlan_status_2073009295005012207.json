@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2072749711682060593",
+    "created_at": "2026-07-03T11:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T12:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073009295005012207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2072197876533616640",
+          "start": 0,
+          "username": "Full_Gas_Revers"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073009295005012207",
+    "in_reply_to_user_id": "2072197876533616640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073002134208213055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Full_Gas_Revers 坦克战车，历史的荒谬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2072749711682060593",
+        "created_at": "2026-07-03T11:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073009295005012207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2072197876533616640",
+              "start": 0,
+              "username": "Full_Gas_Revers"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073009295005012207",
+        "in_reply_to_user_id": "2072197876533616640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073002134208213055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Full_Gas_Revers 坦克战车，历史的荒谬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072197876533616640",
+        "conversation_id": "2072749711682060593",
+        "created_at": "2026-07-03T11:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073002134208213055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073002134208213055",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072749711682060593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 占占占  小"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 872,
+          "like_count": 11479,
+          "listed_count": 1,
+          "media_count": 392,
+          "tweet_count": 3531
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T05:58:31.000Z",
+        "description": "Contact me:15084355708@139.com\n微信同号\n仅五毛🐱🌶️🥩，粉红基本盘通过\n🇨🇳（不包含🇭🇰🇲🇴🇹🇼）骂人的屏蔽的人默认习近平是你grandchild",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xijinping.maozedong.shishabi.gov.cn",
+                "end": 23,
+                "expanded_url": "https://xijinping.maozedong.shishabi.gov.cn",
+                "start": 0,
+                "url": "https://t.co/LWvfLWcU7v"
+              }
+            ]
+          }
+        },
+        "id": "2072197876533616640",
+        "location": "北京市西城区西长安街习近平办公室",
+        "name": "XiKimPooh",
+        "pinned_tweet_id": "2072269631738560954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072199230375251968/1YR6kyrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/LWvfLWcU7v",
+        "username": "Full_Gas_Revers",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072630188375257088"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "conversation_id": "2072630190757560550",
+    "created_at": "2026-07-02T10:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072630190757560550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9AQu7qwJjC",
+          "end": 30,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2072630190757560550/photo/1",
+          "media_key": "3_2072630188375257088",
+          "start": 7,
+          "url": "https://t.co/9AQu7qwJjC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072630190757560550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别长期熬夜😭 https://t.co/9AQu7qwJjC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 434,
+        "media_key": "3_2072630188375257088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN2LNDbsAA6rlI.jpg",
+        "width": 581
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072630188375257088"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2072630190757560550",
+        "created_at": "2026-07-02T10:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072630190757560550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9AQu7qwJjC",
+              "end": 30,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2072630190757560550/photo/1",
+              "media_key": "3_2072630188375257088",
+              "start": 7,
+              "url": "https://t.co/9AQu7qwJjC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072630190757560550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别长期熬夜😭 https://t.co/9AQu7qwJjC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 871,
+          "like_count": 11406,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 3496
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

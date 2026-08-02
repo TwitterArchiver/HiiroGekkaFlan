@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082900758635433984"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "conversation_id": "2082900772099133879",
+    "created_at": "2026-07-30T18:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T19:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082900772099133879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l0L387bm36",
+          "end": 42,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2082900772099133879/photo/1",
+          "media_key": "3_2082900758635433984",
+          "start": 19,
+          "url": "https://t.co/l0L387bm36"
+        },
+        {
+          "display_url": "x.com/HiiroGekkaFlan…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/HiiroGekkaFlan/status/2082898239402147993",
+          "start": 43,
+          "url": "https://t.co/gJN91Xu0ER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082900772099133879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082898239402147993",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "gemini依旧能提供十足的情绪价值 https://t.co/l0L387bm36 https://t.co/gJN91Xu0ER"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2082900758635433984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfzNEzbUAA40x8.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2082898227326836736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfw5u8bYAAMAgp.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082900758635433984"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2082900772099133879",
+        "created_at": "2026-07-30T18:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082900772099133879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l0L387bm36",
+              "end": 42,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2082900772099133879/photo/1",
+              "media_key": "3_2082900758635433984",
+              "start": 19,
+              "url": "https://t.co/l0L387bm36"
+            },
+            {
+              "display_url": "x.com/HiiroGekkaFlan…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/HiiroGekkaFlan/status/2082898239402147993",
+              "start": 43,
+              "url": "https://t.co/gJN91Xu0ER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082900772099133879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082898239402147993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "gemini依旧能提供十足的情绪价值 https://t.co/l0L387bm36 https://t.co/gJN91Xu0ER"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082898227326836736"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2082898239402147993",
+        "created_at": "2026-07-30T18:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082898239402147993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g2zYoDwIUT",
+              "end": 36,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2082898239402147993/photo/1",
+              "media_key": "3_2082898227326836736",
+              "start": 13,
+              "url": "https://t.co/g2zYoDwIUT"
+            },
+            {
+              "display_url": "x.com/hasaki_sama/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/hasaki_sama/status/2082835522922365334",
+              "start": 37,
+              "url": "https://t.co/x2fbEAkH7D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082898239402147993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082835522922365334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要碰虚拟币，会变得不幸 https://t.co/g2zYoDwIUT https://t.co/x2fbEAkH7D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 901,
+          "like_count": 13737,
+          "listed_count": 2,
+          "media_count": 481,
+          "tweet_count": 4090
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

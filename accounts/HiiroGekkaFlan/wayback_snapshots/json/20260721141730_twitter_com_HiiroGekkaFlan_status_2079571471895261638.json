@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079571458603565056"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079553267399266413",
+    "created_at": "2026-07-21T14:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079571471895261638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c7u5tgtoFv",
+          "end": 48,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2079571471895261638/photo/1",
+          "media_key": "3_2079571458603565056",
+          "start": 25,
+          "url": "https://t.co/c7u5tgtoFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079571471895261638",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079553267399266413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auspiceshirley 我是传奇耐乳酸王 https://t.co/c7u5tgtoFv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079571458603565056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwfOTsbQAAyHtK.jpg",
+        "width": 921
+      },
+      {
+        "height": 2491,
+        "media_key": "3_2079553250609504256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwOqdoWoAAJ59d.jpg",
+        "width": 1161
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079571458603565056"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079553267399266413",
+        "created_at": "2026-07-21T14:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079571471895261638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c7u5tgtoFv",
+              "end": 48,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2079571471895261638/photo/1",
+              "media_key": "3_2079571458603565056",
+              "start": 25,
+              "url": "https://t.co/c7u5tgtoFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079571471895261638",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079553267399266413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auspiceshirley 我是传奇耐乳酸王 https://t.co/c7u5tgtoFv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079553250609504256"
+          ]
+        },
+        "author_id": "2050253104935997440",
+        "conversation_id": "2079553267399266413",
+        "created_at": "2026-07-21T13:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079553267399266413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lIInxcdJFA",
+              "end": 56,
+              "expanded_url": "https://x.com/auspiceshirley/status/2079553267399266413/photo/1",
+              "media_key": "3_2079553250609504256",
+              "start": 33,
+              "url": "https://t.co/lIInxcdJFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079553267399266413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你知道我今天经历了什么吗？\n\n就这么说吧，我的腿已经不是我的了。 https://t.co/lIInxcdJFA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 901,
+          "like_count": 13510,
+          "listed_count": 2,
+          "media_count": 468,
+          "tweet_count": 4025
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.auspiceshirley.dev",
+                "end": 23,
+                "expanded_url": "https://me.auspiceshirley.dev",
+                "start": 0,
+                "url": "https://t.co/1qfE6dIPvx"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 580,
+          "like_count": 1939,
+          "listed_count": 1,
+          "media_count": 392,
+          "tweet_count": 2731
+        },
+        "url": "https://t.co/1qfE6dIPvx",
+        "username": "auspiceshirley",
+        "verified": true
+      }
+    ]
+  }
+}

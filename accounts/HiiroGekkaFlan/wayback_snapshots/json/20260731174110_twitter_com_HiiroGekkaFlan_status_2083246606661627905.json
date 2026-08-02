@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2083038408813727995",
+    "created_at": "2026-07-31T17:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T18:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083246606661627905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1950548412140494848",
+          "start": 0,
+          "username": "QinYueLe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083246606661627905",
+    "in_reply_to_user_id": "1950548412140494848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083038408813727995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QinYueLe 不如信我是秦始皇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 607,
+        "media_key": "3_2083038389779955712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhwYQxWAAADrpb.jpg",
+        "width": 505
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2083038408813727995",
+        "created_at": "2026-07-31T17:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083246606661627905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "QinYueLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083246606661627905",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083038408813727995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QinYueLe 不如信我是秦始皇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083038389779955712"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "conversation_id": "2083038408813727995",
+        "created_at": "2026-07-31T03:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083038408813727995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/327O1UQVsS",
+              "end": 48,
+              "expanded_url": "https://x.com/QinYueLe/status/2083038408813727995/photo/1",
+              "media_key": "3_2083038389779955712",
+              "start": 25,
+              "url": "https://t.co/327O1UQVsS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083038408813727995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 1668350,
+          "like_count": 876,
+          "quote_count": 13,
+          "reply_count": 1224,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "🚨突发新闻：\n胡锦涛，因食物中毒去世，享年83岁 https://t.co/327O1UQVsS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 901,
+          "like_count": 13759,
+          "listed_count": 2,
+          "media_count": 486,
+          "tweet_count": 4103
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "武汉大学法学毕业\n江西鹰潭本地人，有个差10岁的弟弟\n五战考研，备战考公\n爱好养猫、瑜伽、旅游、轻食、烘焙、骑行\n性格慢热、独立、感性\n爱看小红书，爱玩乙游\n一墙散兵手办，时代少年团粉丝\n防失联请关注浪人新闻（极速版）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTTDE"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "秦悦乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062423474459598848/D20tYyXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28277,
+          "following_count": 369,
+          "like_count": 2665,
+          "listed_count": 82,
+          "media_count": 2137,
+          "tweet_count": 2667
+        },
+        "url": "https://t.co/CFxkcvTTDE",
+        "username": "QinYueLe",
+        "verified": false
+      }
+    ]
+  }
+}

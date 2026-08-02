@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2074169132879356023",
+    "created_at": "2026-07-07T09:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074421481904410978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1259913542704062465",
+          "start": 0,
+          "username": "ob1ZzWTZvnPzcM5"
+        },
+        {
+          "end": 31,
+          "id": "1819018368529121280",
+          "start": 17,
+          "username": "CHINAAComrade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074421481904410978",
+    "in_reply_to_user_id": "1259913542704062465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074356156215218455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ob1ZzWTZvnPzcM5 @CHINAAComrade 帅！涛哥！帅！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2074356153195315200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmX7lDaQAAVnDA.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2074169132879356023",
+        "created_at": "2026-07-07T09:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074421481904410978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1259913542704062465",
+              "start": 0,
+              "username": "ob1ZzWTZvnPzcM5"
+            },
+            {
+              "end": 31,
+              "id": "1819018368529121280",
+              "start": 17,
+              "username": "CHINAAComrade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074421481904410978",
+        "in_reply_to_user_id": "1259913542704062465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074356156215218455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ob1ZzWTZvnPzcM5 @CHINAAComrade 帅！涛哥！帅！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074356153195315200"
+          ]
+        },
+        "author_id": "1259913542704062465",
+        "conversation_id": "2074169132879356023",
+        "created_at": "2026-07-07T04:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074356156215218455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819018368529121280",
+              "start": 0,
+              "username": "CHINAAComrade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fth0MrpWQh",
+              "end": 38,
+              "expanded_url": "https://x.com/ob1ZzWTZvnPzcM5/status/2074356156215218455/photo/1",
+              "media_key": "3_2074356153195315200",
+              "start": 15,
+              "url": "https://t.co/Fth0MrpWQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074356156215218455",
+        "in_reply_to_user_id": "1819018368529121280",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074169132879356023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CHINAAComrade https://t.co/Fth0MrpWQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 880,
+          "like_count": 11883,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 3598
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-11T18:29:47.000Z",
+        "description": "Chue Jing Yang(Roblox ID)\n爱看马桶人的马来西亚舟批",
+        "id": "1259913542704062465",
+        "location": "Malaysia",
+        "name": "徐振扬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830442412399017984/hI4YPe9v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 29,
+          "like_count": 30342,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "ob1ZzWTZvnPzcM5",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T14:32:41.000Z",
+        "description": "Just a Chinese who loves his motherland. Communism will triumph!\n中國共產黨萬歲！\n世界人民大團結萬歲！\n打倒修正主義路線！",
+        "id": "1819018368529121280",
+        "location": "Zhejiang,China",
+        "name": "Chinese🇨🇳🇭🇰🇲🇴（NO🇹🇼）🇵🇸",
+        "pinned_tweet_id": "2068286964529586491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819213792779120640/HgejEFmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 486,
+          "like_count": 1935,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 2543
+        },
+        "url": "",
+        "username": "CHINAAComrade",
+        "verified": false
+      }
+    ]
+  }
+}

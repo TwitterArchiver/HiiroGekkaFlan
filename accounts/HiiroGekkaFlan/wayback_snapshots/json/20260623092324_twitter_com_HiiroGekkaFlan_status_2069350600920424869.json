@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2069326489116623339",
+    "created_at": "2026-06-23T09:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T10:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069350600920424869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1982839066120048640",
+          "start": 0,
+          "username": "nvdlaamdmag114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069350600920424869",
+    "in_reply_to_user_id": "1982839066120048640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069326489116623339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nvdlaamdmag114 美味い！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069326476072366080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLe5d1qasAAVg9z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2069326489116623339",
+        "created_at": "2026-06-23T09:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069350600920424869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1982839066120048640",
+              "start": 0,
+              "username": "nvdlaamdmag114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069350600920424869",
+        "in_reply_to_user_id": "1982839066120048640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069326489116623339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nvdlaamdmag114 美味い！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069326476072366080"
+          ]
+        },
+        "author_id": "1982839066120048640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069326489116623339",
+        "created_at": "2026-06-23T07:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069326489116623339"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "设计施贝指导今天吃什么"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8RwF8JdANW",
+              "end": 36,
+              "expanded_url": "https://x.com/nvdlaamdmag114/status/2069326489116623339/photo/1",
+              "media_key": "3_2069326476072366080",
+              "start": 13,
+              "url": "https://t.co/8RwF8JdANW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069326489116623339",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#设计施贝指导今天吃什么 https://t.co/8RwF8JdANW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 868,
+          "like_count": 10708,
+          "listed_count": 1,
+          "media_count": 361,
+          "tweet_count": 3297
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-27T15:57:38.000Z",
+        "description": "疯子/在哲学里寻找诗性的精神病患者/对内自治，对外专政/人道主义的西方马克思主义者？/ 自我认同极为混乱 /主人是@ouiwops喵/蓝v互关/小号 @daoyou8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 57,
+                "username": "ouiwops"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "daoyou8964"
+              }
+            ]
+          }
+        },
+        "id": "1982839066120048640",
+        "location": "名为意志和表象的符号界",
+        "name": "贝托尔德·康拉德·赫尔曼·阿尔伯特·设计施",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000859063031357440/HgG29lUb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 380,
+          "like_count": 3223,
+          "listed_count": 8,
+          "media_count": 420,
+          "tweet_count": 4482
+        },
+        "url": "",
+        "username": "nvdlaamdmag114",
+        "verified": true
+      }
+    ]
+  }
+}

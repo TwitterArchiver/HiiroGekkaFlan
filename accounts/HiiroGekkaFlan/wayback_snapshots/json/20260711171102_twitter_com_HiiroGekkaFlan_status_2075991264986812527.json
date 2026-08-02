@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2075783254968553625",
+    "created_at": "2026-07-11T17:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T18:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075991264986812527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1885557129588948992",
+          "start": 0,
+          "username": "85240609891_1st"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075991264986812527",
+    "in_reply_to_user_id": "1885557129588948992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075783254968553625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@85240609891_1st 毕竟也有相当一部分的既得利益者，什么阶级说什么话"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 418,
+        "media_key": "3_2075783224761171968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6p2E6awAA-Rtd.png",
+        "width": 747
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2075783254968553625",
+        "created_at": "2026-07-11T17:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075991264986812527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "85240609891_1st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075991264986812527",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075783254968553625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@85240609891_1st 毕竟也有相当一部分的既得利益者，什么阶级说什么话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075783224761171968"
+          ]
+        },
+        "author_id": "1885557129588948992",
+        "conversation_id": "2075783254968553625",
+        "created_at": "2026-07-11T03:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075783254968553625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N5Lw1XZnGA",
+              "end": 28,
+              "expanded_url": "https://x.com/85240609891_1st/status/2075783254968553625/photo/1",
+              "media_key": "3_2075783224761171968",
+              "start": 5,
+              "url": "https://t.co/N5Lw1XZnGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075783254968553625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兩極分化 https://t.co/N5Lw1XZnGA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 887,
+          "like_count": 12403,
+          "listed_count": 1,
+          "media_count": 428,
+          "tweet_count": 3716
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "民國派OK\n港英派OK\n最喜歡AWP\n反對威權主義\nHK仔\n自由資本主義 OK\n自由/民主社會主義 OK\n自由共產主義 OK\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼🇪🇺🇮🇱🇭🇰🎗️\n祈求民主與自由萬世都不朽\n我願榮光歸...\n一位邏輯學者\n活著必須革命 心高氣傲 哪裏去不到",
+        "id": "1885557129588948992",
+        "location": " Republic of China - Hong Kong",
+        "name": "🔫Arctic Warfare Police 北極戰警",
+        "pinned_tweet_id": "2075196163725344825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075029229423742976/d4GQ9rlE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2793,
+          "following_count": 7363,
+          "like_count": 18328,
+          "listed_count": 6,
+          "media_count": 924,
+          "tweet_count": 5308
+        },
+        "url": "",
+        "username": "85240609891_1st",
+        "verified": false
+      }
+    ]
+  }
+}

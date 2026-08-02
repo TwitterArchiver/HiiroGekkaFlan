@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2075553629382365287",
+    "created_at": "2026-07-20T05:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079079333873017019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1607983811618373633",
+          "start": 0,
+          "username": "wangye7723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079079333873017019",
+    "in_reply_to_user_id": "1607983811618373633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075553629382365287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangye7723 中肯的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 355,
+        "media_key": "3_2075553626777649154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3ZBtxbAAIpLsi.jpg",
+        "width": 538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2075553629382365287",
+        "created_at": "2026-07-20T05:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079079333873017019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1607983811618373633",
+              "start": 0,
+              "username": "wangye7723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079079333873017019",
+        "in_reply_to_user_id": "1607983811618373633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075553629382365287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangye7723 中肯的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075553626777649154"
+          ]
+        },
+        "author_id": "1607983811618373633",
+        "conversation_id": "2075553629382365287",
+        "created_at": "2026-07-10T12:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075553629382365287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Mwlewa81m",
+              "end": 161,
+              "expanded_url": "https://x.com/wangye7723/status/2075553629382365287/photo/1",
+              "media_key": "3_2075553626777649154",
+              "start": 138,
+              "url": "https://t.co/1Mwlewa81m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075553629382365287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 544,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么总有很多人，在反对共产主义之前，从来不去了解什么是共产主义，以及世界上是否有国家真的到过共产主义\n你说的那个，依靠道德的所谓“共产”，那叫平均主义，他是脱离社会生产力的一种存在，要求全员平均\n共产主义是什么呢？共的是生产资料，你的私有财产还是你的私有财产，那叫生活资料 https://t.co/1Mwlewa81m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 899,
+          "like_count": 13081,
+          "listed_count": 1,
+          "media_count": 460,
+          "tweet_count": 3925
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T06:16:39.000Z",
+        "description": "英特纳雄耐尔，就一定会实现",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com",
+                "end": 23,
+                "expanded_url": "https://www.github.com",
+                "start": 0,
+                "url": "https://t.co/PQ89XIpt0B"
+              }
+            ]
+          }
+        },
+        "id": "1607983811618373633",
+        "location": "幻想乡",
+        "name": "孙笑川☭",
+        "pinned_tweet_id": "2075553629382365287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078748999524499456/RgjPKm63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 52,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/PQ89XIpt0B",
+        "username": "wangye7723",
+        "verified": false
+      }
+    ]
+  }
+}

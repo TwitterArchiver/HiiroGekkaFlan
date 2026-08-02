@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2075303922873340074",
+    "created_at": "2026-07-10T13:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075572530300268890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994267688013873152",
+          "start": 0,
+          "username": "yu_luo30583"
+        },
+        {
+          "end": 29,
+          "id": "1835139537418567680",
+          "start": 13,
+          "username": "WellingtonPixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075572530300268890",
+    "in_reply_to_user_id": "1994267688013873152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075410320160665658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_luo30583 @WellingtonPixel 1957年前毛泽东做的基本正确\n老习的话，等后人再评价他吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2075410317136551936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1Wr_wa4AAh91G.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2075303922873340074",
+        "created_at": "2026-07-10T13:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075572530300268890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994267688013873152",
+              "start": 0,
+              "username": "yu_luo30583"
+            },
+            {
+              "end": 29,
+              "id": "1835139537418567680",
+              "start": 13,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075572530300268890",
+        "in_reply_to_user_id": "1994267688013873152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075410320160665658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_luo30583 @WellingtonPixel 1957年前毛泽东做的基本正确\n老习的话，等后人再评价他吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075410317136551936"
+          ]
+        },
+        "author_id": "1994267688013873152",
+        "conversation_id": "2075303922873340074",
+        "created_at": "2026-07-10T02:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075410320160665658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835139537418567680",
+              "start": 0,
+              "username": "WellingtonPixel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K577PkQ1EY",
+              "end": 40,
+              "expanded_url": "https://x.com/yu_luo30583/status/2075410320160665658/photo/1",
+              "media_key": "3_2075410317136551936",
+              "start": 17,
+              "url": "https://t.co/K577PkQ1EY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075410320160665658",
+        "in_reply_to_user_id": "1835139537418567680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1302,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075303922873340074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WellingtonPixel https://t.co/K577PkQ1EY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 882,
+          "like_count": 12271,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 3669
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T04:51:39.000Z",
+        "description": "明記64,新疆集中營事件,和22的白紙運動,還有那些在新冠時期討論一下政策就被人上報到公安就會被抓了,各種現象無所不在說明,他想當皇帝,想要的是一個封建主義的國家,害怕聽到真相害怕自己的政權崩潰",
+        "id": "1994267688013873152",
+        "name": "夜相思",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994753808698912768/eFt31REG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 36,
+          "like_count": 6408,
+          "listed_count": 0,
+          "media_count": 716,
+          "tweet_count": 2000
+        },
+        "url": "",
+        "username": "yu_luo30583",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "We're soul alone and soul faceless.\n❤️‍🔥@AbsolutelyWP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "AbsolutelyWP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TheRtHonWP",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TheRtHonWP",
+                "start": 0,
+                "url": "https://t.co/D6JVLpj8Fx"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Den Haag, Nederland",
+        "name": "𝑾𝒆𝒍𝒍𝒊𝒏𝒈𝒕𝒐𝒏等日落",
+        "pinned_tweet_id": "2074900235185246502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070119866296619008/2wrMAa5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2621,
+          "following_count": 2957,
+          "like_count": 22529,
+          "listed_count": 3,
+          "media_count": 462,
+          "tweet_count": 5020
+        },
+        "url": "https://t.co/D6JVLpj8Fx",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

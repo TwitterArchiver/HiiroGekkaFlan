@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "2074553070311309327",
+    "created_at": "2026-07-07T17:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074553070311309327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GiFShitpost/st…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/GiFShitpost/status/2074280330018832534",
+          "start": 34,
+          "url": "https://t.co/M5KFNzdWVD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074553070311309327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074280330018832534",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这不是我们Arcaea的「Kou(红)」角色吗，下次记得给个标注😡 https://t.co/M5KFNzdWVD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 532,
+        "media_key": "16_2073616250710728704",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMb2_lgXIAAw0nv.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMb2_lgXIAAw0nv.mp4"
+          }
+        ],
+        "width": 520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2074553070311309327",
+        "created_at": "2026-07-07T17:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074553070311309327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GiFShitpost/st…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/GiFShitpost/status/2074280330018832534",
+              "start": 34,
+              "url": "https://t.co/M5KFNzdWVD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074553070311309327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074280330018832534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这不是我们Arcaea的「Kou(红)」角色吗，下次记得给个标注😡 https://t.co/M5KFNzdWVD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2073616250710728704"
+          ],
+          "media_source_tweet_id": [
+            "2073616257895571717"
+          ]
+        },
+        "author_id": "303939260",
+        "conversation_id": "2074280330018832534",
+        "created_at": "2026-07-06T23:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T00:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074280330018832534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LtCEG0hy0d",
+              "end": 23,
+              "expanded_url": "https://x.com/diddyeatspoop/status/2073616257895571717/photo/1",
+              "media_key": "16_2073616250710728704",
+              "start": 0,
+              "url": "https://t.co/LtCEG0hy0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074280330018832534",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23676,
+          "impression_count": 3310968,
+          "like_count": 81623,
+          "quote_count": 262,
+          "reply_count": 281,
+          "retweet_count": 2919
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LtCEG0hy0d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 879,
+          "like_count": 11999,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 3625
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T17:28:22.000Z",
+        "description": "Everything cursed in GIF form. Meme history & unhinged shitposting 🤠|| Sometimes videos. Nothing owned by me || Runs by @7490 ~ Sponsored by @Roobet @Clipster",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 120,
+                "username": "7490"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "Roobet"
+              },
+              {
+                "end": 158,
+                "start": 149,
+                "username": "Clipster"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gifshitpost?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/gifshitpost?igsh=ZTNmNzF4Z3NtbXVr&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/S1gUv46S9V"
+              }
+            ]
+          }
+        },
+        "id": "303939260",
+        "location": "click that follow button",
+        "name": "GIFs Shitpost ⚡️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2190238327/cbx-jogo__93__normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135699,
+          "following_count": 1174,
+          "like_count": 18935,
+          "listed_count": 162,
+          "media_count": 9814,
+          "tweet_count": 12589
+        },
+        "url": "https://t.co/S1gUv46S9V",
+        "username": "GiFShitpost",
+        "verified": true
+      }
+    ]
+  }
+}

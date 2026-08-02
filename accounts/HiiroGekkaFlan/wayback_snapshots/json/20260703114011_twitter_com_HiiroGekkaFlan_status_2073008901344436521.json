@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2072749711682060593",
+    "created_at": "2026-07-03T11:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T12:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073008901344436521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1579690102934192129",
+          "start": 0,
+          "username": "easonwong81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073008901344436521",
+    "in_reply_to_user_id": "1579690102934192129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072958031516876867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@easonwong81 稳定大于一切嘛，中国不能容忍又一个动乱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2072749711682060593",
+        "created_at": "2026-07-03T11:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073008901344436521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1579690102934192129",
+              "start": 0,
+              "username": "easonwong81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073008901344436521",
+        "in_reply_to_user_id": "1579690102934192129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072958031516876867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@easonwong81 稳定大于一切嘛，中国不能容忍又一个动乱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579690102934192129",
+        "conversation_id": "2072749711682060593",
+        "created_at": "2026-07-03T08:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072958031516876867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072958031516876867",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 454,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072749711682060593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 开火还是开少了，换我直接扫射殖巴畜一个不留"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 872,
+          "like_count": 11477,
+          "listed_count": 1,
+          "media_count": 392,
+          "tweet_count": 3529
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-11T04:27:47.000Z",
+        "description": "You block me because you know I am right. 🥴👌",
+        "id": "1579690102934192129",
+        "name": "Eason Wong",
+        "pinned_tweet_id": "1999864675119575107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959524127720812544/GcaRy2hV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 98,
+          "like_count": 563,
+          "listed_count": 6,
+          "media_count": 1404,
+          "tweet_count": 8650
+        },
+        "url": "",
+        "username": "easonwong81",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2078193213425295624",
+    "created_at": "2026-07-18T05:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T06:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078351936722444435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1978352432301387776",
+          "start": 0,
+          "username": "zhngjing322708"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078351936722444435",
+    "in_reply_to_user_id": "1978352432301387776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078193213425295624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngjing322708 怎么办，只有杀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2078193149407633409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNc5qJ0XoAEd0Pw.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078193213425295624",
+        "created_at": "2026-07-18T05:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078351936722444435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1978352432301387776",
+              "start": 0,
+              "username": "zhngjing322708"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078351936722444435",
+        "in_reply_to_user_id": "1978352432301387776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078193213425295624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngjing322708 怎么办，只有杀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078193149407633409"
+          ]
+        },
+        "author_id": "1978352432301387776",
+        "conversation_id": "2078193213425295624",
+        "created_at": "2026-07-17T19:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078193213425295624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qziyn463297/st…",
+              "end": 30,
+              "expanded_url": "https://x.com/qziyn463297/status/2077533822489678324?s=20",
+              "start": 7,
+              "url": "https://t.co/0t2XujE6n0"
+            },
+            {
+              "display_url": "pic.x.com/moi7Bd0CZG",
+              "end": 54,
+              "expanded_url": "https://x.com/zhngjing322708/status/2078193213425295624/photo/1",
+              "media_key": "3_2078193149407633409",
+              "start": 31,
+              "url": "https://t.co/moi7Bd0CZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078193213425295624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 483,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077533822489678324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蝻拳不圖能行嗎https://t.co/0t2XujE6n0 https://t.co/moi7Bd0CZG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077841548738437120/PYSB99eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 894,
+          "like_count": 12799,
+          "listed_count": 1,
+          "media_count": 449,
+          "tweet_count": 3831
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T06:49:29.000Z",
+        "description": "原名：征醬|自由若沒有社會主義，就是特權與不公；社會主義若沒有自由，就是奴役與野蠻.中國新左派|左翼|自由意志社會主義|盧森堡主義|馬克思主義女性主義|Liberté· Égalité· Fraternité🇫🇷|小王夢女、順女|妹妹@qtbrmdh19120101",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 117,
+                "username": "qtbrmdh19120101"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/RrkdtxiAJh"
+              }
+            ]
+          }
+        },
+        "id": "1978352432301387776",
+        "location": "東巴黎公社",
+        "name": "Logik☭❂🇹🇼🇨🇳🇨🇵🇩🇪",
+        "pinned_tweet_id": "2077325800597303299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063929817842769920/FdvXyXT5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 304,
+          "like_count": 13292,
+          "listed_count": 4,
+          "media_count": 1574,
+          "tweet_count": 5173
+        },
+        "url": "https://t.co/RrkdtxiAJh",
+        "username": "zhngjing322708",
+        "verified": false
+      }
+    ]
+  }
+}

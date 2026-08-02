@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2082092631358869792",
+    "created_at": "2026-07-28T13:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082092631358869792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mengxin66666/s…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/mengxin66666/status/2068564952697430381",
+          "start": 27,
+          "url": "https://t.co/bfv83K5YOL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082092631358869792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068564952697430381",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "听说超天酱推特有号我就翻墙看了，之后一发不可收拾了（ https://t.co/bfv83K5YOL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1122,
+        "media_key": "3_2068564948859719680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUE3HubkAAQcNv.jpg",
+        "width": 1402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2082092631358869792",
+        "created_at": "2026-07-28T13:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082092631358869792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengxin66666/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/mengxin66666/status/2068564952697430381",
+              "start": 27,
+              "url": "https://t.co/bfv83K5YOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082092631358869792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068564952697430381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "听说超天酱推特有号我就翻墙看了，之后一发不可收拾了（ https://t.co/bfv83K5YOL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068564948859719680"
+          ]
+        },
+        "author_id": "1910893768498438146",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2068564952697430381",
+        "created_at": "2026-06-21T05:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068564952697430381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k4o2IA2Fn9",
+              "end": 76,
+              "expanded_url": "https://x.com/mengxin66666/status/2068564952697430381/photo/1",
+              "media_key": "3_2068564948859719680",
+              "start": 53,
+              "url": "https://t.co/k4o2IA2Fn9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068564952697430381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 21878,
+          "like_count": 127,
+          "quote_count": 4,
+          "reply_count": 85,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3年前我第一次来到外网\n那时我还不知道什么是Google😭\n\n你们是否还记得曾经自己\n是怎样来到外网的? https://t.co/k4o2IA2Fn9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 901,
+          "like_count": 13708,
+          "listed_count": 2,
+          "media_count": 474,
+          "tweet_count": 4073
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T03:12:45.000Z",
+        "description": "男\n科技时政💻\n娱乐抽象休闲聊天📱\n写代码但很懒🖥️\n自由职业者🗺️\n提倡和平(互联网也一样)🌐\n有空会回复或互动任何人，如果有一段时\n间比较忙碌，会抽空回复的📱\n声明我没用自动化脚本和机器人回复😅",
+        "id": "1910893768498438146",
+        "location": "Hong Kong",
+        "name": "萌新_mengxin",
+        "pinned_tweet_id": "2076538635759882660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072015920420249600/1oZ6rrmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 324,
+          "like_count": 18315,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 2405
+        },
+        "url": "",
+        "username": "mengxin66666",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2069072327137284537",
+    "created_at": "2026-06-23T07:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069322524966707370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1822267498323951616",
+          "start": 0,
+          "username": "AaaMlmul17285"
+        },
+        {
+          "end": 22,
+          "id": "1791222449192787968",
+          "start": 15,
+          "username": "v2jom_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069322524966707370",
+    "in_reply_to_user_id": "1822267498323951616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069320327184912625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AaaMlmul17285 @v2jom_ 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2069072327137284537",
+        "created_at": "2026-06-23T07:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069322524966707370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1822267498323951616",
+              "start": 0,
+              "username": "AaaMlmul17285"
+            },
+            {
+              "end": 22,
+              "id": "1791222449192787968",
+              "start": 15,
+              "username": "v2jom_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069322524966707370",
+        "in_reply_to_user_id": "1822267498323951616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069320327184912625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AaaMlmul17285 @v2jom_ 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822267498323951616",
+        "conversation_id": "2069072327137284537",
+        "created_at": "2026-06-23T07:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069320327184912625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            },
+            {
+              "end": 23,
+              "id": "1791222449192787968",
+              "start": 16,
+              "username": "v2jom_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069320327184912625",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069109206578512376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan @v2jom_ 头像是芙兰吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 868,
+          "like_count": 10656,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 3289
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T13:43:40.000Z",
+        "description": "",
+        "id": "1822267498323951616",
+        "name": "二つの世界",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023334849990512640/Hz3XQ9Px_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "AaaMlmul17285",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T21:41:43.000Z",
+        "description": "💃@s_0914_o_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "s_0914_o_0"
+              }
+            ]
+          }
+        },
+        "id": "1791222449192787968",
+        "location": "自殺配信",
+        "name": "ななせ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067700918955773952/LxWMTOIC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 53,
+          "like_count": 24140,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2157
+        },
+        "url": "",
+        "username": "v2jom_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2078631879184626118",
+    "created_at": "2026-07-19T07:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T08:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078739279757652328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2037575598730584064",
+          "start": 0,
+          "username": "SerenAzuma_HK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078739279757652328",
+    "in_reply_to_user_id": "2037575598730584064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078631879184626118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SerenAzuma_HK 逊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078631879184626118",
+        "created_at": "2026-07-19T07:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078739279757652328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2037575598730584064",
+              "start": 0,
+              "username": "SerenAzuma_HK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078739279757652328",
+        "in_reply_to_user_id": "2037575598730584064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078631879184626118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SerenAzuma_HK 逊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037575598730584064",
+        "conversation_id": "2078631879184626118",
+        "created_at": "2026-07-19T00:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078631879184626118"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078631879184626118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1056,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一下四发给我整得好晕😵‍💫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077841548738437120/PYSB99eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 897,
+          "like_count": 12978,
+          "listed_count": 1,
+          "media_count": 453,
+          "tweet_count": 3878
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T17:01:04.000Z",
+        "description": "这里是键政嘉豪的安人☭🟥⬛️第二人格\n本质抽象恶俗下头男，，，",
+        "id": "2037575598730584064",
+        "name": "東洋蓮花酥🚩🏴🌹反🐜🐉紧急状态",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054195788482506752/IvaYamSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 412,
+          "like_count": 13004,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 892
+        },
+        "url": "",
+        "username": "SerenAzuma_HK",
+        "verified": false
+      }
+    ]
+  }
+}

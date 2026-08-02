@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2079218457942626557",
+    "created_at": "2026-07-20T15:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079220494566637721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2025975880330469376",
+          "start": 0,
+          "username": "Caeserline1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079220494566637721",
+    "in_reply_to_user_id": "2025975880330469376",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079220313645293901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Caeserline1024 😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2079218457942626557",
+        "created_at": "2026-07-20T15:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079220494566637721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2025975880330469376",
+              "start": 0,
+              "username": "Caeserline1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079220494566637721",
+        "in_reply_to_user_id": "2025975880330469376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079220313645293901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Caeserline1024 😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025975880330469376",
+        "conversation_id": "2079218457942626557",
+        "created_at": "2026-07-20T15:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079220313645293901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079220313645293901",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079218457942626557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 逻辑上并不是只要说出“我喜欢你”就能得到“我也喜欢你”的回应的，但是既然这么说了，我想大部分人会给出“我也喜欢你”的回应。但是考虑到我们可能并不了解彼此，所以，对此最好的回应是“我不讨厌你。”所以，我不讨厌你。awa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 902,
+          "like_count": 13312,
+          "listed_count": 2,
+          "media_count": 462,
+          "tweet_count": 3992
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T16:48:09.000Z",
+        "description": "想要！考试高分！交到朋友！考到想去的大学去学医！可以学自己想学的所有东西！",
+        "id": "2025975880330469376",
+        "location": "中国大陆",
+        "name": "Caeser45.144",
+        "pinned_tweet_id": "2077418417167200754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067980291105529856/24QC2EYA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 160,
+          "like_count": 1295,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "Caeserline1024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071322313057046528"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "conversation_id": "2071249118136238568",
+    "created_at": "2026-06-28T19:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071322323295051953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863439189909618688",
+          "start": 0,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FUzRGcCklA",
+          "end": 34,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2071322323295051953/photo/1",
+          "media_key": "3_2071322313057046528",
+          "start": 11,
+          "url": "https://t.co/FUzRGcCklA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071322323295051953",
+    "in_reply_to_user_id": "1863439189909618688",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071249118136238568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086xe https://t.co/FUzRGcCklA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2071322313057046528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7Qq10bEAANddr.jpg",
+        "width": 827
+      },
+      {
+        "height": 758,
+        "media_key": "3_2071249058589782016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6OC3qbMAA9qOI.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071322313057046528"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2071249118136238568",
+        "created_at": "2026-06-28T19:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071322323295051953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FUzRGcCklA",
+              "end": 34,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2071322323295051953/photo/1",
+              "media_key": "3_2071322313057046528",
+              "start": 11,
+              "url": "https://t.co/FUzRGcCklA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071322323295051953",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071249118136238568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe https://t.co/FUzRGcCklA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071249058589782016"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2071249118136238568",
+        "created_at": "2026-06-28T15:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071249118136238568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdRTzmsdqT",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2071249118136238568/photo/1",
+              "media_key": "3_2071249058589782016",
+              "start": 0,
+              "url": "https://t.co/CdRTzmsdqT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071249118136238568",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 791,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CdRTzmsdqT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 871,
+          "like_count": 11154,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 3445
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36632,
+          "following_count": 371,
+          "like_count": 229,
+          "listed_count": 110,
+          "media_count": 16606,
+          "tweet_count": 16690
+        },
+        "url": "",
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

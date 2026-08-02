@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082898227326836736"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "conversation_id": "2082898239402147993",
+    "created_at": "2026-07-30T18:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T19:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082898239402147993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g2zYoDwIUT",
+          "end": 36,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2082898239402147993/photo/1",
+          "media_key": "3_2082898227326836736",
+          "start": 13,
+          "url": "https://t.co/g2zYoDwIUT"
+        },
+        {
+          "display_url": "x.com/hasaki_sama/st…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/hasaki_sama/status/2082835522922365334",
+          "start": 37,
+          "url": "https://t.co/x2fbEAkH7D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082898239402147993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082835522922365334",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要碰虚拟币，会变得不幸 https://t.co/g2zYoDwIUT https://t.co/x2fbEAkH7D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2082898227326836736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfw5u8bYAAMAgp.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1129,
+        "media_key": "3_2082835516211462144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOe33d1aAAAtnGb.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082898227326836736"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2082898239402147993",
+        "created_at": "2026-07-30T18:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082898239402147993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g2zYoDwIUT",
+              "end": 36,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2082898239402147993/photo/1",
+              "media_key": "3_2082898227326836736",
+              "start": 13,
+              "url": "https://t.co/g2zYoDwIUT"
+            },
+            {
+              "display_url": "x.com/hasaki_sama/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/hasaki_sama/status/2082835522922365334",
+              "start": 37,
+              "url": "https://t.co/x2fbEAkH7D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082898239402147993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082835522922365334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要碰虚拟币，会变得不幸 https://t.co/g2zYoDwIUT https://t.co/x2fbEAkH7D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082835516211462144"
+          ]
+        },
+        "author_id": "2049152504542449664",
+        "conversation_id": "2082835522922365334",
+        "created_at": "2026-07-30T14:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082835522922365334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HuxrJK1udV",
+              "end": 33,
+              "expanded_url": "https://x.com/hasaki_sama/status/2082835522922365334/photo/1",
+              "media_key": "3_2082835516211462144",
+              "start": 10,
+              "url": "https://t.co/HuxrJK1udV"
+            },
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/smiroyama/status/2082706476364431848",
+              "start": 34,
+              "url": "https://t.co/XOig56QDLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082835522922365334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1269,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082706476364431848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起喵……qwq https://t.co/HuxrJK1udV https://t.co/XOig56QDLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 901,
+          "like_count": 13735,
+          "listed_count": 2,
+          "media_count": 480,
+          "tweet_count": 4089
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T15:48:05.000Z",
+        "description": "An graduated junior high student from China！＞𐋣＜\n爱好 AI科技/信息技术/日本語/ACG/羽球🏸\nLGBTQ+🏳️‍🌈/友跨🍥/键政🆖\n目前正励志成一名合格的developer💻\n找咱聊天/扩列➕hasaki.0612@gmail.com 💬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasaki_0612",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hasaki_0612",
+                "start": 0,
+                "url": "https://t.co/8Ei14tUSsi"
+              }
+            ]
+          }
+        },
+        "id": "2049152504542449664",
+        "location": "Sapporo City Higashi Ward",
+        "name": "Neko 🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075040561237753856/aiPH-t8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 812,
+          "like_count": 3452,
+          "listed_count": 1,
+          "media_count": 328,
+          "tweet_count": 2164
+        },
+        "url": "https://t.co/8Ei14tUSsi",
+        "username": "hasaki_sama",
+        "verified": true
+      }
+    ]
+  }
+}

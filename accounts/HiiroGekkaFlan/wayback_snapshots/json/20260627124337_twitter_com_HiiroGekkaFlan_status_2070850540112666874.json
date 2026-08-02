@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2070550419437470177",
+    "created_at": "2026-06-27T12:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070850540112666874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1785246740456554496",
+          "start": 0,
+          "username": "natchlorid"
+        },
+        {
+          "end": 27,
+          "id": "2061495112694476800",
+          "start": 12,
+          "username": "FrenchFrie88xd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070850540112666874",
+    "in_reply_to_user_id": "1785246740456554496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070768009258414315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@natchlorid @FrenchFrie88xd 因为这是我的义务"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2070550419437470177",
+        "created_at": "2026-06-27T12:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070850540112666874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1785246740456554496",
+              "start": 0,
+              "username": "natchlorid"
+            },
+            {
+              "end": 27,
+              "id": "2061495112694476800",
+              "start": 12,
+              "username": "FrenchFrie88xd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070850540112666874",
+        "in_reply_to_user_id": "1785246740456554496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070768009258414315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@natchlorid @FrenchFrie88xd 因为这是我的义务"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785246740456554496",
+        "conversation_id": "2070550419437470177",
+        "created_at": "2026-06-27T07:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070768009258414315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            },
+            {
+              "end": 31,
+              "id": "2061495112694476800",
+              "start": 16,
+              "username": "FrenchFrie88xd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070768009258414315",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 636,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070550419437470177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan @FrenchFrie88xd 跟串子号一般见识干嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 871,
+          "like_count": 11099,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 3437
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T09:56:23.000Z",
+        "description": "",
+        "id": "1785246740456554496",
+        "name": "Natriumchlorid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799793756293525504/TPZBvDLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 43,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 379
+        },
+        "url": "",
+        "username": "natchlorid",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T17:10:53.000Z",
+        "description": "闪闪红星今犹在 不见当年红军还",
+        "id": "2061495112694476800",
+        "location": "长征第一渡",
+        "name": "French Fries Communist Party",
+        "pinned_tweet_id": "2068223649598066756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061496048116441088/qKr1IPw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 757,
+          "like_count": 3151,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 661
+        },
+        "url": "",
+        "username": "FrenchFrie88xd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074840994537943040"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074547379227828241",
+    "created_at": "2026-07-08T13:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074841003538989458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2055430038183632896",
+          "start": 0,
+          "username": "qlnber999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PnmRyw0cU9",
+          "end": 58,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2074841003538989458/photo/1",
+          "media_key": "3_2074840994537943040",
+          "start": 35,
+          "url": "https://t.co/PnmRyw0cU9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074841003538989458",
+    "in_reply_to_user_id": "2055430038183632896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074547379227828241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qlnber999 我大号早就成棍母号了（）\n交友什么的还是太难了 https://t.co/PnmRyw0cU9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074840994537943040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtQ5DzaMAAixA_.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074547363406848000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpF1emWoAAlgL-.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074840994537943040"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074547379227828241",
+        "created_at": "2026-07-08T13:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074841003538989458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2055430038183632896",
+              "start": 0,
+              "username": "qlnber999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PnmRyw0cU9",
+              "end": 58,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2074841003538989458/photo/1",
+              "media_key": "3_2074840994537943040",
+              "start": 35,
+              "url": "https://t.co/PnmRyw0cU9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074841003538989458",
+        "in_reply_to_user_id": "2055430038183632896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074547379227828241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qlnber999 我大号早就成棍母号了（）\n交友什么的还是太难了 https://t.co/PnmRyw0cU9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074547363406848000"
+          ]
+        },
+        "author_id": "2055430038183632896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074547379227828241",
+        "created_at": "2026-07-07T17:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074547379227828241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mzj2Z1JhTy",
+              "end": 29,
+              "expanded_url": "https://x.com/qlnber999/status/2074547379227828241/photo/1",
+              "media_key": "3_2074547363406848000",
+              "start": 6,
+              "url": "https://t.co/mzj2Z1JhTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074547379227828241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "删掉所有人 https://t.co/mzj2Z1JhTy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 882,
+          "like_count": 12101,
+          "listed_count": 1,
+          "media_count": 412,
+          "tweet_count": 3630
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T23:28:22.000Z",
+        "description": "不吸烟/不喝酒/并非跨性别主义者/不吸毒/\n精神状态糟糕/抑郁症\n单推琪露诺\n关系较好的推友:\n@neko0523_1\n现实好友:\n@Justwalkedby",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "neko0523_1"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Justwalkedby"
+              }
+            ]
+          }
+        },
+        "id": "2055430038183632896",
+        "name": "英格林派教宗琪露诺（）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055469929621778432/QE9w5G2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 58,
+          "like_count": 1168,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1418
+        },
+        "url": "",
+        "username": "qlnber999",
+        "verified": false
+      }
+    ]
+  }
+}

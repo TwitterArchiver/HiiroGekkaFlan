@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2069833937799815358",
+    "created_at": "2026-07-04T05:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073274450095812847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2061837040837328896",
+          "start": 0,
+          "username": "Liyuugw9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073274450095812847",
+    "in_reply_to_user_id": "2061837040837328896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069833937799815358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liyuugw9 玩战争雷霆会得赛博PTSD吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 606,
+        "media_key": "3_2069833931222863872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmG_naW0AAo_C0.jpg",
+        "width": 605
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2069833937799815358",
+        "created_at": "2026-07-04T05:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073274450095812847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2061837040837328896",
+              "start": 0,
+              "username": "Liyuugw9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073274450095812847",
+        "in_reply_to_user_id": "2061837040837328896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069833937799815358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liyuugw9 玩战争雷霆会得赛博PTSD吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069833931222863872"
+          ]
+        },
+        "author_id": "2061837040837328896",
+        "conversation_id": "2069833937799815358",
+        "created_at": "2026-06-24T17:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069833937799815358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/btP3Jawdh8",
+              "end": 45,
+              "expanded_url": "https://x.com/Liyuugw9/status/2069833937799815358/photo/1",
+              "media_key": "3_2069833931222863872",
+              "start": 22,
+              "url": "https://t.co/btP3Jawdh8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069833937799815358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这算不算一种：金 戈 铁 马 入 梦 来？ https://t.co/btP3Jawdh8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 872,
+          "like_count": 11530,
+          "listed_count": 1,
+          "media_count": 395,
+          "tweet_count": 3545
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T15:48:05.000Z",
+        "description": "驚天一條區",
+        "id": "2061837040837328896",
+        "name": "蘇斯洛夫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061837474004185088/__-U-cVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 36,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "Liyuugw9",
+        "verified": false
+      }
+    ]
+  }
+}

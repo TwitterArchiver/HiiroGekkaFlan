@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2069127116378210489",
+    "created_at": "2026-06-22T19:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T20:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069136227337633897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1871217786070114304",
+          "start": 0,
+          "username": "514komejikoishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069136227337633897",
+    "in_reply_to_user_id": "1871217786070114304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069127116378210489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@514komejikoishi 悲"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2069127116378210489].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2069127116378210489",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2069127116378210489"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2069127116378210489",
+        "created_at": "2026-06-22T19:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T20:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069136227337633897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1871217786070114304",
+              "start": 0,
+              "username": "514komejikoishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069136227337633897",
+        "in_reply_to_user_id": "1871217786070114304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069127116378210489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@514komejikoishi 悲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 869,
+          "like_count": 10562,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 3261
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T15:34:58.000Z",
+        "description": "hello world",
+        "id": "1871217786070114304",
+        "name": "kawaii",
+        "pinned_tweet_id": "1883734921367445596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052891615614906368/ZH1H6wzi_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 44,
+          "like_count": 2261,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "514komejikoishi",
+        "verified": false
+      }
+    ]
+  }
+}

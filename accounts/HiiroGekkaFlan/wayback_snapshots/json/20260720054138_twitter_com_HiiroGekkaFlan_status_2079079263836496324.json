@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2078476180978814996",
+    "created_at": "2026-07-20T05:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079079263836496324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1607983811618373633",
+          "start": 0,
+          "username": "wangye7723"
+        },
+        {
+          "end": 26,
+          "id": "2066805286015569920",
+          "start": 12,
+          "username": "Cybersheep168"
+        },
+        {
+          "end": 38,
+          "id": "1844521633358413824",
+          "start": 27,
+          "username": "qtin421507"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079079263836496324",
+    "in_reply_to_user_id": "1607983811618373633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078737287014486161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangye7723 @Cybersheep168 @qtin421507 绷不住了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078476180978814996",
+        "created_at": "2026-07-20T05:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079079263836496324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1607983811618373633",
+              "start": 0,
+              "username": "wangye7723"
+            },
+            {
+              "end": 26,
+              "id": "2066805286015569920",
+              "start": 12,
+              "username": "Cybersheep168"
+            },
+            {
+              "end": 38,
+              "id": "1844521633358413824",
+              "start": 27,
+              "username": "qtin421507"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079079263836496324",
+        "in_reply_to_user_id": "1607983811618373633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078737287014486161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangye7723 @Cybersheep168 @qtin421507 绷不住了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607983811618373633",
+        "conversation_id": "2078476180978814996",
+        "created_at": "2026-07-19T07:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078737287014486161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066805286015569920",
+              "start": 0,
+              "username": "Cybersheep168"
+            },
+            {
+              "end": 26,
+              "id": "1844521633358413824",
+              "start": 15,
+              "username": "qtin421507"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078737287014486161",
+        "in_reply_to_user_id": "2066805286015569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078685928491802905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cybersheep168 @qtin421507 早年改良主义的时候的的事都能给扒出来当真，怎么不给裕仁天皇小时候尿床也发出来呢😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 899,
+          "like_count": 13080,
+          "listed_count": 1,
+          "media_count": 460,
+          "tweet_count": 3924
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T06:16:39.000Z",
+        "description": "英特纳雄耐尔，就一定会实现",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com",
+                "end": 23,
+                "expanded_url": "https://www.github.com",
+                "start": 0,
+                "url": "https://t.co/PQ89XIpt0B"
+              }
+            ]
+          }
+        },
+        "id": "1607983811618373633",
+        "location": "幻想乡",
+        "name": "孙笑川☭",
+        "pinned_tweet_id": "2075553629382365287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078748999524499456/RgjPKm63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 52,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/PQ89XIpt0B",
+        "username": "wangye7723",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T08:51:41.000Z",
+        "description": "",
+        "id": "2066805286015569920",
+        "location": "臺灣國高雄市",
+        "name": "Joseph Hsu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069157618078351360/ZDdUmmNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 132,
+          "like_count": 1780,
+          "listed_count": 4,
+          "media_count": 783,
+          "tweet_count": 832
+        },
+        "url": "",
+        "username": "Cybersheep168",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T23:33:52.000Z",
+        "description": "中华联邦共和国  · 中国自由民主党",
+        "id": "1844521633358413824",
+        "location": "Los Angeles, CA",
+        "name": "齐天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966209706009247744/Qu5EVBr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 4371,
+          "like_count": 14328,
+          "listed_count": 6,
+          "media_count": 3175,
+          "tweet_count": 8160
+        },
+        "url": "",
+        "username": "qtin421507",
+        "verified": false
+      }
+    ]
+  }
+}

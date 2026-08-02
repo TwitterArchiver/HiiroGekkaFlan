@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2074210668333646080",
+    "created_at": "2026-07-07T07:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074389412436476408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009174908581134336",
+          "start": 0,
+          "username": "cswxiaowei6302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074389412436476408",
+    "in_reply_to_user_id": "2009174908581134336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074210668333646080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cswxiaowei6302 统计学魅力时刻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2074210659760504832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkTmvxagAA_FcK.png",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2074210668333646080",
+        "created_at": "2026-07-07T07:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074389412436476408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009174908581134336",
+              "start": 0,
+              "username": "cswxiaowei6302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074389412436476408",
+        "in_reply_to_user_id": "2009174908581134336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074210668333646080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cswxiaowei6302 统计学魅力时刻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074210659760504832"
+          ]
+        },
+        "author_id": "2009174908581134336",
+        "conversation_id": "2074210668333646080",
+        "created_at": "2026-07-06T19:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074210668333646080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8yxRQz2GOg",
+              "end": 70,
+              "expanded_url": "https://x.com/cswxiaowei6302/status/2074210668333646080/photo/1",
+              "media_key": "3_2074210659760504832",
+              "start": 47,
+              "url": "https://t.co/8yxRQz2GOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074210668333646080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我宣布目田计数法已经low爆\n接下来登场的是腊左计数法，直接盘活一个亿，繁茂贼你们畏惧了吗😋 https://t.co/8yxRQz2GOg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 880,
+          "like_count": 11868,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 3593
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T08:06:56.000Z",
+        "description": "KAITO一生推，不离不弃🧊🍦",
+        "id": "2009174908581134336",
+        "name": "Wei",
+        "pinned_tweet_id": "2070183405187461393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073680933233045504/zbQEjB24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 218,
+          "like_count": 9689,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 821
+        },
+        "url": "",
+        "username": "cswxiaowei6302",
+        "verified": false
+      }
+    ]
+  }
+}

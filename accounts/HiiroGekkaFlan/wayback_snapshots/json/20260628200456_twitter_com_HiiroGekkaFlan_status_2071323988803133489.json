@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2070869764759785936",
+    "created_at": "2026-06-28T20:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T21:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071323988803133489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2005250074356707329",
+          "start": 0,
+          "username": "nick36061"
+        },
+        {
+          "end": 27,
+          "id": "1418148608818384900",
+          "start": 11,
+          "username": "Aleksey53999520"
+        },
+        {
+          "end": 43,
+          "id": "1260553941714186241",
+          "start": 28,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071323988803133489",
+    "in_reply_to_user_id": "2005250074356707329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071013067651940664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nick36061 @Aleksey53999520 @whyyoutouzhele 你彰显了你没有素质这一特点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2070869764759785936",
+        "created_at": "2026-06-28T20:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071323988803133489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2005250074356707329",
+              "start": 0,
+              "username": "nick36061"
+            },
+            {
+              "end": 27,
+              "id": "1418148608818384900",
+              "start": 11,
+              "username": "Aleksey53999520"
+            },
+            {
+              "end": 43,
+              "id": "1260553941714186241",
+              "start": 28,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071323988803133489",
+        "in_reply_to_user_id": "2005250074356707329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071013067651940664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nick36061 @Aleksey53999520 @whyyoutouzhele 你彰显了你没有素质这一特点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005250074356707329",
+        "conversation_id": "2070869764759785936",
+        "created_at": "2026-06-27T23:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T00:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071013067651940664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1418148608818384900",
+              "start": 0,
+              "username": "Aleksey53999520"
+            },
+            {
+              "end": 32,
+              "id": "1260553941714186241",
+              "start": 17,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071013067651940664",
+        "in_reply_to_user_id": "1418148608818384900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1652,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070876652499038233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aleksey53999520 @whyyoutouzhele 🤣你不觉得你跟风说这句话很蠢吗 你父母难道是因为做了一次就伟大吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 871,
+          "like_count": 11157,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 3445
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T12:11:02.000Z",
+        "description": "",
+        "id": "2005250074356707329",
+        "name": "Nick MJ young",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024043106807717888/NWLbs60Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 159,
+          "like_count": 2744,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1629
+        },
+        "url": "",
+        "username": "nick36061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-22T09:59:19.000Z",
+        "description": "",
+        "id": "1418148608818384900",
+        "name": "7a7t7i",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013169943177555968/dDD6p0Nw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 45,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "Aleksey53999520",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241807,
+          "following_count": 1072,
+          "like_count": 9760,
+          "listed_count": 8803,
+          "media_count": 49439,
+          "tweet_count": 56620
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

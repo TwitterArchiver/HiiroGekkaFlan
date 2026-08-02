@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2071254918099317238",
+    "created_at": "2026-06-28T20:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T21:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071327429709230276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050618264665886720",
+          "start": 0,
+          "username": "ming_li8875"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071327429709230276",
+    "in_reply_to_user_id": "2050618264665886720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071302907186602119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ming_li8875 前半生夯，后半生拉爆了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 518,
+        "media_key": "3_2071302904330305536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6_BGrXwAAWx2X.jpg",
+        "width": 386
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2071254918099317238",
+        "created_at": "2026-06-28T20:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071327429709230276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050618264665886720",
+              "start": 0,
+              "username": "ming_li8875"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071327429709230276",
+        "in_reply_to_user_id": "2050618264665886720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071302907186602119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming_li8875 前半生夯，后半生拉爆了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071302904330305536"
+          ]
+        },
+        "author_id": "2050618264665886720",
+        "conversation_id": "2071254918099317238",
+        "created_at": "2026-06-28T18:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T19:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071302907186602119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GK85K5CY0p",
+              "end": 46,
+              "expanded_url": "https://x.com/ming_li8875/status/2071302907186602119/photo/1",
+              "media_key": "3_2071302904330305536",
+              "start": 23,
+              "url": "https://t.co/GK85K5CY0p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071302907186602119",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071254918099317238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 我的政治思想 https://t.co/GK85K5CY0p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 871,
+          "like_count": 11161,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 3446
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T16:48:38.000Z",
+        "description": "这个只是玩玩，可能不当主号",
+        "id": "2050618264665886720",
+        "name": "ming li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050620163729342464/3FzIY7dg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "ming_li8875",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074382146828169216"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "conversation_id": "2074382156315713771",
+    "created_at": "2026-07-07T06:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074382156315713771"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K2vXKwITIw",
+          "end": 137,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2074382156315713771/photo/1",
+          "media_key": "3_2074382146828169216",
+          "start": 114,
+          "url": "https://t.co/K2vXKwITIw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074382156315713771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "未来到底是个什么样子，我搞了很多年也没有搞明白，可能活着的时候思路比较好，搞了个未来，可惜后来思路僵化了。\n但我才不怕未来呢，一听未来我就高兴，活着算什么未来?无非浑浑噩噩，走了一个过场。意义不明才算未来，双方都有...... https://t.co/K2vXKwITIw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2074382146828169216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmvkm4a8AAIPRr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074382146828169216"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2074382156315713771",
+        "created_at": "2026-07-07T06:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074382156315713771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K2vXKwITIw",
+              "end": 137,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2074382156315713771/photo/1",
+              "media_key": "3_2074382146828169216",
+              "start": 114,
+              "url": "https://t.co/K2vXKwITIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074382156315713771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "未来到底是个什么样子，我搞了很多年也没有搞明白，可能活着的时候思路比较好，搞了个未来，可惜后来思路僵化了。\n但我才不怕未来呢，一听未来我就高兴，活着算什么未来?无非浑浑噩噩，走了一个过场。意义不明才算未来，双方都有...... https://t.co/K2vXKwITIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 880,
+          "like_count": 11859,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 3590
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

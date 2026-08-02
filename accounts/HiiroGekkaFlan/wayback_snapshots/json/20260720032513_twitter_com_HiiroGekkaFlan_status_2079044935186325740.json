@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2078824780539793624",
+    "created_at": "2026-07-20T03:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079044935186325740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066082945971130368",
+          "start": 0,
+          "username": "SamuelTsai191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079044935186325740",
+    "in_reply_to_user_id": "2066082945971130368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079019368437235953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SamuelTsai191 有道理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078824780539793624",
+        "created_at": "2026-07-20T03:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079044935186325740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066082945971130368",
+              "start": 0,
+              "username": "SamuelTsai191"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079044935186325740",
+        "in_reply_to_user_id": "2066082945971130368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079019368437235953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SamuelTsai191 有道理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066082945971130368",
+        "conversation_id": "2078824780539793624",
+        "created_at": "2026-07-20T01:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079019368437235953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079019368437235953",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3698,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078824780539793624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 每一个都有道理，每一个都是部分事实，但是放在一起，那么就是最大的骗局，我一个国内大喷子，在公司人面前骂了共产党十几年，也没有被喝茶，你去大排档，那个大排档没有骂政府的，有谁被抓过？996的人工资不会是500美元，祖孙三代人才能当地安家说的是一线城市，美国普通人能在纽约安家？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 897,
+          "like_count": 13019,
+          "listed_count": 1,
+          "media_count": 458,
+          "tweet_count": 3901
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T09:00:02.000Z",
+        "description": "",
+        "id": "2066082945971130368",
+        "name": "Samuel-Tsai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066083994958233600/Se-hwG3c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 435,
+          "like_count": 837,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 412
+        },
+        "url": "",
+        "username": "SamuelTsai191",
+        "verified": false
+      }
+    ]
+  }
+}

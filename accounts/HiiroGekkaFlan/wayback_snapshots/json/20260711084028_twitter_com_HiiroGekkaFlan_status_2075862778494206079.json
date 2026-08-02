@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075862773972836352",
+        "3_2075862763474386944"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075862778494206079",
+    "created_at": "2026-07-11T08:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T09:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075862778494206079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BVkeR5XWmm",
+          "end": 35,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2075862778494206079/photo/1",
+          "media_key": "3_2075862773972836352",
+          "start": 12,
+          "url": "https://t.co/BVkeR5XWmm"
+        },
+        {
+          "display_url": "pic.x.com/BVkeR5XWmm",
+          "end": 35,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2075862778494206079/photo/1",
+          "media_key": "3_2075862763474386944",
+          "start": 12,
+          "url": "https://t.co/BVkeR5XWmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075862778494206079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "音游怎么这么好玩🤤🤤🤤 https://t.co/BVkeR5XWmm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075862773972836352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7yMc0boAAXI7v.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2075862763474386944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7yL1taAAAg9jx.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075862773972836352",
+            "3_2075862763474386944"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075862778494206079",
+        "created_at": "2026-07-11T08:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075862778494206079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BVkeR5XWmm",
+              "end": 35,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2075862778494206079/photo/1",
+              "media_key": "3_2075862773972836352",
+              "start": 12,
+              "url": "https://t.co/BVkeR5XWmm"
+            },
+            {
+              "display_url": "pic.x.com/BVkeR5XWmm",
+              "end": 35,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2075862778494206079/photo/1",
+              "media_key": "3_2075862763474386944",
+              "start": 12,
+              "url": "https://t.co/BVkeR5XWmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075862778494206079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "音游怎么这么好玩🤤🤤🤤 https://t.co/BVkeR5XWmm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 885,
+          "like_count": 12310,
+          "listed_count": 1,
+          "media_count": 421,
+          "tweet_count": 3685
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

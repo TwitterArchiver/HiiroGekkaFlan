@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2071254918099317238",
+    "created_at": "2026-06-28T20:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T21:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071328602633740740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2000151978014658560",
+          "start": 0,
+          "username": "zhinagoubisi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071328602633740740",
+    "in_reply_to_user_id": "2000151978014658560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071328080514478315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinagoubisi 赚欧元花欧元很正常的嘛（智将）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2071254918099317238",
+        "created_at": "2026-06-28T20:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071328602633740740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2000151978014658560",
+              "start": 0,
+              "username": "zhinagoubisi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071328602633740740",
+        "in_reply_to_user_id": "2000151978014658560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071328080514478315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinagoubisi 赚欧元花欧元很正常的嘛（智将）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000151978014658560",
+        "conversation_id": "2071254918099317238",
+        "created_at": "2026-06-28T20:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071328080514478315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071328080514478315",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071327797532901618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 这里一杯奶茶五欧元😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 871,
+          "like_count": 11164,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 3448
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T10:33:11.000Z",
+        "description": "这个人过于幽默所以没有写什么……\n只在推特不污染其他平台本人半支黑",
+        "id": "2000151978014658560",
+        "location": "法国 马赛",
+        "name": "不知道该说什么",
+        "pinned_tweet_id": "2022256998696259888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793959153225728/HGO5z4Ho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 273,
+          "like_count": 1081,
+          "listed_count": 1,
+          "media_count": 1527,
+          "tweet_count": 3956
+        },
+        "url": "",
+        "username": "zhinagoubisi",
+        "verified": false
+      }
+    ]
+  }
+}

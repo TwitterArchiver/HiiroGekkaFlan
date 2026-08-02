@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2078037317647028524",
+    "created_at": "2026-07-18T05:53:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T06:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078357482422849991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078357482422849991",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078037317647028524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesterdayOrange 你笑着说我所拥有的一切，也都是虚伪\n你笑着说我所诉说的谎言，活不过明天"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 851,
+        "media_key": "3_2078037217700978688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNar1u8boAA_nvE.jpg",
+        "width": 1352
+      },
+      {
+        "height": 1262,
+        "media_key": "3_2078037274093387777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNar5BBbgAEKTrV.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078037317647028524",
+        "created_at": "2026-07-18T05:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078357482422849991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078357482422849991",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078037317647028524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 你笑着说我所拥有的一切，也都是虚伪\n你笑着说我所诉说的谎言，活不过明天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078037217700978688",
+            "3_2078037274093387777"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2078037317647028524",
+        "created_at": "2026-07-17T08:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078037317647028524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "zhihu.com/question/19143…",
+              "end": 32,
+              "expanded_url": "https://www.zhihu.com/question/1914337234376720549/answer/1985467552000938460",
+              "start": 9,
+              "unwound_url": "https://www.zhihu.com/question/1914337234376720549/answer/1985467552000938460",
+              "url": "https://t.co/voZoLXKIag"
+            },
+            {
+              "display_url": "pic.x.com/6ppRroi2tV",
+              "end": 62,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2078037317647028524/photo/1",
+              "media_key": "3_2078037217700978688",
+              "start": 39,
+              "url": "https://t.co/6ppRroi2tV"
+            },
+            {
+              "display_url": "pic.x.com/6ppRroi2tV",
+              "end": 62,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2078037317647028524/photo/1",
+              "media_key": "3_2078037274093387777",
+              "start": 39,
+              "url": "https://t.co/6ppRroi2tV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078037317647028524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "zhihu.com/question/19143…",
+                "end": 32,
+                "expanded_url": "https://www.zhihu.com/question/1914337234376720549/answer/1985467552000938460",
+                "start": 9,
+                "url": "https://t.co/VLATpubGv3"
+              }
+            ]
+          },
+          "text": "作者：哥哥\n链接：https://t.co/VLATpubGv3\n来源：知乎\n著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。比如说做题神教推崇的某些学霸，考第二都要自杀，不碰手机不碰电脑不碰小说，生活中除了学习就是学习，从六点学到十一点，成绩下降一点就扇自己巴掌拿圆规扎大腿，以此卧薪尝胆一雪前耻。学生时代这种人真的有不少，老师一般都会拿来当正面典型。现在想想真是可怕，这大概率是自恋型人格障碍、双相情感障碍、边缘型人格障碍的共病患者，堪称五毒俱全，可是我们的老师和家长都把这种人当成偶像大加宣传，希望大家都和他们一样。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1042,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "作者：哥哥\n链接：https://t.co/voZoLXKIag\n来源：知乎 https://t.co/6ppRroi2tV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077841548738437120/PYSB99eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 894,
+          "like_count": 12813,
+          "listed_count": 1,
+          "media_count": 449,
+          "tweet_count": 3838
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2078080489244770777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12180,
+          "following_count": 5196,
+          "like_count": 96166,
+          "listed_count": 20,
+          "media_count": 2386,
+          "tweet_count": 20927
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

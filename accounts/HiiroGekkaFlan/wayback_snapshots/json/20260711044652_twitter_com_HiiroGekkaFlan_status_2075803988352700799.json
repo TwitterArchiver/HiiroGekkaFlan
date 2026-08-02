@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2075800976355909807",
+    "created_at": "2026-07-11T04:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075803988352700799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1885557129588948992",
+          "start": 0,
+          "username": "85240609891_1st"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075803988352700799",
+    "in_reply_to_user_id": "1885557129588948992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075800976355909807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@85240609891_1st A，因为我家庭是既得利益者，什么阶级说什么话🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 333,
+        "media_key": "3_2075800360783110144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM65bhka4AAN82k.jpg",
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2075800976355909807",
+        "created_at": "2026-07-11T04:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075803988352700799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "85240609891_1st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075803988352700799",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075800976355909807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@85240609891_1st A，因为我家庭是既得利益者，什么阶级说什么话🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075800360783110144"
+          ]
+        },
+        "author_id": "1885557129588948992",
+        "conversation_id": "2075800976355909807",
+        "created_at": "2026-07-11T04:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075800976355909807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BI7h4edF6V",
+              "end": 98,
+              "expanded_url": "https://x.com/85240609891_1st/status/2075800976355909807/photo/1",
+              "media_key": "3_2075800360783110144",
+              "start": 75,
+              "url": "https://t.co/BI7h4edF6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075800976355909807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們覺得鄧小平是怎麽樣的執政者\n我：\n經濟上 讓中國大陸充滿活力\n政治上 錯失轉型民主的機會\n綜合下 評價爲B [A&gt;B&gt;C&gt;D] https://t.co/BI7h4edF6V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 885,
+          "like_count": 12292,
+          "listed_count": 1,
+          "media_count": 420,
+          "tweet_count": 3678
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "盧森堡主義者\n革命型民主社會主義者\n反對威權主義\nHK仔\n自由資本主義 OK\n自由/民主社會主義 OK\n自由共產主義 OK\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼🇪🇺🇮🇱🇭🇰🎗️\n祈求民主與自由萬世都不朽\n我願榮光歸...\n一位邏輯學者\n活著必須革命 心高氣傲 哪裏去不到",
+        "id": "1885557129588948992",
+        "location": " Republic of China - Hong Kong",
+        "name": "🔫Arctic Warfare Police 北極戰警",
+        "pinned_tweet_id": "2075196163725344825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075029229423742976/d4GQ9rlE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 7346,
+          "like_count": 18256,
+          "listed_count": 6,
+          "media_count": 916,
+          "tweet_count": 5277
+        },
+        "url": "",
+        "username": "85240609891_1st",
+        "verified": false
+      }
+    ]
+  }
+}

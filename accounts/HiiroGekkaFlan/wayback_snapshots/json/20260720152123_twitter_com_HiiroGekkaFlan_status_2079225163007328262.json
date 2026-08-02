@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2079183515166318640",
+    "created_at": "2026-07-20T15:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079225163007328262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1682303195832360960",
+          "start": 0,
+          "username": "duye_owo"
+        },
+        {
+          "end": 25,
+          "id": "2050253104935997440",
+          "start": 10,
+          "username": "auspiceshirley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079225163007328262",
+    "in_reply_to_user_id": "1682303195832360960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079215226130776102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duye_owo @auspiceshirley 焗雪梨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "16_2079215184292585473",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNrbMadboAER7Jd.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNrbMadboAER7Jd.mp4"
+          }
+        ],
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2079183515166318640",
+        "created_at": "2026-07-20T15:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079225163007328262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682303195832360960",
+              "start": 0,
+              "username": "duye_owo"
+            },
+            {
+              "end": 25,
+              "id": "2050253104935997440",
+              "start": 10,
+              "username": "auspiceshirley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079225163007328262",
+        "in_reply_to_user_id": "1682303195832360960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079215226130776102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duye_owo @auspiceshirley 焗雪梨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2079215184292585473"
+          ]
+        },
+        "author_id": "1682303195832360960",
+        "conversation_id": "2079183515166318640",
+        "created_at": "2026-07-20T14:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079215226130776102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U8nDIcHo6P",
+              "end": 39,
+              "expanded_url": "https://x.com/duye_owo/status/2079215226130776102/photo/1",
+              "media_key": "16_2079215184292585473",
+              "start": 16,
+              "url": "https://t.co/U8nDIcHo6P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079215226130776102",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079183515166318640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auspiceshirley https://t.co/U8nDIcHo6P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 901,
+          "like_count": 13317,
+          "listed_count": 2,
+          "media_count": 462,
+          "tweet_count": 3995
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T08:15:33.000Z",
+        "description": "中国人🇨🇳｜游戏｜动画｜｜友跨🏳️‍⚧️｜人道主义者｜互关｜聊天可以推特私信哦～🥰｜🇭🇰🇨🇳🇯🇵",
+        "id": "1682303195832360960",
+        "name": "🫥ffy喵🫥🇭🇰🇨🇳🇯🇵互of",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079042377906581504/glmoVp84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "duye_owo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.auspiceshirley.dev",
+                "end": 23,
+                "expanded_url": "https://me.auspiceshirley.dev",
+                "start": 0,
+                "url": "https://t.co/1qfE6dIPvx"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 574,
+          "like_count": 1915,
+          "listed_count": 1,
+          "media_count": 386,
+          "tweet_count": 2694
+        },
+        "url": "https://t.co/1qfE6dIPvx",
+        "username": "auspiceshirley",
+        "verified": true
+      }
+    ]
+  }
+}

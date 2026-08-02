@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2071605185248444858",
+    "created_at": "2026-06-30T17:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072006938465038413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725050881467686912",
+          "start": 0,
+          "username": "r_bennkyou"
+        },
+        {
+          "end": 24,
+          "id": "1317037086336151552",
+          "start": 12,
+          "username": "Garin2025li"
+        },
+        {
+          "end": 35,
+          "id": "220973545",
+          "start": 25,
+          "username": "1cesgusto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072006938465038413",
+    "in_reply_to_user_id": "1725050881467686912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071809669564350732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@r_bennkyou @Garin2025li @1cesgusto 转移话题毫无意义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2071605185248444858",
+        "created_at": "2026-06-30T17:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072006938465038413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725050881467686912",
+              "start": 0,
+              "username": "r_bennkyou"
+            },
+            {
+              "end": 24,
+              "id": "1317037086336151552",
+              "start": 12,
+              "username": "Garin2025li"
+            },
+            {
+              "end": 35,
+              "id": "220973545",
+              "start": 25,
+              "username": "1cesgusto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072006938465038413",
+        "in_reply_to_user_id": "1725050881467686912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071809669564350732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@r_bennkyou @Garin2025li @1cesgusto 转移话题毫无意义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725050881467686912",
+        "conversation_id": "2071605185248444858",
+        "created_at": "2026-06-30T04:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071809669564350732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1317037086336151552",
+              "start": 0,
+              "username": "Garin2025li"
+            },
+            {
+              "end": 23,
+              "id": "220973545",
+              "start": 13,
+              "username": "1cesgusto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071809669564350732",
+        "in_reply_to_user_id": "1317037086336151552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1361,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071755168010707163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Garin2025li @1cesgusto 天安門はすぐ忘れるのに?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 871,
+          "like_count": 11314,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 3479
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-16T07:19:26.000Z",
+        "description": "無し",
+        "id": "1725050881467686912",
+        "name": "暇垢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893335110185033728/rhkpohs1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 422,
+          "like_count": 16840,
+          "listed_count": 12,
+          "media_count": 14,
+          "tweet_count": 1668
+        },
+        "url": "",
+        "username": "r_bennkyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-16T09:38:31.000Z",
+        "description": "",
+        "id": "1317037086336151552",
+        "name": "Oc",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 12,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "Garin2025li",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-29T11:26:40.000Z",
+        "description": "Direito UNESP. Pesquisador de política africana contemporânea. Torcedor do Corinthians e McLaren.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/171EZ",
+                "end": 23,
+                "expanded_url": "https://boxd.it/171EZ",
+                "start": 0,
+                "url": "https://t.co/YmAAOKXf3o"
+              }
+            ]
+          }
+        },
+        "id": "220973545",
+        "name": "Augusto",
+        "pinned_tweet_id": "2043495045173531072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061985251585372160/5qMRZjPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14418,
+          "following_count": 2522,
+          "like_count": 316815,
+          "listed_count": 26,
+          "media_count": 4338,
+          "tweet_count": 116181
+        },
+        "url": "https://t.co/YmAAOKXf3o",
+        "username": "1cesgusto",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2075127816748937377",
+    "created_at": "2026-07-10T18:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T19:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075646195834466527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075646195834466527",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075127816748937377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 依旧形式主义这一块，这确实是客观存在的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2075031236821856256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMv96nibMAAEy5X.jpg",
+        "width": 773
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2075031268555948032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMv98dwbAAAaPfA.jpg",
+        "width": 742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2075127816748937377",
+        "created_at": "2026-07-10T18:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T19:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075646195834466527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075646195834466527",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075127816748937377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 依旧形式主义这一块，这确实是客观存在的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075031236821856256",
+            "3_2075031268555948032"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075127816748937377",
+        "created_at": "2026-07-09T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075127816748937377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qs3mawSD4g",
+              "end": 152,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2075127816748937377/photo/1",
+              "media_key": "3_2075031236821856256",
+              "start": 129,
+              "url": "https://t.co/Qs3mawSD4g"
+            },
+            {
+              "display_url": "pic.x.com/Qs3mawSD4g",
+              "end": 152,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2075127816748937377/photo/1",
+              "media_key": "3_2075031268555948032",
+              "start": 129,
+              "url": "https://t.co/Qs3mawSD4g"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2074863575949001006",
+              "start": 153,
+              "url": "https://t.co/X14Ti7wdIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075127816748937377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 812096,
+          "like_count": 1684,
+          "quote_count": 6,
+          "reply_count": 336,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074863575949001006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“你们捐给灾区的泡面我已经吃上了”\n7月8日，广西部分受灾群众反映，在领取救灾生活物资时，被要求先配合拍摄现场素材视频，才能领取物资。此举引发网友不满。\n其中，有网友将饮料瓶剪开当作泡面碗，用圆珠笔充当筷子，配文写道：“你们捐给灾区的泡面，我已经吃上了。” https://t.co/Qs3mawSD4g https://t.co/X14Ti7wdIb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 883,
+          "like_count": 12287,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 3674
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245800,
+          "following_count": 1075,
+          "like_count": 9790,
+          "listed_count": 8821,
+          "media_count": 50179,
+          "tweet_count": 57386
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

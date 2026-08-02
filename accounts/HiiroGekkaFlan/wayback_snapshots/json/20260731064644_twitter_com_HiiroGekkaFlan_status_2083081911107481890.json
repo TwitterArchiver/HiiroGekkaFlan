@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2082821900292718810",
+    "created_at": "2026-07-31T06:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T07:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083081911107481890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1839865017392394240",
+          "start": 0,
+          "username": "zhiyun114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083081911107481890",
+    "in_reply_to_user_id": "1839865017392394240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082821900292718810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhiyun114514 电脑配件这个梗估计没多少人知道了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2255,
+        "media_key": "3_2082821891610570752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOereaPa8AA5hLl.jpg",
+        "width": 1271
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2082821900292718810",
+        "created_at": "2026-07-31T06:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083081911107481890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1839865017392394240",
+              "start": 0,
+              "username": "zhiyun114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083081911107481890",
+        "in_reply_to_user_id": "1839865017392394240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082821900292718810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiyun114514 电脑配件这个梗估计没多少人知道了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082821891610570752"
+          ]
+        },
+        "author_id": "1839865017392394240",
+        "conversation_id": "2082821900292718810",
+        "created_at": "2026-07-30T13:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082821900292718810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WtTNvI4QMi",
+              "end": 148,
+              "expanded_url": "https://x.com/zhiyun114514/status/2082821900292718810/photo/1",
+              "media_key": "3_2082821891610570752",
+              "start": 125,
+              "url": "https://t.co/WtTNvI4QMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082821900292718810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不是我真受不了🤕\n但凡是个老acg都知道这两什么关系吧？\n百合屯连这种经典的老番都不放过吗？\n还有，我没记错这是哔哩哔哩吧？\n评论区怎么没有人感到奇怪？怎么都在玩女同梗？魔禁关于百合豚的话题之前可是轰轰烈烈啊？是我没睡醒吗这种阵地也被百合豚攻陷了😅\n既然站名都是来自炮姐，怎么还会有这么多人对如此公然挑衅的OOC做事不管？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2945,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不是我真受不了🤕\n但凡是个老acg都知道这两什么关系吧？\n百合屯连这种经典的老番都不放过吗？\n还有，我没记错这是哔哩哔哩吧？\n评论区怎么没有人感到奇怪？怎么都在玩女同梗？魔禁关于百合豚的话题之前可是轰轰烈烈啊？是我没睡醒吗这种阵地也被百合豚攻陷了😅 https://t.co/WtTNvI4QMi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 901,
+          "like_count": 13743,
+          "listed_count": 2,
+          "media_count": 482,
+          "tweet_count": 4094
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T03:10:03.000Z",
+        "description": "我叫知雲！(三世)\n中国人\n(有多少人认识我？)\n二世:@zhi96886   小号:@zhiyun1919810一世找不到了\n日本語を勉強したいのですが、今のところ五十音図しかできません🥺/社民/历史/想要互fo/拙见如有错误请指出来🥹/尽量的不极端\n\nI want to make more friend",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "zhi96886"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "zhiyun1919810"
+              }
+            ]
+          }
+        },
+        "id": "1839865017392394240",
+        "location": "毛泽东帝国-邓小平尼亚-习近平堡",
+        "name": "矢口雨云",
+        "pinned_tweet_id": "2073990447685575072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072974559704481792/whDv4RKJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3179,
+          "following_count": 1141,
+          "like_count": 12493,
+          "listed_count": 7,
+          "media_count": 1167,
+          "tweet_count": 6663
+        },
+        "url": "",
+        "username": "zhiyun114514",
+        "verified": true
+      }
+    ]
+  }
+}

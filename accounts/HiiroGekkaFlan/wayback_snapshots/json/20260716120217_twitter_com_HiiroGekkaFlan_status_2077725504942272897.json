@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2062405600164647028",
+    "created_at": "2026-07-16T12:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077725504942272897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1947505168607748096",
+          "start": 0,
+          "username": "Moqing535"
+        },
+        {
+          "end": 25,
+          "id": "37452269",
+          "start": 11,
+          "username": "back_XiaoDiDi"
+        },
+        {
+          "end": 41,
+          "id": "89421672",
+          "start": 26,
+          "username": "USA_China_Talk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077725504942272897",
+    "in_reply_to_user_id": "1947505168607748096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077724060847571190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moqing535 @back_XiaoDiDi @USA_China_Talk 是谁呢直接说出来罢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2062405600164647028",
+        "created_at": "2026-07-16T12:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077725504942272897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1947505168607748096",
+              "start": 0,
+              "username": "Moqing535"
+            },
+            {
+              "end": 25,
+              "id": "37452269",
+              "start": 11,
+              "username": "back_XiaoDiDi"
+            },
+            {
+              "end": 41,
+              "id": "89421672",
+              "start": 26,
+              "username": "USA_China_Talk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077725504942272897",
+        "in_reply_to_user_id": "1947505168607748096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077724060847571190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moqing535 @back_XiaoDiDi @USA_China_Talk 是谁呢直接说出来罢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947505168607748096",
+        "conversation_id": "2062405600164647028",
+        "created_at": "2026-07-16T11:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077724060847571190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            },
+            {
+              "end": 30,
+              "id": "37452269",
+              "start": 16,
+              "username": "back_XiaoDiDi"
+            },
+            {
+              "end": 46,
+              "id": "89421672",
+              "start": 31,
+              "username": "USA_China_Talk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077724060847571190",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062494371371765872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan @back_XiaoDiDi @USA_China_Talk 你也是个脑残，墙内谁不知道有某个傻逼组织颜色革命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 895,
+          "like_count": 12689,
+          "listed_count": 1,
+          "media_count": 443,
+          "tweet_count": 3795
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T03:53:23.000Z",
+        "description": "I like music",
+        "id": "1947505168607748096",
+        "location": "邯郸",
+        "name": "Moq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947506571191169026/SUYqdbMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 23,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "Moqing535",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-03T16:57:39.000Z",
+        "description": "本主頁為《帝吧中央集團軍》小組官方Twitter。\n官微微博：@帝吧官微 \n\n投稿、互Fo可私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@diba_CHN",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@diba_CHN",
+                "start": 0,
+                "url": "https://t.co/HEzGsDKVq9"
+              }
+            ]
+          }
+        },
+        "id": "37452269",
+        "location": "香港",
+        "name": "CHN_帝吧🇨🇳",
+        "pinned_tweet_id": "1460836223916802053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602304320166277120/BevyUBTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43245,
+          "following_count": 600,
+          "like_count": 3532,
+          "listed_count": 284,
+          "media_count": 2076,
+          "tweet_count": 4789
+        },
+        "url": "https://t.co/HEzGsDKVq9",
+        "username": "back_XiaoDiDi",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注庞德伟(David Perdue)大使： @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 U.S. Mission to China",
+        "pinned_tweet_id": "2075422625661149217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644512,
+          "following_count": 173,
+          "like_count": 11,
+          "listed_count": 4410,
+          "media_count": 554,
+          "tweet_count": 2916
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true
+      }
+    ]
+  }
+}

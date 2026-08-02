@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2074073576186265690",
+    "created_at": "2026-07-06T10:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074073576186265690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dw_chinese/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/dw_chinese/status/2073748936590782852",
+          "start": 5,
+          "url": "https://t.co/tp6BhqdoNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074073576186265690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073748936590782852",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "螳臂挡车 https://t.co/tp6BhqdoNA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2073748558960824320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdvU8JWkAAXHkC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2074073576186265690",
+        "created_at": "2026-07-06T10:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074073576186265690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dw_chinese/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/dw_chinese/status/2073748936590782852",
+              "start": 5,
+              "url": "https://t.co/tp6BhqdoNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074073576186265690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073748936590782852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "螳臂挡车 https://t.co/tp6BhqdoNA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073748558960824320"
+          ]
+        },
+        "author_id": "143810986",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2073748936590782852",
+        "created_at": "2026-07-05T12:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073748936590782852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xv27OJQnFk",
+              "end": 70,
+              "expanded_url": "https://x.com/dw_chinese/status/2073748936590782852/photo/1",
+              "media_key": "3_2073748558960824320",
+              "start": 47,
+              "url": "https://t.co/Xv27OJQnFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073748936590782852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "时隔二十多年，台湾军方今年起将军官学校毕业生的爱国教育政训课程，更名恢复为“反共爱国教育”。\n\n据台湾中央社报道，国防部7月5日表示，考量中共对台军事威胁日益升高，不断加大对台统战渗透及灰色地带等敌对行动，军校毕业生是国军基层部队中坚干部，有必要清楚了解国家安全威胁，体认军人“为何而战，为谁而战”使命，故自今年起恢复“反共爱国教育”。\n\n台湾国防部表示，该教育始于1965年，每年于毕业典礼前后办理专案教育；课程名称几经调整，2002年由“反共爱国教育”更名为“爱国教育”，又于今年再次恢复为“反共爱国教育”。\n\n课程内容强化“认识敌情威胁”，邀陆委会主委、国安会、法务部调查局、情次室等机关首长、中研院学者，讲授政府两岸政策，及中共对台军事威胁、认知作战、渗透吸收、威权扩张等课程。\n\n据中时新闻报道，今年为期5天的“反共爱国教育”已经结束，课题涉及领导统御、心理韧性、两岸情势、军人武德、乌俄战争等议题。\n\n近期，中国军队几乎每天都在台湾周边海域开展行动。\n\n台湾国安会秘书长吴钊燮周六晚在社交平台X上发文称，截至周五，台湾方面监测到创纪录的超过110艘中国军舰及海警船只在第一岛链沿线活动。\n\n周六（7月4日），中国海警部门宣布，在台湾以东海域开展新一轮“执法巡查”，引发了台北方面的强烈反应。台湾陆委会表示，中共在此海域没有管辖权，中国公务舰艇在此也没有执法权。台湾海巡署亦指中方无管辖权，并派舰全程监控。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 95859,
+          "like_count": 720,
+          "quote_count": 25,
+          "reply_count": 132,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "时隔二十多年，台湾军方今年起将军官学校毕业生的爱国教育政训课程，更名恢复为“反共爱国教育”。 https://t.co/Xv27OJQnFk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 879,
+          "like_count": 11804,
+          "listed_count": 1,
+          "media_count": 402,
+          "tweet_count": 3582
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-14T13:16:33.000Z",
+        "description": "德国之声中文官方推特：德国国际广播电台中文资讯服务，来自德国，介绍德国，聚焦华语区时政、经济、社会新闻，为您提供多媒体信息服务、背景报道、观点评论。欢迎积极参与互动!https://t.co/sd6bL3bDrv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/dwlegalnotice",
+                "end": 106,
+                "expanded_url": "http://bit.ly/dwlegalnotice",
+                "start": 83,
+                "url": "https://t.co/sd6bL3bDrv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dw.com/chinese",
+                "end": 23,
+                "expanded_url": "http://www.dw.com/chinese",
+                "start": 0,
+                "url": "https://t.co/MJXQ2XoxI2"
+              }
+            ]
+          }
+        },
+        "id": "143810986",
+        "location": "德国 波恩",
+        "name": "DW 中文- 德国之声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799009694549413888/a4GIoJOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384530,
+          "following_count": 9,
+          "like_count": 442,
+          "listed_count": 5545,
+          "media_count": 16717,
+          "tweet_count": 85510
+        },
+        "url": "https://t.co/MJXQ2XoxI2",
+        "username": "dw_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

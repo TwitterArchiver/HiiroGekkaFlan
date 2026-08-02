@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2073010506714259788",
+    "created_at": "2026-07-04T05:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073274005789020510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994267688013873152",
+          "start": 0,
+          "username": "yu_luo30583"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073274005789020510",
+    "in_reply_to_user_id": "1994267688013873152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073120559207161926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_luo30583 神了，神在哪，神在原后面"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2073120555629481984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMU0KVbbEAAY7WI.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2073010506714259788",
+        "created_at": "2026-07-04T05:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073274005789020510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994267688013873152",
+              "start": 0,
+              "username": "yu_luo30583"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073274005789020510",
+        "in_reply_to_user_id": "1994267688013873152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073120559207161926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_luo30583 神了，神在哪，神在原后面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073120555629481984"
+          ]
+        },
+        "author_id": "1994267688013873152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2073010506714259788",
+        "created_at": "2026-07-03T19:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T20:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073120559207161926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TQcK8qmug",
+              "end": 50,
+              "expanded_url": "https://x.com/yu_luo30583/status/2073120559207161926/photo/1",
+              "media_key": "3_2073120555629481984",
+              "start": 27,
+              "url": "https://t.co/0TQcK8qmug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073120559207161926",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073010506714259788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 我是最啥的原神玩家🤪 https://t.co/0TQcK8qmug"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 872,
+          "like_count": 11526,
+          "listed_count": 1,
+          "media_count": 395,
+          "tweet_count": 3541
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T04:51:39.000Z",
+        "description": "明記64,新疆集中營事件,和22的白紙運動,還有那些在新冠時期討論一下政策就被人上報到公安就會被抓了,各種現象無所不在說明,他想當皇帝,想要的是一個封建主義的國家,害怕聽到真相害怕自己的政權崩潰",
+        "id": "1994267688013873152",
+        "name": "夜相思",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994753808698912768/eFt31REG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 25,
+          "like_count": 5748,
+          "listed_count": 0,
+          "media_count": 439,
+          "tweet_count": 1653
+        },
+        "url": "",
+        "username": "yu_luo30583",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2078824780539793624",
+    "created_at": "2026-07-20T05:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079075490095333793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1448170252290781185",
+          "start": 0,
+          "username": "9lqkha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079075490095333793",
+    "in_reply_to_user_id": "1448170252290781185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079072603365687363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9lqkha 你猜猜这个图片为什么能火，掩耳盗铃转移矛盾根本没用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078824780539793624",
+        "created_at": "2026-07-20T05:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079075490095333793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1448170252290781185",
+              "start": 0,
+              "username": "9lqkha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079075490095333793",
+        "in_reply_to_user_id": "1448170252290781185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079072603365687363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9lqkha 你猜猜这个图片为什么能火，掩耳盗铃转移矛盾根本没用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448170252290781185",
+        "conversation_id": "2078824780539793624",
+        "created_at": "2026-07-20T05:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079072603365687363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079072603365687363",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078824780539793624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 这描述的不就是日本吗？ 低薪高消费、过劳死、警察针对华人、右翼骂支那、房子贵到三代买不起——全他妈日本特色！ 你不喷日本排华，反而跑来阴阳中国？ 傻逼，滚去日本舔你主子吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 898,
+          "like_count": 13071,
+          "listed_count": 1,
+          "media_count": 459,
+          "tweet_count": 3914
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T06:15:08.000Z",
+        "description": "",
+        "id": "1448170252290781185",
+        "name": "午后犯困预备役 😴⏰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060908217463701504/b9kec84x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "9lqkha",
+        "verified": false
+      }
+    ]
+  }
+}

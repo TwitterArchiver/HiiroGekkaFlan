@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2079149509251359095",
+    "created_at": "2026-07-20T15:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079220587118174598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1917261838485708802",
+          "start": 0,
+          "username": "qiujiudev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079220587118174598",
+    "in_reply_to_user_id": "1917261838485708802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079149509251359095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiujiudev 好耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2079149480881143808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqfb-LbwAA-3lF.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2079149509251359095",
+        "created_at": "2026-07-20T15:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079220587118174598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1917261838485708802",
+              "start": 0,
+              "username": "qiujiudev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079220587118174598",
+        "in_reply_to_user_id": "1917261838485708802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079149509251359095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiujiudev 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079149480881143808"
+          ]
+        },
+        "author_id": "1917261838485708802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079149509251359095",
+        "created_at": "2026-07-20T10:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079149509251359095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3ibFUdevE",
+              "end": 39,
+              "expanded_url": "https://x.com/qiujiudev/status/2079149509251359095/photo/1",
+              "media_key": "3_2079149480881143808",
+              "start": 16,
+              "url": "https://t.co/q3ibFUdevE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079149509251359095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚饭时间到了，请推u们吃烤肉喵 https://t.co/q3ibFUdevE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 902,
+          "like_count": 13313,
+          "listed_count": 2,
+          "media_count": 462,
+          "tweet_count": 3993
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T16:57:06.000Z",
+        "description": "你好啊，我是一个普普通通的10后wmc，一位VOCALOID爱好者，爱好广泛杂食党，欢迎扩列www",
+        "id": "1917261838485708802",
+        "name": "秋玖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077321726548193281/6_jw7mdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 193,
+          "like_count": 1419,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "qiujiudev",
+        "verified": false
+      }
+    ]
+  }
+}

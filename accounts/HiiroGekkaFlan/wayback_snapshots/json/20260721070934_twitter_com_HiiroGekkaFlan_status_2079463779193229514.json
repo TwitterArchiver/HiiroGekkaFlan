@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2079137671457415469",
+    "created_at": "2026-07-21T07:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079463779193229514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2079235784717324288",
+          "start": 0,
+          "username": "ksuwbdb"
+        },
+        {
+          "end": 24,
+          "id": "2025554988714631168",
+          "start": 9,
+          "username": "JohnChen114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079463779193229514",
+    "in_reply_to_user_id": "2079235784717324288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079256965067489306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ksuwbdb @JohnChen114514 神了，這隻是歌詞，提取到關鍵詞了是吧🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2079137671457415469",
+        "created_at": "2026-07-21T07:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079463779193229514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2079235784717324288",
+              "start": 0,
+              "username": "ksuwbdb"
+            },
+            {
+              "end": 24,
+              "id": "2025554988714631168",
+              "start": 9,
+              "username": "JohnChen114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079463779193229514",
+        "in_reply_to_user_id": "2079235784717324288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079256965067489306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ksuwbdb @JohnChen114514 神了，這隻是歌詞，提取到關鍵詞了是吧🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079235784717324288",
+        "conversation_id": "2079137671457415469",
+        "created_at": "2026-07-20T17:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079256965067489306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            },
+            {
+              "end": 31,
+              "id": "2025554988714631168",
+              "start": 16,
+              "username": "JohnChen114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079256965067489306",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079205832051532247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan @JohnChen114514 你家里还有人吗，你也是个杂种，被狗肏的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 901,
+          "like_count": 13418,
+          "listed_count": 2,
+          "media_count": 465,
+          "tweet_count": 4014
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-20T16:06:59.000Z",
+        "description": "我是国民党总司令员蒋介石，我在此十分盼望国家统一，中华人民共和国万岁，一切跟着共产党走，战无不胜的共产主义万岁，渴望国家统一富强",
+        "id": "2079235784717324288",
+        "name": "蒋介石（渴望国家统一）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079246877359476738/AtuzpR02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "ksuwbdb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T12:55:34.000Z",
+        "description": "我来外网是为了看片\n不是来看你们分裂国家\n永远一心向国\n支持一个中国原则\n𝓟𝓲𝓷𝓴 𝓕𝓵𝓸𝔂𝓭🌈⃤",
+        "id": "2025554988714631168",
+        "name": "John",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076306324678397952/d29NUnWK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 167,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "JohnChen114514",
+        "verified": false
+      }
+    ]
+  }
+}

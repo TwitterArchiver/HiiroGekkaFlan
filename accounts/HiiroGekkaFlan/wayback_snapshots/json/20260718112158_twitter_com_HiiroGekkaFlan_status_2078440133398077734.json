@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2078361579066687504",
+    "created_at": "2026-07-18T11:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T12:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078440133398077734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1849318855488999424",
+          "start": 0,
+          "username": "Ex__kingdom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078440133398077734",
+    "in_reply_to_user_id": "1849318855488999424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078361579066687504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ex__kingdom 在这个批判斗争的世界里，每个人都要学会保护自己~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2078361565753978880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfS1RmXMAAnAVU.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078361579066687504",
+        "created_at": "2026-07-18T11:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078440133398077734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1849318855488999424",
+              "start": 0,
+              "username": "Ex__kingdom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078440133398077734",
+        "in_reply_to_user_id": "1849318855488999424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078361579066687504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ex__kingdom 在这个批判斗争的世界里，每个人都要学会保护自己~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078361565753978880"
+          ]
+        },
+        "author_id": "1849318855488999424",
+        "conversation_id": "2078361579066687504",
+        "created_at": "2026-07-18T06:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078361579066687504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/47pYmrh1ie",
+              "end": 38,
+              "expanded_url": "https://x.com/Ex__kingdom/status/2078361579066687504/photo/1",
+              "media_key": "3_2078361565753978880",
+              "start": 15,
+              "url": "https://t.co/47pYmrh1ie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078361579066687504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让我相信你的忠贞，爱人同志！ https://t.co/47pYmrh1ie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077841548738437120/PYSB99eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 894,
+          "like_count": 12880,
+          "listed_count": 1,
+          "media_count": 450,
+          "tweet_count": 3851
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T05:15:59.000Z",
+        "description": "",
+        "id": "1849318855488999424",
+        "name": "東鄉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849318974636589056/3QxQ4xPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "Ex__kingdom",
+        "verified": false
+      }
+    ]
+  }
+}

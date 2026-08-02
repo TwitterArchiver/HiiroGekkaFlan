@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2069105808697380977",
+    "created_at": "2026-06-22T17:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T18:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069110947063685235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1509970933842427908",
+          "start": 0,
+          "username": "bFl7ZY2yqh3n3Kg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069110947063685235",
+    "in_reply_to_user_id": "1509970933842427908",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069105808697380977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bFl7ZY2yqh3n3Kg 加油！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2069105796953288704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbwwn4aMAA_O56.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2069105808697380977",
+        "created_at": "2026-06-22T17:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069110947063685235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1509970933842427908",
+              "start": 0,
+              "username": "bFl7ZY2yqh3n3Kg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069110947063685235",
+        "in_reply_to_user_id": "1509970933842427908",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069105808697380977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bFl7ZY2yqh3n3Kg 加油！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069105796953288704"
+          ]
+        },
+        "author_id": "1509970933842427908",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069105808697380977",
+        "created_at": "2026-06-22T17:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069105808697380977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZBx1mJkIT",
+              "end": 38,
+              "expanded_url": "https://x.com/bFl7ZY2yqh3n3Kg/status/2069105808697380977/photo/1",
+              "media_key": "3_2069105796953288704",
+              "start": 15,
+              "url": "https://t.co/FZBx1mJkIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069105808697380977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人懂医学生期末复习的痛 https://t.co/FZBx1mJkIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/東方project好き/まのさば好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 860,
+          "like_count": 10563,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 3319
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T19:08:28.000Z",
+        "description": "This is an account sharing the daily life of Cirno, and I hope to get along well with everyone.",
+        "id": "1509970933842427908",
+        "name": "Ка52",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054240859772833795/LRSYv67D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 348,
+          "like_count": 5502,
+          "listed_count": 1,
+          "media_count": 525,
+          "tweet_count": 2813
+        },
+        "url": "",
+        "username": "bFl7ZY2yqh3n3Kg",
+        "verified": false
+      }
+    ]
+  }
+}

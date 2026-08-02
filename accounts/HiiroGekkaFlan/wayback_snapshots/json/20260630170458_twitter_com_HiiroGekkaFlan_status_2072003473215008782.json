@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2071919951682719776",
+    "created_at": "2026-06-30T17:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072003473215008782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1649589645020401666",
+          "start": 0,
+          "username": "shizhijia250600"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072003473215008782",
+    "in_reply_to_user_id": "1649589645020401666",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072002753619251480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shizhijia250600 X X XXX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2071919951682719776",
+        "created_at": "2026-06-30T17:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072003473215008782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1649589645020401666",
+              "start": 0,
+              "username": "shizhijia250600"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072003473215008782",
+        "in_reply_to_user_id": "1649589645020401666",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072002753619251480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shizhijia250600 X X XXX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649589645020401666",
+        "conversation_id": "2071919951682719776",
+        "created_at": "2026-06-30T17:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072002753619251480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072002753619251480",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071919951682719776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 音晶生成中…⚡️X X XXX！！！⚡️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 872,
+          "like_count": 11309,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 3478
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-22T01:43:24.000Z",
+        "description": "中国から\n\nmaimaiが大好き🎵                                      \n八剱月アルマ推し🤍         \n二次創作イラストを楽しく拝見しています✨\n\n₍^˶ ╸𖥦  ╸˵^₎⟆",
+        "id": "1649589645020401666",
+        "name": "JAJACAT",
+        "pinned_tweet_id": "2065849466561683821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064051740509409280/EJHBxKgL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 108,
+          "like_count": 944,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "shizhijia250600",
+        "verified": false
+      }
+    ]
+  }
+}

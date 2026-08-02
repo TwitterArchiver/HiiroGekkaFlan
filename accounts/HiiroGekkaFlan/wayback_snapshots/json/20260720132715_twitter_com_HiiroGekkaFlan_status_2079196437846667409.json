@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2079034147784561007",
+    "created_at": "2026-07-20T13:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079196437846667409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025209613570936833",
+          "start": 0,
+          "username": "aromaticer"
+        },
+        {
+          "end": 28,
+          "id": "1805486587666644992",
+          "start": 12,
+          "username": "Akebono__Yohira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079196437846667409",
+    "in_reply_to_user_id": "2025209613570936833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079047840387768421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aromaticer @Akebono__Yohira 跳进染缸！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2079034147784561007",
+        "created_at": "2026-07-20T13:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079196437846667409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025209613570936833",
+              "start": 0,
+              "username": "aromaticer"
+            },
+            {
+              "end": 28,
+              "id": "1805486587666644992",
+              "start": 12,
+              "username": "Akebono__Yohira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079196437846667409",
+        "in_reply_to_user_id": "2025209613570936833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079047840387768421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aromaticer @Akebono__Yohira 跳进染缸！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025209613570936833",
+        "conversation_id": "2079034147784561007",
+        "created_at": "2026-07-20T03:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079047840387768421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1805486587666644992",
+              "start": 0,
+              "username": "Akebono__Yohira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079047840387768421",
+        "in_reply_to_user_id": "1805486587666644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079034147784561007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akebono__Yohira 谁，赔了信仰\n谁对自己撒谎\n谁喝着最便宜的酒\n去陪葬！！\n123，跳！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 901,
+          "like_count": 13258,
+          "listed_count": 1,
+          "media_count": 461,
+          "tweet_count": 3972
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T14:03:56.000Z",
+        "description": "願你因幸福而哭泣\n                                       \n “從設定上我是純良”",
+        "id": "2025209613570936833",
+        "location": "比奇堡",
+        "name": "檩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076865867883905024/J-c9vDH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 293,
+          "like_count": 1388,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "aromaticer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T06:22:20.000Z",
+        "description": "また、同じ夢を見ていた。\n避难舱：@Akebono6sqrt249",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "Akebono6sqrt249"
+              }
+            ]
+          }
+        },
+        "id": "1805486587666644992",
+        "location": "千島列島",
+        "name": "✱ YOHIRA ✿",
+        "pinned_tweet_id": "2071043134495375663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077414982162243584/1h-fqQpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 3241,
+          "like_count": 21856,
+          "listed_count": 1,
+          "media_count": 461,
+          "tweet_count": 3855
+        },
+        "url": "",
+        "username": "Akebono__Yohira",
+        "verified": false
+      }
+    ]
+  }
+}

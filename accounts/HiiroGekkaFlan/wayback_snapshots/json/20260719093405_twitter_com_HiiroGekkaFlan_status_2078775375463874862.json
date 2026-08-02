@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2078399097552396719",
+    "created_at": "2026-07-19T09:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078775375463874862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1835921137622208512",
+          "start": 0,
+          "username": "Yan9x1_1028"
+        },
+        {
+          "end": 27,
+          "id": "1580042871016521728",
+          "start": 13,
+          "username": "JobberTheGuru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078775375463874862",
+    "in_reply_to_user_id": "1835921137622208512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078712806342578256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yan9x1_1028 @JobberTheGuru 神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078399097552396719",
+        "created_at": "2026-07-19T09:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078775375463874862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1835921137622208512",
+              "start": 0,
+              "username": "Yan9x1_1028"
+            },
+            {
+              "end": 27,
+              "id": "1580042871016521728",
+              "start": 13,
+              "username": "JobberTheGuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078775375463874862",
+        "in_reply_to_user_id": "1835921137622208512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078712806342578256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yan9x1_1028 @JobberTheGuru 神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835921137622208512",
+        "conversation_id": "2078399097552396719",
+        "created_at": "2026-07-19T05:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078712806342578256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1580042871016521728",
+              "start": 0,
+              "username": "JobberTheGuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078712806342578256",
+        "in_reply_to_user_id": "1580042871016521728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 932,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078399097552396719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JobberTheGuru 666荒野大彪哥出2了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077841548738437120/PYSB99eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 896,
+          "like_count": 12989,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 3882
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T05:58:13.000Z",
+        "description": "有fo必回除非影禁|准初三|友所有人|邦批烤批卡丘猫娘|政治立场谁帮我总结一下|谁统谁无所谓的统派|精神双国籍PRC+ROC|正在学习福州话",
+        "id": "1835921137622208512",
+        "location": "中国 福建 福州",
+        "name": "阳熹",
+        "pinned_tweet_id": "2054625687634682334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054599056006270976/Awy-bM3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 310,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2067
+        },
+        "url": "",
+        "username": "Yan9x1_1028",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T03:49:27.000Z",
+        "description": "所有的伟大，都源自一个勇敢的开始。",
+        "id": "1580042871016521728",
+        "name": "召北",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580043789111943170/0aTDk7ck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8188,
+          "following_count": 413,
+          "like_count": 2128,
+          "listed_count": 113,
+          "media_count": 482,
+          "tweet_count": 2513
+        },
+        "url": "",
+        "username": "JobberTheGuru",
+        "verified": true
+      }
+    ]
+  }
+}

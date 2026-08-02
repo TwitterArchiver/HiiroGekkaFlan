@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2070436451255464247",
+    "created_at": "2026-06-26T09:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070436451255464247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_u____nn/statu…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/_u____nn/status/2070323378461053439",
+          "start": 89,
+          "url": "https://t.co/IV5A0wx3Iz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070436451255464247",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070323378461053439",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "I'll wait, I'll wait, I'll keep on waiting.\nI'll wait, I'll wait, I'll wait for nothing. https://t.co/IV5A0wx3Iz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2070323373247549440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtEI5Cb0AAsKJN.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2070436451255464247",
+        "created_at": "2026-06-26T09:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070436451255464247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_u____nn/statu…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/_u____nn/status/2070323378461053439",
+              "start": 89,
+              "url": "https://t.co/IV5A0wx3Iz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070436451255464247",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070323378461053439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I'll wait, I'll wait, I'll keep on waiting.\nI'll wait, I'll wait, I'll wait for nothing. https://t.co/IV5A0wx3Iz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070323373247549440"
+          ]
+        },
+        "author_id": "1311983775836852225",
+        "conversation_id": "2070323378461053439",
+        "created_at": "2026-06-26T01:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070323378461053439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0fKjJ8WJSX",
+              "end": 23,
+              "expanded_url": "https://x.com/_u____nn/status/2070323378461053439/photo/1",
+              "media_key": "3_2070323373247549440",
+              "start": 0,
+              "url": "https://t.co/0fKjJ8WJSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070323378461053439",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 4510,
+          "like_count": 439,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0fKjJ8WJSX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 868,
+          "like_count": 10909,
+          "listed_count": 1,
+          "media_count": 370,
+          "tweet_count": 3372
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-02T10:59:10.000Z",
+        "description": "모코우와 케이네는 서로를 온전히 신뢰했다. 지금까지 걸어온 길에서 일어난 모든 일을 받아들인 채, 두 사람은 함께 서 있었다. 서로가 서로의 마음속에 존재하고 있었으며, 심지어는 그 안에서 살아가고 있다고 해도 과언이 아니었다.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.notion.com/p/_u____nn-375…",
+                "end": 23,
+                "expanded_url": "https://app.notion.com/p/_u____nn-37513a24e08480959b5fe340cea32a76",
+                "start": 0,
+                "url": "https://t.co/MxolSEF3RS"
+              }
+            ]
+          }
+        },
+        "id": "1311983775836852225",
+        "location": "WTC • 東方",
+        "name": "🚦좆다니🚦",
+        "pinned_tweet_id": "2056718024900763797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070380183023190016/j8QL_J6A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 136,
+          "like_count": 119552,
+          "listed_count": 4,
+          "media_count": 32910,
+          "tweet_count": 205359
+        },
+        "url": "https://t.co/MxolSEF3RS",
+        "username": "_u____nn",
+        "verified": false
+      }
+    ]
+  }
+}

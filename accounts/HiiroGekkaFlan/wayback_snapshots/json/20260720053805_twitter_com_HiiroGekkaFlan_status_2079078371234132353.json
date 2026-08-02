@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2078824780539793624",
+    "created_at": "2026-07-20T05:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079078371234132353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2072292439067598848",
+          "start": 0,
+          "username": "Xiuiuiumu"
+        },
+        {
+          "end": 26,
+          "id": "2000107313039097857",
+          "start": 11,
+          "username": "AitorQuint6029"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079078371234132353",
+    "in_reply_to_user_id": "2072292439067598848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079064410228977795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiuiuiumu @AitorQuint6029 超国民待遇是不可容忍的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078824780539793624",
+        "created_at": "2026-07-20T05:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079078371234132353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2072292439067598848",
+              "start": 0,
+              "username": "Xiuiuiumu"
+            },
+            {
+              "end": 26,
+              "id": "2000107313039097857",
+              "start": 11,
+              "username": "AitorQuint6029"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079078371234132353",
+        "in_reply_to_user_id": "2072292439067598848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079064410228977795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiuiuiumu @AitorQuint6029 超国民待遇是不可容忍的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072292439067598848",
+        "conversation_id": "2078824780539793624",
+        "created_at": "2026-07-20T04:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079064410228977795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2000107313039097857",
+              "start": 0,
+              "username": "AitorQuint6029"
+            },
+            {
+              "end": 31,
+              "id": "2042276998668525573",
+              "start": 16,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079064410228977795",
+        "in_reply_to_user_id": "2000107313039097857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078998701641502758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AitorQuint6029 @HiiroGekkaFlan 最烦还是，给外国留学生补贴太高，给那群黑鬼补贴那么高，让他们拿着钱乱搞中国女学生。外国国籍上清华北大比国内人容易。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 898,
+          "like_count": 13076,
+          "listed_count": 1,
+          "media_count": 460,
+          "tweet_count": 3919
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T12:14:02.000Z",
+        "description": "",
+        "id": "2072292439067598848",
+        "name": "Xiuiuiu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072293184391249920/7xQfuCIm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "Xiuiuiumu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T07:35:36.000Z",
+        "description": "",
+        "id": "2000107313039097857",
+        "name": "Aitor Quintana Martin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020919406289879040/z77L1L5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 52,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1317
+        },
+        "url": "",
+        "username": "AitorQuint6029",
+        "verified": false
+      }
+    ]
+  }
+}

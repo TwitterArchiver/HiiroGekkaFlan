@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2075798649465151853",
+    "created_at": "2026-07-11T06:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T07:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075833586528481735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510099512034922497",
+          "start": 0,
+          "username": "CCskadoodle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075833586528481735",
+    "in_reply_to_user_id": "1510099512034922497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075805835561935059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCskadoodle 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2075798649465151853",
+        "created_at": "2026-07-11T06:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075833586528481735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510099512034922497",
+              "start": 0,
+              "username": "CCskadoodle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075833586528481735",
+        "in_reply_to_user_id": "1510099512034922497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075805835561935059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCskadoodle 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510099512034922497",
+        "conversation_id": "2075798649465151853",
+        "created_at": "2026-07-11T04:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075805835561935059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075805835561935059",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075798649465151853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 嘿嘿😸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 885,
+          "like_count": 12306,
+          "listed_count": 1,
+          "media_count": 420,
+          "tweet_count": 3683
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T03:39:26.000Z",
+        "description": "Type Moon大好き！\n最喜欢👁️👁️别人，还有型月一切相关❤️\nGameplay best love 基本上什么类型都玩，galgame也很喜欢，还有科幻小说…\nFGO or anything😊\n❤️❤️Love from Kohaku❤️❤️💊\nBTW May the force be with u！",
+        "id": "1510099512034922497",
+        "location": "迦蓝之堂",
+        "name": "C.C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075596255309496320/nC-CoIsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 206,
+          "like_count": 1825,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 507
+        },
+        "url": "",
+        "username": "CCskadoodle",
+        "verified": true
+      }
+    ]
+  }
+}

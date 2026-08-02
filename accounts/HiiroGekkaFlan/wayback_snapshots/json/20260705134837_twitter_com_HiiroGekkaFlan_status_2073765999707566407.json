@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2073279466101506315",
+    "created_at": "2026-07-05T13:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073765999707566407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1453379263176929284",
+          "start": 0,
+          "username": "ShangguanJiewen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073765999707566407",
+    "in_reply_to_user_id": "1453379263176929284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073279466101506315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShangguanJiewen “上官”这中国复姓太酷了！你是怎么想到的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1327,
+        "media_key": "3_2073277798676877312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXDLFbW0AA3grG.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2073279466101506315",
+        "created_at": "2026-07-05T13:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073765999707566407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1453379263176929284",
+              "start": 0,
+              "username": "ShangguanJiewen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073765999707566407",
+        "in_reply_to_user_id": "1453379263176929284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073279466101506315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShangguanJiewen “上官”这中国复姓太酷了！你是怎么想到的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073277798676877312"
+          ]
+        },
+        "author_id": "1453379263176929284",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "2073279466101506315",
+        "created_at": "2026-07-04T05:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073279466101506315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYCLmiVoKB",
+              "end": 282,
+              "expanded_url": "https://x.com/ShangguanJiewen/status/2073279466101506315/photo/1",
+              "media_key": "3_2073277798676877312",
+              "start": 259,
+              "url": "https://t.co/tYCLmiVoKB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073279466101506315",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 389706,
+          "like_count": 4876,
+          "quote_count": 41,
+          "reply_count": 1117,
+          "retweet_count": 356
+        },
+        "reply_settings": "everyone",
+        "text": "Today, July 4th, is my 14th year anniversary of living in China.\n\nI have permanent residency, am a homeowner, have a pension, and the people's insurance.\n\nI've been to every province of China, including Xizang, Macau, Hong Kong, and Taiwan.\n\nAsk me anything. https://t.co/tYCLmiVoKB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 876,
+          "like_count": 11650,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 3573
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T15:13:30.000Z",
+        "description": "An American Journalist in China, Published Author, Radio Show Host & Media Commentator. This is my personal account and all opinions are my own.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@thebridgetoCh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@thebridgetoChina/videos",
+                "start": 0,
+                "url": "https://t.co/hm6OgjP7m0"
+              }
+            ]
+          }
+        },
+        "id": "1453379263176929284",
+        "location": "Beijing, China",
+        "name": "Jason Smith - 上官杰文",
+        "pinned_tweet_id": "2073279466101506315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862376119275487232/2EUPstER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96140,
+          "following_count": 19416,
+          "like_count": 180988,
+          "listed_count": 895,
+          "media_count": 13394,
+          "tweet_count": 45256
+        },
+        "url": "https://t.co/hm6OgjP7m0",
+        "username": "ShangguanJiewen",
+        "verified": true
+      }
+    ]
+  }
+}

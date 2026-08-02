@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2079137671457415469",
+    "created_at": "2026-07-21T17:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T18:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079614713529602175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025478367148183552",
+          "start": 0,
+          "username": "TuJoseph89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079614713529602175",
+    "in_reply_to_user_id": "2025478367148183552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079611747431039255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuJoseph89 嘛，我就天天上網找樂子了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2079137671457415469",
+        "created_at": "2026-07-21T17:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079614713529602175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025478367148183552",
+              "start": 0,
+              "username": "TuJoseph89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079614713529602175",
+        "in_reply_to_user_id": "2025478367148183552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079611747431039255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuJoseph89 嘛，我就天天上網找樂子了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025478367148183552",
+        "conversation_id": "2079137671457415469",
+        "created_at": "2026-07-21T16:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079611747431039255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079611747431039255",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079137671457415469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 本來就是這樣的，一群自認為超牛逼的傻子，自我感覺良好，到頭來什麼啥也改變不了，只知道口嗨😂，那我問你你活著有意義嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 901,
+          "like_count": 13525,
+          "listed_count": 2,
+          "media_count": 468,
+          "tweet_count": 4028
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T07:51:04.000Z",
+        "description": "你算什么东西？现在互联网就是一群被互聯網洗到腦袋成屎的樂子😂人类真的烂透了都是血，利益，暴力为主的疯子 ，一群認知能力低下的傻子，有什麼資格批判我😂😂😂站在制高点上批判别人，觉得很骄傲的嗎？🤣這世道也是爛透了，你问我是谁？跟你们一样都是疯子，但我有思想，认知，而你们没有，這傻逼的世界全都去死吧😂",
+        "id": "2025478367148183552",
+        "location": "香港",
+        "name": "Tu Joseph",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079610156359557120/gye4HKMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 82,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "TuJoseph89",
+        "verified": false
+      }
+    ]
+  }
+}

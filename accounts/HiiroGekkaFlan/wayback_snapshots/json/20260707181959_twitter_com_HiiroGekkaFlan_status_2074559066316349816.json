@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2074533413999263758",
+    "created_at": "2026-07-07T18:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T19:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074559066316349816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1282644860772577280",
+          "start": 0,
+          "username": "Axi8848"
+        },
+        {
+          "end": 23,
+          "id": "1789567224531103744",
+          "start": 9,
+          "username": "hulaksid82022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074559066316349816",
+    "in_reply_to_user_id": "1282644860772577280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074555094876733527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Axi8848 @hulaksid82022 还有赛博活化石"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20200,
+        "height": 432,
+        "media_key": "13_2074555027088424960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074555027088424960/img/i1wJn3X9lncI5IZX.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074555027088424960/vid/avc1/320x432/4DElAj_IF7-cTXb_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074555027088424960/pl/jQBODHQq0zAhis_x.m3u8"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2074533413999263758",
+        "created_at": "2026-07-07T18:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074559066316349816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1282644860772577280",
+              "start": 0,
+              "username": "Axi8848"
+            },
+            {
+              "end": 23,
+              "id": "1789567224531103744",
+              "start": 9,
+              "username": "hulaksid82022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074559066316349816",
+        "in_reply_to_user_id": "1282644860772577280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074555094876733527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Axi8848 @hulaksid82022 还有赛博活化石"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074555027088424960"
+          ]
+        },
+        "author_id": "1282644860772577280",
+        "conversation_id": "2074533413999263758",
+        "created_at": "2026-07-07T18:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074555094876733527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789567224531103744",
+              "start": 0,
+              "username": "hulaksid82022"
+            },
+            {
+              "end": 30,
+              "id": "2042276998668525573",
+              "start": 15,
+              "username": "HiiroGekkaFlan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FTcti3teVe",
+              "end": 59,
+              "expanded_url": "https://x.com/Axi8848/status/2074555094876733527/video/1",
+              "media_key": "13_2074555027088424960",
+              "start": 36,
+              "url": "https://t.co/FTcti3teVe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074555094876733527",
+        "in_reply_to_user_id": "1789567224531103744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074542855650177223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hulaksid82022 @HiiroGekkaFlan 不用谢我 https://t.co/FTcti3teVe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 881,
+          "like_count": 12013,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 3626
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-13T11:55:56.000Z",
+        "description": "孔子来推特都得赶羚羊",
+        "id": "1282644860772577280",
+        "location": "Taiwan",
+        "name": "海鸥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071057993832259584/k-azVzd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 41,
+          "like_count": 4251,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 854
+        },
+        "url": "",
+        "username": "Axi8848",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T08:04:31.000Z",
+        "description": "接受免费简单的心理咨询聊天，欢迎鼓起勇气和我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HZYYDS8",
+                "end": 23,
+                "expanded_url": "https://t.me/HZYYDS8",
+                "start": 0,
+                "url": "https://t.co/nj7TP6OHN7"
+              }
+            ]
+          }
+        },
+        "id": "1789567224531103744",
+        "location": "💔",
+        "name": "flohzw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069882741387309056/nhBI2ot1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/nj7TP6OHN7",
+        "username": "hulaksid82022",
+        "verified": false
+      }
+    ]
+  }
+}

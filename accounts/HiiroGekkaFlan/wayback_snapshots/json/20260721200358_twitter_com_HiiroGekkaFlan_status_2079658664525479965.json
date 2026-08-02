@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2079658664525479965",
+    "created_at": "2026-07-21T20:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T21:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079658664525479965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HiiroGekkaFlan…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/HiiroGekkaFlan/status/2079528470141616586",
+          "start": 28,
+          "url": "https://t.co/YLJrZIG1CY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079658664525479965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079528470141616586",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实是这个傻逼买了50块的刮刮乐没中，想出的脑瘫文案😡 https://t.co/YLJrZIG1CY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_2079528462835167232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNv4Hn-asAAG5it.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2079658664525479965",
+        "created_at": "2026-07-21T20:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T21:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079658664525479965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HiiroGekkaFlan…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/HiiroGekkaFlan/status/2079528470141616586",
+              "start": 28,
+              "url": "https://t.co/YLJrZIG1CY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079658664525479965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079528470141616586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实是这个傻逼买了50块的刮刮乐没中，想出的脑瘫文案😡 https://t.co/YLJrZIG1CY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079528462835167232"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079528470141616586",
+        "created_at": "2026-07-21T11:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079528470141616586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tPQqVdCVUQ",
+              "end": 74,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2079528470141616586/photo/1",
+              "media_key": "3_2079528462835167232",
+              "start": 51,
+              "url": "https://t.co/tPQqVdCVUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079528470141616586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1429,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你在刮刮乐和大乐透上花的钱没中奖，只是暂时存放在那里了，如果你以后不买了，存在那的钱可是真的没有了🤓 https://t.co/tPQqVdCVUQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 904,
+          "like_count": 13566,
+          "listed_count": 2,
+          "media_count": 468,
+          "tweet_count": 4039
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

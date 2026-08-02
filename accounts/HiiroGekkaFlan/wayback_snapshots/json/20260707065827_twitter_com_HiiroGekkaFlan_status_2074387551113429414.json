@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2074284836156793185",
+    "created_at": "2026-07-07T06:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074387551113429414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1527586768891125760",
+          "start": 0,
+          "username": "wangxizhiKYWYW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074387551113429414",
+    "in_reply_to_user_id": "1527586768891125760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074284836156793185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangxizhiKYWYW 还有文字狱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1810,
+        "media_key": "3_2074284833677971456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlXEPJbEAAKl3K.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2074284836156793185",
+        "created_at": "2026-07-07T06:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074387551113429414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1527586768891125760",
+              "start": 0,
+              "username": "wangxizhiKYWYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074387551113429414",
+        "in_reply_to_user_id": "1527586768891125760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074284836156793185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangxizhiKYWYW 还有文字狱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074284833677971456"
+          ]
+        },
+        "author_id": "1527586768891125760",
+        "conversation_id": "2074284836156793185",
+        "created_at": "2026-07-07T00:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074284836156793185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iW589E3Vxx",
+              "end": 30,
+              "expanded_url": "https://x.com/wangxizhiKYWYW/status/2074284836156793185/photo/1",
+              "media_key": "3_2074284833677971456",
+              "start": 7,
+              "url": "https://t.co/iW589E3Vxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074284836156793185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10348,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "洪清野史吗？ https://t.co/iW589E3Vxx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 880,
+          "like_count": 11863,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 3591
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T09:47:40.000Z",
+        "description": "半文盲|\n我是回民见不得这个|\n为梁启超乐园而奋斗|\n学无止境|\n啊哈哈哈，我不识字|\n@wangzhixi_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "wangzhixi_1"
+              }
+            ]
+          }
+        },
+        "id": "1527586768891125760",
+        "location": "汉地",
+        "name": "怒尼威",
+        "pinned_tweet_id": "2040417016893636890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010168349041537025/dgUXtGIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 998,
+          "like_count": 47909,
+          "listed_count": 5,
+          "media_count": 3741,
+          "tweet_count": 14973
+        },
+        "url": "",
+        "username": "wangxizhiKYWYW",
+        "verified": false
+      }
+    ]
+  }
+}

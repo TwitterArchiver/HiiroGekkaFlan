@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2077980399339467254",
+    "created_at": "2026-07-20T09:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T10:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079137404993364200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1917261838485708802",
+          "start": 0,
+          "username": "qiujiudev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079137404993364200",
+    "in_reply_to_user_id": "1917261838485708802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077980399339467254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiujiudev 哦不😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2077980369685782528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZ4IvlbIAAMc2W.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2077980379248766976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZ4JTNasAA-T9_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2077980388509835264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZ4J1tbYAAMqng.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2077980399339467254",
+        "created_at": "2026-07-20T09:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079137404993364200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1917261838485708802",
+              "start": 0,
+              "username": "qiujiudev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079137404993364200",
+        "in_reply_to_user_id": "1917261838485708802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077980399339467254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiujiudev 哦不😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077980369685782528",
+            "3_2077980379248766976",
+            "3_2077980388509835264"
+          ]
+        },
+        "author_id": "1917261838485708802",
+        "conversation_id": "2077980399339467254",
+        "created_at": "2026-07-17T04:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077980399339467254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hY2OZZCJxw",
+              "end": 66,
+              "expanded_url": "https://x.com/qiujiudev/status/2077980399339467254/photo/1",
+              "media_key": "3_2077980369685782528",
+              "start": 43,
+              "url": "https://t.co/hY2OZZCJxw"
+            },
+            {
+              "display_url": "pic.x.com/hY2OZZCJxw",
+              "end": 66,
+              "expanded_url": "https://x.com/qiujiudev/status/2077980399339467254/photo/1",
+              "media_key": "3_2077980379248766976",
+              "start": 43,
+              "url": "https://t.co/hY2OZZCJxw"
+            },
+            {
+              "display_url": "pic.x.com/hY2OZZCJxw",
+              "end": 66,
+              "expanded_url": "https://x.com/qiujiudev/status/2077980399339467254/photo/1",
+              "media_key": "3_2077980388509835264",
+              "start": 43,
+              "url": "https://t.co/hY2OZZCJxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077980399339467254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的自行车😭😭😭😭😭😭谁这么闲把我的26岁自行车偷走了！！！\n偷车贼我不打死你个龟孙 https://t.co/hY2OZZCJxw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 901,
+          "like_count": 13148,
+          "listed_count": 1,
+          "media_count": 460,
+          "tweet_count": 3949
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T16:57:06.000Z",
+        "description": "你好啊，我是一个普普通通的10后wmc，一位VOCALOID爱好者，爱好广泛杂食党，欢迎扩列www",
+        "id": "1917261838485708802",
+        "name": "秋玖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077321726548193281/6_jw7mdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 190,
+          "like_count": 1380,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "qiujiudev",
+        "verified": false
+      }
+    ]
+  }
+}

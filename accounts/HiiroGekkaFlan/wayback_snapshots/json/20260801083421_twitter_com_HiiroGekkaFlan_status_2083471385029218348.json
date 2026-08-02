@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2083227495927894492",
+    "created_at": "2026-08-01T08:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083471385029218348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1998421154562973696",
+          "start": 0,
+          "username": "ffaa1683174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083471385029218348",
+    "in_reply_to_user_id": "1998421154562973696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083227495927894492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffaa1683174 阴谋论这一块（指转帖内容）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2083227495927894492",
+        "created_at": "2026-08-01T08:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083471385029218348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1998421154562973696",
+              "start": 0,
+              "username": "ffaa1683174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083471385029218348",
+        "in_reply_to_user_id": "1998421154562973696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083227495927894492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffaa1683174 阴谋论这一块（指转帖内容）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998421154562973696",
+        "conversation_id": "2083227495927894492",
+        "created_at": "2026-07-31T16:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083227495927894492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WanjunXie/stat…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/WanjunXie/status/2082985181607026726",
+              "start": 139,
+              "url": "https://t.co/ix8n3jSrwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083227495927894492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1189,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082985181607026726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是信川普总统，还是信世界卫生组织？\n\n官方报告核心结论（2021年3月30日发布）\n专家组对4种传入路径风险分级：\n \n- 经由野生动物中间宿主传入人类：比较可能～非常可能\n​\n- 直接从蝙蝠传人：可能～比较可能\n​\n- 冷链食品传入：可能\n​\n- 实验室泄漏途径：极不可能 https://t.co/ix8n3jSrwD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 901,
+          "like_count": 13777,
+          "listed_count": 2,
+          "media_count": 487,
+          "tweet_count": 4109
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T15:56:01.000Z",
+        "description": "冷知识：博丽柠檬不是御坂美琴\n冷知识：也不是藤原妹红",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://cpc.people.com.cn",
+                "start": 0,
+                "url": "https://t.co/aieclHlFvH"
+              }
+            ]
+          }
+        },
+        "id": "1998421154562973696",
+        "location": "东方project 幻想乡 博丽神社",
+        "name": "博丽灵梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998585900801064960/AXVZqJUK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 63,
+          "like_count": 14134,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 2368
+        },
+        "url": "https://t.co/aieclHlFvH",
+        "username": "ffaa1683174",
+        "verified": false
+      }
+    ]
+  }
+}

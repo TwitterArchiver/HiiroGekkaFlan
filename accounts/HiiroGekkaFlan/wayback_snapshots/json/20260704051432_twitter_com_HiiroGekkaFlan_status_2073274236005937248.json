@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2073272224249999382",
+    "created_at": "2026-07-04T05:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073274236005937248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2061837040837328896",
+          "start": 0,
+          "username": "Liyuugw9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073274236005937248",
+    "in_reply_to_user_id": "2061837040837328896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073273990542684408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liyuugw9 忘不了的……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2073272224249999382",
+        "created_at": "2026-07-04T05:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073274236005937248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2061837040837328896",
+              "start": 0,
+              "username": "Liyuugw9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073274236005937248",
+        "in_reply_to_user_id": "2061837040837328896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073273990542684408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liyuugw9 忘不了的……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061837040837328896",
+        "conversation_id": "2073272224249999382",
+        "created_at": "2026-07-04T05:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073273990542684408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073273990542684408",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073272224249999382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 有些东西一旦知道就忘不了了🤗🤗🤗\n就像被恶堕一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 872,
+          "like_count": 11527,
+          "listed_count": 1,
+          "media_count": 395,
+          "tweet_count": 3543
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T15:48:05.000Z",
+        "description": "驚天一條區",
+        "id": "2061837040837328896",
+        "name": "蘇斯洛夫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061837474004185088/__-U-cVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 36,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "Liyuugw9",
+        "verified": false
+      }
+    ]
+  }
+}

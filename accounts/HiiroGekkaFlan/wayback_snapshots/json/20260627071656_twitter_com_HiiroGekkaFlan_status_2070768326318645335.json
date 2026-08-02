@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2070550419437470177",
+    "created_at": "2026-06-27T07:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T08:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070768326318645335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048745058804105216",
+          "start": 0,
+          "username": "TaoistYouth"
+        },
+        {
+          "end": 28,
+          "id": "2061495112694476800",
+          "start": 13,
+          "username": "FrenchFrie88xd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070768326318645335",
+    "in_reply_to_user_id": "2048745058804105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070698245861614051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaoistYouth @FrenchFrie88xd 敢这么说话，家里老冯是批发的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2070550419437470177",
+        "created_at": "2026-06-27T07:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070768326318645335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048745058804105216",
+              "start": 0,
+              "username": "TaoistYouth"
+            },
+            {
+              "end": 28,
+              "id": "2061495112694476800",
+              "start": 13,
+              "username": "FrenchFrie88xd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070768326318645335",
+        "in_reply_to_user_id": "2048745058804105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070698245861614051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoistYouth @FrenchFrie88xd 敢这么说话，家里老冯是批发的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048745058804105216",
+        "conversation_id": "2070550419437470177",
+        "created_at": "2026-06-27T02:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070698245861614051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            },
+            {
+              "end": 31,
+              "id": "2061495112694476800",
+              "start": 16,
+              "username": "FrenchFrie88xd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070698245861614051",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070550419437470177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan @FrenchFrie88xd 就你有呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 871,
+          "like_count": 11037,
+          "listed_count": 1,
+          "media_count": 375,
+          "tweet_count": 3420
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T12:44:34.000Z",
+        "description": "右翼自由派/永远铭记六四/\n一入玄门终不悔，永做三清不二臣/\n日本留学生/道教善信☯/友跨非跨🏳️‍⚧️/\n小粉红行为特征如下：\n1. 行为割裂：肉体翻墙享受言论自由，精神筑墙赞美信息禁锢。\n2.认知防卫：逻辑无法自洽时，迅速启动宏大叙事与自我感动催眠。\n3.去智识化：无法进行逻辑辩论，只会扣帽、比烂、人身攻击与举报",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20682…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2068245264130093343",
+                "start": 0,
+                "url": "https://t.co/tdMqKrrl6Y"
+              }
+            ]
+          }
+        },
+        "id": "2048745058804105216",
+        "location": "日本东京",
+        "name": "☯︎Taoist Youth🇨🇳🇯🇵",
+        "pinned_tweet_id": "2062141364662636669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750584791171072/wJ8bgXnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 208,
+          "like_count": 6570,
+          "listed_count": 4,
+          "media_count": 220,
+          "tweet_count": 2114
+        },
+        "url": "https://t.co/tdMqKrrl6Y",
+        "username": "TaoistYouth",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T17:10:53.000Z",
+        "description": "闪闪红星今犹在 不见当年红军还",
+        "id": "2061495112694476800",
+        "location": "长征第一渡",
+        "name": "French Fries Communist Party",
+        "pinned_tweet_id": "2068223649598066756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061496048116441088/qKr1IPw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 738,
+          "like_count": 3055,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 635
+        },
+        "url": "",
+        "username": "FrenchFrie88xd",
+        "verified": false
+      }
+    ]
+  }
+}

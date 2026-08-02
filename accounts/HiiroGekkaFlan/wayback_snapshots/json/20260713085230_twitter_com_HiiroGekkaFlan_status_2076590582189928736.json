@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2076349031392182683",
+    "created_at": "2026-07-13T08:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T09:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076590582189928736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2055430038183632896",
+          "start": 0,
+          "username": "qlnber999"
+        }
+      ],
+      "urls": [
+        {
+          "description": "X（Twitter）の交流をグリッド状に一覧表示します。集計は過去30日分の公開データに限ります。ログイン不要で、勝手に投稿されることはありません。",
+          "display_url": "nareaitter.hikamer.f5.si",
+          "end": 34,
+          "expanded_url": "https://nareaitter.hikamer.f5.si/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2074761821316374528/5eO3FBYP?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2074761821316374528/5eO3FBYP?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 11,
+          "status": 200,
+          "title": "Twitter馴れ合いサークル",
+          "unwound_url": "https://nareaitter.hikamer.f5.si/",
+          "url": "https://t.co/X9IUH2lHeh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076590582189928736",
+    "in_reply_to_user_id": "2055430038183632896",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076384594119831817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qlnber999 https://t.co/X9IUH2lHeh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2076349031392182683",
+        "created_at": "2026-07-13T08:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076590582189928736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2055430038183632896",
+              "start": 0,
+              "username": "qlnber999"
+            }
+          ],
+          "urls": [
+            {
+              "description": "X（Twitter）の交流をグリッド状に一覧表示します。集計は過去30日分の公開データに限ります。ログイン不要で、勝手に投稿されることはありません。",
+              "display_url": "nareaitter.hikamer.f5.si",
+              "end": 34,
+              "expanded_url": "https://nareaitter.hikamer.f5.si/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2074761821316374528/5eO3FBYP?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074761821316374528/5eO3FBYP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 11,
+              "status": 200,
+              "title": "Twitter馴れ合いサークル",
+              "unwound_url": "https://nareaitter.hikamer.f5.si/",
+              "url": "https://t.co/X9IUH2lHeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076590582189928736",
+        "in_reply_to_user_id": "2055430038183632896",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076384594119831817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qlnber999 https://t.co/X9IUH2lHeh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055430038183632896",
+        "conversation_id": "2076349031392182683",
+        "created_at": "2026-07-12T19:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T20:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076384594119831817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076384594119831817",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076349031392182683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 话说这个怎么查看？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 892,
+          "like_count": 12489,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 3734
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T23:28:22.000Z",
+        "description": "不吸烟/不喝酒/并非跨性别主义者/不吸毒/\n精神状态糟糕/抑郁症\n单推琪露诺\n关系较好的推友:\n@neko0523_1\n现实好友:\n@Justwalkedby",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "neko0523_1"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Justwalkedby"
+              }
+            ]
+          }
+        },
+        "id": "2055430038183632896",
+        "name": "英格林派教宗琪露诺（）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055469929621778432/QE9w5G2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 61,
+          "like_count": 1266,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1571
+        },
+        "url": "",
+        "username": "qlnber999",
+        "verified": false
+      }
+    ]
+  }
+}

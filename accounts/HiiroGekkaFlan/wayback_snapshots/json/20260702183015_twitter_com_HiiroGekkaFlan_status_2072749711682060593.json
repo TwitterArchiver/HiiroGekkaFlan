@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072749702005850112"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "conversation_id": "2072749711682060593",
+    "created_at": "2026-07-02T18:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T19:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072749711682060593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BETV2jbLnH",
+          "end": 90,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2072749711682060593/photo/1",
+          "media_key": "3_2072749702005850112",
+          "start": 67,
+          "url": "https://t.co/BETV2jbLnH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072749711682060593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很奇怪，这个视频刚发的时候有100多条评论，但过了不到几天评论区被凌晨清场了\n虽然大家懂得都懂，但有些事情被故意埋没，确实不是滋味😢 https://t.co/BETV2jbLnH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072749702005850112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPi30BbAAAsdRX.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072749702005850112"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2072749711682060593",
+        "created_at": "2026-07-02T18:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072749711682060593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BETV2jbLnH",
+              "end": 90,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2072749711682060593/photo/1",
+              "media_key": "3_2072749702005850112",
+              "start": 67,
+              "url": "https://t.co/BETV2jbLnH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072749711682060593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很奇怪，这个视频刚发的时候有100多条评论，但过了不到几天评论区被凌晨清场了\n虽然大家懂得都懂，但有些事情被故意埋没，确实不是滋味😢 https://t.co/BETV2jbLnH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 872,
+          "like_count": 11433,
+          "listed_count": 1,
+          "media_count": 391,
+          "tweet_count": 3505
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2070677638352617687",
+    "created_at": "2026-06-27T12:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070847535074386186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2056603029638467584",
+          "start": 0,
+          "username": "SunXiaoChu8xyr"
+        },
+        {
+          "end": 27,
+          "id": "1875060082494611456",
+          "start": 16,
+          "username": "luq1472131"
+        },
+        {
+          "end": 42,
+          "id": "1622066090074607616",
+          "start": 28,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070847535074386186",
+    "in_reply_to_user_id": "2056603029638467584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070716433462386715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SunXiaoChu8xyr @luq1472131 @hoshinofujivy 666是有钱入😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2070677638352617687",
+        "created_at": "2026-06-27T12:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070847535074386186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2056603029638467584",
+              "start": 0,
+              "username": "SunXiaoChu8xyr"
+            },
+            {
+              "end": 27,
+              "id": "1875060082494611456",
+              "start": 16,
+              "username": "luq1472131"
+            },
+            {
+              "end": 42,
+              "id": "1622066090074607616",
+              "start": 28,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070847535074386186",
+        "in_reply_to_user_id": "2056603029638467584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070716433462386715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SunXiaoChu8xyr @luq1472131 @hoshinofujivy 666是有钱入😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056603029638467584",
+        "conversation_id": "2070677638352617687",
+        "created_at": "2026-06-27T03:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070716433462386715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1875060082494611456",
+              "start": 0,
+              "username": "luq1472131"
+            },
+            {
+              "end": 26,
+              "id": "1622066090074607616",
+              "start": 12,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070716433462386715",
+        "in_reply_to_user_id": "1875060082494611456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070715969039708658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luq1472131 @hoshinofujivy 我用的漫游。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 871,
+          "like_count": 11084,
+          "listed_count": 1,
+          "media_count": 377,
+          "tweet_count": 3435
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T05:10:18.000Z",
+        "description": "Fatal_Block一个我的世界无规则服务器，官方网站：https://t.co/nBtC8pBHhT\n面对真正的神明，愚昧自己也只能缄口不言。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fatalblock.top",
+                "end": 52,
+                "expanded_url": "https://fatalblock.top",
+                "start": 29,
+                "url": "https://t.co/nBtC8pBHhT"
+              }
+            ]
+          }
+        },
+        "id": "2056603029638467584",
+        "name": "Sun XiaoChuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056603870743187456/qvsp1hfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 435,
+          "like_count": 651,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "SunXiaoChu8xyr",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-03T06:02:36.000Z",
+        "description": "Hello my name is Roky",
+        "id": "1875060082494611456",
+        "location": "Overath, Deutschland",
+        "name": "Roky♋️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068357297076895744/jVXJCAXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 66,
+          "like_count": 1985,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 818
+        },
+        "url": "",
+        "username": "luq1472131",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12250,
+          "following_count": 4380,
+          "like_count": 49673,
+          "listed_count": 37,
+          "media_count": 2992,
+          "tweet_count": 16696
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2068965713088552964",
+    "created_at": "2026-06-22T19:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T20:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069146244283527279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1527253511918198784",
+          "start": 0,
+          "username": "shallowbillion"
+        },
+        {
+          "end": 23,
+          "id": "1664742004423794688",
+          "start": 16,
+          "username": "rwayne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069146244283527279",
+    "in_reply_to_user_id": "1527253511918198784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069041463095373866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shallowbillion @rwayne 辛苦了兄弟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2069041458544517120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLa2PooaIAAM174.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2068965713088552964",
+        "created_at": "2026-06-22T19:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T20:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069146244283527279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1527253511918198784",
+              "start": 0,
+              "username": "shallowbillion"
+            },
+            {
+              "end": 23,
+              "id": "1664742004423794688",
+              "start": 16,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069146244283527279",
+        "in_reply_to_user_id": "1527253511918198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069041463095373866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shallowbillion @rwayne 辛苦了兄弟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069041458544517120"
+          ]
+        },
+        "author_id": "1527253511918198784",
+        "conversation_id": "2068965713088552964",
+        "created_at": "2026-06-22T12:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069041463095373866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1664742004423794688",
+              "start": 0,
+              "username": "rwayne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0rBbB4PRnR",
+              "end": 47,
+              "expanded_url": "https://x.com/shallowbillion/status/2069041463095373866/photo/1",
+              "media_key": "3_2069041458544517120",
+              "start": 24,
+              "url": "https://t.co/0rBbB4PRnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069041463095373866",
+        "in_reply_to_user_id": "1664742004423794688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 64039,
+          "like_count": 318,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068965713088552964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rwayne 不会，很高兴的，又是一瓶纯净水 https://t.co/0rBbB4PRnR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 869,
+          "like_count": 10599,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 3277
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T11:43:18.000Z",
+        "description": "曾经沧海难为水，除却巫山不是云。",
+        "id": "1527253511918198784",
+        "location": "精神病院🏠",
+        "name": "Billion📷🕹️🎶",
+        "pinned_tweet_id": "1807513960494862758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527253702850973699/e0CXp1t7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 10,
+          "like_count": 172,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 906
+        },
+        "url": "",
+        "username": "shallowbillion",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "一切身份标签都是当下的自我逃避\n⭐ 订阅都是本人精华｜优先回复订阅者评论和私信👈",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2067589122047504522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51858,
+          "following_count": 761,
+          "like_count": 37758,
+          "listed_count": 271,
+          "media_count": 4883,
+          "tweet_count": 18689
+        },
+        "url": "",
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

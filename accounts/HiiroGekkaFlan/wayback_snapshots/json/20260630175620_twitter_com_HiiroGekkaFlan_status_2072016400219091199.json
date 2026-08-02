@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2071608772045557942",
+    "created_at": "2026-06-30T17:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072016400219091199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1721287031844954112",
+          "start": 0,
+          "username": "LogicGodIsMe"
+        },
+        {
+          "end": 27,
+          "id": "1756246342676979713",
+          "start": 14,
+          "username": "shungleemain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072016400219091199",
+    "in_reply_to_user_id": "1721287031844954112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071722878903734425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LogicGodIsMe @shungleemain 兩岸同屬一中！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2071608772045557942",
+        "created_at": "2026-06-30T17:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072016400219091199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1721287031844954112",
+              "start": 0,
+              "username": "LogicGodIsMe"
+            },
+            {
+              "end": 27,
+              "id": "1756246342676979713",
+              "start": 14,
+              "username": "shungleemain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072016400219091199",
+        "in_reply_to_user_id": "1721287031844954112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071722878903734425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LogicGodIsMe @shungleemain 兩岸同屬一中！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721287031844954112",
+        "conversation_id": "2071608772045557942",
+        "created_at": "2026-06-29T22:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T23:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071722878903734425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756246342676979713",
+              "start": 0,
+              "username": "shungleemain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071722878903734425",
+        "in_reply_to_user_id": "1756246342676979713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 158955,
+          "like_count": 765,
+          "quote_count": 1,
+          "reply_count": 186,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071608772045557942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shungleemain 一眼看就是左邊啊\n請接受大陸已經淪陷的客觀事實\n踏上被共匪佔領的大陸並不恥辱\n我們有朝一日終將統一大陸淪陷區"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 874,
+          "like_count": 11318,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 3482
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T22:03:39.000Z",
+        "description": "專嘴傻逼和傻屌的邏輯鬼才之神",
+        "id": "1721287031844954112",
+        "name": "中國臺灣終將復興大陸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006354101161123840/LvPsNmT4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "LogicGodIsMe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "超級好詭秘 @Akinoyo_desu\n可愛的蜜獾 @kittymi030\n可愛的Mercy @Mercyvnv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "kittymi030"
+              },
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Mercyvnv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shungleemain",
+                "end": 23,
+                "expanded_url": "https://t.me/shungleemain",
+                "start": 0,
+                "url": "https://t.co/ZWd7sZXvOA"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "來看生力麵的TG→",
+        "name": "聖米格爾生力麵",
+        "pinned_tweet_id": "2070576452765147391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041138223767003137/717JFCWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2405,
+          "following_count": 621,
+          "like_count": 2837,
+          "listed_count": 7,
+          "media_count": 600,
+          "tweet_count": 6921
+        },
+        "url": "https://t.co/ZWd7sZXvOA",
+        "username": "shungleemain",
+        "verified": false
+      }
+    ]
+  }
+}

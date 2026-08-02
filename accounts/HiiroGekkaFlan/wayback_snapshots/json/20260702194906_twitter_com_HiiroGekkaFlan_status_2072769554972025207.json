@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2072769554972025207",
+    "created_at": "2026-07-02T19:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T20:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072769554972025207"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/naufaldreamer/…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/naufaldreamer/status/2064087102699213214",
+          "start": 38,
+          "url": "https://t.co/Yq169gHUhK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072769554972025207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064087102699213214",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再说一遍 一遍就好\n好让我放弃吧\n再见一面 一面就好\n聊聊那盆跳下楼的鲜花 https://t.co/Yq169gHUhK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "16_2064087045887401984",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKUcO3OaoAAKy2X.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKUcO3OaoAAKy2X.mp4"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2072769554972025207",
+        "created_at": "2026-07-02T19:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072769554972025207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/naufaldreamer/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/naufaldreamer/status/2064087102699213214",
+              "start": 38,
+              "url": "https://t.co/Yq169gHUhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072769554972025207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064087102699213214",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再说一遍 一遍就好\n好让我放弃吧\n再见一面 一面就好\n聊聊那盆跳下楼的鲜花 https://t.co/Yq169gHUhK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2064087045887401984"
+          ]
+        },
+        "author_id": "1025545938205470720",
+        "conversation_id": "2064087102699213214",
+        "created_at": "2026-06-08T20:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T21:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064087102699213214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mQ44pUbkDm",
+              "end": 23,
+              "expanded_url": "https://x.com/naufaldreamer/status/2064087102699213214/photo/1",
+              "media_key": "16_2064087045887401984",
+              "start": 0,
+              "url": "https://t.co/mQ44pUbkDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064087102699213214",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 21330,
+          "like_count": 2333,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 280
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mQ44pUbkDm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 872,
+          "like_count": 11453,
+          "listed_count": 1,
+          "media_count": 392,
+          "tweet_count": 3518
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T00:56:20.000Z",
+        "description": "I do 東方 art mostly | commission : open (DM on Twitter or discord 'naufaldreamer' for comms/check pinned) | also on other socials with the same name",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "naufaldreamer.carrd.co",
+                "end": 23,
+                "expanded_url": "http://naufaldreamer.carrd.co",
+                "start": 0,
+                "url": "https://t.co/X2KbjEjLJ4"
+              }
+            ]
+          }
+        },
+        "id": "1025545938205470720",
+        "location": "the moon/NO-AI usage allowed ",
+        "name": "Naufaldreamer (comms open 5/7)",
+        "pinned_tweet_id": "1809807576957440124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1502589017203769345/N_FOOSie_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31630,
+          "following_count": 557,
+          "like_count": 23424,
+          "listed_count": 157,
+          "media_count": 919,
+          "tweet_count": 13988
+        },
+        "url": "https://t.co/X2KbjEjLJ4",
+        "username": "naufaldreamer",
+        "verified": false
+      }
+    ]
+  }
+}

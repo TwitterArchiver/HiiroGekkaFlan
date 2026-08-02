@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2069027396939038873",
+    "created_at": "2026-06-22T19:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T20:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069145907875266780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1938160341885865984",
+          "start": 0,
+          "username": "heweidaootto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069145907875266780",
+    "in_reply_to_user_id": "1938160341885865984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069027396939038873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heweidaootto 改革开放，好就是好！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 384,
+        "media_key": "3_2069027385161494528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLapcdMbMAAHwkF.jpg",
+        "width": 390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2069027396939038873",
+        "created_at": "2026-06-22T19:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T20:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069145907875266780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1938160341885865984",
+              "start": 0,
+              "username": "heweidaootto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069145907875266780",
+        "in_reply_to_user_id": "1938160341885865984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069027396939038873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heweidaootto 改革开放，好就是好！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069027385161494528"
+          ]
+        },
+        "author_id": "1938160341885865984",
+        "conversation_id": "2069027396939038873",
+        "created_at": "2026-06-22T11:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069027396939038873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xHzPqwMaGQ",
+              "end": 31,
+              "expanded_url": "https://x.com/heweidaootto/status/2069027396939038873/photo/1",
+              "media_key": "3_2069027385161494528",
+              "start": 8,
+              "url": "https://t.co/xHzPqwMaGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069027396939038873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 855,
+          "like_count": 23,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反邓贼我碾你妈 https://t.co/xHzPqwMaGQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 869,
+          "like_count": 10595,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 3275
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T09:00:18.000Z",
+        "description": "你何意味？",
+        "id": "1938160341885865984",
+        "location": "Nai Long",
+        "name": "弹坦克（合意味？）",
+        "pinned_tweet_id": "2066737414287286688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045691534658445312/3s5t4kS1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 113,
+          "like_count": 3935,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 799
+        },
+        "url": "",
+        "username": "heweidaootto",
+        "verified": false
+      }
+    ]
+  }
+}

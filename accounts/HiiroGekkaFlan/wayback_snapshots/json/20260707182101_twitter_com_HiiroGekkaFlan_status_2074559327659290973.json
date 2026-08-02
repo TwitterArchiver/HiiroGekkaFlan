@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2074224044514435149",
+    "created_at": "2026-07-07T18:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T19:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074559327659290973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1336711590058422274",
+          "start": 0,
+          "username": "whenthe9396"
+        },
+        {
+          "end": 24,
+          "id": "1884393575938695168",
+          "start": 13,
+          "username": "x00ge_ii63"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074559327659290973",
+    "in_reply_to_user_id": "1336711590058422274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074487735398891523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whenthe9396 @x00ge_ii63 经典炮轰新葡京"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2074487727798800385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoPmOpa0AEZxgP.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2074224044514435149",
+        "created_at": "2026-07-07T18:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074559327659290973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1336711590058422274",
+              "start": 0,
+              "username": "whenthe9396"
+            },
+            {
+              "end": 24,
+              "id": "1884393575938695168",
+              "start": 13,
+              "username": "x00ge_ii63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074559327659290973",
+        "in_reply_to_user_id": "1336711590058422274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074487735398891523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whenthe9396 @x00ge_ii63 经典炮轰新葡京"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074487727798800385"
+          ]
+        },
+        "author_id": "1336711590058422274",
+        "conversation_id": "2074224044514435149",
+        "created_at": "2026-07-07T13:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074487735398891523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1884393575938695168",
+              "start": 0,
+              "username": "x00ge_ii63"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kq186Tripa",
+              "end": 41,
+              "expanded_url": "https://x.com/whenthe9396/status/2074487735398891523/photo/1",
+              "media_key": "3_2074487727798800385",
+              "start": 18,
+              "url": "https://t.co/kq186Tripa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074487735398891523",
+        "in_reply_to_user_id": "1884393575938695168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1240,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074224044514435149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x00ge_ii63 想吃炮弹了 https://t.co/kq186Tripa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 881,
+          "like_count": 12014,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 3627
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-09T16:37:44.000Z",
+        "description": "💬中文🔁💬日本語、English…",
+        "id": "1336711590058422274",
+        "name": "Suishi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818979278090043392/2S5kQyNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 140,
+          "like_count": 19756,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "whenthe9396",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T00:10:29.000Z",
+        "description": "实事求是 | apparition | schizo-machine | analysis of social-suicide under the necromancy of the ideological over-territorialized apparatus",
+        "id": "1884393575938695168",
+        "location": "🇵🇭 - he/him",
+        "name": "tadano!🪄",
+        "pinned_tweet_id": "2074373553898885293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036270515380428800/daOcih2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2890,
+          "following_count": 6640,
+          "like_count": 251783,
+          "listed_count": 36,
+          "media_count": 4190,
+          "tweet_count": 44573
+        },
+        "url": "",
+        "username": "x00ge_ii63",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082874438392176640"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "conversation_id": "2082735697124106245",
+    "created_at": "2026-07-30T17:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T18:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082874447846113362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UPhvLFUAIF",
+          "end": 78,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2082874447846113362/photo/1",
+          "media_key": "3_2082874438392176640",
+          "start": 55,
+          "url": "https://t.co/UPhvLFUAIF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082874447846113362",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082735697124106245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 曾经21年大号用b站上传过弱智视频小火了\n25万播放量就赚了70多块（大喜） https://t.co/UPhvLFUAIF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2082874438392176640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfbRCQbYAAem6u.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2082723562935476225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdSC7Ya4AEHS7i.jpg",
+        "width": 755
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082874438392176640"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2082735697124106245",
+        "created_at": "2026-07-30T17:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082874447846113362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UPhvLFUAIF",
+              "end": 78,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2082874447846113362/photo/1",
+              "media_key": "3_2082874438392176640",
+              "start": 55,
+              "url": "https://t.co/UPhvLFUAIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082874447846113362",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082735697124106245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 曾经21年大号用b站上传过弱智视频小火了\n25万播放量就赚了70多块（大喜） https://t.co/UPhvLFUAIF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082723562935476225"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2082735697124106245",
+        "created_at": "2026-07-30T07:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082735697124106245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i60XSW8nap",
+              "end": 154,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2082735697124106245/photo/1",
+              "media_key": "3_2082723562935476225",
+              "start": 131,
+              "url": "https://t.co/i60XSW8nap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082735697124106245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 18555,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 54,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不是，Bilibili 创作激励收益已经低成这样了？800K 播放量就给 20 CNY？😨\n\n環状線记得大概 2022 年的时候看过一个视频，说自己做 UP 主一个视频几万播放量就有几百 CNY 来着……我们的 Bilibili，未来究竟会变成什么样子*啜泣* https://t.co/i60XSW8nap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 901,
+          "like_count": 13710,
+          "listed_count": 2,
+          "media_count": 477,
+          "tweet_count": 4077
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12533,
+          "following_count": 877,
+          "like_count": 32132,
+          "listed_count": 20,
+          "media_count": 2336,
+          "tweet_count": 11304
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

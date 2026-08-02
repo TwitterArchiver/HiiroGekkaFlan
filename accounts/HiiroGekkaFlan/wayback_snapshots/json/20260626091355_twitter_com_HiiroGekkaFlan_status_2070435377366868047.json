@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070435374632243200"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2070435377366868047",
+    "created_at": "2026-06-26T09:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070435377366868047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cHY6M57GTe",
+          "end": 46,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2070435377366868047/photo/1",
+          "media_key": "3_2070435374632243200",
+          "start": 23,
+          "url": "https://t.co/cHY6M57GTe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070435377366868047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是互联网阴沟臭老鼠，我看不得一点豪人TV😭 https://t.co/cHY6M57GTe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 847,
+        "media_key": "3_2070435374632243200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuqAOtbkAAES2z.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070435374632243200"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2070435377366868047",
+        "created_at": "2026-06-26T09:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070435377366868047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cHY6M57GTe",
+              "end": 46,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2070435377366868047/photo/1",
+              "media_key": "3_2070435374632243200",
+              "start": 23,
+              "url": "https://t.co/cHY6M57GTe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070435377366868047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是互联网阴沟臭老鼠，我看不得一点豪人TV😭 https://t.co/cHY6M57GTe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 868,
+          "like_count": 10908,
+          "listed_count": 1,
+          "media_count": 370,
+          "tweet_count": 3371
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

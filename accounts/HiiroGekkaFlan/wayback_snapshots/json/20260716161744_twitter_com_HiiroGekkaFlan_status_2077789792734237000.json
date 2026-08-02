@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2077573939640119348",
+    "created_at": "2026-07-16T16:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T17:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077789792734237000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1914974765204287488",
+          "start": 0,
+          "username": "jasonathon"
+        },
+        {
+          "end": 24,
+          "id": "2022573982340517891",
+          "start": 12,
+          "username": "HanCui62196"
+        },
+        {
+          "end": 39,
+          "id": "2839185379",
+          "start": 25,
+          "username": "Jackal_Taiwan"
+        },
+        {
+          "end": 55,
+          "id": "1260553941714186241",
+          "start": 40,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077789792734237000",
+    "in_reply_to_user_id": "1914974765204287488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077653433495236943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jasonathon @HanCui62196 @Jackal_Taiwan @whyyoutouzhele 以前的一个观点\n总结就是无条件认同毛泽东"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2077573939640119348",
+        "created_at": "2026-07-16T16:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077789792734237000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1914974765204287488",
+              "start": 0,
+              "username": "jasonathon"
+            },
+            {
+              "end": 24,
+              "id": "2022573982340517891",
+              "start": 12,
+              "username": "HanCui62196"
+            },
+            {
+              "end": 39,
+              "id": "2839185379",
+              "start": 25,
+              "username": "Jackal_Taiwan"
+            },
+            {
+              "end": 55,
+              "id": "1260553941714186241",
+              "start": 40,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077789792734237000",
+        "in_reply_to_user_id": "1914974765204287488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077653433495236943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jasonathon @HanCui62196 @Jackal_Taiwan @whyyoutouzhele 以前的一个观点\n总结就是无条件认同毛泽东"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914974765204287488",
+        "conversation_id": "2077573939640119348",
+        "created_at": "2026-07-16T07:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077653433495236943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022573982340517891",
+              "start": 0,
+              "username": "HanCui62196"
+            },
+            {
+              "end": 27,
+              "id": "2839185379",
+              "start": 13,
+              "username": "Jackal_Taiwan"
+            },
+            {
+              "end": 43,
+              "id": "1260553941714186241",
+              "start": 28,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077653433495236943",
+        "in_reply_to_user_id": "2022573982340517891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077642247416262731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanCui62196 @Jackal_Taiwan @whyyoutouzhele 两个凡是是啥玩意 我都没听过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077782825974345729/Zms_7jOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 894,
+          "like_count": 12716,
+          "listed_count": 1,
+          "media_count": 444,
+          "tweet_count": 3807
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T09:29:12.000Z",
+        "description": "Nothing",
+        "id": "1914974765204287488",
+        "name": "l er no k m kinf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026271774078574593/KJkrUDd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 33,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "jasonathon",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T07:30:29.000Z",
+        "description": "",
+        "id": "2022573982340517891",
+        "name": "锟斤拷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077645506503712768/Ygpjbw6z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "HanCui62196",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-03T14:57:54.000Z",
+        "description": "Taiwanese",
+        "id": "2839185379",
+        "location": "Tainan City, Taiwan",
+        "name": "jackal",
+        "pinned_tweet_id": "1539982923943686144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/944998725004304384/l5zEN8g0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 295,
+          "like_count": 126,
+          "listed_count": 9,
+          "media_count": 985,
+          "tweet_count": 3796
+        },
+        "url": "",
+        "username": "Jackal_Taiwan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247739,
+          "following_count": 1078,
+          "like_count": 9798,
+          "listed_count": 8825,
+          "media_count": 50499,
+          "tweet_count": 57716
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

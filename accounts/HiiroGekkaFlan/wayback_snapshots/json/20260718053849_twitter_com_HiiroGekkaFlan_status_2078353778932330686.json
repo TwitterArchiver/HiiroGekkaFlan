@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2078127522265669808",
+    "created_at": "2026-07-18T05:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T06:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078353778932330686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1759787246587379712",
+          "start": 0,
+          "username": "RainEngine2024m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078353778932330686",
+    "in_reply_to_user_id": "1759787246587379712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078127522265669808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@RainEngine2024m 我先来：这就是文明"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2078127513189179392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNb99n2bYAAJPrp.jpg",
+        "width": 1204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078127522265669808",
+        "created_at": "2026-07-18T05:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078353778932330686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "RainEngine2024m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078353778932330686",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078127522265669808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@RainEngine2024m 我先来：这就是文明"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078127513189179392"
+          ]
+        },
+        "author_id": "1759787246587379712",
+        "conversation_id": "2078127522265669808",
+        "created_at": "2026-07-17T14:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:34:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078126161964728576",
+          "2078127522265669808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GGS9a9akGU",
+              "end": 103,
+              "expanded_url": "https://x.com/RainEngine2024m/status/2078127522265669808/photo/1",
+              "media_key": "3_2078127513189179392",
+              "start": 80,
+              "url": "https://t.co/GGS9a9akGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078127522265669808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2026年6月，立陶宛在关闭的伊格纳利纳核电站开展了世界首创的工程作业，以全面拆卸高放射性RBMK 反应堆芯，该核电站曾是世界上功率最大的 RBMK 核电站，\n此次工程标志着全球首次对RBMK-1500型反应堆核心进行全面拆除。由于RBMK反应堆采用石墨慢化和压力管结构，与传统压水堆不同，其退役过程面临更高的技术挑战。\n拆除工作预计将持续多年，涉及反应堆石墨堆芯、压力管道以及大量放射性部件的处理。立陶宛希望通过这一项目积累经验，为未来全球类似核设施退役提供参考。\n伊格纳利纳核电站曾代表苏联核工业技术发展的最高水平，如今，它又成为核设施退役领域的新里程碑。从建造世界最大RBMK反应堆，到拆除这一庞大的核工程遗产，伊格纳利纳见证了核工业一个时代的兴衰。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "2026年6月，立陶宛在关闭的伊格纳利纳核电站开展了世界首创的工程作业，以全面拆卸高放射性RBMK 反应堆芯，该核电站曾是世界上功率最大的 RBMK 核电站， https://t.co/GGS9a9akGU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077841548738437120/PYSB99eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 894,
+          "like_count": 12802,
+          "listed_count": 1,
+          "media_count": 449,
+          "tweet_count": 3833
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "“爱”是什么意思",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/RainBuild_2025",
+                "end": 23,
+                "expanded_url": "http://telegram.me/RainBuild_2025",
+                "start": 0,
+                "url": "https://t.co/XYaVnDfHfc"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "JiLin Republic of China",
+        "name": "高坂穗奈雪",
+        "pinned_tweet_id": "2072641450085339349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069668562675859456/CCsU4ILA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2454,
+          "following_count": 1596,
+          "like_count": 5994,
+          "listed_count": 10,
+          "media_count": 1071,
+          "tweet_count": 3358
+        },
+        "url": "https://t.co/XYaVnDfHfc",
+        "username": "RainEngine2024m",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2079174318144344330",
+    "created_at": "2026-07-21T06:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T07:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079450944815890453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811384610749874176",
+          "start": 0,
+          "username": "wgddking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079450944815890453",
+    "in_reply_to_user_id": "1811384610749874176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079174318144344330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wgddking 搞半天还得自己拼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2282,
+        "media_key": "3_2079174304038862848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq2A3pbQAA7fvP.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2079174318144344330",
+        "created_at": "2026-07-21T06:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079450944815890453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811384610749874176",
+              "start": 0,
+              "username": "wgddking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079450944815890453",
+        "in_reply_to_user_id": "1811384610749874176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079174318144344330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wgddking 搞半天还得自己拼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079174304038862848"
+          ]
+        },
+        "author_id": "1811384610749874176",
+        "conversation_id": "2079174318144344330",
+        "created_at": "2026-07-20T11:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079174318144344330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vbkVugwNjB",
+              "end": 28,
+              "expanded_url": "https://x.com/wgddking/status/2079174318144344330/photo/1",
+              "media_key": "3_2079174304038862848",
+              "start": 5,
+              "url": "https://t.co/vbkVugwNjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079174318144344330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 8179,
+          "like_count": 259,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "地狱构图 https://t.co/vbkVugwNjB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 901,
+          "like_count": 13369,
+          "listed_count": 2,
+          "media_count": 464,
+          "tweet_count": 4005
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "自由 平等 博爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "location": "Hitachi-shi, Ibaraki",
+        "name": "wgdd（祥压抑）",
+        "pinned_tweet_id": "2078024446762447318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 84,
+          "like_count": 1765,
+          "listed_count": 1,
+          "media_count": 549,
+          "tweet_count": 3044
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": true
+      }
+    ]
+  }
+}

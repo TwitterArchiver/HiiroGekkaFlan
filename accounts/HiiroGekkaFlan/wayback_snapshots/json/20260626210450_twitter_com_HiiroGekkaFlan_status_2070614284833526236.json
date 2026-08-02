@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2070552272548069654",
+    "created_at": "2026-06-26T21:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T22:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070614284833526236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1878480259793981440",
+          "start": 0,
+          "username": "pomEgranate_485"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070614284833526236",
+    "in_reply_to_user_id": "1878480259793981440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070609181921726885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pomEgranate_485 终于有人懂我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2070552272548069654",
+        "created_at": "2026-06-26T21:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T22:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070614284833526236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1878480259793981440",
+              "start": 0,
+              "username": "pomEgranate_485"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070614284833526236",
+        "in_reply_to_user_id": "1878480259793981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070609181921726885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pomEgranate_485 终于有人懂我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878480259793981440",
+        "conversation_id": "2070552272548069654",
+        "created_at": "2026-06-26T20:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T21:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070609181921726885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070609181921726885",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070552272548069654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 什么SAIKAI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 871,
+          "like_count": 11055,
+          "listed_count": 1,
+          "media_count": 375,
+          "tweet_count": 3418
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T16:33:01.000Z",
+        "description": "",
+        "id": "1878480259793981440",
+        "name": "vergissmeinnicht",
+        "pinned_tweet_id": "2068775524349116649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066574820196896768/TfOzRuoY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 28,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "pomEgranate_485",
+        "verified": false
+      }
+    ]
+  }
+}

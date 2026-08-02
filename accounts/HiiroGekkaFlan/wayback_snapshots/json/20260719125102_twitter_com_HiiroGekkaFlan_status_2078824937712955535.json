@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078824928938438657"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078824812512940295",
+    "created_at": "2026-07-19T12:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078824937712955535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Qb6KTT983",
+          "end": 39,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2078824937712955535/photo/1",
+          "media_key": "3_2078824928938438657",
+          "start": 16,
+          "url": "https://t.co/0Qb6KTT983"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078824937712955535",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078824812512940295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen https://t.co/0Qb6KTT983"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2078824928938438657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl4Qj-aMAETGXu.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1352,
+        "media_key": "3_2078824805378490368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl4JXrbAAAz_Y0.jpg",
+        "width": 1080
+      },
+      {
+        "height": 987,
+        "media_key": "3_2078824805399494656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl4JXwbgAAy87A.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1029,
+        "media_key": "3_2078824805374283776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl4JXqa0AA2qNL.jpg",
+        "width": 1080
+      },
+      {
+        "height": 924,
+        "media_key": "3_2078824805382729728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl4JXsbsAA4Iwy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078824928938438657"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078824812512940295",
+        "created_at": "2026-07-19T12:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078824937712955535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Qb6KTT983",
+              "end": 39,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2078824937712955535/photo/1",
+              "media_key": "3_2078824928938438657",
+              "start": 16,
+              "url": "https://t.co/0Qb6KTT983"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078824937712955535",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078824812512940295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen https://t.co/0Qb6KTT983"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078824805378490368",
+            "3_2078824805399494656",
+            "3_2078824805374283776",
+            "3_2078824805382729728"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078824812512940295",
+        "created_at": "2026-07-19T12:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078824812512940295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xcWjSDaxVF",
+              "end": 39,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2078824812512940295/photo/1",
+              "media_key": "3_2078824805378490368",
+              "start": 16,
+              "url": "https://t.co/xcWjSDaxVF"
+            },
+            {
+              "display_url": "pic.x.com/xcWjSDaxVF",
+              "end": 39,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2078824812512940295/photo/1",
+              "media_key": "3_2078824805399494656",
+              "start": 16,
+              "url": "https://t.co/xcWjSDaxVF"
+            },
+            {
+              "display_url": "pic.x.com/xcWjSDaxVF",
+              "end": 39,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2078824812512940295/photo/1",
+              "media_key": "3_2078824805374283776",
+              "start": 16,
+              "url": "https://t.co/xcWjSDaxVF"
+            },
+            {
+              "display_url": "pic.x.com/xcWjSDaxVF",
+              "end": 39,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2078824812512940295/photo/1",
+              "media_key": "3_2078824805382729728",
+              "start": 16,
+              "url": "https://t.co/xcWjSDaxVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078824812512940295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "！？拉拉？！\n！？百合？！\n😋 https://t.co/xcWjSDaxVF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 456,
+          "tweet_count": 3886
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11007,
+          "following_count": 880,
+          "like_count": 31248,
+          "listed_count": 17,
+          "media_count": 2161,
+          "tweet_count": 10738
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

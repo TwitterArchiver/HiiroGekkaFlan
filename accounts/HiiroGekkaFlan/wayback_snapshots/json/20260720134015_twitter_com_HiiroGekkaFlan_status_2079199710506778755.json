@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2079021155240075664",
+    "created_at": "2026-07-20T13:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079199710506778755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1368569039539245057",
+          "start": 0,
+          "username": "oluXbaaPhsxjbRW"
+        },
+        {
+          "end": 26,
+          "id": "2068417631456231424",
+          "start": 17,
+          "username": "zxmvd8h8"
+        },
+        {
+          "end": 41,
+          "id": "1509424533492871168",
+          "start": 27,
+          "username": "AmiSnugglebug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079199710506778755",
+    "in_reply_to_user_id": "1368569039539245057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079161440666284464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oluXbaaPhsxjbRW @zxmvd8h8 @AmiSnugglebug 你只会发这个只能说明你智商确实很有问题，根本不会思考"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 469,
+        "media_key": "3_2079161436493012992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqqT4TbYAAl87m.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2079021155240075664",
+        "created_at": "2026-07-20T13:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079199710506778755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1368569039539245057",
+              "start": 0,
+              "username": "oluXbaaPhsxjbRW"
+            },
+            {
+              "end": 26,
+              "id": "2068417631456231424",
+              "start": 17,
+              "username": "zxmvd8h8"
+            },
+            {
+              "end": 41,
+              "id": "1509424533492871168",
+              "start": 27,
+              "username": "AmiSnugglebug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079199710506778755",
+        "in_reply_to_user_id": "1368569039539245057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079161440666284464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oluXbaaPhsxjbRW @zxmvd8h8 @AmiSnugglebug 你只会发这个只能说明你智商确实很有问题，根本不会思考"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079161436493012992"
+          ]
+        },
+        "author_id": "1368569039539245057",
+        "conversation_id": "2079021155240075664",
+        "created_at": "2026-07-20T11:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079161440666284464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2068417631456231424",
+              "start": 0,
+              "username": "zxmvd8h8"
+            },
+            {
+              "end": 24,
+              "id": "1509424533492871168",
+              "start": 10,
+              "username": "AmiSnugglebug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5pp7DLskb2",
+              "end": 52,
+              "expanded_url": "https://x.com/oluXbaaPhsxjbRW/status/2079161440666284464/photo/1",
+              "media_key": "3_2079161436493012992",
+              "start": 29,
+              "url": "https://t.co/5pp7DLskb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079161440666284464",
+        "in_reply_to_user_id": "2068417631456231424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079073454167666980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxmvd8h8 @AmiSnugglebug 支那🪳 https://t.co/5pp7DLskb2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 902,
+          "like_count": 13276,
+          "listed_count": 1,
+          "media_count": 461,
+          "tweet_count": 3978
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-07T14:28:51.000Z",
+        "description": "世界的支那皇🪳\n\n支那之所以是支那💩",
+        "id": "1368569039539245057",
+        "name": "8964",
+        "pinned_tweet_id": "1516749461598269442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061752309617766400/nbixgXB2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 663,
+          "like_count": 55889,
+          "listed_count": 15,
+          "media_count": 154,
+          "tweet_count": 690
+        },
+        "url": "",
+        "username": "oluXbaaPhsxjbRW",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T19:37:31.000Z",
+        "description": "来自中国",
+        "id": "2068417631456231424",
+        "name": "Yinzx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071233929932410880/jKlwG3QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 205,
+          "like_count": 750,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 618
+        },
+        "url": "",
+        "username": "zxmvd8h8",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T06:57:57.000Z",
+        "description": "みんなでハッピーになるために、政治や時事、社会問題の核心の共有、風刺、いつも明るい笑いを大切にしてます✌️😉\nふつつか者ですがよろしくお願いします。理系、趣味睡眠💤\nAwkward Spider-Girl in Japan🕷️🕸️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/user/1192466…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/user/1192466437203361792",
+                "start": 0,
+                "url": "https://t.co/xiBvj4chW2"
+              }
+            ]
+          }
+        },
+        "id": "1509424533492871168",
+        "location": "ワノ国",
+        "name": "ami",
+        "pinned_tweet_id": "2078225522522567044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027956724838371329/4ISuAf7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49706,
+          "following_count": 10172,
+          "like_count": 85724,
+          "listed_count": 284,
+          "media_count": 7983,
+          "tweet_count": 16337
+        },
+        "url": "https://t.co/xiBvj4chW2",
+        "username": "AmiSnugglebug",
+        "verified": true
+      }
+    ]
+  }
+}

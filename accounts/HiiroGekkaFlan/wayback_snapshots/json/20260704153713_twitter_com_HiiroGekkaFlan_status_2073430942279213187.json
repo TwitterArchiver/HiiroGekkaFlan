@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2073430942279213187",
+    "created_at": "2026-07-04T15:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T16:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073430942279213187"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lunfeiepolai/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/lunfeiepolai/status/2073390775761781125",
+          "start": 15,
+          "url": "https://t.co/oPdCUZA2Tx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073430942279213187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073390775761781125",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "个人意志丝毫不会影响国家意志 https://t.co/oPdCUZA2Tx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 936,
+        "media_key": "3_2073390767444484096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYp6u4aYAA4-aN.jpg",
+        "width": 672
+      },
+      {
+        "height": 756,
+        "media_key": "3_2073390767452958720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYp6u6bsAADCE3.jpg",
+        "width": 756
+      },
+      {
+        "height": 999,
+        "media_key": "3_2073390767469637632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYp6u-aMAA4T7j.jpg",
+        "width": 1597
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2073390767436144640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYp6u2bIAAfYzB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2073430942279213187",
+        "created_at": "2026-07-04T15:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073430942279213187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lunfeiepolai/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/lunfeiepolai/status/2073390775761781125",
+              "start": 15,
+              "url": "https://t.co/oPdCUZA2Tx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073430942279213187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073390775761781125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "个人意志丝毫不会影响国家意志 https://t.co/oPdCUZA2Tx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073390767444484096",
+            "3_2073390767452958720",
+            "3_2073390767469637632",
+            "3_2073390767436144640"
+          ]
+        },
+        "author_id": "1959863913744609280",
+        "conversation_id": "2073390775761781125",
+        "created_at": "2026-07-04T12:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073390775761781125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lUViNn5I3k",
+              "end": 74,
+              "expanded_url": "https://x.com/lunfeiepolai/status/2073390775761781125/photo/1",
+              "media_key": "3_2073390767444484096",
+              "start": 51,
+              "url": "https://t.co/lUViNn5I3k"
+            },
+            {
+              "display_url": "pic.x.com/lUViNn5I3k",
+              "end": 74,
+              "expanded_url": "https://x.com/lunfeiepolai/status/2073390775761781125/photo/1",
+              "media_key": "3_2073390767452958720",
+              "start": 51,
+              "url": "https://t.co/lUViNn5I3k"
+            },
+            {
+              "display_url": "pic.x.com/lUViNn5I3k",
+              "end": 74,
+              "expanded_url": "https://x.com/lunfeiepolai/status/2073390775761781125/photo/1",
+              "media_key": "3_2073390767469637632",
+              "start": 51,
+              "url": "https://t.co/lUViNn5I3k"
+            },
+            {
+              "display_url": "pic.x.com/lUViNn5I3k",
+              "end": 74,
+              "expanded_url": "https://x.com/lunfeiepolai/status/2073390775761781125/photo/1",
+              "media_key": "3_2073390767436144640",
+              "start": 51,
+              "url": "https://t.co/lUViNn5I3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073390775761781125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1177,
+                "start": 1172,
+                "tag": "洛嘎让赞"
+              }
+            ]
+          },
+          "text": "联合国门口的火：一次自焚背后的“烈士生意”\n\n有些政治运动最先进的地方，不是理念先进，而是流程先进。\n\n一个人先把自己烧成新闻，镜头随后到位，声明马上出炉，烛光晚会准时开场，国际社会被礼貌地召唤出来“深切关注”。最后，一个人的死亡被压缩成一句方便传播的标语。死人负责沉默，活人负责演讲；底层人负责燃烧，头面人物负责升华。整套流程干净利落，像一条外包完善的“烈士生产线”。\n\n藏人自焚并不是孤立事件。国际声援西藏运动组织统计称，自 2009 年以来，已知藏人自焚总数已经超过 170 起，其中 159 起发生在中国境内，另有 11 起发生在境外；境内自焚者中，有大量人员来自阿坝地区和寺院系统，25 人是阿坝格尔登寺现任或前任僧人，另有 2 人是阿坝尼姑庵尼姑。这说明它不是几个毫无关联的人在不同地点突然想不开，而是一种被反复复制、传播、包装、消费的政治动作。\n\n早期自焚高度集中在寺院和特定地方网络。美国国会及行政当局中国委员会 2012 年报告指出，2009 年至 2011 年底的 13 起自焚，全部涉及现任或前任僧尼，其中 12 起发生在四川。到了 2012 年，自焚扩散到青海、西藏自治区、甘肃，参与者也从僧尼扩展到俗人。换句话说，这套东西不是从社会各处随机冒出来的，而是先在特定寺院圈子里点火，再扩散成一种可模仿、可传播、可包装的政治模板。\n\n节点也很会挑。2012 年是自焚高峰。路透社当年报道，仅 2012 年就已有 81 起自焚抗议；尤其在 2012 年 11 月习近平成为中共最高领导人期间，一个月内出现 29 起。一个真正随机的自杀潮，很难如此精准地撞上政治交接窗口；一个真正纯粹的个人悲剧，也不会每次都被迅速翻译成“达赖返回”“自由西藏”“反中国统治”这种国际媒体一看就懂的标准文案。\n\n再看联系。2012 年 8 月 27 日，洛桑格桑和洛桑丹却在阿坝格尔登寺东门附近自焚；藏人青年大会资料称，两人是表兄弟，而且分别又是此前自焚尼姑丹增曲珍的亲属。死亡在这里不只是政治符号，甚至出现了家族链条。同年 11 月 7 日，多吉、桑珠、多吉嘉三名年轻僧人同一天自焚或试图自焚，并呼喊让达赖返回和“自由西藏”的口号。三个人，同一天，同身份，同口号。若说这完全没有传播、没有模仿、没有组织性影响，那就太考验人的想象力。\n\n更直接的例子是洛让贡确和洛让次仁案。2013 年，美国之音引述新华社报道称，中国法院认定僧人洛让贡确和其侄子洛让次仁“煽动和胁迫”8 人自焚，其中 3 人实际自焚死亡，其他人放弃或被警方制止；两人分别被判重刑。外部组织当然会质疑中国司法叙事，但这个案子至少说明，中方并不是把这些自焚简单看作个人选择，而是明确看到了背后的组织、煽动、教唆、协助链条。\n\n到了海外，包装方式更直白。2026 年 7 月 2 日，#洛嘎让赞，又名洛桑白登，在纽约联合国总部外自焚。《华尔街日报》报道称，他是纽约居民，曾担任“西藏民族大会”纽约/新泽西地区负责人，长期参与相关活动；路透社也报道，活动人士和流亡藏人媒体把这次自焚与反对中国新《民族团结进步促进法》联系起来。\n\n地点选在联合国门口，身份是海外活动圈人士，时间点贴着中国新法生效，随后流亡组织、媒体、守夜活动、悼念声明迅速跟进。这个流程熟练得像提前写好了模板，只等把名字填进去。\n\n这部《民族团结进步促进法》于 2026 年 7 月 1 日施行，其中第六十二条规定，组织、策划、实施民族分裂活动，或者煽动、资助相关行为，构成犯罪的，依法追究刑事责任；第六十三条规定，境外组织和个人针对中华人民共和国实施破坏民族团结进步、制造民族分裂行为的，依法追究法律责任。也就是说，海外分裂活动圈过去那种“人在海外，喊完就走”的低成本安全感，被法律文本戳了一下。\n\n于是荒诞的一幕出现了：法律刚把境外制造民族分裂的责任写清楚，联合国门口就出现一场自焚；人刚死，相关组织就迅速把他的死亡解释成“中国政策所致”，再呼吁国际社会行动。说生命珍贵的是他们，把死亡转化成政治动员材料的也是他们。生命当然珍贵，但如果能顺便换成新闻、同情、声明和政治筹码，那就更珍贵了。\n\n这就是这套叙事最黑色幽默的地方：它不一定公开说“你去死”，但会认真搭好一个舞台，让某些人相信“死了才有用”；它不一定每次亲手递火机，但会准备好悼词、镜头、募款邮件、国际声明和道德解释权。\n\n所以，真正该被嘲讽的，不是那个被烧毁的人，而是那些永远不烧自己、却总能从别人燃烧里获得政治收益的人。\n\n他们不生产火焰，只是火焰的搬运工；他们不承担代价，只是代价的讲解员；他们不进入火场，只负责在火光后面摆好麦克风。所谓“自由事业”的高端商业模式，大概就是：别人用命付款，他们用泪收款。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 168,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "联合国门口的火：一次自焚背后的“烈士生意”\n\n有些政治运动最先进的地方，不是理念先进，而是流程先进。 https://t.co/lUViNn5I3k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 874,
+          "like_count": 11574,
+          "listed_count": 1,
+          "media_count": 396,
+          "tweet_count": 3557
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T06:22:37.000Z",
+        "description": "我本是个极寻常的人，或许还带着些旧时代的霉味。\n常有人谈论“继承”，仿佛那是承袭了一笔了不得的遗产。但我所承袭的，大抵只是几声没被听见的呐喊，和一腔在冷夜里还没冷透的血。\n我不做导师，也不当什么先锋。这世上的聪明人已经太多，他们忙着筑墙，忙着装睡，忙着在人肉筵席上优雅地举起刀叉。我便偏要做那个扫兴的人",
+        "id": "1959863913744609280",
+        "name": "鲁迅",
+        "pinned_tweet_id": "2066609407686070350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038359801072435200/SB1Vjajh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 74,
+          "like_count": 269,
+          "listed_count": 7,
+          "media_count": 79,
+          "tweet_count": 1057
+        },
+        "url": "",
+        "username": "lunfeiepolai",
+        "verified": true
+      }
+    ]
+  }
+}

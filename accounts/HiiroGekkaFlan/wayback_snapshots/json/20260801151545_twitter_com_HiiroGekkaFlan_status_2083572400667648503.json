@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2082900772099133879",
+    "created_at": "2026-08-01T15:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083572400667648503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1816796445284139008",
+          "start": 0,
+          "username": "Tsukinoki1214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083572400667648503",
+    "in_reply_to_user_id": "1816796445284139008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083551793284542809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsukinoki1214 美国谷歌的人工智能大模型"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2082900772099133879",
+        "created_at": "2026-08-01T15:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083572400667648503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1816796445284139008",
+              "start": 0,
+              "username": "Tsukinoki1214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083572400667648503",
+        "in_reply_to_user_id": "1816796445284139008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083551793284542809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsukinoki1214 美国谷歌的人工智能大模型"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816796445284139008",
+        "conversation_id": "2082900772099133879",
+        "created_at": "2026-08-01T13:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083551793284542809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083551793284542809",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082900772099133879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan gemini是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 901,
+          "like_count": 13791,
+          "listed_count": 2,
+          "media_count": 487,
+          "tweet_count": 4115
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T11:23:42.000Z",
+        "description": "仅个人观点，无客观性，个人心理状态稳定，无自杀倾向，坚持一个原则。纯观点。仅供娱乐，发病中。\n不割手/不od/无证无糖/不HRT不是MTF/喝酒不抽烟/无抑郁/无双向/不休学\n不涉政的话题尽量保持中立",
+        "id": "1816796445284139008",
+        "location": "Rhodes Island",
+        "name": "槻木汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063279665545179136/Zz52TCjo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 68,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "Tsukinoki1214",
+        "verified": false
+      }
+    ]
+  }
+}

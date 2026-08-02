@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2070547360141508851",
+    "created_at": "2026-06-26T16:38:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:38:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070547360141508851"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/detectivepeter…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/detectivepeter0/status/2070486847503872216",
+          "start": 9,
+          "url": "https://t.co/C0Rp4Y5Paa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070547360141508851",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070486847503872216",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发言符合头像角色 https://t.co/C0Rp4Y5Paa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2070547360141508851",
+        "created_at": "2026-06-26T16:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070547360141508851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/detectivepeter…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/detectivepeter0/status/2070486847503872216",
+              "start": 9,
+              "url": "https://t.co/C0Rp4Y5Paa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070547360141508851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070486847503872216",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发言符合头像角色 https://t.co/C0Rp4Y5Paa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974041928552624130",
+        "conversation_id": "2070481897881473141",
+        "created_at": "2026-06-26T12:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070486847503872216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070486847503872216",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 86688,
+          "like_count": 309,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070481897881473141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 这飞机也太小了吧\n下次能不能换波音787或者波音777？空客A350也行。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 869,
+          "like_count": 10974,
+          "listed_count": 1,
+          "media_count": 372,
+          "tweet_count": 3393
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T09:20:58.000Z",
+        "description": "驯宠大师：家里养了一条狗，一头熊和一匹狼。\n历史细节复原家：专业复刻古代近现代平民小人的生活细节和气候变化！\n辱华圣手：专注治理小粉红、基本盘、二次元小保一百五十年，信誉极优！",
+        "id": "1974041928552624130",
+        "location": "Sydney, New South Wales",
+        "name": "名偵探格里芬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974042321475022850/qMxpZnR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 236,
+          "like_count": 21667,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 1843
+        },
+        "url": "",
+        "username": "detectivepeter0",
+        "verified": true
+      }
+    ]
+  }
+}

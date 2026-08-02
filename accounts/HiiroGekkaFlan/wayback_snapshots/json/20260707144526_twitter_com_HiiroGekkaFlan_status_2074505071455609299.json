@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2074452363377852729",
+    "created_at": "2026-07-07T14:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074505071455609299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1509970933842427908",
+          "start": 0,
+          "username": "bFl7ZY2yqh3n3Kg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074505071455609299",
+    "in_reply_to_user_id": "1509970933842427908",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074464793520734506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bFl7ZY2yqh3n3Kg 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2074452363377852729",
+        "created_at": "2026-07-07T14:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074505071455609299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1509970933842427908",
+              "start": 0,
+              "username": "bFl7ZY2yqh3n3Kg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074505071455609299",
+        "in_reply_to_user_id": "1509970933842427908",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074464793520734506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bFl7ZY2yqh3n3Kg 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509970933842427908",
+        "conversation_id": "2074452363377852729",
+        "created_at": "2026-07-07T12:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074464793520734506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074464793520734506",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074452363377852729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 吓哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 878,
+          "like_count": 11947,
+          "listed_count": 1,
+          "media_count": 408,
+          "tweet_count": 3614
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T19:08:28.000Z",
+        "description": "My name come from helicopters. I like tanks, helicopter，and warships. Also enjoy delicious food and healing scenery from all over the world. Touhou Project",
+        "id": "1509970933842427908",
+        "name": "Ка52",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054240859772833795/LRSYv67D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 365,
+          "like_count": 6174,
+          "listed_count": 1,
+          "media_count": 563,
+          "tweet_count": 3063
+        },
+        "url": "",
+        "username": "bFl7ZY2yqh3n3Kg",
+        "verified": false
+      }
+    ]
+  }
+}

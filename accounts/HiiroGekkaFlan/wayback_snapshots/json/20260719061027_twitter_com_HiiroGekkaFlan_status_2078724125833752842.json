@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2078712619347972455",
+    "created_at": "2026-07-19T06:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078724125833752842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "370743613",
+          "start": 0,
+          "username": "guy_kun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078724125833752842",
+    "in_reply_to_user_id": "370743613",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078712619347972455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guy_kun Welcome to Shanghai!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1534,
+        "media_key": "3_2078712604651028480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkSGbZaAAAiuEE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2078712604697255937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkSGbkbYAE3pEM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2078712604651094016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkSGbZbAAAYmMI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078712619347972455",
+        "created_at": "2026-07-19T06:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078724125833752842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "370743613",
+              "start": 0,
+              "username": "guy_kun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078724125833752842",
+        "in_reply_to_user_id": "370743613",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078712619347972455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guy_kun Welcome to Shanghai!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078712604651028480",
+            "3_2078712604697255937",
+            "3_2078712604651094016"
+          ]
+        },
+        "author_id": "370743613",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078712619347972455",
+        "created_at": "2026-07-19T05:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078712619347972455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I64aiqbE8v",
+              "end": 26,
+              "expanded_url": "https://x.com/guy_kun/status/2078712619347972455/photo/1",
+              "media_key": "3_2078712604651028480",
+              "start": 3,
+              "url": "https://t.co/I64aiqbE8v"
+            },
+            {
+              "display_url": "pic.x.com/I64aiqbE8v",
+              "end": 26,
+              "expanded_url": "https://x.com/guy_kun/status/2078712619347972455/photo/1",
+              "media_key": "3_2078712604697255937",
+              "start": 3,
+              "url": "https://t.co/I64aiqbE8v"
+            },
+            {
+              "display_url": "pic.x.com/I64aiqbE8v",
+              "end": 26,
+              "expanded_url": "https://x.com/guy_kun/status/2078712619347972455/photo/1",
+              "media_key": "3_2078712604651094016",
+              "start": 3,
+              "url": "https://t.co/I64aiqbE8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078712619347972455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 714,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上海 https://t.co/I64aiqbE8v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077841548738437120/PYSB99eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 896,
+          "like_count": 12968,
+          "listed_count": 1,
+          "media_count": 452,
+          "tweet_count": 3875
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-09T15:14:21.000Z",
+        "description": "Director ・ Producer ・ Art Director・等 ＠ lowiro.",
+        "id": "370743613",
+        "location": "日本 東京",
+        "name": "Guy",
+        "pinned_tweet_id": "2008088034181595239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802341836100415488/8murnzH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25821,
+          "following_count": 1157,
+          "like_count": 57275,
+          "listed_count": 48,
+          "media_count": 6269,
+          "tweet_count": 43619
+        },
+        "url": "",
+        "username": "guy_kun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "1331696714680393728",
+    "created_at": "2026-07-13T17:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T18:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076717727457382466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243491753019101184",
+          "start": 0,
+          "username": "fanduizhongxiu"
+        },
+        {
+          "end": 27,
+          "id": "807291948729892864",
+          "start": 16,
+          "username": "heshanshuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076717727457382466",
+    "in_reply_to_user_id": "1243491753019101184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1354367527518826499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanduizhongxiu @heshanshuo 视奸👁️👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "1331696714680393728",
+        "created_at": "2026-07-13T17:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076717727457382466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243491753019101184",
+              "start": 0,
+              "username": "fanduizhongxiu"
+            },
+            {
+              "end": 27,
+              "id": "807291948729892864",
+              "start": 16,
+              "username": "heshanshuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076717727457382466",
+        "in_reply_to_user_id": "1243491753019101184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1354367527518826499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanduizhongxiu @heshanshuo 视奸👁️👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243491753019101184",
+        "conversation_id": "1331696714680393728",
+        "created_at": "2021-01-27T09:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2021-01-27T10:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1354367527518826499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "807291948729892864",
+              "start": 0,
+              "username": "heshanshuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1354367527518826499",
+        "in_reply_to_user_id": "807291948729892864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1331696714680393728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heshanshuo b站观光团，哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 892,
+          "like_count": 12549,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 3756
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T10:55:19.000Z",
+        "description": "14年校园霸凌亲历者｜反一切压迫剥削｜民主社会主义｜最终目标是以此跨入民主的共产主义高级阶段｜友跨性别｜欢迎不同看法 但要理性讨论 ｜反对废除死刑｜支持严肃处刑毒贩｜顺直丨非被迫不销号，欢迎互fo，记得私信",
+        "id": "1243491753019101184",
+        "location": "中南海",
+        "name": "天宇",
+        "pinned_tweet_id": "2062883930689392877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058166498984939520/dMcDyeOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 187,
+          "like_count": 7318,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 3007
+        },
+        "url": "",
+        "username": "fanduizhongxiu",
+        "verified": true
+      },
+      {
+        "created_at": "2016-12-09T18:32:54.000Z",
+        "description": "基督徒，支持非暴力运动。",
+        "id": "807291948729892864",
+        "location": "Monterey Park, CA",
+        "name": "河山硕",
+        "pinned_tweet_id": "1331696714680393728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/893943896350183424/-DyhtZIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2911,
+          "following_count": 610,
+          "like_count": 9264,
+          "listed_count": 21,
+          "media_count": 239,
+          "tweet_count": 5446
+        },
+        "url": "",
+        "username": "heshanshuo",
+        "verified": false
+      }
+    ]
+  }
+}

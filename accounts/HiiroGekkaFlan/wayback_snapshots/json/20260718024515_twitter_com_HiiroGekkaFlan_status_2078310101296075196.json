@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2078216967329337486",
+    "created_at": "2026-07-18T02:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T03:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078310101296075196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1406710586608652289",
+          "start": 0,
+          "username": "ruririru7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078310101296075196",
+    "in_reply_to_user_id": "1406710586608652289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078216967329337486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruririru7 强！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2078216844478140416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNdPNY1aUAAmKuA.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2078216844520157184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNdPNY_bcAAqtDZ.jpg",
+        "width": 1920
+      },
+      {
+        "height": 656,
+        "media_key": "3_2078216933431001089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNdPSkNbQAEipiS.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078216967329337486",
+        "created_at": "2026-07-18T02:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078310101296075196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1406710586608652289",
+              "start": 0,
+              "username": "ruririru7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078310101296075196",
+        "in_reply_to_user_id": "1406710586608652289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078216967329337486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruririru7 强！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078216844478140416",
+            "3_2078216844520157184",
+            "3_2078216933431001089"
+          ]
+        },
+        "author_id": "1406710586608652289",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078216967329337486",
+        "created_at": "2026-07-17T20:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T21:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078216967329337486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I9xq7KNYYu",
+              "end": 42,
+              "expanded_url": "https://x.com/ruririru7/status/2078216967329337486/photo/1",
+              "media_key": "3_2078216844478140416",
+              "start": 19,
+              "url": "https://t.co/I9xq7KNYYu"
+            },
+            {
+              "display_url": "pic.x.com/I9xq7KNYYu",
+              "end": 42,
+              "expanded_url": "https://x.com/ruririru7/status/2078216967329337486/photo/1",
+              "media_key": "3_2078216844520157184",
+              "start": 19,
+              "url": "https://t.co/I9xq7KNYYu"
+            },
+            {
+              "display_url": "pic.x.com/I9xq7KNYYu",
+              "end": 42,
+              "expanded_url": "https://x.com/ruririru7/status/2078216967329337486/photo/1",
+              "media_key": "3_2078216933431001089",
+              "start": 19,
+              "url": "https://t.co/I9xq7KNYYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078216967329337486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个人做完3x3了！可以夸夸我吗喵w https://t.co/I9xq7KNYYu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077841548738437120/PYSB99eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 895,
+          "like_count": 12756,
+          "listed_count": 1,
+          "media_count": 447,
+          "tweet_count": 3821
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-20T20:28:43.000Z",
+        "description": "愿所有宝宝都能被温柔以待｜可以和我一起玩吗",
+        "id": "1406710586608652289",
+        "name": "恋恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064060311863517185/CWRtACGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 42,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "ruririru7",
+        "verified": true
+      }
+    ]
+  }
+}

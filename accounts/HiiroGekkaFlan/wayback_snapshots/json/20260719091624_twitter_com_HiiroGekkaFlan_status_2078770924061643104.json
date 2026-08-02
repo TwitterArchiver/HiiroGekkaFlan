@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078770895741648897"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "conversation_id": "2078770924061643104",
+    "created_at": "2026-07-19T09:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078770924061643104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VdjES6Y1G4",
+          "end": 96,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2078770924061643104/photo/1",
+          "media_key": "3_2078770895741648897",
+          "start": 73,
+          "url": "https://t.co/VdjES6Y1G4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078770924061643104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "歌唱著一種沒有深度的語言\n試著跟著這些虛偽一起改變\n改！變！\n……\n妳笑著說我所擁有的一切也都是虛偽\n妳笑著說我所說的謊言，活不過明天\n——艾瑪 https://t.co/VdjES6Y1G4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1146,
+        "media_key": "3_2078770895741648897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlHHaoaAAEV1mc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078770895741648897"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078770924061643104",
+        "created_at": "2026-07-19T09:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078770924061643104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VdjES6Y1G4",
+              "end": 96,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2078770924061643104/photo/1",
+              "media_key": "3_2078770895741648897",
+              "start": 73,
+              "url": "https://t.co/VdjES6Y1G4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078770924061643104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歌唱著一種沒有深度的語言\n試著跟著這些虛偽一起改變\n改！變！\n……\n妳笑著說我所擁有的一切也都是虛偽\n妳笑著說我所說的謊言，活不過明天\n——艾瑪 https://t.co/VdjES6Y1G4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077841548738437120/PYSB99eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 896,
+          "like_count": 12986,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 3881
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

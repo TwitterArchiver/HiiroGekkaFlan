@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2069044753346486516",
+    "created_at": "2026-06-23T10:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069363304158667102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823399057357991936",
+          "start": 0,
+          "username": "MyDest1ny_"
+        },
+        {
+          "end": 27,
+          "id": "1735728536827334657",
+          "start": 12,
+          "username": "SakurasakaRiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069363304158667102",
+    "in_reply_to_user_id": "1823399057357991936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069070900092092837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MyDest1ny_ @SakurasakaRiko 意满离"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_2069070895637725184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbRBGWWAAAE_Dy.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2069044753346486516",
+        "created_at": "2026-06-23T10:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069363304158667102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823399057357991936",
+              "start": 0,
+              "username": "MyDest1ny_"
+            },
+            {
+              "end": 27,
+              "id": "1735728536827334657",
+              "start": 12,
+              "username": "SakurasakaRiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069363304158667102",
+        "in_reply_to_user_id": "1823399057357991936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069070900092092837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MyDest1ny_ @SakurasakaRiko 意满离"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069070895637725184"
+          ]
+        },
+        "author_id": "1823399057357991936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069044753346486516",
+        "created_at": "2026-06-22T14:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069070900092092837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735728536827334657",
+              "start": 0,
+              "username": "SakurasakaRiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFmBygvq5Q",
+              "end": 49,
+              "expanded_url": "https://x.com/MyDest1ny_/status/2069070900092092837/photo/1",
+              "media_key": "3_2069070895637725184",
+              "start": 26,
+              "url": "https://t.co/JFmBygvq5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069070900092092837",
+        "in_reply_to_user_id": "1735728536827334657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069044753346486516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurasakaRiko 检测到寿命论的味道 https://t.co/JFmBygvq5Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 868,
+          "like_count": 10730,
+          "listed_count": 1,
+          "media_count": 361,
+          "tweet_count": 3308
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T16:39:55.000Z",
+        "description": "07｜喜欢美少女，随缘fo｜目前在英国上学，社交平台ID Mydest1ny/Mirukupaff｜主流游戏多多少少都有玩｜arcaea双星 范式起源彩165｜想得到很多很多的私信～",
+        "id": "1823399057357991936",
+        "location": "England, United Kingdom",
+        "name": "MyDest1ny",
+        "pinned_tweet_id": "2066880976601358545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018376512211148800/FHf9wQ_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 199,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "MyDest1ny_",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-15T18:28:33.000Z",
+        "description": "日本語🇯🇵/中文🇨🇳/EN🇺🇸🇬🇧 OK\n喜欢玩各种音游的普通玩家，数码设备爱好者\n前移动端音游公司总助｜PM｜周边主管｜赛事策划\n maimai 樱桃堇晓橙白熊华超檄辉将持有，真神持有\n你可以称呼我为riko或者璃子\n全球各地旅游中，偶尔发发酒店评价\n⬛️🟨⬛️🟪⬛️🟨⬛️🟪⬛️🟨⬛️",
+        "id": "1735728536827334657",
+        "location": "Tokyo",
+        "name": "樱坂璃子Riko",
+        "pinned_tweet_id": "2068052501732237657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063885823553191936/2yMWRrzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 639,
+          "like_count": 6998,
+          "listed_count": 4,
+          "media_count": 339,
+          "tweet_count": 2237
+        },
+        "url": "",
+        "username": "SakurasakaRiko",
+        "verified": true
+      }
+    ]
+  }
+}

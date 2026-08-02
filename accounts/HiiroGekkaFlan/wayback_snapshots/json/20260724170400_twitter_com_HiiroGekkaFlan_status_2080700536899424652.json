@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2080102307052798210",
+    "created_at": "2026-07-24T17:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080700536899424652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1751902592052121600",
+          "start": 0,
+          "username": "Alum_999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080700536899424652",
+    "in_reply_to_user_id": "1751902592052121600",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080102307052798210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alum_999 ?"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15613,
+        "height": 1240,
+        "media_key": "13_2080102258684182528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080102258684182528/img/pvMir8Q-nIVE6zKR.jpg",
+        "public_metrics": {
+          "view_count": 23476
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080102258684182528/vid/avc1/320x550/rzwxux11WIvwKVeK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080102258684182528/vid/avc1/480x826/2YN3e0DEngRNR3h2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080102258684182528/vid/avc1/720x1240/8_xtnX_UZWCUb8Kl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080102258684182528/pl/i9aetXU6iAD73i3x.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2080102307052798210",
+        "created_at": "2026-07-24T17:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080700536899424652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1751902592052121600",
+              "start": 0,
+              "username": "Alum_999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080700536899424652",
+        "in_reply_to_user_id": "1751902592052121600",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080102307052798210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alum_999 ?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080102258684182528"
+          ]
+        },
+        "author_id": "1751902592052121600",
+        "conversation_id": "2080102307052798210",
+        "created_at": "2026-07-23T01:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080102307052798210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwBHhWWkca",
+              "end": 23,
+              "expanded_url": "https://x.com/Alum_999/status/2080102307052798210/video/1",
+              "media_key": "13_2080102258684182528",
+              "start": 0,
+              "url": "https://t.co/fwBHhWWkca"
+            },
+            {
+              "display_url": "x.com/akiko_lawson/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/akiko_lawson/status/2080065358568816683",
+              "start": 24,
+              "url": "https://t.co/VaAG456rdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080102307052798210",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 88726,
+          "like_count": 907,
+          "quote_count": 12,
+          "reply_count": 17,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080065358568816683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/fwBHhWWkca https://t.co/VaAG456rdb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 903,
+          "like_count": 13698,
+          "listed_count": 2,
+          "media_count": 473,
+          "tweet_count": 4066
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-29T09:39:01.000Z",
+        "description": "〇絵垢（@a1um999）のさぶ\n〇小野美苗𝑩𝑰𝑮𝑳𝑶𝑽𝑬_____\n〇TANO*Cや日常、リザルトなど\n↓ TANO*C ↓\nTOUR 2025 TOKYO , Arcaea Next Stage , MEGATON KICK '26 , TOUR 2026 全通 , UK26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "a1um999"
+              }
+            ]
+          }
+        },
+        "id": "1751902592052121600",
+        "name": "あるむ",
+        "pinned_tweet_id": "1955243440826179613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039361239403638785/CX5RiQaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 647,
+          "like_count": 12890,
+          "listed_count": 0,
+          "media_count": 947,
+          "tweet_count": 7221
+        },
+        "url": "",
+        "username": "Alum_999",
+        "verified": false
+      }
+    ]
+  }
+}

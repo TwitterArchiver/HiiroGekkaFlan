@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2076597216207331541",
+    "created_at": "2026-07-13T15:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076690474925191540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1369564443961520131",
+          "start": 0,
+          "username": "kuroyei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076690474925191540",
+    "in_reply_to_user_id": "1369564443961520131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076597216207331541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuroyei 君中国语本当上手👍🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1159,
+        "media_key": "3_2076597204576575488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGOJ8BbIAATFto.jpg",
+        "width": 1264
+      },
+      {
+        "height": 309,
+        "media_key": "3_2076597210742218752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGOKS_bYAA8vZi.jpg",
+        "width": 295
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2076597216207331541",
+        "created_at": "2026-07-13T15:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076690474925191540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1369564443961520131",
+              "start": 0,
+              "username": "kuroyei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076690474925191540",
+        "in_reply_to_user_id": "1369564443961520131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076597216207331541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroyei 君中国语本当上手👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076597204576575488",
+            "3_2076597210742218752"
+          ]
+        },
+        "author_id": "1369564443961520131",
+        "conversation_id": "2076597216207331541",
+        "created_at": "2026-07-13T09:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076597216207331541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LJ9zifpipm",
+              "end": 40,
+              "expanded_url": "https://x.com/kuroyei/status/2076597216207331541/photo/1",
+              "media_key": "3_2076597204576575488",
+              "start": 17,
+              "url": "https://t.co/LJ9zifpipm"
+            },
+            {
+              "display_url": "pic.x.com/LJ9zifpipm",
+              "end": 40,
+              "expanded_url": "https://x.com/kuroyei/status/2076597216207331541/photo/1",
+              "media_key": "3_2076597210742218752",
+              "start": 17,
+              "url": "https://t.co/LJ9zifpipm"
+            },
+            {
+              "display_url": "x.com/kuroyei/status…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/kuroyei/status/2065658349807714573",
+              "start": 41,
+              "url": "https://t.co/zSW4KqJxgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076597216207331541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 50956,
+          "like_count": 701,
+          "quote_count": 2,
+          "reply_count": 127,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065658349807714573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "HSK 4級 受かってた、呦西〜 https://t.co/LJ9zifpipm https://t.co/zSW4KqJxgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 892,
+          "like_count": 12538,
+          "listed_count": 1,
+          "media_count": 434,
+          "tweet_count": 3750
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-10T08:23:17.000Z",
+        "description": "💻📱 HONOR / ✨ 中国旅行, ガジェット, サービス🇨🇳 / 👨‍💻 高専卒社会人1年生 / 🎨 by @motisan_info / ✈️ 旅の様子は https://t.co/WRZRT9mds0 のハイライトをご覧ください！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "motisan_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/kuroyei_san",
+                "end": 104,
+                "expanded_url": "http://instagram.com/kuroyei_san",
+                "start": 81,
+                "url": "https://t.co/WRZRT9mds0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuroyei.com",
+                "end": 23,
+                "expanded_url": "https://kuroyei.com",
+                "start": 0,
+                "url": "https://t.co/jXSrtRUbNf"
+              }
+            ]
+          }
+        },
+        "id": "1369564443961520131",
+        "location": "📷 in 中国深圳市南山区 on Aug 13, 2025",
+        "name": "くろえいさん🥝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679851852110909440/yQS7Tv_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10948,
+          "following_count": 945,
+          "like_count": 128951,
+          "listed_count": 49,
+          "media_count": 9292,
+          "tweet_count": 38309
+        },
+        "url": "https://t.co/jXSrtRUbNf",
+        "username": "kuroyei",
+        "verified": true
+      }
+    ]
+  }
+}

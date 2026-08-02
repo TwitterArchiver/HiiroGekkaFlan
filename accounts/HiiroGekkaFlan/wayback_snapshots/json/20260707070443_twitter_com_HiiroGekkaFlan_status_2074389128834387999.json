@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2074389128834387999",
+    "created_at": "2026-07-07T07:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074389128834387999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jokieliu/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/jokieliu/status/2070853551694508346",
+          "start": 9,
+          "url": "https://t.co/TIekvf6s14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074389128834387999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070853551694508346",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自有大儒为我辩经 https://t.co/TIekvf6s14"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2070853541233926144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0mUusboAA8wRW.jpg",
+        "width": 1080
+      },
+      {
+        "height": 730,
+        "media_key": "3_2070853541263278080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0mUuzbgAAWcO5.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2074389128834387999",
+        "created_at": "2026-07-07T07:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074389128834387999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jokieliu/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/jokieliu/status/2070853551694508346",
+              "start": 9,
+              "url": "https://t.co/TIekvf6s14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074389128834387999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070853551694508346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自有大儒为我辩经 https://t.co/TIekvf6s14"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070853541233926144",
+            "3_2070853541263278080"
+          ]
+        },
+        "author_id": "313009264",
+        "conversation_id": "2070853551694508346",
+        "created_at": "2026-06-27T12:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070853551694508346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XNTcSwTvpl",
+              "end": 70,
+              "expanded_url": "https://x.com/jokieliu/status/2070853551694508346/photo/1",
+              "media_key": "3_2070853541233926144",
+              "start": 47,
+              "url": "https://t.co/XNTcSwTvpl"
+            },
+            {
+              "display_url": "pic.x.com/XNTcSwTvpl",
+              "end": 70,
+              "expanded_url": "https://x.com/jokieliu/status/2070853551694508346/photo/1",
+              "media_key": "3_2070853541263278080",
+              "start": 47,
+              "url": "https://t.co/XNTcSwTvpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070853551694508346",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 213151,
+          "like_count": 3807,
+          "quote_count": 30,
+          "reply_count": 157,
+          "retweet_count": 216
+        },
+        "reply_settings": "everyone",
+        "text": "In China, even the bins can get their own ACs. https://t.co/XNTcSwTvpl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 880,
+          "like_count": 11866,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 3592
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-08T01:03:24.000Z",
+        "description": "Speak only the truth/ 🇨🇳/metalhead and two cats 🐈",
+        "id": "313009264",
+        "name": "Giokielicious",
+        "pinned_tweet_id": "1852940314665005496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022301356112187392/Yn6eZLZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32676,
+          "following_count": 1000,
+          "like_count": 41855,
+          "listed_count": 177,
+          "media_count": 2955,
+          "tweet_count": 19698
+        },
+        "url": "",
+        "username": "jokieliu",
+        "verified": true
+      }
+    ]
+  }
+}

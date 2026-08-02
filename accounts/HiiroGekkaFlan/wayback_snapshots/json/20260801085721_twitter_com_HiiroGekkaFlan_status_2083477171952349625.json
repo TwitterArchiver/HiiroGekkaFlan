@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2083477171952349625",
+    "created_at": "2026-08-01T08:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083477171952349625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kangning28/sta…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/Kangning28/status/2083367231262793851",
+          "start": 23,
+          "url": "https://t.co/3KBmKdBGVv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083477171952349625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083367231262793851",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩子们，喜欢我牢莞1号线修了10年才通车吗🤓 https://t.co/3KBmKdBGVv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2083367210417020928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmbcJGaYAAIn86.jpg",
+        "width": 3276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2083477171952349625",
+        "created_at": "2026-08-01T08:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083477171952349625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kangning28/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Kangning28/status/2083367231262793851",
+              "start": 23,
+              "url": "https://t.co/3KBmKdBGVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083477171952349625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083367231262793851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子们，喜欢我牢莞1号线修了10年才通车吗🤓 https://t.co/3KBmKdBGVv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083367210417020928"
+          ]
+        },
+        "author_id": "1359811127085920260",
+        "conversation_id": "2083367231262793851",
+        "created_at": "2026-08-01T01:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083367231262793851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9yOstPFtg",
+              "end": 42,
+              "expanded_url": "https://x.com/Kangning28/status/2083367231262793851/photo/1",
+              "media_key": "3_2083367210417020928",
+              "start": 19,
+              "url": "https://t.co/n9yOstPFtg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083367231262793851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 47180,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一城烟火，满城浪漫，这里是广东东莞🌸 https://t.co/n9yOstPFtg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 901,
+          "like_count": 13781,
+          "listed_count": 2,
+          "media_count": 487,
+          "tweet_count": 4112
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-11T10:26:58.000Z",
+        "description": "愛旅遊、愛生活，傳播正能量，分享中國文化和美景的熱血青年。\nPassionate young people who love tourism, love life, spread positive energy, and share Chinese culture and beauty\n圖片多為網圖，如若侵權請聯繫刪除",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kangzhu60/",
+                "end": 23,
+                "expanded_url": "http://www.instagram.com/kangzhu60/",
+                "start": 0,
+                "url": "https://t.co/izyunmkAaL"
+              }
+            ]
+          }
+        },
+        "id": "1359811127085920260",
+        "name": "惠康寧",
+        "pinned_tweet_id": "2083367231262793851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791855698260922368/h98LlYvF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14851,
+          "following_count": 10766,
+          "like_count": 126231,
+          "listed_count": 20,
+          "media_count": 4017,
+          "tweet_count": 23980
+        },
+        "url": "https://t.co/izyunmkAaL",
+        "username": "Kangning28",
+        "verified": true
+      }
+    ]
+  }
+}

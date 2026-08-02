@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2075119044110467189",
+    "created_at": "2026-07-10T07:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T08:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075486180888789027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1816866174686363651",
+          "start": 0,
+          "username": "Misaka_No19009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075486180888789027",
+    "in_reply_to_user_id": "1816866174686363651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075119044110467189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misaka_No19009 我看没什么，起码挺热闹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2075119041744891904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxNxiXacAAlvxg.jpg",
+        "width": 865
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2075119044110467189",
+        "created_at": "2026-07-10T07:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075486180888789027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1816866174686363651",
+              "start": 0,
+              "username": "Misaka_No19009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075486180888789027",
+        "in_reply_to_user_id": "1816866174686363651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075119044110467189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaka_No19009 我看没什么，起码挺热闹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075119041744891904"
+          ]
+        },
+        "author_id": "1816866174686363651",
+        "conversation_id": "2075119044110467189",
+        "created_at": "2026-07-09T07:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075119044110467189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6N7J7xrrKP",
+              "end": 167,
+              "expanded_url": "https://x.com/Misaka_No19009/status/2075119044110467189/photo/1",
+              "media_key": "3_2075119041744891904",
+              "start": 144,
+              "url": "https://t.co/6N7J7xrrKP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075119044110467189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 4176,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "极左小伙爱加速，坚定反政府，能量巨大\n左派小伙爱革命，坚定反修正，能量巨大\n中左小伙爱改良，坚定搞福利，能量巨大\n中立小伙爱看戏，坚定看风向，能量巨大\n中右小伙爱西化，坚定反威权，能量巨大\n右派小伙爱市场，坚定挺资本，能量巨大\n极右小伙爱纳粹，坚定搞扩张，能量巨大\n有点小差异各有各的美 https://t.co/6N7J7xrrKP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 883,
+          "like_count": 12222,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 3659
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T16:00:47.000Z",
+        "description": "留法材科天坑在读😱 | 建左改革派 | 包容一切非极端左及中立 | 坚定反战 | 泛左翼联盟大团结万岁\n互fo直接提，只要思想不过于极端都会回fo的 Languages: CHN🇨🇳/ENG🇬🇧/FRA🇫🇷",
+        "id": "1816866174686363651",
+        "location": "Paris, France",
+        "name": "纯.简.拉基.茨德",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066727658801553408/IoJmA5bR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 24,
+          "like_count": 130,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1261
+        },
+        "url": "",
+        "username": "Misaka_No19009",
+        "verified": false
+      }
+    ]
+  }
+}

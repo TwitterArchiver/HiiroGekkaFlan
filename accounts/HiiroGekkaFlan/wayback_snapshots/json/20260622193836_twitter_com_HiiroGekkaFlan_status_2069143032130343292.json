@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2068558590030619074",
+    "created_at": "2026-06-22T19:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T20:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069143032130343292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1805512182614081536",
+          "start": 0,
+          "username": "hsdjbtj25066"
+        },
+        {
+          "end": 25,
+          "id": "1663516164306382852",
+          "start": 14,
+          "username": "DouBao8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069143032130343292",
+    "in_reply_to_user_id": "1805512182614081536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068717678408487146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsdjbtj25066 @DouBao8964 煽动对立的类人来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2068558590030619074",
+        "created_at": "2026-06-22T19:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T20:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069143032130343292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1805512182614081536",
+              "start": 0,
+              "username": "hsdjbtj25066"
+            },
+            {
+              "end": 25,
+              "id": "1663516164306382852",
+              "start": 14,
+              "username": "DouBao8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069143032130343292",
+        "in_reply_to_user_id": "1805512182614081536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068717678408487146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsdjbtj25066 @DouBao8964 煽动对立的类人来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805512182614081536",
+        "conversation_id": "2068558590030619074",
+        "created_at": "2026-06-21T15:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068717678408487146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1663516164306382852",
+              "start": 0,
+              "username": "DouBao8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068717678408487146",
+        "in_reply_to_user_id": "1663516164306382852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 26503,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 107,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068558590030619074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DouBao8964 你们女人还有事没事说男人要上交工资呢，什么叫上交工资，挣钱的还要看你花钱的脸色是吧，老子那叫下发，还有你真以为女的不家暴是吧，有的男的窝囊废让女的打了也就算了，部分女的不也是嘴欠挨打？按自己擅长的方式家暴罢了，我看有的女的要是长肌肉的话打起人来不比男的差吧🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 869,
+          "like_count": 10585,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 3270
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T08:04:00.000Z",
+        "description": "",
+        "id": "1805512182614081536",
+        "name": "Hsdj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066707182113239040/P-YXgHg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "hsdjbtj25066",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "此豆包非彼豆包 小号@callme_doubi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "callme_doubi"
+              }
+            ]
+          }
+        },
+        "id": "1663516164306382852",
+        "name": "豆包",
+        "pinned_tweet_id": "2011694838832578671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025774560457654272/ojdpVLBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11990,
+          "following_count": 79,
+          "like_count": 14462,
+          "listed_count": 6,
+          "media_count": 375,
+          "tweet_count": 6576
+        },
+        "url": "",
+        "username": "DouBao8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2078824780539793624",
+    "created_at": "2026-07-20T03:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079045607927566659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2051615633008435200",
+          "start": 0,
+          "username": "VonTom299352"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079045607927566659",
+    "in_reply_to_user_id": "2051615633008435200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079015318492770727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VonTom299352 普工996007顶多1000美元封顶了，这是普遍的现象，房价祖孙三代才买得起指的是一线城市，一般情况下一线城市才有“体面”的工作。什么2套房的说法大概率是身边统计学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078824780539793624",
+        "created_at": "2026-07-20T03:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079045607927566659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2051615633008435200",
+              "start": 0,
+              "username": "VonTom299352"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079045607927566659",
+        "in_reply_to_user_id": "2051615633008435200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079015318492770727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonTom299352 普工996007顶多1000美元封顶了，这是普遍的现象，房价祖孙三代才买得起指的是一线城市，一般情况下一线城市才有“体面”的工作。什么2套房的说法大概率是身边统计学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051615633008435200",
+        "conversation_id": "2078824780539793624",
+        "created_at": "2026-07-20T01:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079015318492770727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079015318492770727",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12125,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078824780539793624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 平均工资500美元？！胡说八道，乘以3差不多！房价，什么祖孙三代，为了黑而黑，一般基层工薪阶级2套房多得是。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 897,
+          "like_count": 13023,
+          "listed_count": 1,
+          "media_count": 458,
+          "tweet_count": 3904
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T10:51:19.000Z",
+        "description": "",
+        "id": "2051615633008435200",
+        "name": "Von Tom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051615721185001479/kexJG4B3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 23,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "VonTom299352",
+        "verified": false
+      }
+    ]
+  }
+}

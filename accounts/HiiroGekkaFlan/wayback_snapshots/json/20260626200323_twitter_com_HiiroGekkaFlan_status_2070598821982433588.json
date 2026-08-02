@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2070492155794342163",
+    "created_at": "2026-06-26T20:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T21:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070598821982433588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1562375313559994368",
+          "start": 0,
+          "username": "xnyn47519716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070598821982433588",
+    "in_reply_to_user_id": "1562375313559994368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070492155794342163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xnyn47519716 哇是推友"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 785,
+        "media_key": "3_2070492149750382592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvdo-gbQAAKG5D.jpg",
+        "width": 826
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2070492155794342163",
+        "created_at": "2026-06-26T20:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T21:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070598821982433588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1562375313559994368",
+              "start": 0,
+              "username": "xnyn47519716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070598821982433588",
+        "in_reply_to_user_id": "1562375313559994368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070492155794342163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnyn47519716 哇是推友"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070492149750382592"
+          ]
+        },
+        "author_id": "1562375313559994368",
+        "conversation_id": "2070492155794342163",
+        "created_at": "2026-06-26T12:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070492155794342163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jyYpgqRb8d",
+              "end": 30,
+              "expanded_url": "https://x.com/xnyn47519716/status/2070492155794342163/photo/1",
+              "media_key": "3_2070492149750382592",
+              "start": 7,
+              "url": "https://t.co/jyYpgqRb8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070492155794342163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是是你们谁 https://t.co/jyYpgqRb8d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 871,
+          "like_count": 11021,
+          "listed_count": 1,
+          "media_count": 374,
+          "tweet_count": 3412
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-24T09:45:09.000Z",
+        "description": "無言フォロー失礼します。Anti-CCP 8964\n中国出身｜18↑｜日本語勉強中｜女性\n昭和軍歌・演歌・IJN / IJA関連が好きです 🇯🇵色々な思想や価値観に理解あります。\n\nDMどうぞ🐱※R18系ばかりの方はごめんなさい🚫\n\n※イラスト依頼品\n\n本垢→ @dolphin_5ge\n♡ @Minoru260502",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "dolphin_5ge"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "Minoru260502"
+              }
+            ]
+          }
+        },
+        "id": "1562375313559994368",
+        "name": "桃之夭夭二代目",
+        "pinned_tweet_id": "2068305594763895127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059987682537943041/QAI4GHke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 178,
+          "like_count": 3112,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 541
+        },
+        "url": "",
+        "username": "xnyn47519716",
+        "verified": false
+      }
+    ]
+  }
+}

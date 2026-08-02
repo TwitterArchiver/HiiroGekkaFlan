@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2076598951558676658",
+    "created_at": "2026-07-13T12:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076647880761430508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055612868058292224",
+          "start": 0,
+          "username": "oneLettuces"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076647880761430508",
+    "in_reply_to_user_id": "2055612868058292224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076640958540562842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oneLettuces 确实，目前普遍的8小时工作只有2200多最低月工资，想普及八小时工作制首先得大幅提高最低月工资标准，不然这点钱在城市只能养活自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2076598951558676658",
+        "created_at": "2026-07-13T12:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076647880761430508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055612868058292224",
+              "start": 0,
+              "username": "oneLettuces"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076647880761430508",
+        "in_reply_to_user_id": "2055612868058292224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076640958540562842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oneLettuces 确实，目前普遍的8小时工作只有2200多最低月工资，想普及八小时工作制首先得大幅提高最低月工资标准，不然这点钱在城市只能养活自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055612868058292224",
+        "conversation_id": "2076598951558676658",
+        "created_at": "2026-07-13T12:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076640958540562842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076640958540562842",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076598951558676658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 你说的对，但是目前主流不是月薪这个概念的问题而是劳动时常与劳动强度是否匹配月薪工资数量的问题，中国大陆周劳动时常为48.6小时远超韩国和越南韩国越南几乎都是40个小时，很多粉区经典的就是总比饿着好，知本家也没有逼认你啊，你有本事也当资本家等，我个人认为你这个还太超前了，先解决月薪数量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 892,
+          "like_count": 12507,
+          "listed_count": 1,
+          "media_count": 433,
+          "tweet_count": 3741
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T11:37:41.000Z",
+        "description": "好访客知道该何时离开",
+        "id": "2055612868058292224",
+        "name": "不亻中嘞🇻🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055614156389089280/z8ykLx2s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 24,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "oneLettuces",
+        "verified": false
+      }
+    ]
+  }
+}

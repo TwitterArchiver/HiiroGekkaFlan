@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2069403413318877304",
+    "created_at": "2026-06-23T13:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T14:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069411967266406644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1456872541952229379",
+          "start": 0,
+          "username": "txqv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069411967266406644",
+    "in_reply_to_user_id": "1456872541952229379",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069403413318877304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@txqv3 😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069399367828783104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLf7wsnaQAAUY07.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069399381460291584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLf7xfZakAAdR10.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069399393745412096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLf7yNKaoAAs5NV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2069403413318877304",
+        "created_at": "2026-06-23T13:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069411967266406644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1456872541952229379",
+              "start": 0,
+              "username": "txqv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069411967266406644",
+        "in_reply_to_user_id": "1456872541952229379",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069403413318877304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@txqv3 😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069399367828783104",
+            "3_2069399381460291584",
+            "3_2069399393745412096"
+          ]
+        },
+        "author_id": "1456872541952229379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069403413318877304",
+        "created_at": "2026-06-23T12:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:42:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069400609879720374",
+          "2069403413318877304"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "手办"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "魔改"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "肉便器"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "身体涂鸦"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "婊化"
+            },
+            {
+              "end": 62,
+              "start": 53,
+              "tag": "無洗浄フィギュア"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6iedC2Jem6",
+              "end": 86,
+              "expanded_url": "https://x.com/txqv3/status/2069403413318877304/photo/1",
+              "media_key": "3_2069399367828783104",
+              "start": 63,
+              "url": "https://t.co/6iedC2Jem6"
+            },
+            {
+              "display_url": "pic.x.com/6iedC2Jem6",
+              "end": 86,
+              "expanded_url": "https://x.com/txqv3/status/2069403413318877304/photo/1",
+              "media_key": "3_2069399381460291584",
+              "start": 63,
+              "url": "https://t.co/6iedC2Jem6"
+            },
+            {
+              "display_url": "pic.x.com/6iedC2Jem6",
+              "end": 86,
+              "expanded_url": "https://x.com/txqv3/status/2069403413318877304/photo/1",
+              "media_key": "3_2069399393745412096",
+              "start": 63,
+              "url": "https://t.co/6iedC2Jem6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069403413318877304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "就不做了，流量再低的话，反正也没人看，没人互动，群里也没人\n#手办 #魔改 #肉便器 #身体涂鸦 #婊化　#無洗浄フィギュア https://t.co/6iedC2Jem6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 868,
+          "like_count": 10753,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 3316
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-06T06:34:26.000Z",
+        "description": "底层农村人，并非做题家，基本每天长时间推特在线，爱好分享一些自己的魔改手办收藏，有兴趣可以私我进q群玩，对各种卡牌也很有兴趣，有所收藏，做梦高手，逃避人生高手，另外我被全身烧伤过，身体残疾，状态很差，有没有给我施舍点的……",
+        "id": "1456872541952229379",
+        "location": "未知",
+        "name": "躲在被子里的梦梦",
+        "pinned_tweet_id": "2058423290138329200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975479370476363779/b9hRy7Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 1324,
+          "like_count": 72191,
+          "listed_count": 7,
+          "media_count": 1682,
+          "tweet_count": 20519
+        },
+        "url": "",
+        "username": "txqv3",
+        "verified": true
+      }
+    ]
+  }
+}

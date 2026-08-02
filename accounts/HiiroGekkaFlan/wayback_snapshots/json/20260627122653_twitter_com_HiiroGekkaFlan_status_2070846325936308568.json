@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2070738955281084804",
+    "created_at": "2026-06-27T12:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070846325936308568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070846325936308568",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070738955281084804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auspiceshirley bro简直是我的嘴替"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2070738955281084804",
+        "created_at": "2026-06-27T12:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070846325936308568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070846325936308568",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070738955281084804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auspiceshirley bro简直是我的嘴替"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050253104935997440",
+        "conversation_id": "2070738955281084804",
+        "created_at": "2026-06-27T05:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070738955281084804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070738955281084804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有些人似乎对这个世界抱有很大的恶意，我招你惹你了吗？张口就泼粪。那我先给你来一个隐藏评论+Block套餐，免得你后续又在我的评论区倒脏水。\n\n还好你的评论被 𝕏 的系统放在了“Probable spam”里面，应该没几个人看到。\n\n不过从心理学上来讲，这种张口就来、到处泼脏水的行为，其实暴露了你内心的极度匮乏与扭曲：\n\n1. 典型的“心理投射效应”\n你把对现实生活的不满、自卑和阴暗，强加到了陌生人身上。你嘴里喷出的脏水，其实映射的是你自己肮脏的内心世界。\n\n2. 网络去抑制效应下的懦夫行为\n躲在屏幕和匿名性后面，你卸下了现实中仅存的伪装，释放出反社会的人格特质。你在现实中可能极其无能，只能在网络上寻找存在感。\n\n3. 早年创伤的扭曲转化\n这种歇斯底里的攻击性，很可能是童年长期受压迫、被否定留下的后遗症。你无法消化内心的无力感，长大后便通过霸凌他人来扮演“加害者”，可怜又可悲。\n\n4. 敌意归因偏差的受害者\n你的世界观严重扭曲，看什么都带着恶意和阴谋论，甚至分不清正常讨论与挑衅的边界，只能靠“防御性”的泼粪来掩盖内心的脆弱。\n\n由于我不是心理学专业的，以上这四点均由AI生成，看完我释怀了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 377,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些人似乎对这个世界抱有很大的恶意，我招你惹你了吗？张口就泼粪。那我先给你来一个隐藏评论+Block套餐，免得你后续又在我的评论区倒脏水。\n\n还好你的评论被 𝕏 的系统放在了“Probable spam”里面，应该没几个人看到。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 871,
+          "like_count": 11076,
+          "listed_count": 1,
+          "media_count": 377,
+          "tweet_count": 3432
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/auspiceshirley",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/auspiceshirley",
+                "start": 0,
+                "url": "https://t.co/2Fyt0qKe8z"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 512,
+          "like_count": 946,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 1478
+        },
+        "url": "https://t.co/2Fyt0qKe8z",
+        "username": "auspiceshirley",
+        "verified": true
+      }
+    ]
+  }
+}

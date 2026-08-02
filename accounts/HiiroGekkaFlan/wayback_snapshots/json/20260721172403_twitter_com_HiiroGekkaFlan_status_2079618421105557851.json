@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2079618421105557851",
+    "created_at": "2026-07-21T17:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T18:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079618421105557851"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhngjing322708…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/zhngjing322708/status/2079577478063095961",
+          "start": 99,
+          "url": "https://t.co/9cvyWvtoW9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079618421105557851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079577478063095961",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有过性行为：❌\n有过男朋友：✅\n有过女朋友：✅\n嗑过药：✅\n喝过酒：✅\n挂过科：❌\n去过夜店：❌\n抽过烟/用过电子烟：❌\n吻过别人：✅\n被留堂：✅\n被课堂赶出去：❌\n考试作弊：❌\n偷偷溜出家门：✅ https://t.co/9cvyWvtoW9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2079618421105557851",
+        "created_at": "2026-07-21T17:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079618421105557851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhngjing322708…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/zhngjing322708/status/2079577478063095961",
+              "start": 99,
+              "url": "https://t.co/9cvyWvtoW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079618421105557851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079577478063095961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友：✅\n有过女朋友：✅\n嗑过药：✅\n喝过酒：✅\n挂过科：❌\n去过夜店：❌\n抽过烟/用过电子烟：❌\n吻过别人：✅\n被留堂：✅\n被课堂赶出去：❌\n考试作弊：❌\n偷偷溜出家门：✅ https://t.co/9cvyWvtoW9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978352432301387776",
+        "conversation_id": "2079577478063095961",
+        "created_at": "2026-07-21T14:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079577478063095961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xiaolai_8964/s…",
+              "end": 124,
+              "expanded_url": "https://x.com/Xiaolai_8964/status/2078458571571015992?s=20",
+              "start": 101,
+              "url": "https://t.co/tAqBKYfoyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079577478063095961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 414,
+          "like_count": 6,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078458571571015992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友：✅\n有过女朋友：❌\n嗑过药：❌\n喝过酒：✅\n挂过科：✅\n去过夜店：❌  \n抽过烟/用过电子烟：❌\n吻过别人：❌\n被留堂：✅\n被课堂赶出去：❌\n考试作弊：❌\n偷偷溜出家门：❌\nhttps://t.co/tAqBKYfoyi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 903,
+          "like_count": 13552,
+          "listed_count": 2,
+          "media_count": 468,
+          "tweet_count": 4035
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T06:49:29.000Z",
+        "description": "原名：征醬|自由若沒有社會主義，就是特權與不公；社會主義若沒有自由，就是奴役與野蠻.中國新左派|左翼|自由意志社會主義|盧森堡主義|馬克思主義女性主義|Liberté· Égalité· Fraternité🇫🇷|小王夢女、順女|妹妹@qtbrmdh19120101",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 117,
+                "username": "qtbrmdh19120101"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/RrkdtxiAJh"
+              }
+            ]
+          }
+        },
+        "id": "1978352432301387776",
+        "location": "東巴黎公社",
+        "name": "Logik☭❂🇹🇼🇨🇳🇨🇵🇩🇪",
+        "pinned_tweet_id": "2077325800597303299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063929817842769920/FdvXyXT5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 303,
+          "like_count": 13454,
+          "listed_count": 4,
+          "media_count": 1591,
+          "tweet_count": 5216
+        },
+        "url": "https://t.co/RrkdtxiAJh",
+        "username": "zhngjing322708",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2078824780539793624",
+    "created_at": "2026-07-20T03:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079046083356049801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3622074732",
+          "start": 0,
+          "username": "BUHhV2FNrrsXfHN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079046083356049801",
+    "in_reply_to_user_id": "3622074732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079042341328023703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BUHhV2FNrrsXfHN 羡慕中华民国（台湾）的普选"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078824780539793624",
+        "created_at": "2026-07-20T03:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079046083356049801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3622074732",
+              "start": 0,
+              "username": "BUHhV2FNrrsXfHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079046083356049801",
+        "in_reply_to_user_id": "3622074732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079042341328023703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BUHhV2FNrrsXfHN 羡慕中华民国（台湾）的普选"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3622074732",
+        "conversation_id": "2078824780539793624",
+        "created_at": "2026-07-20T03:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079042341328023703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079042341328023703",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078824780539793624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 而且這個國家，到現在也不給華人公民證或國民證，只給華人居民證。（公民=可參與公共事物“投票選舉之類的”）（國民這不用解釋了吧）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 897,
+          "like_count": 13026,
+          "listed_count": 1,
+          "media_count": 458,
+          "tweet_count": 3906
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-20T02:16:35.000Z",
+        "description": "",
+        "id": "3622074732",
+        "location": "Fukuyama-shi, Hiroshima",
+        "name": "雨打梨花深閉門",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911135147228876800/DOqm3y8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 216,
+          "like_count": 54506,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 5391
+        },
+        "url": "",
+        "username": "BUHhV2FNrrsXfHN",
+        "verified": false
+      }
+    ]
+  }
+}

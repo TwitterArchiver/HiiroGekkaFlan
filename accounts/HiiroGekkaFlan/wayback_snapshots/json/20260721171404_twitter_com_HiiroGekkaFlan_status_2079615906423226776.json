@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2079137671457415469",
+    "created_at": "2026-07-21T17:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T18:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079615906423226776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1792720552710610944",
+          "start": 0,
+          "username": "Akl1122334455"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079615906423226776",
+    "in_reply_to_user_id": "1792720552710610944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079470866807840823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akl1122334455 大师我悟了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2079137671457415469",
+        "created_at": "2026-07-21T17:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079615906423226776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1792720552710610944",
+              "start": 0,
+              "username": "Akl1122334455"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079615906423226776",
+        "in_reply_to_user_id": "1792720552710610944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079470866807840823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akl1122334455 大师我悟了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792720552710610944",
+        "conversation_id": "2079137671457415469",
+        "created_at": "2026-07-21T07:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079470866807840823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079470866807840823",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 202,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079137671457415469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 性压抑的来x看片，政治压抑的来x建政，本质都是自慰。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 902,
+          "like_count": 13544,
+          "listed_count": 2,
+          "media_count": 468,
+          "tweet_count": 4031
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T00:54:32.000Z",
+        "description": "",
+        "id": "1792720552710610944",
+        "name": "Akl",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 17,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "Akl1122334455",
+        "verified": false
+      }
+    ]
+  }
+}

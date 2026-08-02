@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2072302377861083454",
+    "created_at": "2026-07-01T18:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T19:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072392011370373262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "23499976",
+          "start": 0,
+          "username": "AndyBxxx"
+        },
+        {
+          "end": 17,
+          "id": "27590168",
+          "start": 10,
+          "username": "bikhim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072392011370373262",
+    "in_reply_to_user_id": "23499976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072321950823977049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AndyBxxx @bikhim 好骂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2072302377861083454",
+        "created_at": "2026-07-01T18:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072392011370373262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "23499976",
+              "start": 0,
+              "username": "AndyBxxx"
+            },
+            {
+              "end": 17,
+              "id": "27590168",
+              "start": 10,
+              "username": "bikhim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072392011370373262",
+        "in_reply_to_user_id": "23499976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072321950823977049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AndyBxxx @bikhim 好骂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "23499976",
+        "conversation_id": "2072302377861083454",
+        "created_at": "2026-07-01T14:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072321950823977049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "27590168",
+              "start": 0,
+              "username": "bikhim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072321950823977049",
+        "in_reply_to_user_id": "27590168",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3476,
+          "like_count": 250,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072302377861083454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bikhim SB."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 871,
+          "like_count": 11371,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 3491
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-09T20:58:07.000Z",
+        "description": "🇳🇿🇨🇳 Video journalist @ShanghaiDaily • Creator/host, Reports on China • Fudan M.A. • INFJ • DM open • 上海日报 • 复旦大学硕士 • 不是吹捧中国的投机者，而是讲述事实的媒体人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "ShanghaiDaily"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/ReportsOnChina",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/ReportsOnChina",
+                "start": 0,
+                "url": "https://t.co/40jlq1jls6"
+              }
+            ]
+          }
+        },
+        "id": "23499976",
+        "location": "People's Republic of China",
+        "name": "Andy Boreham 安柏然",
+        "pinned_tweet_id": "1922824654953329148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978029445429817344/izJ3hsZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186116,
+          "following_count": 1534,
+          "like_count": 59097,
+          "listed_count": 800,
+          "media_count": 4538,
+          "tweet_count": 30608
+        },
+        "url": "https://t.co/40jlq1jls6",
+        "username": "AndyBxxx",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-30T05:19:29.000Z",
+        "description": "Vice President Taiwan",
+        "id": "27590168",
+        "location": "Taiwan",
+        "name": "Bi-khim Hsiao 蕭美琴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263794446287556610/CTS7akoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188782,
+          "following_count": 506,
+          "like_count": 7130,
+          "listed_count": 706,
+          "media_count": 186,
+          "tweet_count": 1701
+        },
+        "url": "",
+        "username": "bikhim",
+        "verified": true
+      }
+    ]
+  }
+}

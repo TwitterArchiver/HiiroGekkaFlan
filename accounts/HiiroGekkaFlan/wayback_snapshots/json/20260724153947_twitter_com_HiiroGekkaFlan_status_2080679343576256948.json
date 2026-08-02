@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2080595577621102924",
+    "created_at": "2026-07-24T15:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080679343576256948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1643785305533874177",
+          "start": 0,
+          "username": "MeraK_Rinchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080679343576256948",
+    "in_reply_to_user_id": "1643785305533874177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080595577621102924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeraK_Rinchi 一般都是微信实名上网QQ二次元为主分号用的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2080595577621102924",
+        "created_at": "2026-07-24T15:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080679343576256948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1643785305533874177",
+              "start": 0,
+              "username": "MeraK_Rinchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080679343576256948",
+        "in_reply_to_user_id": "1643785305533874177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080595577621102924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeraK_Rinchi 一般都是微信实名上网QQ二次元为主分号用的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643785305533874177",
+        "conversation_id": "2080595577621102924",
+        "created_at": "2026-07-24T10:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080595577621102924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080595577621102924",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像大家都不喜欢加vx（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 903,
+          "like_count": 13680,
+          "listed_count": 2,
+          "media_count": 472,
+          "tweet_count": 4058
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T01:19:01.000Z",
+        "description": "旧名凛柒 ——『望む結末へと伸ばした両手。』\n自介有联系方式和匿名提问w\n逃生舱：@Go_Karagawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Go_Karagawa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/karagawa_roku2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/karagawa_roku2",
+                "start": 0,
+                "url": "https://t.co/H1yqKwcN6p"
+              }
+            ]
+          }
+        },
+        "id": "1643785305533874177",
+        "location": "Tokyo-to, Japan",
+        "name": "༺空川🎇陸🎆༻",
+        "pinned_tweet_id": "2065328942060544335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065261866943913984/o-XegWu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 548,
+          "like_count": 24811,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 2084
+        },
+        "url": "https://t.co/H1yqKwcN6p",
+        "username": "MeraK_Rinchi",
+        "verified": false
+      }
+    ]
+  }
+}

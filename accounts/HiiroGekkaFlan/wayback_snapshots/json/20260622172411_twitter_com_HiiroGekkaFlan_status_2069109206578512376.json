@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2069072327137284537",
+    "created_at": "2026-06-22T17:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T18:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069109206578512376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1791222449192787968",
+          "start": 0,
+          "username": "v2jom_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069109206578512376",
+    "in_reply_to_user_id": "1791222449192787968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069072327137284537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@v2jom_ 中国有14亿人口，大概7亿的青壮劳动力，但足足有3.2亿的“灵活就业”人口\n找活路难啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2069072327137284537",
+        "created_at": "2026-06-22T17:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069109206578512376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1791222449192787968",
+              "start": 0,
+              "username": "v2jom_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069109206578512376",
+        "in_reply_to_user_id": "1791222449192787968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069072327137284537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@v2jom_ 中国有14亿人口，大概7亿的青壮劳动力，但足足有3.2亿的“灵活就业”人口\n找活路难啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791222449192787968",
+        "conversation_id": "2069072327137284537",
+        "created_at": "2026-06-22T14:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069072327137284537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069072327137284537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 22367,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 46,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国って大変なんだね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "坎通珠人/梗图转发/活人/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/東方project好き/まのさば好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 860,
+          "like_count": 10558,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 3315
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T21:41:43.000Z",
+        "description": "💃@s_0914_o_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "s_0914_o_0"
+              }
+            ]
+          }
+        },
+        "id": "1791222449192787968",
+        "location": "自殺配信",
+        "name": "ななせ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067700918955773952/LxWMTOIC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 53,
+          "like_count": 24136,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2158
+        },
+        "url": "",
+        "username": "v2jom_",
+        "verified": false
+      }
+    ]
+  }
+}

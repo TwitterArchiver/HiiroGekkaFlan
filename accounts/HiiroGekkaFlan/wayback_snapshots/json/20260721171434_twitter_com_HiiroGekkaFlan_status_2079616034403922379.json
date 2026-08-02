@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2079137671457415469",
+    "created_at": "2026-07-21T17:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T18:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079616034403922379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2068538287472644096",
+          "start": 0,
+          "username": "ADsurfb0ard"
+        },
+        {
+          "end": 25,
+          "id": "2051493307470204928",
+          "start": 13,
+          "username": "twoheroco16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079616034403922379",
+    "in_reply_to_user_id": "2068538287472644096",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079530535245033633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ADsurfb0ard @twoheroco16 Love and Peace🫶🏼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2079137671457415469",
+        "created_at": "2026-07-21T17:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079616034403922379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2068538287472644096",
+              "start": 0,
+              "username": "ADsurfb0ard"
+            },
+            {
+              "end": 25,
+              "id": "2051493307470204928",
+              "start": 13,
+              "username": "twoheroco16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079616034403922379",
+        "in_reply_to_user_id": "2068538287472644096",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079530535245033633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ADsurfb0ard @twoheroco16 Love and Peace🫶🏼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068538287472644096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2079137671457415469",
+        "created_at": "2026-07-21T11:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079530535245033633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051493307470204928",
+              "start": 0,
+              "username": "twoheroco16"
+            },
+            {
+              "end": 28,
+              "id": "2042276998668525573",
+              "start": 13,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079530535245033633",
+        "in_reply_to_user_id": "2051493307470204928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079493062678745578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twoheroco16 @HiiroGekkaFlan 这个世界上没有任何人是自己的敌人，根本无需大费周章浪费自己的时间去骂别人，本质不存在敌我，可能只是立场不同和认知不同。我希望x能和twitter一样，少一些怨气，多一些和平。亿万人爱彼此❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 902,
+          "like_count": 13547,
+          "listed_count": 2,
+          "media_count": 468,
+          "tweet_count": 4032
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-21T03:36:10.000Z",
+        "description": "",
+        "id": "2068538287472644096",
+        "name": "ADsurfboard",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068538790038437888/3AOEu_BI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 23,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "ADsurfb0ard",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T02:45:47.000Z",
+        "description": "搞一搞",
+        "id": "2051493307470204928",
+        "name": "twohero",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061318484718759936/To8mAefs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 30,
+          "like_count": 86,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 1316
+        },
+        "url": "",
+        "username": "twoheroco16",
+        "verified": false
+      }
+    ]
+  }
+}

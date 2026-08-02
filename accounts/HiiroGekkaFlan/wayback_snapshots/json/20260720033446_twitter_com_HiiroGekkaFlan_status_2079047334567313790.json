@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2079007381225411071",
+    "created_at": "2026-07-20T03:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079047334567313790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1819018368529121280",
+          "start": 0,
+          "username": "CHINAAComrade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079047334567313790",
+    "in_reply_to_user_id": "1819018368529121280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079007381225411071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CHINAAComrade 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2079007381225411071",
+        "created_at": "2026-07-20T03:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079047334567313790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819018368529121280",
+              "start": 0,
+              "username": "CHINAAComrade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079047334567313790",
+        "in_reply_to_user_id": "1819018368529121280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079007381225411071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CHINAAComrade 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819018368529121280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2079007381225411071",
+        "created_at": "2026-07-20T00:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079007381225411071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2078869507121295769",
+              "start": 45,
+              "url": "https://t.co/jowltuE70n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079007381225411071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078869507121295769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说实话，挺煞风景的\n体育赛事非要扯到政治\n就像一个人不去上厕所你非要往他饭碗里面扣一坨屎 https://t.co/jowltuE70n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 897,
+          "like_count": 13035,
+          "listed_count": 1,
+          "media_count": 458,
+          "tweet_count": 3910
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T14:32:41.000Z",
+        "description": "Just a Chinese who loves his motherland. Communism will triumph!\n中國共產黨萬歲！\n世界人民大團結萬歲！\n打倒修正主義路線！",
+        "id": "1819018368529121280",
+        "location": "Zhejiang,China",
+        "name": "Chinese🇨🇳🇭🇰🇲🇴（NO🇹🇼）🇵🇸",
+        "pinned_tweet_id": "2068286964529586491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819213792779120640/HgejEFmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 538,
+          "like_count": 2473,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 3440
+        },
+        "url": "",
+        "username": "CHINAAComrade",
+        "verified": false
+      }
+    ]
+  }
+}

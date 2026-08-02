@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2074435937279558100",
+    "created_at": "2026-07-07T10:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074438736675578073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1796929111996456960",
+          "start": 0,
+          "username": "nbrkfst0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074438736675578073",
+    "in_reply_to_user_id": "1796929111996456960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074438446253494482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nbrkfst0721 怎么香皂翻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2074435937279558100",
+        "created_at": "2026-07-07T10:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074438736675578073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1796929111996456960",
+              "start": 0,
+              "username": "nbrkfst0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074438736675578073",
+        "in_reply_to_user_id": "1796929111996456960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074438446253494482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nbrkfst0721 怎么香皂翻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796929111996456960",
+        "conversation_id": "2074435937279558100",
+        "created_at": "2026-07-07T10:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074438446253494482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074438446253494482",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074435937279558100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 反了（字面意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 879,
+          "like_count": 11902,
+          "listed_count": 1,
+          "media_count": 407,
+          "tweet_count": 3606
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T15:38:51.000Z",
+        "description": "東方｜秘封｜简/繁中文｜Eng｜機械翻訳日本語|成分复杂｜\n無言フォロー失礼いたしまし\n\n【道歉啟事】\n本人在此向社會大眾致歉，\n\n雖然還沒犯什麼錯，但怕有人不喜歡事後道歉\n所以先放著以備不時之需。\n\n很遺憾自己做了這種事，未來必定深刻反省",
+        "id": "1796929111996456960",
+        "location": "霧ノ湖",
+        "name": "𝓤𝓷𝓬𝓼𝓬𝓼鎮魂曲 ╭ᰩ ᭄╮",
+        "pinned_tweet_id": "2060051603978326453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066891890453356544/V5sDHkwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 1406,
+          "like_count": 18378,
+          "listed_count": 0,
+          "media_count": 660,
+          "tweet_count": 2556
+        },
+        "url": "",
+        "username": "nbrkfst0721",
+        "verified": true
+      }
+    ]
+  }
+}

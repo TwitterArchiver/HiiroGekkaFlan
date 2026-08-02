@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2074129787816489043",
+    "created_at": "2026-07-06T15:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074152813664604190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "bigjusir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074152813664604190",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074129787816489043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjusir 神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074129701371858944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjJ-WRbUAAb4uV.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2074129787816489043",
+        "created_at": "2026-07-06T15:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074152813664604190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "bigjusir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074152813664604190",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074129787816489043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjusir 神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074129701371858944"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Dalai Lama",
+              "id": "806590602166968320",
+              "name": "Dalai Lama"
+            }
+          }
+        ],
+        "conversation_id": "2074129787816489043",
+        "created_at": "2026-07-06T13:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074129787816489043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CTA_TibetdotNe…",
+              "end": 30,
+              "expanded_url": "https://x.com/CTA_TibetdotNet/status/2073836811420598651?s=20",
+              "start": 7,
+              "url": "https://t.co/J6dhby6Lty"
+            },
+            {
+              "display_url": "pic.x.com/TErA6MrgCk",
+              "end": 54,
+              "expanded_url": "https://x.com/bigjusir/status/2074129787816489043/photo/1",
+              "media_key": "3_2074129701371858944",
+              "start": 31,
+              "url": "https://t.co/TErA6MrgCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074129787816489043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 584,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073836811420598651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "共产党一股味\nhttps://t.co/J6dhby6Lty https://t.co/TErA6MrgCk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 880,
+          "like_count": 11844,
+          "listed_count": 1,
+          "media_count": 403,
+          "tweet_count": 3586
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)",
+        "id": "2026283442259017729",
+        "location": "中华人民共和国",
+        "name": "jusir",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 1672,
+          "like_count": 5163,
+          "listed_count": 9,
+          "media_count": 636,
+          "tweet_count": 2681
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true
+      }
+    ]
+  }
+}

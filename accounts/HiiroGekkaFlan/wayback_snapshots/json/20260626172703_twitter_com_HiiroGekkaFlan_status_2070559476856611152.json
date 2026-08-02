@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070204475910791168"
+      ],
+      "media_source_tweet_id": [
+        "2070204534685602050"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1582737213132918785",
+          "name": "McNeil-PPC, Inc"
+        }
+      }
+    ],
+    "conversation_id": "2070559476856611152",
+    "created_at": "2026-06-26T17:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T18:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070559476856611152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1676953234286714881",
+          "start": 3,
+          "username": "JustShowMeFumos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YeS65wLuwY",
+          "end": 54,
+          "expanded_url": "https://x.com/JustShowMeFumos/status/2070204534685602050/video/1",
+          "media_key": "13_2070204475910791168",
+          "start": 31,
+          "url": "https://t.co/YeS65wLuwY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070559476856611152",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070204534685602050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JustShowMeFumos: ayayaya!! https://t.co/YeS65wLuwY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10581,
+        "height": 720,
+        "media_key": "13_2070204475910791168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070204475910791168/img/MTViShMYFWiX43cA.jpg",
+        "public_metrics": {
+          "view_count": 2256
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070204475910791168/vid/avc1/370x270/OlHOcBNaUXbXctkq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070204475910791168/vid/avc1/494x360/ffbDLchyaOC7Vhu1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070204475910791168/vid/avc1/988x720/qhlgCwC8LeGhqsjO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070204475910791168/pl/qP4uPjRPaA_ZLFa5.m3u8?v=cfc"
+          }
+        ],
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070204475910791168"
+          ],
+          "media_source_tweet_id": [
+            "2070204534685602050"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213132918785",
+              "name": "McNeil-PPC, Inc"
+            }
+          }
+        ],
+        "conversation_id": "2070559476856611152",
+        "created_at": "2026-06-26T17:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070559476856611152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1676953234286714881",
+              "start": 3,
+              "username": "JustShowMeFumos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeS65wLuwY",
+              "end": 54,
+              "expanded_url": "https://x.com/JustShowMeFumos/status/2070204534685602050/video/1",
+              "media_key": "13_2070204475910791168",
+              "start": 31,
+              "url": "https://t.co/YeS65wLuwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070559476856611152",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070204534685602050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JustShowMeFumos: ayayaya!! https://t.co/YeS65wLuwY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070204475910791168"
+          ]
+        },
+        "author_id": "1676953234286714881",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213132918785",
+              "name": "McNeil-PPC, Inc"
+            }
+          }
+        ],
+        "conversation_id": "2070204534685602050",
+        "created_at": "2026-06-25T17:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070204534685602050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeS65wLuwY",
+              "end": 33,
+              "expanded_url": "https://x.com/JustShowMeFumos/status/2070204534685602050/video/1",
+              "media_key": "13_2070204475910791168",
+              "start": 10,
+              "url": "https://t.co/YeS65wLuwY"
+            },
+            {
+              "display_url": "x.com/elonmusk/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/elonmusk/status/2070042592012570970",
+              "start": 34,
+              "url": "https://t.co/P3ujRLeQIh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070204534685602050",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 7573,
+          "like_count": 641,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070042592012570970",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ayayaya!! https://t.co/YeS65wLuwY https://t.co/P3ujRLeQIh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 871,
+          "like_count": 11003,
+          "listed_count": 1,
+          "media_count": 373,
+          "tweet_count": 3406
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-06T13:57:55.000Z",
+        "description": "made this account so I only see fumos and no other nonsense I see everyday. follow for fumo. please check out @bogmire64 if u r interested in art 🙏🙏🙏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 110,
+                "username": "bogmire64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/xc-NtHkhUaI",
+                "end": 23,
+                "expanded_url": "https://youtu.be/xc-NtHkhUaI",
+                "start": 0,
+                "url": "https://t.co/iKJKiPpwdK"
+              }
+            ]
+          }
+        },
+        "id": "1676953234286714881",
+        "location": "Hell presumably",
+        "name": "Just Show Me Fumos ᗜ_ᗜ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758331987339665408/5RnsDQse_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11789,
+          "following_count": 225,
+          "like_count": 44574,
+          "listed_count": 25,
+          "media_count": 3242,
+          "tweet_count": 14482
+        },
+        "url": "https://t.co/iKJKiPpwdK",
+        "username": "JustShowMeFumos",
+        "verified": false
+      }
+    ]
+  }
+}

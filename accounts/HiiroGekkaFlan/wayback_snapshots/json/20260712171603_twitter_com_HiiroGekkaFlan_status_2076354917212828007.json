@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2076349031392182683",
+    "created_at": "2026-07-12T17:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076354917212828007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2062588445281890304",
+          "start": 0,
+          "username": "421suu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076354917212828007",
+    "in_reply_to_user_id": "2062588445281890304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076352642016809174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@421suu 推特互动圈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2076349031392182683",
+        "created_at": "2026-07-12T17:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076354917212828007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2062588445281890304",
+              "start": 0,
+              "username": "421suu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076354917212828007",
+        "in_reply_to_user_id": "2062588445281890304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076352642016809174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@421suu 推特互动圈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062588445281890304",
+        "conversation_id": "2076349031392182683",
+        "created_at": "2026-07-12T17:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076352642016809174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076352642016809174",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076349031392182683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 这是啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 891,
+          "like_count": 12460,
+          "listed_count": 1,
+          "media_count": 430,
+          "tweet_count": 3728
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T17:33:44.000Z",
+        "description": "不要走太快，因为地上都是水",
+        "id": "2062588445281890304",
+        "location": "Hong Kong",
+        "name": "逆鸭",
+        "pinned_tweet_id": "2075741344048480265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075084619050041344/wEwU3xxP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 260,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 367
+        },
+        "url": "",
+        "username": "421suu",
+        "verified": false
+      }
+    ]
+  }
+}

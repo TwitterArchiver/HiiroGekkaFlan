@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074034135040147456"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "conversation_id": "2074034150215192828",
+    "created_at": "2026-07-06T07:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074034150215192828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/99M6aK6kzq",
+          "end": 134,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2074034150215192828/photo/1",
+          "media_key": "3_2074034135040147456",
+          "start": 111,
+          "url": "https://t.co/99M6aK6kzq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074034150215192828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "找到绝版说明书了🤓\n这个真的夯啊，三年前o了有半年，戒了之后做检查，肝一点没事，只有因为经常喝西柚汁导致尿酸偏高\n只不过直接一刀切升成精品神药严格管制，但不搞配套的手段引导oder，只会让oder不断尝试更危险的药物…… https://t.co/99M6aK6kzq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074034135040147456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhzDp8aQAATE36.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074034135040147456"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2074034150215192828",
+        "created_at": "2026-07-06T07:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074034150215192828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/99M6aK6kzq",
+              "end": 134,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2074034150215192828/photo/1",
+              "media_key": "3_2074034135040147456",
+              "start": 111,
+              "url": "https://t.co/99M6aK6kzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074034150215192828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找到绝版说明书了🤓\n这个真的夯啊，三年前o了有半年，戒了之后做检查，肝一点没事，只有因为经常喝西柚汁导致尿酸偏高\n只不过直接一刀切升成精品神药严格管制，但不搞配套的手段引导oder，只会让oder不断尝试更危险的药物…… https://t.co/99M6aK6kzq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 878,
+          "like_count": 11778,
+          "listed_count": 1,
+          "media_count": 402,
+          "tweet_count": 3579
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

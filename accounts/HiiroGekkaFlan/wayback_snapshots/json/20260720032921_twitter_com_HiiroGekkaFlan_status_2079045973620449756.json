@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2078824780539793624",
+    "created_at": "2026-07-20T03:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079045973620449756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "705505090531151872",
+          "start": 0,
+          "username": "chenshijie2015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079045973620449756",
+    "in_reply_to_user_id": "705505090531151872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079028285099442299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenshijie2015 一视同仁就没有歧视问题了（确信）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078824780539793624",
+        "created_at": "2026-07-20T03:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079045973620449756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "705505090531151872",
+              "start": 0,
+              "username": "chenshijie2015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079045973620449756",
+        "in_reply_to_user_id": "705505090531151872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079028285099442299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenshijie2015 一视同仁就没有歧视问题了（确信）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705505090531151872",
+        "conversation_id": "2078824780539793624",
+        "created_at": "2026-07-20T02:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079028285099442299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079028285099442299",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 542,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078824780539793624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 胡说八道。中华人民共和国不是排斥华人的国家，因为哪怕一个白人或者黑人加入了中华人民共和国国籍，他们照样没有言论自由权、照样没有投票权。中国政府对公民权利的剥夺是不分种族的，因此中国就不是一个排斥华人的国家。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078824660591071232/FzigwtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 897,
+          "like_count": 13024,
+          "listed_count": 1,
+          "media_count": 458,
+          "tweet_count": 3905
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-03T21:28:16.000Z",
+        "description": "宪政民主是我们这一代人的使命。——蔡定剑\n\nUnwavering Defender of Liberal Multi-Party Democracy",
+        "id": "705505090531151872",
+        "location": "Guelph, Ontario",
+        "name": "陈士杰",
+        "pinned_tweet_id": "1485714678416576513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053253446141149187/cOKxpQsW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 1789,
+          "like_count": 75790,
+          "listed_count": 9,
+          "media_count": 767,
+          "tweet_count": 10457
+        },
+        "url": "",
+        "username": "chenshijie2015",
+        "verified": false
+      }
+    ]
+  }
+}

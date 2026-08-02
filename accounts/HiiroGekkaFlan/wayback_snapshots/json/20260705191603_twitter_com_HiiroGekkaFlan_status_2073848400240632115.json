@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2073848400240632115",
+    "created_at": "2026-07-05T19:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T20:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073848400240632115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eilenoca/statu…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/eilenoca/status/2073603992827855298",
+          "start": 56,
+          "url": "https://t.co/f2BVcKV8wl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073848400240632115",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073603992827855298",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "それでも僕らは必死に生きて\n命を必死に抱えて生きて\n殺してあがいて笑って抱えて\n生きて生きて生きて生きて生きろ https://t.co/f2BVcKV8wl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2073848400240632115",
+        "created_at": "2026-07-05T19:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073848400240632115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eilenoca/statu…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/eilenoca/status/2073603992827855298",
+              "start": 56,
+              "url": "https://t.co/f2BVcKV8wl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073848400240632115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073603992827855298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "それでも僕らは必死に生きて\n命を必死に抱えて生きて\n殺してあがいて笑って抱えて\n生きて生きて生きて生きて生きろ https://t.co/f2BVcKV8wl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051426445654646784",
+        "conversation_id": "2073603992827855298",
+        "created_at": "2026-07-05T03:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073603992827855298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073603992827855298",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1923,
+          "impression_count": 2408076,
+          "like_count": 65549,
+          "quote_count": 524,
+          "reply_count": 172,
+          "retweet_count": 15912
+        },
+        "reply_settings": "everyone",
+        "text": "2021: eu devia ter me matado ano passado\n2022: eu devia ter me matado ano passado\n2023: eu devia ter me matado ano passado\n2024: eu devia ter me matado ano passado\n2025: eu devia ter me matado ano passado\n2026: eu devia ter me matado ano passado"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 878,
+          "like_count": 11702,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 3576
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T22:20:01.000Z",
+        "description": "de lírios",
+        "id": "2051426445654646784",
+        "name": "lena",
+        "pinned_tweet_id": "2060477649118433633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071688888712564736/PanXW37j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 97,
+          "like_count": 3723,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 801
+        },
+        "url": "",
+        "username": "eilenoca",
+        "verified": false
+      }
+    ]
+  }
+}

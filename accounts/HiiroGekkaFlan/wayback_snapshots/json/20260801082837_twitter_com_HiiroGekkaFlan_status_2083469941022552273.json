@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2083397777447686345",
+    "created_at": "2026-08-01T08:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083469941022552273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2047671953281216512",
+          "start": 0,
+          "username": "fohsvkca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083469941022552273",
+    "in_reply_to_user_id": "2047671953281216512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083397777447686345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fohsvkca 中国大陆太大了\n不平衡不均分发展越来越极端了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1302,
+        "media_key": "3_2083397769503666176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOm3O6kbcAA7CRh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2083397777447686345",
+        "created_at": "2026-08-01T08:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083469941022552273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047671953281216512",
+              "start": 0,
+              "username": "fohsvkca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083469941022552273",
+        "in_reply_to_user_id": "2047671953281216512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083397777447686345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fohsvkca 中国大陆太大了\n不平衡不均分发展越来越极端了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083397769503666176"
+          ]
+        },
+        "author_id": "2047671953281216512",
+        "conversation_id": "2083397777447686345",
+        "created_at": "2026-08-01T03:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083397777447686345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BPvMZD7hCG",
+              "end": 45,
+              "expanded_url": "https://x.com/fohsvkca/status/2083397777447686345/photo/1",
+              "media_key": "3_2083397769503666176",
+              "start": 22,
+              "url": "https://t.co/BPvMZD7hCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083397777447686345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 464,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们，你们认为这对吗？\n我觉得没啥大问题 https://t.co/BPvMZD7hCG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 901,
+          "like_count": 13771,
+          "listed_count": 2,
+          "media_count": 487,
+          "tweet_count": 4106
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T13:41:11.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "YouTube.com",
+                "end": 23,
+                "expanded_url": "http://YouTube.com",
+                "start": 0,
+                "url": "https://t.co/3AWGOaadqR"
+              }
+            ]
+          }
+        },
+        "id": "2047671953281216512",
+        "location": "tian'anmen Beijn",
+        "name": "chatGPT（互fo）",
+        "pinned_tweet_id": "2083419132813520941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082906029915066368/utm0ebEm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 4009,
+          "like_count": 11394,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 1082
+        },
+        "url": "https://t.co/3AWGOaadqR",
+        "username": "fohsvkca",
+        "verified": true
+      }
+    ]
+  }
+}

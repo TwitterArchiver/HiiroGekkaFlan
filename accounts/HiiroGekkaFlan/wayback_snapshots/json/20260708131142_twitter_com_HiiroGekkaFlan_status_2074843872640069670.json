@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074843864796700672"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "conversation_id": "2074843872640069670",
+    "created_at": "2026-07-08T13:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074843872640069670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XpTRmawsbI",
+          "end": 30,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2074843872640069670/photo/1",
+          "media_key": "3_2074843864796700672",
+          "start": 7,
+          "url": "https://t.co/XpTRmawsbI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074843872640069670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "事已至此…… https://t.co/XpTRmawsbI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1047,
+        "media_key": "3_2074843864796700672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtTgIWbIAAyjXc.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074843864796700672"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2074843872640069670",
+        "created_at": "2026-07-08T13:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074843872640069670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XpTRmawsbI",
+              "end": 30,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2074843872640069670/photo/1",
+              "media_key": "3_2074843864796700672",
+              "start": 7,
+              "url": "https://t.co/XpTRmawsbI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074843872640069670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事已至此…… https://t.co/XpTRmawsbI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 883,
+          "like_count": 12108,
+          "listed_count": 1,
+          "media_count": 414,
+          "tweet_count": 3631
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

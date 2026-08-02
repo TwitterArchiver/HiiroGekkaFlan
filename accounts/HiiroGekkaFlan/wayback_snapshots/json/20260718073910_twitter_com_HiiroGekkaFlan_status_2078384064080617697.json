@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2078260412374745289",
+    "created_at": "2026-07-18T07:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078384064080617697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2044752741193703424",
+          "start": 0,
+          "username": "731snbt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078384064080617697",
+    "in_reply_to_user_id": "2044752741193703424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078260412374745289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@731snbt 实际上没有所谓的“台湾国”，只有“中华民国”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 799,
+        "media_key": "3_2078260402325204992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNd20ydasAAXwuw.jpg",
+        "width": 1185
+      },
+      {
+        "height": 937,
+        "media_key": "3_2078260402329468928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNd20yebwAA_MqC.jpg",
+        "width": 1165
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2078260412374745289",
+        "created_at": "2026-07-18T07:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078384064080617697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2044752741193703424",
+              "start": 0,
+              "username": "731snbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078384064080617697",
+        "in_reply_to_user_id": "2044752741193703424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078260412374745289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@731snbt 实际上没有所谓的“台湾国”，只有“中华民国”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078260402325204992",
+            "3_2078260402329468928"
+          ]
+        },
+        "author_id": "2044752741193703424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078260412374745289",
+        "created_at": "2026-07-17T23:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T00:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078260412374745289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1NCiqj2B3Q",
+              "end": 36,
+              "expanded_url": "https://x.com/731snbt/status/2078260412374745289/photo/1",
+              "media_key": "3_2078260402325204992",
+              "start": 13,
+              "url": "https://t.co/1NCiqj2B3Q"
+            },
+            {
+              "display_url": "pic.x.com/1NCiqj2B3Q",
+              "end": 36,
+              "expanded_url": "https://x.com/731snbt/status/2078260412374745289/photo/1",
+              "media_key": "3_2078260402329468928",
+              "start": 13,
+              "url": "https://t.co/1NCiqj2B3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078260412374745289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2337,
+          "like_count": 70,
+          "quote_count": 3,
+          "reply_count": 46,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "早安 台灣國是獨立的國家 https://t.co/1NCiqj2B3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077841548738437120/PYSB99eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 894,
+          "like_count": 12847,
+          "listed_count": 1,
+          "media_count": 449,
+          "tweet_count": 3845
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T12:22:41.000Z",
+        "description": "深愛熱愛善待研究過每隻ㄓㄋㄖ\n為全人類醫學發展帶來過不可磨滅の巨大貢獻🥹",
+        "id": "2044752741193703424",
+        "location": "シナハルビン",
+        "name": "7️⃣3️⃣1️⃣の李永紅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050932593634516992/86EQlF_9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 31,
+          "like_count": 561,
+          "listed_count": 3,
+          "media_count": 21,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "731snbt",
+        "verified": false
+      }
+    ]
+  }
+}

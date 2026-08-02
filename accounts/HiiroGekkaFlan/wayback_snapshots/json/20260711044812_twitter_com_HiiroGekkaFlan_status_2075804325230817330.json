@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2075788003251986691",
+    "created_at": "2026-07-11T04:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075804325230817330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1406710586608652289",
+          "start": 0,
+          "username": "ruririru7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075804325230817330",
+    "in_reply_to_user_id": "1406710586608652289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075788003251986691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruririru7 早哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 325,
+        "media_key": "3_2075787951171325952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6uJMKaUAA2-sT.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2075788003251986691",
+        "created_at": "2026-07-11T04:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075804325230817330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1406710586608652289",
+              "start": 0,
+              "username": "ruririru7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075804325230817330",
+        "in_reply_to_user_id": "1406710586608652289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075788003251986691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruririru7 早哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075787951171325952"
+          ]
+        },
+        "author_id": "1406710586608652289",
+        "conversation_id": "2075788003251986691",
+        "created_at": "2026-07-11T03:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075788003251986691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yt0xzAalTK",
+              "end": 41,
+              "expanded_url": "https://x.com/ruririru7/status/2075788003251986691/photo/1",
+              "media_key": "3_2075787951171325952",
+              "start": 18,
+              "url": "https://t.co/yt0xzAalTK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075788003251986691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家早上好，希望今天会有好事发生🙃 https://t.co/yt0xzAalTK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 885,
+          "like_count": 12294,
+          "listed_count": 1,
+          "media_count": 420,
+          "tweet_count": 3679
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-20T20:28:43.000Z",
+        "description": "愿所有宝宝都能被温柔以待｜可以和我一起玩吗",
+        "id": "1406710586608652289",
+        "name": "恋恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064060311863517185/CWRtACGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 37,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "ruririru7",
+        "verified": true
+      }
+    ]
+  }
+}

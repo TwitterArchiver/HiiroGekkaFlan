@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070182855196766209",
+        "3_2070182865544122368",
+        "3_2070182852197863424"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051364733",
+          "name": "URAHARA"
+        }
+      }
+    ],
+    "conversation_id": "2070182890030461310",
+    "created_at": "2026-06-25T16:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T17:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070182890030461310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/anGl3w3Amo",
+          "end": 157,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2070182890030461310/photo/1",
+          "media_key": "3_2070182855196766209",
+          "start": 134,
+          "url": "https://t.co/anGl3w3Amo"
+        },
+        {
+          "display_url": "pic.x.com/anGl3w3Amo",
+          "end": 157,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2070182890030461310/photo/1",
+          "media_key": "3_2070182865544122368",
+          "start": 134,
+          "url": "https://t.co/anGl3w3Amo"
+        },
+        {
+          "display_url": "pic.x.com/anGl3w3Amo",
+          "end": 157,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2070182890030461310/photo/1",
+          "media_key": "3_2070182852197863424",
+          "start": 134,
+          "url": "https://t.co/anGl3w3Amo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070182890030461310",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "DAY 17\nEastNewSound——《Urahara ff》\n\n大好き！ あなたの事\n最喜欢！ 你所有一切\n大嫌い？ わたしの事\n讨厌吗？ 我所有一切\nわからない？ わかってるの・・・\n还不明白吗？ 我全都明白了・・・\n\n太喜欢这首歌了，以至于我买了实体专辑🥰 https://t.co/anGl3w3Amo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2070182855196766209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrEVqgbcAETcVi.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2070182865544122368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrEWRDbkAAVXuX.jpg",
+        "width": 2048
+      },
+      {
+        "height": 662,
+        "media_key": "3_2070182852197863424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrEVfVb0AA7p4X.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070182855196766209",
+            "3_2070182865544122368",
+            "3_2070182852197863424"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051364733",
+              "name": "URAHARA"
+            }
+          }
+        ],
+        "conversation_id": "2070182890030461310",
+        "created_at": "2026-06-25T16:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070182890030461310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/anGl3w3Amo",
+              "end": 157,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2070182890030461310/photo/1",
+              "media_key": "3_2070182855196766209",
+              "start": 134,
+              "url": "https://t.co/anGl3w3Amo"
+            },
+            {
+              "display_url": "pic.x.com/anGl3w3Amo",
+              "end": 157,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2070182890030461310/photo/1",
+              "media_key": "3_2070182865544122368",
+              "start": 134,
+              "url": "https://t.co/anGl3w3Amo"
+            },
+            {
+              "display_url": "pic.x.com/anGl3w3Amo",
+              "end": 157,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2070182890030461310/photo/1",
+              "media_key": "3_2070182852197863424",
+              "start": 134,
+              "url": "https://t.co/anGl3w3Amo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070182890030461310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "DAY 17\nEastNewSound——《Urahara ff》\n\n大好き！ あなたの事\n最喜欢！ 你所有一切\n大嫌い？ わたしの事\n讨厌吗？ 我所有一切\nわからない？ わかってるの・・・\n还不明白吗？ 我全都明白了・・・\n\n太喜欢这首歌了，以至于我买了实体专辑🥰 https://t.co/anGl3w3Amo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 866,
+          "like_count": 10878,
+          "listed_count": 1,
+          "media_count": 369,
+          "tweet_count": 3360
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

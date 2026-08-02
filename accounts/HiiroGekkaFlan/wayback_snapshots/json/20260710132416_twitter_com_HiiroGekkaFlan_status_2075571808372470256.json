@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2075145189425832225",
+    "created_at": "2026-07-10T13:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075571808372470256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1927735014701019137",
+          "start": 0,
+          "username": "Evrra66666666"
+        },
+        {
+          "end": 25,
+          "id": "2054893017946087424",
+          "start": 15,
+          "username": "lun060530"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075571808372470256",
+    "in_reply_to_user_id": "1927735014701019137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075403547043332197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evrra66666666 @lun060530 孩子有什么错？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2075145189425832225",
+        "created_at": "2026-07-10T13:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075571808372470256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1927735014701019137",
+              "start": 0,
+              "username": "Evrra66666666"
+            },
+            {
+              "end": 25,
+              "id": "2054893017946087424",
+              "start": 15,
+              "username": "lun060530"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075571808372470256",
+        "in_reply_to_user_id": "1927735014701019137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075403547043332197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evrra66666666 @lun060530 孩子有什么错？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927735014701019137",
+        "conversation_id": "2075145189425832225",
+        "created_at": "2026-07-10T02:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075403547043332197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2054893017946087424",
+              "start": 0,
+              "username": "lun060530"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075403547043332197",
+        "in_reply_to_user_id": "2054893017946087424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16742,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075145189425832225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lun060530 谴责母亲的有没有想过到底是发生了什么才让人狠心成这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 882,
+          "like_count": 12266,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 3667
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T14:33:51.000Z",
+        "description": "♡",
+        "id": "1927735014701019137",
+        "location": "滚",
+        "name": "阴天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961640203627458560/YhZT19SU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "Evrra66666666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T11:54:32.000Z",
+        "description": "中文互联网观察｜ 中文互联网段子手｜每天吐槽热点、奇葩事、爆笑视频｜普通人视角看世界｜来一起乐呵～ 感兴趣的点关注！",
+        "id": "2054893017946087424",
+        "name": "挽歌.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065062024544186368/RoAZgJKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3840,
+          "following_count": 2993,
+          "like_count": 861,
+          "listed_count": 3,
+          "media_count": 1168,
+          "tweet_count": 2859
+        },
+        "url": "",
+        "username": "lun060530",
+        "verified": true
+      }
+    ]
+  }
+}

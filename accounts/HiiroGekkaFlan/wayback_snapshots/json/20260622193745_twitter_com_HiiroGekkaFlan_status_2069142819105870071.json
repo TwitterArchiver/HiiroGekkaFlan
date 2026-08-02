@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2068813658147471533",
+    "created_at": "2026-06-22T19:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T20:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069142819105870071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2026081318497665024",
+          "start": 0,
+          "username": "852RDSFREEDOM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069142819105870071",
+    "in_reply_to_user_id": "2026081318497665024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068813658147471533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@852RDSFREEDOM 因为颗秒（直球）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2068813658147471533",
+        "created_at": "2026-06-22T19:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T20:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069142819105870071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2026081318497665024",
+              "start": 0,
+              "username": "852RDSFREEDOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069142819105870071",
+        "in_reply_to_user_id": "2026081318497665024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068813658147471533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@852RDSFREEDOM 因为颗秒（直球）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026081318497665024",
+        "conversation_id": "2068813658147471533",
+        "created_at": "2026-06-21T21:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T22:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068813658147471533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068813658147471533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你們知道我爲什麼喜歡打頭嗎\n因爲頭是產生思想的地方\n摧毀那裡 相當於讓你失去思考能力\n想都無法想像\n而且伴隨著死亡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 869,
+          "like_count": 10582,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 3268
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T23:47:34.000Z",
+        "description": "Revolutionary Democratic Socialism\nOriginal Marxism\nCountryhuman lover\nDemocracy&Freedom\nHongkonger\nLove Playing CS2\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼",
+        "id": "2026081318497665024",
+        "location": "中華民國 香港特別市 ROC HK",
+        "name": "+852 4060 9891 ：（ 第二賬戶🎗️",
+        "pinned_tweet_id": "2067380533630505129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068240585102929920/2uQkaE_C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 280,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "852RDSFREEDOM",
+        "verified": false
+      }
+    ]
+  }
+}

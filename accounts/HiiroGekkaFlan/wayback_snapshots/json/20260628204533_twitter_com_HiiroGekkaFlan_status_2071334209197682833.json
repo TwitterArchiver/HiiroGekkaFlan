@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2071334209197682833",
+    "created_at": "2026-06-28T20:45:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T21:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071334209197682833"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Reiau9e/status…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Reiau9e/status/2071134491394068595",
+          "start": 31,
+          "url": "https://t.co/Z9tIT7mNPk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071334209197682833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071134491394068595",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我高中最黑暗的事是有人带飞机杯还扔着玩，结果粘在天花板上面了 https://t.co/Z9tIT7mNPk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2071334209197682833",
+        "created_at": "2026-06-28T20:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071334209197682833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Reiau9e/status…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Reiau9e/status/2071134491394068595",
+              "start": 31,
+              "url": "https://t.co/Z9tIT7mNPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071334209197682833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071134491394068595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我高中最黑暗的事是有人带飞机杯还扔着玩，结果粘在天花板上面了 https://t.co/Z9tIT7mNPk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2071134491394068595",
+        "created_at": "2026-06-28T07:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071134491394068595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071134491394068595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8230,
+          "like_count": 123,
+          "quote_count": 4,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我高中最黑暗的事是看到同学共用飞机杯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 872,
+          "like_count": 11179,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 3451
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 684,
+          "like_count": 6692,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1324
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2074144683958448364",
+    "created_at": "2026-07-07T16:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074537430821290418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1874890159134838784",
+          "start": 0,
+          "username": "abbb1234_"
+        },
+        {
+          "end": 25,
+          "id": "1815649539057201152",
+          "start": 11,
+          "username": "NankyuSeiichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074537430821290418",
+    "in_reply_to_user_id": "1874890159134838784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074515114674287104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abbb1234_ @NankyuSeiichi 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2074144683958448364",
+        "created_at": "2026-07-07T16:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074537430821290418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1874890159134838784",
+              "start": 0,
+              "username": "abbb1234_"
+            },
+            {
+              "end": 25,
+              "id": "1815649539057201152",
+              "start": 11,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074537430821290418",
+        "in_reply_to_user_id": "1874890159134838784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074515114674287104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abbb1234_ @NankyuSeiichi 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874890159134838784",
+        "conversation_id": "2074144683958448364",
+        "created_at": "2026-07-07T15:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074515114674287104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815649539057201152",
+              "start": 0,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074515114674287104",
+        "in_reply_to_user_id": "1815649539057201152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074144683958448364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NankyuSeiichi 你说得对但是好买，总不能为了傻逼金刚烷胺还去吃更傻逼的感康吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 879,
+          "like_count": 11981,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 3623
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T18:47:20.000Z",
+        "description": "只是想模仿这样写｜为什么都喜欢这样｜不是什么正经人｜没病但是够傻逼｜负面属性太多不想打｜谢谢你的fo但是为什么",
+        "id": "1874890159134838784",
+        "name": "abb123-我是偷妈头",
+        "pinned_tweet_id": "2060807500987855270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034252648770326528/prQ2myhx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 7,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 157
+        },
+        "url": "",
+        "username": "abbb1234_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "我对象@yeol_lisu/加速南墙、历史决议、混乱控制、敬畏之心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "yeol_lisu"
+              }
+            ]
+          }
+        },
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1931922221225890292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898775251515023361/2MoJxyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 1428,
+          "like_count": 38147,
+          "listed_count": 3,
+          "media_count": 768,
+          "tweet_count": 10282
+        },
+        "url": "",
+        "username": "NankyuSeiichi",
+        "verified": true
+      }
+    ]
+  }
+}

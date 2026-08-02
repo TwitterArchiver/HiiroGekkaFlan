@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2074278615286743353",
+    "created_at": "2026-07-07T07:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074389752531517562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1859913912898191361",
+          "start": 0,
+          "username": "socieiy2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074389752531517562",
+    "in_reply_to_user_id": "1859913912898191361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074278615286743353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@socieiy2008 如此生活三十年，直到大厦崩塌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 716,
+        "media_key": "3_2074278604008312832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlRZn0b0AAzmK2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2074278615286743353",
+        "created_at": "2026-07-07T07:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074389752531517562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1859913912898191361",
+              "start": 0,
+              "username": "socieiy2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074389752531517562",
+        "in_reply_to_user_id": "1859913912898191361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074278615286743353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@socieiy2008 如此生活三十年，直到大厦崩塌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074278604008312832"
+          ]
+        },
+        "author_id": "1859913912898191361",
+        "conversation_id": "2074278615286743353",
+        "created_at": "2026-07-06T23:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T00:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074278615286743353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R5oE08XMZV",
+              "end": 68,
+              "expanded_url": "https://x.com/socieiy2008/status/2074278615286743353/photo/1",
+              "media_key": "3_2074278604008312832",
+              "start": 45,
+              "url": "https://t.co/R5oE08XMZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074278615286743353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "年轻人现状：年轻人老年化（指的是因缺乏陪伴而形成眼神空洞、情绪像老人般死气沉沉的年轻人） https://t.co/R5oE08XMZV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 880,
+          "like_count": 11869,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 3594
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T10:57:04.000Z",
+        "description": "接纳二次元爱好者|本人立场：团结中左派一致对资|反帝反修|反对粉红反贼|霍查派革命|自由左派路线|支持无产阶级自由民主体制和人民自由（工农自由）|联合全世界人民群众与左派、温和与务实右派|支持议会和宪政的社会主义制度|转贴|导师：@qjbJaTPk8u26S0a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 115,
+                "username": "qjbJaTPk8u26S0a"
+              }
+            ]
+          }
+        },
+        "id": "1859913912898191361",
+        "location": "工农人民国",
+        "name": "人民的山鹰者🚩🇺🇳🇪🇺🇨🇳🇦🇱🇵🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041538848069722112/4oRbxaxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 7502,
+          "like_count": 5289,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 19417
+        },
+        "url": "",
+        "username": "socieiy2008",
+        "verified": false
+      }
+    ]
+  }
+}

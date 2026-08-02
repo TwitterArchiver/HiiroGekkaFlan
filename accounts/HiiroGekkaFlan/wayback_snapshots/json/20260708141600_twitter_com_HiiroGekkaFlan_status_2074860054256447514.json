@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2074743886837428385",
+    "created_at": "2026-07-08T14:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074860054256447514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1287955741907664896",
+          "start": 0,
+          "username": "Munan_6n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074860054256447514",
+    "in_reply_to_user_id": "1287955741907664896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074743886837428385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Munan_6n 可愛い！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074743875470807040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMr4j_Fa0AAch3b.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2074743886837428385",
+        "created_at": "2026-07-08T14:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074860054256447514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1287955741907664896",
+              "start": 0,
+              "username": "Munan_6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074860054256447514",
+        "in_reply_to_user_id": "1287955741907664896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074743886837428385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Munan_6n 可愛い！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074743875470807040"
+          ]
+        },
+        "author_id": "1287955741907664896",
+        "conversation_id": "2074743886837428385",
+        "created_at": "2026-07-08T06:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074743886837428385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c3K2tKm76o",
+              "end": 25,
+              "expanded_url": "https://x.com/Munan_6n/status/2074743886837428385/photo/1",
+              "media_key": "3_2074743875470807040",
+              "start": 2,
+              "url": "https://t.co/c3K2tKm76o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074743886837428385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 1495,
+          "like_count": 235,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "兎 https://t.co/c3K2tKm76o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 883,
+          "like_count": 12128,
+          "listed_count": 1,
+          "media_count": 414,
+          "tweet_count": 3635
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-28T03:39:20.000Z",
+        "description": "东方project/偶像大师/galgame \n非常喜欢毛茸茸、可爱的东西，非常喜欢因幡てゐ！ 欢迎互动！\n个人社团  东方地上兔|因幡帝同好会　qq群号868512215",
+        "id": "1287955741907664896",
+        "location": "中国",
+        "name": "沐南Munan",
+        "pinned_tweet_id": "1976187849834955156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915352579569311747/2TbUTd5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 135,
+          "like_count": 4185,
+          "listed_count": 9,
+          "media_count": 68,
+          "tweet_count": 1541
+        },
+        "url": "",
+        "username": "Munan_6n",
+        "verified": false
+      }
+    ]
+  }
+}

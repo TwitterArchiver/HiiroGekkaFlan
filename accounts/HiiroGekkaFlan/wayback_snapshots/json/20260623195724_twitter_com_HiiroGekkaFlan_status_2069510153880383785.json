@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2068994771721355747",
+    "created_at": "2026-06-23T19:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T20:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069510153880383785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2059659704918310913",
+          "start": 0,
+          "username": "dokucs4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069510153880383785",
+    "in_reply_to_user_id": "2059659704918310913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068994771721355747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dokucs4 我看没什么，评论区起码挺热闹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2068994771721355747",
+        "created_at": "2026-06-23T19:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T20:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069510153880383785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059659704918310913",
+              "start": 0,
+              "username": "dokucs4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069510153880383785",
+        "in_reply_to_user_id": "2059659704918310913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068994771721355747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dokucs4 我看没什么，评论区起码挺热闹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059659704918310913",
+        "conversation_id": "2068994771721355747",
+        "created_at": "2026-06-22T09:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068994771721355747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068994771721355747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 57255,
+          "like_count": 364,
+          "quote_count": 10,
+          "reply_count": 149,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "如果你支持中国共产党领导\n支持中国特色社会主义，那么：\n你的认知水平已经超过绝大多数人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 869,
+          "like_count": 10800,
+          "listed_count": 1,
+          "media_count": 364,
+          "tweet_count": 3324
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T15:39:09.000Z",
+        "description": "Taiwan is a part of China",
+        "id": "2059659704918310913",
+        "location": "China",
+        "name": "紅星閃耀 🇨🇳☭（愛国互fo）",
+        "pinned_tweet_id": "2066865319159726348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066201187922145281/mGNhbLPn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 321,
+          "like_count": 379,
+          "listed_count": 4,
+          "media_count": 12,
+          "tweet_count": 284
+        },
+        "url": "",
+        "username": "dokucs4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069455724137283584",
+        "3_2069455724724490242"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2069455734123925614",
+    "created_at": "2026-06-23T16:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T17:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069455734123925614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F5i5bmrjOF",
+          "end": 85,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2069455734123925614/photo/1",
+          "media_key": "3_2069455724137283584",
+          "start": 62,
+          "url": "https://t.co/F5i5bmrjOF"
+        },
+        {
+          "display_url": "pic.x.com/F5i5bmrjOF",
+          "end": 85,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2069455734123925614/photo/1",
+          "media_key": "3_2069455724724490242",
+          "start": 62,
+          "url": "https://t.co/F5i5bmrjOF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069455734123925614",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "DAY 15\nmajiko（原唱: カンザキイオリ/初音ミク）——《命に嫌われている》\n\n生きて生きて生きて生きて生きろ！ https://t.co/F5i5bmrjOF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2069455724137283584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgvBEOaAAA-IIa.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069455724724490242",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgvBGaaEAIV4Vx.jpg",
+        "width": 1017
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069455724137283584",
+            "3_2069455724724490242"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2069455734123925614",
+        "created_at": "2026-06-23T16:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069455734123925614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5i5bmrjOF",
+              "end": 85,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2069455734123925614/photo/1",
+              "media_key": "3_2069455724137283584",
+              "start": 62,
+              "url": "https://t.co/F5i5bmrjOF"
+            },
+            {
+              "display_url": "pic.x.com/F5i5bmrjOF",
+              "end": 85,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2069455734123925614/photo/1",
+              "media_key": "3_2069455724724490242",
+              "start": 62,
+              "url": "https://t.co/F5i5bmrjOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069455734123925614",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "DAY 15\nmajiko（原唱: カンザキイオリ/初音ミク）——《命に嫌われている》\n\n生きて生きて生きて生きて生きろ！ https://t.co/F5i5bmrjOF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 868,
+          "like_count": 10779,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 3320
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

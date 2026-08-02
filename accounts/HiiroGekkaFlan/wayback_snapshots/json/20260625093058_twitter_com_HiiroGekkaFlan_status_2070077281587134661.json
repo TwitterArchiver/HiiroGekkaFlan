@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2070077281587134661",
+    "created_at": "2026-06-25T09:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070077281587134661"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070077281587134661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别人去大城市旅游：住全季酒店、吃当地特色美食、去著名景点旅游……\n我去大城市：拼好房能睡就行、只去当地漫展玩，玩完后就去机厅打舞萌、无论去哪只吃肯德基麦当劳\n就很……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2070077281587134661",
+        "created_at": "2026-06-25T09:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070077281587134661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070077281587134661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别人去大城市旅游：住全季酒店、吃当地特色美食、去著名景点旅游……\n我去大城市：拼好房能睡就行、只去当地漫展玩，玩完后就去机厅打舞萌、无论去哪只吃肯德基麦当劳\n就很……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 867,
+          "like_count": 10838,
+          "listed_count": 1,
+          "media_count": 366,
+          "tweet_count": 3336
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}
