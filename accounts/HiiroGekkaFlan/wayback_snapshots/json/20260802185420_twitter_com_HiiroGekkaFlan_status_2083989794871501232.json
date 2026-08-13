@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2083818550905700845",
+    "created_at": "2026-08-02T18:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T19:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083989794871501232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2047671953281216512",
+          "start": 0,
+          "username": "fohsvkca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083989794871501232",
+    "in_reply_to_user_id": "2047671953281216512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083818550905700845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fohsvkca 本质上还是老中过时的最低月工资，基本上只有2200——2500左右\n很多基层工作一周40小时工作只发最低月薪，只能养活自己，养家人的话只能被迫自愿加班"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 409,
+        "media_key": "3_2083818544865955840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs17Q8bUAA4HJn.jpg",
+        "width": 627
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2083818550905700845",
+        "created_at": "2026-08-02T18:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083989794871501232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047671953281216512",
+              "start": 0,
+              "username": "fohsvkca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083989794871501232",
+        "in_reply_to_user_id": "2047671953281216512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083818550905700845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fohsvkca 本质上还是老中过时的最低月工资，基本上只有2200——2500左右\n很多基层工作一周40小时工作只发最低月薪，只能养活自己，养家人的话只能被迫自愿加班"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083818544865955840"
+          ]
+        },
+        "author_id": "2047671953281216512",
+        "conversation_id": "2083818550905700845",
+        "created_at": "2026-08-02T07:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083818550905700845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EngWtDr6yk",
+              "end": 32,
+              "expanded_url": "https://x.com/fohsvkca/status/2083818550905700845/photo/1",
+              "media_key": "3_2083818544865955840",
+              "start": 9,
+              "url": "https://t.co/EngWtDr6yk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083818550905700845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1192,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经典的苏式辩证法 https://t.co/EngWtDr6yk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 899,
+          "like_count": 13802,
+          "listed_count": 2,
+          "media_count": 488,
+          "tweet_count": 4125
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T13:41:11.000Z",
+        "description": "AI、科技、政治",
+        "id": "2047671953281216512",
+        "name": "chatGPT",
+        "pinned_tweet_id": "2083859564974452850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082906029915066368/utm0ebEm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 4314,
+          "like_count": 12253,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1341
+        },
+        "url": "",
+        "username": "fohsvkca",
+        "verified": false
+      }
+    ]
+  }
+}

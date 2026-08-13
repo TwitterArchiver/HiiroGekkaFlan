@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086649910657724416",
+        "3_2086649917700034560"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2086649924280844332",
+    "created_at": "2026-08-10T03:04:44.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T04:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086649924280844332"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m4vFiKSWxH",
+          "end": 29,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2086649924280844332/photo/1",
+          "media_key": "3_2086649910657724416",
+          "start": 6,
+          "url": "https://t.co/m4vFiKSWxH"
+        },
+        {
+          "display_url": "pic.x.com/m4vFiKSWxH",
+          "end": 29,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2086649924280844332/photo/1",
+          "media_key": "3_2086649917700034560",
+          "start": 6,
+          "url": "https://t.co/m4vFiKSWxH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086649924280844332",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086649910657724416"
+      },
+      {
+        "media_key": "3_2086649917700034560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我草恶俗啊 https://t.co/m4vFiKSWxH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 827,
+        "media_key": "3_2086649910657724416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVFCcdasAAw3ny.jpg",
+        "width": 1280
+      },
+      {
+        "height": 518,
+        "media_key": "3_2086649917700034560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVFC2sb0AANSA1.jpg",
+        "width": 846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086649910657724416",
+            "3_2086649917700034560"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086649924280844332",
+        "created_at": "2026-08-10T03:04:44.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086649924280844332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m4vFiKSWxH",
+              "end": 29,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2086649924280844332/photo/1",
+              "media_key": "3_2086649910657724416",
+              "start": 6,
+              "url": "https://t.co/m4vFiKSWxH"
+            },
+            {
+              "display_url": "pic.x.com/m4vFiKSWxH",
+              "end": 29,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2086649924280844332/photo/1",
+              "media_key": "3_2086649917700034560",
+              "start": 6,
+              "url": "https://t.co/m4vFiKSWxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086649924280844332",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086649910657724416"
+          },
+          {
+            "media_key": "3_2086649917700034560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草恶俗啊 https://t.co/m4vFiKSWxH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2086649924280844332",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 895,
+          "like_count": 13987,
+          "listed_count": 2,
+          "media_count": 499,
+          "tweet_count": 4182
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

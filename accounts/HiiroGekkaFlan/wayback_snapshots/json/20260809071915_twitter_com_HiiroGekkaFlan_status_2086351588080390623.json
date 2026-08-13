@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2086298437671350723",
+    "created_at": "2026-08-09T07:19:15.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T08:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086351588080390623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1872189816311578624",
+          "start": 0,
+          "username": "Cirnobakacn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086351588080390623",
+    "in_reply_to_user_id": "1872189816311578624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086318366193779093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cirnobakacn 毫无违和感"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2086318347747246080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQXe8XawAA0iFg.jpg",
+        "width": 640
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2086318356689559552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQXfdrboAA7xKO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2086298437671350723",
+        "created_at": "2026-08-09T07:19:15.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T08:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086351588080390623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1872189816311578624",
+              "start": 0,
+              "username": "Cirnobakacn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086351588080390623",
+        "in_reply_to_user_id": "1872189816311578624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086318366193779093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cirnobakacn 毫无违和感"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086318347747246080",
+            "3_2086318356689559552"
+          ]
+        },
+        "author_id": "1872189816311578624",
+        "conversation_id": "2086298437671350723",
+        "created_at": "2026-08-09T05:07:15.000Z",
+        "display_text_range": [
+          16,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086318366193779093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJCOwb8LaO",
+              "end": 53,
+              "expanded_url": "https://x.com/Cirnobakacn/status/2086318366193779093/photo/1",
+              "media_key": "3_2086318347747246080",
+              "start": 30,
+              "url": "https://t.co/uJCOwb8LaO"
+            },
+            {
+              "display_url": "pic.x.com/uJCOwb8LaO",
+              "end": 53,
+              "expanded_url": "https://x.com/Cirnobakacn/status/2086318366193779093/photo/1",
+              "media_key": "3_2086318356689559552",
+              "start": 30,
+              "url": "https://t.co/uJCOwb8LaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086318366193779093",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086318347747246080"
+          },
+          {
+            "media_key": "3_2086318356689559552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086298437671350723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 图一是原图图二是拿ai做的 https://t.co/uJCOwb8LaO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2086351588080390623",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 898,
+          "like_count": 13925,
+          "listed_count": 2,
+          "media_count": 497,
+          "tweet_count": 4175
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-26T07:58:03.000Z",
+        "description": "一只普通的路过的冰精。\n不正经的什么都会学一些的社会学爱好者。符号学生物政治学学习中。河殇派，宪政派，拉康系结构主义，不完全德里达系解构主义\n如果我们因为害怕而牺牲自己的价值观，那就说明我们其实并没有那么在乎这些价值观。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/jinshu64",
+                "end": 23,
+                "expanded_url": "http://t.me/jinshu64",
+                "start": 0,
+                "url": "https://t.co/g4IEsjKoDX"
+              }
+            ]
+          }
+        },
+        "id": "1872189816311578624",
+        "is_identity_verified": false,
+        "location": "雾之湖",
+        "most_recent_tweet_id": "2086332353857880352",
+        "name": "Laurentino Deschenes",
+        "pinned_tweet_id": "2059640584244195569",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057268302695854080/MifUlYC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 33,
+          "like_count": 1705,
+          "listed_count": 1,
+          "media_count": 577,
+          "tweet_count": 3219
+        },
+        "url": "https://t.co/g4IEsjKoDX",
+        "username": "Cirnobakacn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

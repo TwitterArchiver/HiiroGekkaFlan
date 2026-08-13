@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2084579914246664364",
+    "created_at": "2026-08-05T07:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084905771196989636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1601076612245561344",
+          "start": 0,
+          "username": "XJP195306153019"
+        },
+        {
+          "end": 29,
+          "id": "1870391348077174784",
+          "start": 17,
+          "username": "mwiho765798"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084905771196989636",
+    "in_reply_to_user_id": "1601076612245561344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084613877288075306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XJP195306153019 @mwiho765798 没绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2084579914246664364",
+        "created_at": "2026-08-05T07:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084905771196989636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1601076612245561344",
+              "start": 0,
+              "username": "XJP195306153019"
+            },
+            {
+              "end": 29,
+              "id": "1870391348077174784",
+              "start": 17,
+              "username": "mwiho765798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084905771196989636",
+        "in_reply_to_user_id": "1601076612245561344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084613877288075306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XJP195306153019 @mwiho765798 没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601076612245561344",
+        "conversation_id": "2084579914246664364",
+        "created_at": "2026-08-04T12:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084613877288075306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870391348077174784",
+              "start": 0,
+              "username": "mwiho765798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084613877288075306",
+        "in_reply_to_user_id": "1870391348077174784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1037,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084579914246664364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwiho765798 一边骂人一边还在ですます的\n基本都是机翻日语的翻墙蛆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 897,
+          "like_count": 13814,
+          "listed_count": 2,
+          "media_count": 490,
+          "tweet_count": 4141
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-09T04:50:05.000Z",
+        "description": "双修法轮大法与中华田园基督教\n法轮天天转，功力日日深\n后吸食纯日本人灵魂后觉醒灵能力\n现原神已归位\n修行目标是超越“天より闇光の力の目覚めた純日本人”",
+        "id": "1601076612245561344",
+        "location": "法轮宫",
+        "name": "尊师首席大弟子",
+        "pinned_tweet_id": "2066164658122490162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066165059269894144/2afj1hpZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 88,
+          "like_count": 3819,
+          "listed_count": 2,
+          "media_count": 327,
+          "tweet_count": 4113
+        },
+        "url": "",
+        "username": "XJP195306153019",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T08:50:32.000Z",
+        "description": "全网最尊重日右 最尊重支黑的账号\n\n所有平等理智交流的人互fo",
+        "id": "1870391348077174784",
+        "location": "支黑🧹冯的比例",
+        "name": "爱倭人士🇹🇼🇨🇳🍌👅🥵😍🇯🇵",
+        "pinned_tweet_id": "1934254304376066318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059290849746604032/_7MSt8LT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 179,
+          "like_count": 2279,
+          "listed_count": 5,
+          "media_count": 301,
+          "tweet_count": 1063
+        },
+        "url": "",
+        "username": "mwiho765798",
+        "verified": false
+      }
+    ]
+  }
+}

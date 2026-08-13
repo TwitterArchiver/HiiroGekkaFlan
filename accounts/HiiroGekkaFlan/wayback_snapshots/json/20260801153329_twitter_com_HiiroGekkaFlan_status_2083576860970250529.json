@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2083569444475789666",
+    "created_at": "2026-08-01T15:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083576860970250529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2011248132693377024",
+          "start": 0,
+          "username": "greentea3385"
+        },
+        {
+          "end": 26,
+          "id": "1998421154562973696",
+          "start": 14,
+          "username": "ffaa1683174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083576860970250529",
+    "in_reply_to_user_id": "2011248132693377024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083571586414858643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@greentea3385 @ffaa1683174 我寻思你反共到底有什么意义\n这些事情都跟你八竿子打不着"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 286,
+        "media_key": "3_2083571581151068160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpVUFabwAAaiVb.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2083569444475789666",
+        "created_at": "2026-08-01T15:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083576860970250529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2011248132693377024",
+              "start": 0,
+              "username": "greentea3385"
+            },
+            {
+              "end": 26,
+              "id": "1998421154562973696",
+              "start": 14,
+              "username": "ffaa1683174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083576860970250529",
+        "in_reply_to_user_id": "2011248132693377024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083571586414858643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@greentea3385 @ffaa1683174 我寻思你反共到底有什么意义\n这些事情都跟你八竿子打不着"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083571581151068160"
+          ]
+        },
+        "author_id": "2011248132693377024",
+        "conversation_id": "2083569444475789666",
+        "created_at": "2026-08-01T15:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083571586414858643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1998421154562973696",
+              "start": 0,
+              "username": "ffaa1683174"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A2qIY9CchZ",
+              "end": 66,
+              "expanded_url": "https://x.com/greentea3385/status/2083571586414858643/photo/1",
+              "media_key": "3_2083571581151068160",
+              "start": 43,
+              "url": "https://t.co/A2qIY9CchZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083571586414858643",
+        "in_reply_to_user_id": "1998421154562973696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083569444475789666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffaa1683174 中国沒台商賞飯吃，開始吹牛聯合國五腸？這樣你家就有飯吃？🤣 https://t.co/A2qIY9CchZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 901,
+          "like_count": 13791,
+          "listed_count": 2,
+          "media_count": 487,
+          "tweet_count": 4117
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T01:25:14.000Z",
+        "description": "中国是亞細亞孤兒，牠們不受歡迎；牠們被踢出AI工業革命，沒有中国製造的AI產品，中国也買不到新晶片；牠們只有一招：盜用開源、造假大型語言模型！🤣",
+        "id": "2011248132693377024",
+        "name": "綠地美人",
+        "pinned_tweet_id": "2081219287923179860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011249014780592129/glWNmAlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 772,
+          "like_count": 3507,
+          "listed_count": 2,
+          "media_count": 2063,
+          "tweet_count": 4451
+        },
+        "url": "",
+        "username": "greentea3385",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T15:56:01.000Z",
+        "description": "冷知识：博丽柠檬不是御坂美琴\n冷知识：也不是藤原妹红",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://cpc.people.com.cn",
+                "start": 0,
+                "url": "https://t.co/aieclHlFvH"
+              }
+            ]
+          }
+        },
+        "id": "1998421154562973696",
+        "location": "东方project 幻想乡 博丽神社",
+        "name": "博丽灵梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998585900801064960/AXVZqJUK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 64,
+          "like_count": 14191,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 2383
+        },
+        "url": "https://t.co/aieclHlFvH",
+        "username": "ffaa1683174",
+        "verified": false
+      }
+    ]
+  }
+}

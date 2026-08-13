@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2084579914246664364",
+    "created_at": "2026-08-05T07:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084905908979609815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2043593139072401408",
+          "start": 0,
+          "username": "indiagodde20295"
+        },
+        {
+          "end": 29,
+          "id": "1870391348077174784",
+          "start": 17,
+          "username": "mwiho765798"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084905908979609815",
+    "in_reply_to_user_id": "2043593139072401408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084734056500281810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@indiagodde20295 @mwiho765798 后面怎么不放了☠️"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15603,
+        "height": 768,
+        "media_key": "13_2084734004637687808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084734004637687808/img/rcra6ZS_bRKY0jfk.jpg",
+        "public_metrics": {
+          "view_count": 555
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084734004637687808/vid/avc1/320x426/b5QCtvi_Jy05wRJY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084734004637687808/vid/avc1/480x640/KAykEhTwB_kJfL9a.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084734004637687808/vid/avc1/576x768/w1nBrNDVBVLc_JZ6.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084734004637687808/pl/q4Nbf_AzoiyZed4X.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2084579914246664364",
+        "created_at": "2026-08-05T07:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084905908979609815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2043593139072401408",
+              "start": 0,
+              "username": "indiagodde20295"
+            },
+            {
+              "end": 29,
+              "id": "1870391348077174784",
+              "start": 17,
+              "username": "mwiho765798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084905908979609815",
+        "in_reply_to_user_id": "2043593139072401408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084734056500281810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@indiagodde20295 @mwiho765798 后面怎么不放了☠️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084734004637687808"
+          ]
+        },
+        "author_id": "2043593139072401408",
+        "conversation_id": "2084579914246664364",
+        "created_at": "2026-08-04T20:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T21:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084734056500281810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870391348077174784",
+              "start": 0,
+              "username": "mwiho765798"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bgncVpGQz5",
+              "end": 36,
+              "expanded_url": "https://x.com/indiagodde20295/status/2084734056500281810/video/1",
+              "media_key": "13_2084734004637687808",
+              "start": 13,
+              "url": "https://t.co/bgncVpGQz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084734056500281810",
+        "in_reply_to_user_id": "1870391348077174784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 749,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084579914246664364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwiho765798 https://t.co/bgncVpGQz5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 897,
+          "like_count": 13814,
+          "listed_count": 2,
+          "media_count": 490,
+          "tweet_count": 4142
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T07:32:57.000Z",
+        "description": "you block me = I win😂",
+        "id": "2043593139072401408",
+        "name": "the cutest Desi girl on X",
+        "pinned_tweet_id": "2083521724172456109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049293922149781504/rfRlgLu4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 35,
+          "like_count": 2022,
+          "listed_count": 4,
+          "media_count": 778,
+          "tweet_count": 1187
+        },
+        "url": "",
+        "username": "indiagodde20295",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T08:50:32.000Z",
+        "description": "全网最尊重日右 最尊重支黑的账号\n\n所有平等理智交流的人互fo",
+        "id": "1870391348077174784",
+        "location": "支黑🧹冯的比例",
+        "name": "爱倭人士🇹🇼🇨🇳🍌👅🥵😍🇯🇵",
+        "pinned_tweet_id": "1934254304376066318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059290849746604032/_7MSt8LT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 179,
+          "like_count": 2279,
+          "listed_count": 5,
+          "media_count": 301,
+          "tweet_count": 1063
+        },
+        "url": "",
+        "username": "mwiho765798",
+        "verified": false
+      }
+    ]
+  }
+}

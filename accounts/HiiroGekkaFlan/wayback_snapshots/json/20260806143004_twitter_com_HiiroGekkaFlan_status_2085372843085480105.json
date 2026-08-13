@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2084919345730457868",
+    "created_at": "2026-08-06T14:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085372843085480105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870687985605443584",
+          "start": 0,
+          "username": "Captainxiaobai"
+        },
+        {
+          "end": 31,
+          "id": "1594188418481033216",
+          "start": 16,
+          "username": "Sharkeys_ghost"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085372843085480105",
+    "in_reply_to_user_id": "1870687985605443584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084934273824612473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Captainxiaobai @Sharkeys_ghost 无懈可击"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2084919345730457868",
+        "created_at": "2026-08-06T14:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085372843085480105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870687985605443584",
+              "start": 0,
+              "username": "Captainxiaobai"
+            },
+            {
+              "end": 31,
+              "id": "1594188418481033216",
+              "start": 16,
+              "username": "Sharkeys_ghost"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085372843085480105",
+        "in_reply_to_user_id": "1870687985605443584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084934273824612473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Captainxiaobai @Sharkeys_ghost 无懈可击"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870687985605443584",
+        "conversation_id": "2084919345730457868",
+        "created_at": "2026-08-05T09:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084934273824612473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1594188418481033216",
+              "start": 0,
+              "username": "Sharkeys_ghost"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084934273824612473",
+        "in_reply_to_user_id": "1594188418481033216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20356,
+          "like_count": 306,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084919345730457868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sharkeys_ghost 雷锋同志是为人民服务而死的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 899,
+          "like_count": 13859,
+          "listed_count": 2,
+          "media_count": 492,
+          "tweet_count": 4153
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T04:29:21.000Z",
+        "description": "保守主义ʕᵔᴥᵔʔ，马克思列宁主义，毛泽东思想，威权左翼，反对黄赌毒，近代历史爱好者，反对恶俗，喜欢交流（欢迎朋友有美酒，恶俗敌人上铡刀）不爱骂人，喜欢永远的断头台。\n面对革命喜欢马拉的一句话“勇敢，勇敢，再勇敢！”",
+        "id": "1870687985605443584",
+        "location": "波罗的海警戒号",
+        "name": "北海警戒号舰长小白",
+        "pinned_tweet_id": "1934263122497544265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870688376703361024/AnicbCw1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 384,
+          "like_count": 10139,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 2557
+        },
+        "url": "",
+        "username": "Captainxiaobai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T04:39:32.000Z",
+        "description": "Old school Communist, non-Liberal Left |\n\nAussie Patriot of Indigenous, British, & Manx decent |\n\nC.P.A. member 🇦🇺🚩 (views my own) |\n\n🇦🇺🤝🇷🇺🇵🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deviantart.com/marshalzhukov1…",
+                "end": 23,
+                "expanded_url": "https://www.deviantart.com/marshalzhukov1945",
+                "start": 0,
+                "url": "https://t.co/bpwrongWJ5"
+              }
+            ]
+          }
+        },
+        "id": "1594188418481033216",
+        "location": "Occupied Australia🇺🇸🇪🇺🇮🇱",
+        "name": "Eureka Patriot 🇦🇺🚩",
+        "pinned_tweet_id": "1974944504542273800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072952488941289472/ETFkdeLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 1396,
+          "like_count": 44476,
+          "listed_count": 9,
+          "media_count": 1142,
+          "tweet_count": 4656
+        },
+        "url": "https://t.co/bpwrongWJ5",
+        "username": "Sharkeys_ghost",
+        "verified": false
+      }
+    ]
+  }
+}
