@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2089602581102531031",
+    "created_at": "2026-08-18T10:44:01.000Z",
+    "display_text_range": [
+      15,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089664607816409187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3244048580",
+          "start": 0,
+          "username": "y2kstarrychan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089664607816409187",
+    "in_reply_to_user_id": "3244048580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089602581102531031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y2kstarrychan 因为大人以为这些都是习以为常的事，但孩子不一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_2089602574370627584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_CeF8aYAAFP_G.jpg",
+        "width": 1163
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2089602581102531031",
+        "created_at": "2026-08-18T10:44:01.000Z",
+        "display_text_range": [
+          15,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089664607816409187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3244048580",
+              "start": 0,
+              "username": "y2kstarrychan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089664607816409187",
+        "in_reply_to_user_id": "3244048580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089602581102531031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2kstarrychan 因为大人以为这些都是习以为常的事，但孩子不一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089602574370627584"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "2089602581102531031",
+        "created_at": "2026-08-18T06:37:32.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089602581102531031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3u3nTKqDY1",
+              "end": 44,
+              "expanded_url": "https://x.com/y2kstarrychan/status/2089602581102531031/photo/1",
+              "media_key": "3_2089602574370627584",
+              "start": 21,
+              "url": "https://t.co/3u3nTKqDY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089602581102531031",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089602574370627584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2606,
+          "like_count": 19,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么在中国，很多大人认为抑郁症是矫情？ https://t.co/3u3nTKqDY1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2089664607816409187",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 883,
+          "like_count": 14158,
+          "listed_count": 2,
+          "media_count": 512,
+          "tweet_count": 4274
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "is_identity_verified": false,
+        "location": "互聯網",
+        "most_recent_tweet_id": "2089644643613130930",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3244048580/1752379681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007886388323123201/ArqtpuiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2984,
+          "following_count": 970,
+          "like_count": 61186,
+          "listed_count": 6,
+          "media_count": 160,
+          "tweet_count": 4522
+        },
+        "url": "",
+        "username": "y2kstarrychan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

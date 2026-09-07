@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2095241333485265395",
+    "created_at": "2026-09-02T20:03:56.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T21:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095241333485265395"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HiiroGekkaFlan…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/HiiroGekkaFlan/status/2095240812963721590",
+          "start": 21,
+          "url": "https://t.co/JC7KdU7d2S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095241333485265395",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095240812963721590",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑ってはしゃいで \n「Paranoia」 https://t.co/JC7KdU7d2S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1780,
+        "media_key": "3_2095240793481228288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRPKZo5bMAASkKY.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1780,
+        "media_key": "3_2095240803119738880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRPKaMzbMAAQrrY.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2095241333485265395",
+        "created_at": "2026-09-02T20:03:56.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T21:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095241333485265395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HiiroGekkaFlan…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/HiiroGekkaFlan/status/2095240812963721590",
+              "start": 21,
+              "url": "https://t.co/JC7KdU7d2S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095241333485265395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095240812963721590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑ってはしゃいで \n「Paranoia」 https://t.co/JC7KdU7d2S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095240793481228288",
+            "3_2095240803119738880"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2095240812963721590",
+        "created_at": "2026-09-02T20:01:52.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T21:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095240812963721590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zgmYUzlpMz",
+              "end": 64,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2095240812963721590/photo/1",
+              "media_key": "3_2095240793481228288",
+              "start": 41,
+              "url": "https://t.co/zgmYUzlpMz"
+            },
+            {
+              "display_url": "pic.x.com/zgmYUzlpMz",
+              "end": 64,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2095240812963721590/photo/1",
+              "media_key": "3_2095240803119738880",
+              "start": 41,
+              "url": "https://t.co/zgmYUzlpMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095240812963721590",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095240793481228288"
+          },
+          {
+            "media_key": "3_2095240803119738880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「Dissociation」\n就这么无意识地活一辈子吧\n像路边小石头一样无人在意 https://t.co/zgmYUzlpMz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2095241333485265395",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 877,
+          "like_count": 14913,
+          "listed_count": 2,
+          "media_count": 539,
+          "tweet_count": 4611
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

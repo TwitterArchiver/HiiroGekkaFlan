@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2089713814975758775",
+    "created_at": "2026-08-19T07:46:04.000Z",
+    "display_text_range": [
+      24,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089982216071950461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1904333726156476416",
+          "start": 0,
+          "username": "sqlist221311"
+        },
+        {
+          "end": 23,
+          "id": "1683218035602255872",
+          "start": 14,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089982216071950461",
+    "in_reply_to_user_id": "1904333726156476416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089732959582794013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sqlist221311 @jlxc2001 安卓机能显示出来，苹果大陆版的不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2089713814975758775",
+        "created_at": "2026-08-19T07:46:04.000Z",
+        "display_text_range": [
+          24,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089982216071950461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1904333726156476416",
+              "start": 0,
+              "username": "sqlist221311"
+            },
+            {
+              "end": 23,
+              "id": "1683218035602255872",
+              "start": 14,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089982216071950461",
+        "in_reply_to_user_id": "1904333726156476416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089732959582794013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sqlist221311 @jlxc2001 安卓机能显示出来，苹果大陆版的不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904333726156476416",
+        "conversation_id": "2089713814975758775",
+        "created_at": "2026-08-18T15:15:37.000Z",
+        "display_text_range": [
+          10,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089732959582794013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089732959582794013",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1965,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089713814975758775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 模型本身没设置安全围栏，但外围app有，检测到后就撤回了。说起来能显示这旗子，你的手机也不是国行吧，国行应该是一个问号白旗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2089982216071950461",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 878,
+          "like_count": 14243,
+          "listed_count": 2,
+          "media_count": 516,
+          "tweet_count": 4326
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T00:45:29.000Z",
+        "description": "",
+        "id": "1904333726156476416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089920635946578387",
+        "name": "sqlist",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060743801870917632/OcRkeq2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 1,
+          "like_count": 5116,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1222
+        },
+        "url": "",
+        "username": "sqlist221311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nガジェット、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jlxc2001.com",
+                "end": 23,
+                "expanded_url": "http://jlxc2001.com",
+                "start": 0,
+                "url": "https://t.co/625h9MQZlk"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "is_identity_verified": false,
+        "location": "中国深圳",
+        "most_recent_tweet_id": "2089752383350079609",
+        "name": "江灵夏草",
+        "pinned_tweet_id": "2086124504057782639",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683218035602255872/1769358574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19038,
+          "following_count": 234,
+          "like_count": 764,
+          "listed_count": 44,
+          "media_count": 1352,
+          "tweet_count": 3533
+        },
+        "url": "https://t.co/625h9MQZlk",
+        "username": "jlxc2001",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

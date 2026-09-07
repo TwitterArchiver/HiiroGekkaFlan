@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2094064847604572226",
+    "created_at": "2026-08-30T14:44:45.000Z",
+    "display_text_range": [
+      8,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T15:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094073844374147348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1624393872037265413",
+          "start": 0,
+          "username": "K3ss1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094073844374147348",
+    "in_reply_to_user_id": "1624393872037265413",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094064847604572226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K3ss1c 致敬传奇哈布斯堡家族"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2094064847604572226",
+        "created_at": "2026-08-30T14:44:45.000Z",
+        "display_text_range": [
+          8,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094073844374147348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1624393872037265413",
+              "start": 0,
+              "username": "K3ss1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094073844374147348",
+        "in_reply_to_user_id": "1624393872037265413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094064847604572226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K3ss1c 致敬传奇哈布斯堡家族"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624393872037265413",
+        "conversation_id": "2094064847604572226",
+        "created_at": "2026-08-30T14:09:00.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094064847604572226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094064847604572226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让别人去打仗吧，你，幸福的奥地利，结婚吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2094073844374147348",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 874,
+          "like_count": 14828,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 4540
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-11T13:04:23.000Z",
+        "description": "喜欢你",
+        "id": "1624393872037265413",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094064847604572226",
+        "name": "显支微克之活与贱",
+        "pinned_tweet_id": "2082042701944680510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624393872037265413/1773768955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089414828729454592/j02xQk4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 906,
+          "like_count": 13854,
+          "listed_count": 3,
+          "media_count": 2822,
+          "tweet_count": 18876
+        },
+        "url": "",
+        "username": "K3ss1c",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

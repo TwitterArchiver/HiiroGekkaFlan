@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2089803392046469575",
+    "created_at": "2026-08-19T07:25:30.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089977039151669496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "710129268752257024",
+          "start": 0,
+          "username": "HaloSP117x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089977039151669496",
+    "in_reply_to_user_id": "710129268752257024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089803392046469575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaloSP117x 味精！炒各种家常菜味道棒极了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 351,
+        "media_key": "3_2089803388015808512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQB5G_EXEAALj0O.jpg",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2089803392046469575",
+        "created_at": "2026-08-19T07:25:30.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089977039151669496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "710129268752257024",
+              "start": 0,
+              "username": "HaloSP117x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089977039151669496",
+        "in_reply_to_user_id": "710129268752257024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089803392046469575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaloSP117x 味精！炒各种家常菜味道棒极了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089803388015808512"
+          ]
+        },
+        "author_id": "710129268752257024",
+        "conversation_id": "2089803392046469575",
+        "created_at": "2026-08-18T19:55:29.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089803392046469575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c4fwI9Z4iD",
+              "end": 93,
+              "expanded_url": "https://x.com/HaloSP117x/status/2089803392046469575/photo/1",
+              "media_key": "3_2089803388015808512",
+              "start": 70,
+              "url": "https://t.co/c4fwI9Z4iD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089803392046469575",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2089803388015808512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 310,
+          "impression_count": 900833,
+          "like_count": 2014,
+          "quote_count": 410,
+          "reply_count": 3777,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "Se honesto, digan una sola cosa buena que Japón le haya dado al mundo https://t.co/c4fwI9Z4iD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2089977039151669496",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 878,
+          "like_count": 14240,
+          "listed_count": 2,
+          "media_count": 516,
+          "tweet_count": 4323
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-16T15:43:06.000Z",
+        "description": "Planeta Eridanus II - Ciudad Elysium",
+        "id": "710129268752257024",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2089934328645984708",
+        "name": "Halo",
+        "pinned_tweet_id": "2089803392046469575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/710129268752257024/1768941599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013713087547727872/i3FQuqlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13091,
+          "following_count": 8122,
+          "like_count": 24572,
+          "listed_count": 19,
+          "media_count": 913,
+          "tweet_count": 4540
+        },
+        "url": "",
+        "username": "HaloSP117x",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

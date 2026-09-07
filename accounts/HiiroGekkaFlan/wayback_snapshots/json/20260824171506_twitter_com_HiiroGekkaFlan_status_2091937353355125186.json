@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2091790109415034962",
+    "created_at": "2026-08-24T17:15:06.000Z",
+    "display_text_range": [
+      25,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T18:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091937353355125186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1672029701756403712",
+          "start": 0,
+          "username": "JackCen730422"
+        },
+        {
+          "end": 24,
+          "id": "2026283442259017729",
+          "start": 15,
+          "username": "bigjusir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091937353355125186",
+    "in_reply_to_user_id": "1672029701756403712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091900586463559960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JackCen730422 @bigjusir 懂你意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091900581744955392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfsfuhXUAAHFFN.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2091790109415034962",
+        "created_at": "2026-08-24T17:15:06.000Z",
+        "display_text_range": [
+          25,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091937353355125186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672029701756403712",
+              "start": 0,
+              "username": "JackCen730422"
+            },
+            {
+              "end": 24,
+              "id": "2026283442259017729",
+              "start": 15,
+              "username": "bigjusir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091937353355125186",
+        "in_reply_to_user_id": "1672029701756403712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091900586463559960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JackCen730422 @bigjusir 懂你意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091900581744955392"
+          ]
+        },
+        "author_id": "1672029701756403712",
+        "conversation_id": "2091790109415034962",
+        "created_at": "2026-08-24T14:49:00.000Z",
+        "display_text_range": [
+          9,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091900586463559960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "bigjusir"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GkpAQg7XmT",
+              "end": 33,
+              "expanded_url": "https://x.com/JackCen730422/status/2091900586463559960/photo/1",
+              "media_key": "3_2091900581744955392",
+              "start": 10,
+              "url": "https://t.co/GkpAQg7XmT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091900586463559960",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2091900581744955392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091790109415034962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjusir https://t.co/GkpAQg7XmT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2091937353355125186",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 882,
+          "like_count": 14453,
+          "listed_count": 2,
+          "media_count": 524,
+          "tweet_count": 4392
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-22T23:52:15.000Z",
+        "description": "",
+        "id": "1672029701756403712",
+        "is_identity_verified": false,
+        "location": "乌托邦",
+        "most_recent_tweet_id": "2091906807836917907",
+        "name": "Jack",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090258757687136256/-jaGcHRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 275,
+          "like_count": 1795,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 3443
+        },
+        "url": "",
+        "username": "JackCen730422",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，私信互fo)\n\n大号@bigjusir\n二号机@littlejusir\n三号机@jusirlieyan\n\n自制AI图转载请勿去除水印",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "bigjusir"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "littlejusir"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "jusirlieyan"
+              }
+            ]
+          }
+        },
+        "id": "2026283442259017729",
+        "is_identity_verified": true,
+        "location": "中华人民共和国",
+        "most_recent_tweet_id": "2091900331215245618",
+        "name": "jusir",
+        "pinned_tweet_id": "2087100350092181848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026283442259017729/1783157974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4775,
+          "following_count": 3793,
+          "like_count": 8308,
+          "listed_count": 12,
+          "media_count": 1042,
+          "tweet_count": 4351
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

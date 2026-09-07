@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2089834868641550478",
+    "created_at": "2026-08-19T07:09:22.000Z",
+    "display_text_range": [
+      16,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089972976766914882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2086838732741885952",
+          "start": 0,
+          "username": "Ididnothinglqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089972976766914882",
+    "in_reply_to_user_id": "2086838732741885952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089834868641550478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ididnothinglqz BBBBB\n无聊，我要看血流成河🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15867,
+        "height": 1920,
+        "media_key": "13_2089834818796474368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089834818796474368/img/vCOv8E7UfPz1l7NW.jpg",
+        "public_metrics": {
+          "view_count": 9747
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089834818796474368/vid/avc1/320x568/3C4DKnxiML11uHqA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089834818796474368/pl/aw2ef6U-FCvdvASA.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089834818796474368/vid/avc1/1080x1920/qKoLcs6Xco0TRJWd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089834818796474368/vid/avc1/720x1280/7gbmwg6ypZ59KQHO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089834818796474368/vid/avc1/480x852/84x0I92rq4SrHVkw.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2089834868641550478",
+        "created_at": "2026-08-19T07:09:22.000Z",
+        "display_text_range": [
+          16,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089972976766914882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2086838732741885952",
+              "start": 0,
+              "username": "Ididnothinglqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089972976766914882",
+        "in_reply_to_user_id": "2086838732741885952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089834868641550478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ididnothinglqz BBBBB\n无聊，我要看血流成河🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089834818796474368"
+          ]
+        },
+        "author_id": "2086838732741885952",
+        "conversation_id": "2089834868641550478",
+        "created_at": "2026-08-18T22:00:34.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T23:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089834868641550478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mLmU1558Bk",
+              "end": 76,
+              "expanded_url": "https://x.com/Ididnothinglqz/status/2089834868641550478/video/1",
+              "media_key": "13_2089834818796474368",
+              "start": 53,
+              "url": "https://t.co/mLmU1558Bk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089834868641550478",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089834818796474368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14380,
+          "like_count": 61,
+          "quote_count": 2,
+          "reply_count": 46,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想象你是一名中国共产党员，看见这些英勇的男性斗争者，你会选择？\nA.加入他们\nB.坦克漂移\nC.机枪登场 https://t.co/mLmU1558Bk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2089972976766914882",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 878,
+          "like_count": 14233,
+          "listed_count": 2,
+          "media_count": 516,
+          "tweet_count": 4318
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T15:39:27.000Z",
+        "description": "秽土转生？！ 推友寻回中 前世前前世昵称撒旦子民 本账号将发表温和言论以避免对线及举报 \n顺性别男趋近非二元  无取向\n友左友右友跨友同友非二元，你包容我我包容你，原则上不ban少ban，新注册号除外看黄男除外魔人除外\n咀嚼一些腊肉，吐沙一些蜘蛛，笑话一些顺治，点赞一些男裱字",
+        "id": "2086838732741885952",
+        "is_identity_verified": false,
+        "location": "美国菏泽曹县",
+        "most_recent_tweet_id": "2089844626886680731",
+        "name": "蚂蚁操龙8964",
+        "pinned_tweet_id": "2086849075186680028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086838732741885952/1786377026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089708250635935744/H9CfsHhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 232,
+          "like_count": 903,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1120
+        },
+        "url": "",
+        "username": "Ididnothinglqz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

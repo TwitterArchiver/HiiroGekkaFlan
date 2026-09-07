@@ -1,0 +1,554 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1645481766226993163",
+          "name": "Swarm"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1645481766226993163",
+          "name": "Swarm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1645491688658411539",
+          "name": "Thriller series"
+        }
+      }
+    ],
+    "conversation_id": "2095190521937555822",
+    "created_at": "2026-09-02T16:42:01.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T17:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095190521937555822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MarioNawfal/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/MarioNawfal/status/2095071732671394227",
+          "start": 12,
+          "url": "https://t.co/v0tQ7c1qeF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095190521937555822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095071732671394227",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "弱者挥刀，挥刀向更弱者 https://t.co/v0tQ7c1qeF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9681,
+        "height": 936,
+        "media_key": "13_2094661491324846080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094661491324846080/img/qLR9TbGgbxw--NJe.jpg",
+        "public_metrics": {
+          "view_count": 2439928
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094661491324846080/vid/avc1/320x416/J4dyZVYvbfYJq_m1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094661491324846080/vid/avc1/480x624/RwCqK1basgrOXEHH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094661491324846080/vid/avc1/720x936/bKQ-v9oEk7W-VbeD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094661491324846080/pl/084vxqSsrxJ1rEhg.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1645481766226993163",
+              "name": "Swarm"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1645481766226993163",
+              "name": "Swarm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1645491688658411539",
+              "name": "Thriller series"
+            }
+          }
+        ],
+        "conversation_id": "2095190521937555822",
+        "created_at": "2026-09-02T16:42:01.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095190521937555822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MarioNawfal/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/MarioNawfal/status/2095071732671394227",
+              "start": 12,
+              "url": "https://t.co/v0tQ7c1qeF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095190521937555822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095071732671394227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "弱者挥刀，挥刀向更弱者 https://t.co/v0tQ7c1qeF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094661491324846080"
+          ],
+          "media_source_tweet_id": [
+            "2094661512535454200"
+          ]
+        },
+        "author_id": "1319287761048723458",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1645481766226993163",
+              "name": "Swarm"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1645481766226993163",
+              "name": "Swarm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1645491688658411539",
+              "name": "Thriller series"
+            }
+          }
+        ],
+        "conversation_id": "2095071732671394227",
+        "created_at": "2026-09-02T08:50:00.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T09:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095071732671394227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z1WYZKRb0X",
+              "end": 350,
+              "expanded_url": "https://x.com/dabowagaga/status/2094661512535454200/video/1",
+              "media_key": "13_2094661491324846080",
+              "start": 327,
+              "url": "https://t.co/z1WYZKRb0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095071732671394227",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2094661491324846080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/dabowagaga/sta…",
+                "end": 350,
+                "expanded_url": "https://x.com/dabowagaga/status/2094661512535454200/video/1",
+                "start": 327,
+                "url": "https://t.co/z1WYZKRb0X"
+              }
+            ]
+          },
+          "text": "🇨🇳 There's a new shaming trend in China\n\nWhen Chinese girls are on dates with foreigners, crowds swarm and film them so it can be posted online to ridicule the women\n\nResearch on Chinese social media shows Chinese women dating Black men receive some of the most vicious online backlash of any interracial pairing\n\nWriter: Ian\n\nhttps://t.co/z1WYZKRb0X"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3439,
+          "impression_count": 2561625,
+          "like_count": 15190,
+          "quote_count": 360,
+          "reply_count": 1887,
+          "retweet_count": 1482
+        },
+        "reply_settings": "everyone",
+        "text": "🇨🇳 There's a new shaming trend in China\n\nWhen Chinese girls are on dates with foreigners, crowds swarm and film them so it can be posted online to ridicule the women\n\nResearch on Chinese social media shows Chinese women dating Black men receive some of the most vicious online"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2095190521937555822",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 877,
+          "like_count": 14881,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 4587
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2012162102283407360/U-fPj6wg_bigger.jpg",
+          "description": "0xMarioNawfal",
+          "url": "https://twitter.com/RoundtableSpace",
+          "user_id": [
+            "1536693901230321666"
+          ]
+        },
+        "created_at": "2020-10-22T14:42:25.000Z",
+        "description": "Largest Show on X (Live Daily 10am-8pm ET) | 24x7 Writers Covering News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 107,
+                "username": "ibcgroupio"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "attentioncompany.com",
+                "end": 144,
+                "expanded_url": "http://attentioncompany.com",
+                "start": 121,
+                "url": "https://t.co/sw7OQ5KOqu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "roundtable.live",
+                "end": 23,
+                "expanded_url": "https://roundtable.live",
+                "start": 0,
+                "url": "https://t.co/Lru9VAj5xG"
+              }
+            ]
+          }
+        },
+        "id": "1319287761048723458",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2095190011901554879",
+        "name": "Mario Nawfal",
+        "pinned_tweet_id": "2094911321900728544",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1319287761048723458/1776932857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938244629071015936/UwtzYY-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3885555,
+          "following_count": 51606,
+          "like_count": 165123,
+          "listed_count": 12676,
+          "media_count": 208299,
+          "tweet_count": 260809
+        },
+        "url": "https://t.co/Lru9VAj5xG",
+        "username": "MarioNawfal",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

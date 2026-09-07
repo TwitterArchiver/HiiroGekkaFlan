@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2093899405640483133",
+    "created_at": "2026-08-30T14:48:36.000Z",
+    "display_text_range": [
+      37,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T15:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094074815284224416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691658838699855872",
+          "start": 0,
+          "username": "lyndes295271"
+        },
+        {
+          "end": 26,
+          "id": "2231329020",
+          "start": 14,
+          "username": "ayaayapan69"
+        },
+        {
+          "end": 36,
+          "id": "44502620",
+          "start": 27,
+          "username": "hamusoku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094074815284224416",
+    "in_reply_to_user_id": "1691658838699855872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094073112673636658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyndes295271 @ayaayapan69 @hamusoku 这个是真的，就在台湾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2093899405640483133",
+        "created_at": "2026-08-30T14:48:36.000Z",
+        "display_text_range": [
+          37,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094074815284224416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691658838699855872",
+              "start": 0,
+              "username": "lyndes295271"
+            },
+            {
+              "end": 26,
+              "id": "2231329020",
+              "start": 14,
+              "username": "ayaayapan69"
+            },
+            {
+              "end": 36,
+              "id": "44502620",
+              "start": 27,
+              "username": "hamusoku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094074815284224416",
+        "in_reply_to_user_id": "1691658838699855872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094073112673636658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyndes295271 @ayaayapan69 @hamusoku 这个是真的，就在台湾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691658838699855872",
+        "conversation_id": "2093899405640483133",
+        "created_at": "2026-08-30T14:41:50.000Z",
+        "display_text_range": [
+          23,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094073112673636658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2231329020",
+              "start": 0,
+              "username": "ayaayapan69"
+            },
+            {
+              "end": 22,
+              "id": "44502620",
+              "start": 13,
+              "username": "hamusoku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094073112673636658",
+        "in_reply_to_user_id": "2231329020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093906928594502138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayaayapan69 @hamusoku 这是AI吧？这繁体字看着像台湾"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2094074815284224416",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 875,
+          "like_count": 14828,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 4541
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-16T03:51:21.000Z",
+        "description": "₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1691658838699855872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094073112673636658",
+        "name": "lyndes",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691658838699855872/1704205664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092227938133639168/5A_rGUXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 111,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 410
+        },
+        "url": "",
+        "username": "lyndes295271",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-12-05T11:23:08.000Z",
+        "description": "ＰＣゲーム背景原画キャラ彩色中心で仕事してますたまにアニメやキャラデザイン手伝いしますイラスト等無断掲載転用は禁止です当方の絵にてＡＩ学習禁止仕事の相談はメッセージください複数人体制で仕事受け可能です バナー制作泉まひるサブ垢t8tnfmcjvm17873\n通販連絡先ayaayapan69@gmail.com",
+        "id": "2231329020",
+        "is_identity_verified": false,
+        "location": "日本 熊本",
+        "most_recent_tweet_id": "2094018193123860484",
+        "name": "瑠璃ファンシーフロンティアday2&day3 Ｖ７瑠璃瑠璃企画",
+        "pinned_tweet_id": "2080567149412892802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2231329020/1630857148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662578138717765633/fx3lY5jy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 3850,
+          "like_count": 377966,
+          "listed_count": 33,
+          "media_count": 496,
+          "tweet_count": 201554
+        },
+        "url": "",
+        "username": "ayaayapan69",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-06-04T00:40:00.000Z",
+        "description": "月間数千万PVの面白ネタブログ/日本🇯🇵が好きです\nサブスク/https://t.co/QUXUg0ciPc\n\n質問やネタ投稿歓迎/https://t.co/nuja6RVg6L\nAmazonアソシエイト参加",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/hamusoku/creat…",
+                "end": 54,
+                "expanded_url": "https://x.com/hamusoku/creator-subscriptions/subscribe",
+                "start": 31,
+                "url": "https://t.co/QUXUg0ciPc"
+              },
+              {
+                "display_url": "mond.how/ja/hamusoku",
+                "end": 89,
+                "expanded_url": "https://mond.how/ja/hamusoku",
+                "start": 66,
+                "url": "https://t.co/nuja6RVg6L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hamusoku.com",
+                "end": 23,
+                "expanded_url": "http://hamusoku.com/",
+                "start": 0,
+                "url": "https://t.co/vOGwmO1Vl2"
+              }
+            ]
+          }
+        },
+        "id": "44502620",
+        "is_identity_verified": false,
+        "location": "ハムスター速報",
+        "most_recent_tweet_id": "2094055841687351350",
+        "name": "ハム速",
+        "pinned_tweet_id": "2082109706538258893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44502620/1711003553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770703815685320704/iy5zN4mD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380645,
+          "following_count": 309051,
+          "like_count": 12966,
+          "listed_count": 5721,
+          "media_count": 1414,
+          "tweet_count": 41573
+        },
+        "url": "https://t.co/vOGwmO1Vl2",
+        "username": "hamusoku",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

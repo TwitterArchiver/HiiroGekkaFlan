@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2091763430730678732",
+    "created_at": "2026-08-24T17:26:20.000Z",
+    "display_text_range": [
+      26,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T18:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091940183361114252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2073462246655627264",
+          "start": 0,
+          "username": "ezfdi4String"
+        },
+        {
+          "end": 25,
+          "id": "2090419130885447681",
+          "start": 14,
+          "username": "EllisHughy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091940183361114252",
+    "in_reply_to_user_id": "2073462246655627264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091847362587349195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ezfdi4String @EllisHughy 推特也有好人啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2091763430730678732",
+        "created_at": "2026-08-24T17:26:20.000Z",
+        "display_text_range": [
+          26,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091940183361114252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073462246655627264",
+              "start": 0,
+              "username": "ezfdi4String"
+            },
+            {
+              "end": 25,
+              "id": "2090419130885447681",
+              "start": 14,
+              "username": "EllisHughy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091940183361114252",
+        "in_reply_to_user_id": "2073462246655627264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091847362587349195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ezfdi4String @EllisHughy 推特也有好人啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073462246655627264",
+        "conversation_id": "2091763430730678732",
+        "created_at": "2026-08-24T11:17:30.000Z",
+        "display_text_range": [
+          12,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T12:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091847362587349195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2090419130885447681",
+              "start": 0,
+              "username": "EllisHughy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091847362587349195",
+        "in_reply_to_user_id": "2090419130885447681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2554,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091763430730678732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EllisHughy 我教你啊bro你去微博发柳智敏比张元英牛逼去快手发迷你世界比我的世界牛逼去b站发炮姐没saber牛逼，去抖音发永雏塔菲没东雪莲牛逼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2091940183361114252",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 882,
+          "like_count": 14459,
+          "listed_count": 2,
+          "media_count": 524,
+          "tweet_count": 4398
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-04T17:43:48.000Z",
+        "description": "",
+        "id": "2073462246655627264",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091847362587349195",
+        "name": "弦切角",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073462246655627264/1783352386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073463147806015489/F4fE7o-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 88,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "ezfdi4String",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T12:43:59.000Z",
+        "description": "你发现了全人类最牛的账号",
+        "id": "2090419130885447681",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091918287538180562",
+        "name": "祇",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090419130885447681/1787230632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090428217752793089/pR1KF1zf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 4,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "EllisHughy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

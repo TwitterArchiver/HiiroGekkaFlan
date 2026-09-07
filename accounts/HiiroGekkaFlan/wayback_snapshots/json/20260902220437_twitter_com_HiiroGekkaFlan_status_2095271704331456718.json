@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2094954729101197546",
+    "created_at": "2026-09-02T22:04:37.000Z",
+    "display_text_range": [
+      26,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T23:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095271704331456718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1667140864462974976",
+          "start": 0,
+          "username": "Moyu5120"
+        },
+        {
+          "end": 25,
+          "id": "2049270848968953856",
+          "start": 10,
+          "username": "gutcigahakitai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095271704331456718",
+    "in_reply_to_user_id": "1667140864462974976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095240027106406720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moyu5120 @gutcigahakitai 一眼望到头的未来，无法超越父辈的无力感，很难说放得下就放得下的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2094954729101197546",
+        "created_at": "2026-09-02T22:04:37.000Z",
+        "display_text_range": [
+          26,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T23:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095271704331456718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667140864462974976",
+              "start": 0,
+              "username": "Moyu5120"
+            },
+            {
+              "end": 25,
+              "id": "2049270848968953856",
+              "start": 10,
+              "username": "gutcigahakitai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095271704331456718",
+        "in_reply_to_user_id": "1667140864462974976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095240027106406720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moyu5120 @gutcigahakitai 一眼望到头的未来，无法超越父辈的无力感，很难说放得下就放得下的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667140864462974976",
+        "conversation_id": "2094954729101197546",
+        "created_at": "2026-09-02T19:58:44.000Z",
+        "display_text_range": [
+          16,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T20:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095240027106406720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049270848968953856",
+              "start": 0,
+              "username": "gutcigahakitai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095240027106406720",
+        "in_reply_to_user_id": "2049270848968953856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094954729101197546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gutcigahakitai 为啥我最近总能刷到日本人想死的帖子呢，你们压力真的超大啊。不过我觉得你不应该把生活想的那么糟糕，我觉得只要能自力更生，能赚钱吃饱饭、有地方住，就很快乐了。降低点对自己的要求，你会发现生活其实很简单，哈哈。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2095271704331456718",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 877,
+          "like_count": 14919,
+          "listed_count": 2,
+          "media_count": 539,
+          "tweet_count": 4617
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-09T12:05:49.000Z",
+        "description": "私は中国人で、日本について特に知りたいので、どうぞよろしくお願いします。\n様々なゲーム: #コンパス (いぜん)、バトルフィールドシリーズなどの様々なFPS、FFシリーズなどの様々なRPG...\n最近は特に東方PROJECTの本編が好きです。\n日本語を勉強しています。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 45,
+                "tag": "コンパス"
+              }
+            ]
+          }
+        },
+        "id": "1667140864462974976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095249427569180728",
+        "name": "-最强摸鱼-",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085709007474540544/hSaPlsA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 22,
+          "like_count": 2649,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 193
+        },
+        "url": "",
+        "username": "Moyu5120",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T23:36:12.000Z",
+        "description": "死にたい\n\n統合失調感情障害です",
+        "id": "2049270848968953856",
+        "is_identity_verified": false,
+        "location": "なんかどっか（この垢はメモです）",
+        "most_recent_tweet_id": "2095137114128371871",
+        "name": "(/ _ ; )",
+        "pinned_tweet_id": "2067903757397241914",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049270848968953856/1782638176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049272914500059136/tdiNaRnM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 45,
+          "like_count": 8361,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1719
+        },
+        "url": "",
+        "username": "gutcigahakitai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

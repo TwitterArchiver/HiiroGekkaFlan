@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2088489130602738107",
+    "created_at": "2026-08-15T07:17:57.000Z",
+    "display_text_range": [
+      16,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T08:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088525588944613884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1477342523555135490",
+          "start": 0,
+          "username": "torontobigface"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088525588944613884",
+    "in_reply_to_user_id": "1477342523555135490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088489130602738107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@torontobigface 命是自己的，生活还能凑着过，想这么多干嘛（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2088489130602738107",
+        "created_at": "2026-08-15T07:17:57.000Z",
+        "display_text_range": [
+          16,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088525588944613884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477342523555135490",
+              "start": 0,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088525588944613884",
+        "in_reply_to_user_id": "1477342523555135490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088489130602738107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@torontobigface 命是自己的，生活还能凑着过，想这么多干嘛（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477342523555135490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2088489130602738107",
+        "created_at": "2026-08-15T04:53:05.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088489130602738107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088489130602738107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一说反共，就有人说反共没希望，共产党太强了\n最终得出不要反的结论\n但是这从来不是有没有希望的事情\n而是必须要做的事情\n\n那我们可以算一下\n习近平今年73岁，习仲勋活了88，齐心活了99\n加权一下，再考虑医学进步\n习近平正常活个97.98不成问题\n\n那么习近平执政就至少还有25年\n\n25年后，在座的各位都多大了？\n很多人幻想，自己不反抗，等习近平死了就好了\n问题是25年大家等的了吗？\n\n反共从来就没有能不能的问题\n就只有该不该的问题"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 36347,
+          "like_count": 524,
+          "quote_count": 2,
+          "reply_count": 139,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "一说反共，就有人说反共没希望，共产党太强了\n最终得出不要反的结论\n但是这从来不是有没有希望的事情\n而是必须要做的事情\n\n那我们可以算一下\n习近平今年73岁，习仲勋活了88，齐心活了99\n加权一下，再考虑医学进步\n习近平正常活个97.98不成问题\n\n那么习近平执政就至少还有25年"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2088525588944613884",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 888,
+          "like_count": 14066,
+          "listed_count": 2,
+          "media_count": 507,
+          "tweet_count": 4241
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNcDSW 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2XsnFaH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNcDSW"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2XsnFaH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrn0gco"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路，多伦多",
+        "most_recent_tweet_id": "2088489130602738107",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "2087841597534966250",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1477342523555135490/1646202283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004728054199799808/7q5HpT1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799495,
+          "following_count": 251,
+          "like_count": 4789,
+          "listed_count": 2472,
+          "media_count": 6849,
+          "tweet_count": 19616
+        },
+        "url": "https://t.co/t3lSrn0gco",
+        "username": "torontobigface",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

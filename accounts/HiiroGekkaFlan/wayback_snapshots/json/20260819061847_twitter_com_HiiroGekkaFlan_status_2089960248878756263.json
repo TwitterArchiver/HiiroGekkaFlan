@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2089948053981839760",
+    "created_at": "2026-08-19T06:18:47.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089960248878756263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050966735453564928",
+          "start": 0,
+          "username": "Vindicatorn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089960248878756263",
+    "in_reply_to_user_id": "2050966735453564928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089948053981839760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vindicatorn 设计，轻而易举口牙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1239,
+        "media_key": "3_2089948047237345280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQD8rQqacAAvxsc.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2089948053981839760",
+        "created_at": "2026-08-19T06:18:47.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089960248878756263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050966735453564928",
+              "start": 0,
+              "username": "Vindicatorn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089960248878756263",
+        "in_reply_to_user_id": "2050966735453564928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089948053981839760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vindicatorn 设计，轻而易举口牙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089948047237345280"
+          ]
+        },
+        "author_id": "2050966735453564928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089948053981839760",
+        "created_at": "2026-08-19T05:30:20.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089948053981839760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2xugtAto2u",
+              "end": 27,
+              "expanded_url": "https://x.com/Vindicatorn/status/2089948053981839760/photo/1",
+              "media_key": "3_2089948047237345280",
+              "start": 4,
+              "url": "https://t.co/2xugtAto2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089948053981839760",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2089948047237345280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💦💦💦 https://t.co/2xugtAto2u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2089960248878756263",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 883,
+          "like_count": 14216,
+          "listed_count": 2,
+          "media_count": 515,
+          "tweet_count": 4304
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-03T15:53:20.000Z",
+        "description": "我跟你好",
+        "id": "2050966735453564928",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2089948053981839760",
+        "name": "Vindicator",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050966735453564928/1785560366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082150003230015488/gIlQD9j-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 2651,
+          "like_count": 2628,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 241
+        },
+        "url": "",
+        "username": "Vindicatorn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

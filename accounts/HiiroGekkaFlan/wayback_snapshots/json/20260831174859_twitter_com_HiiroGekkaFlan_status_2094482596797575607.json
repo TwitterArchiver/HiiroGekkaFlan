@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2094312693490446512",
+    "created_at": "2026-08-31T17:48:59.000Z",
+    "display_text_range": [
+      16,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T18:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094482596797575607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094482596797575607",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094312693490446512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 这就一二三跳回溯到7月份"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2094312675358420992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRB-SDdWMAAWBhM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2094312693490446512",
+        "created_at": "2026-08-31T17:48:59.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094482596797575607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094482596797575607",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094312693490446512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 这就一二三跳回溯到7月份"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094312675358420992"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2094312693490446512",
+        "created_at": "2026-08-31T06:33:51.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T07:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094312693490446512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sEH4Egp1fH",
+              "end": 166,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2094312693490446512/photo/1",
+              "media_key": "3_2094312675358420992",
+              "start": 143,
+              "url": "https://t.co/sEH4Egp1fH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094312693490446512",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094312675358420992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "恭喜你啊，你的假期结束了。\n\n你再也不用每天光着膀子穿着拖鞋了，你可以穿大几百买的优质校服了。\n\n看着堪比绝区零的中心、也就是区一样的学校食堂，而且饭也是给你吃最好的，包治便秘。\n\n以后谁说你懒，你就说你帮李华写过无数次作文；谁说你没实力，你就说你拿一分就超了一千人；谁说你乐子，你就 说这是古代诗人教你的豁达之情。\n\n烦恼什么的更是抛之脑后，在网上看萝莉你还得担心担心高压电，去上学只需要遵纪守律高压线就行了，什么前不遮眉侧不过耳，什么周末无特殊情况在校自愿自习，都是些轻松愉快的事情。\n\n没事的时候还能站立早读，又能改善睡眠又能跟老师打游击战，要是不想睡觉，那你也只好大声的去歌唱了，小美人给同桌唱得心都化了。\n\n而且学校对你身体的改造不止这些，鉴于你两个月没摸过笔，学校特意准备了开学考强化手部力量。\n\n去厕所可以吸二手烟，以加强肺功能；每天早上空腹去操场，又是读书又是跑步又是喊口号，还可以加强心脏功能。\n\n就算没有这些，哪个学校又不是德智体美劳全面发展呢，育才又育德，反正去了就是赚了。\n\n听完这些，谁又不想立马交完学费去学校搬书，成为劳动志愿者呢，果然还是呆在学校里最自在。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 7351,
+          "like_count": 238,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜你啊，你的假期结束了。\n\n你再也不用每天光着膀子穿着拖鞋了，你可以穿大几百买的优质校服了。\n\n看着堪比绝区零的中心、也就是区一样的学校食堂，而且饭也是给你吃最好的，包治便秘。\n\n以后谁说你懒，你就说你帮李华写过无数次作文；谁说你没实力，你就说你拿一分就超了一千人；谁说你乐子，你就 https://t.co/sEH4Egp1fH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2094482596797575607",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 876,
+          "like_count": 14850,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 4547
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2094457603342451144",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18237,
+          "following_count": 888,
+          "like_count": 34887,
+          "listed_count": 32,
+          "media_count": 2887,
+          "tweet_count": 13064
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

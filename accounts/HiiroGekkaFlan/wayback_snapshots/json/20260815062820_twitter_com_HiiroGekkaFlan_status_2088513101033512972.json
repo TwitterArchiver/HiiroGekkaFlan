@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2086884928625766610",
+    "created_at": "2026-08-15T06:28:20.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T07:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088513101033512972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2052924892656672768",
+          "start": 0,
+          "username": "Senseii5cp0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088513101033512972",
+    "in_reply_to_user_id": "2052924892656672768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086884928625766610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Senseii5cp0 哦牛逼，什么时候线下团建呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_2086884920048357376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYaxyqaEAAsC29.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2086884928625766610",
+        "created_at": "2026-08-15T06:28:20.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088513101033512972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2052924892656672768",
+              "start": 0,
+              "username": "Senseii5cp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088513101033512972",
+        "in_reply_to_user_id": "2052924892656672768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086884928625766610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Senseii5cp0 哦牛逼，什么时候线下团建呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086884920048357376"
+          ]
+        },
+        "author_id": "2052924892656672768",
+        "conversation_id": "2086884928625766610",
+        "created_at": "2026-08-10T18:38:34.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086884928625766610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/spVDHe8uEO",
+              "end": 165,
+              "expanded_url": "https://x.com/Senseii5cp0/status/2086884928625766610/photo/1",
+              "media_key": "3_2086884920048357376",
+              "start": 142,
+              "url": "https://t.co/spVDHe8uEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086884928625766610",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086884920048357376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12610,
+          "like_count": 61,
+          "quote_count": 14,
+          "reply_count": 103,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已嚴肅斬殺中國跨性別男娘豬們的老馮😂😂😂\n跨性別全是大傻逼😂😂😂\n男娘全是大傻逼😂😂😂\n藥娘全是大傻逼😂😂😂\n本國LGBT群體全是大傻逼😂😂😂\n跨性別辯護者全是大傻逼😂😂😂\n本質民族敗類 中華蛀蟲😂😂😂\n本質懦夫 逃避責任 軟骨頭😂😂😂\n就是歧視你們怎麼了😂😂😂\n你永遠是男的😂😂😂 https://t.co/spVDHe8uEO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2088513101033512972",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 888,
+          "like_count": 14025,
+          "listed_count": 2,
+          "media_count": 507,
+          "tweet_count": 4212
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T01:35:40.000Z",
+        "description": "我從地獄回來了/殖畜賤奴的斬殺之人/倭奴賤畜最嚴厲的父親/純右/極端民族主義/中華民族至上/反同性戀/百年國恨，滄海難平/僅代表個人立場 與國家無關/不是皇漢 不是反毛",
+        "id": "2052924892656672768",
+        "is_identity_verified": false,
+        "location": "人民天國-東瀛淨化區",
+        "most_recent_tweet_id": "2088085706535043089",
+        "name": "東亞防禦倡議協定",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2052924892656672768/1778291130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052927702060199936/uXvTBBSp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 11,
+          "like_count": 87,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 367
+        },
+        "url": "",
+        "username": "Senseii5cp0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

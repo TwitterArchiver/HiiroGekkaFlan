@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2094959903379161470",
+    "created_at": "2026-09-02T01:25:38.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T02:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094959903379161470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ToasterKoishi/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/ToasterKoishi/status/2094912215010668820",
+          "start": 12,
+          "url": "https://t.co/xV4HUrbJfd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094959903379161470",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094912215010668820",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "That's true https://t.co/xV4HUrbJfd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2094959903379161470",
+        "created_at": "2026-09-02T01:25:38.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T02:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094959903379161470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ToasterKoishi/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/ToasterKoishi/status/2094912215010668820",
+              "start": 12,
+              "url": "https://t.co/xV4HUrbJfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094959903379161470",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094912215010668820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "That's true https://t.co/xV4HUrbJfd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "35365160",
+        "conversation_id": "2094912215010668820",
+        "created_at": "2026-09-01T22:16:08.000Z",
+        "display_text_range": [
+          0,
+          251
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T23:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094912215010668820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094912215010668820",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 17090,
+          "like_count": 956,
+          "quote_count": 34,
+          "reply_count": 34,
+          "retweet_count": 207
+        },
+        "reply_settings": "everyone",
+        "text": "Blaming yourself for a Track Lost is the most narcissistic thing you can do\n\n\"I should've hit the notes better\"\n\"I should've warmed up more\"\n\"I could've gotten a clear\"\n\nYou're NOT the main character\n\nGrow up, be mature, and start blaming the charters"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2094959903379161470",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 877,
+          "like_count": 14855,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 4557
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-26T01:27:46.000Z",
+        "description": "※ aka 東星 ※ Game Designer ・ Charter ゲームデザイナー ・ 譜面作者 @lowiro_staff Our games: @arcaea_en | @arcaea_jp @infalsus_en | @infalsus_jp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "lowiro_staff"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "arcaea_en"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "arcaea_jp"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "infalsus_en"
+              },
+              {
+                "end": 127,
+                "start": 115,
+                "username": "infalsus_jp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "toaster.moe",
+                "end": 23,
+                "expanded_url": "https://toaster.moe/",
+                "start": 0,
+                "url": "https://t.co/6JBCe2rMok"
+              }
+            ]
+          }
+        },
+        "id": "35365160",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2094912215010668820",
+        "name": "Toaster 🍞",
+        "pinned_tweet_id": "2021630088945549707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35365160/1621497244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742310119507984384/k__YLHCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25126,
+          "following_count": 330,
+          "like_count": 443,
+          "listed_count": 84,
+          "media_count": 6653,
+          "tweet_count": 114368
+        },
+        "url": "https://t.co/6JBCe2rMok",
+        "username": "ToasterKoishi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

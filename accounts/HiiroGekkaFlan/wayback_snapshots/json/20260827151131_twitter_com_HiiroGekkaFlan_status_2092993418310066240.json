@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2092923435026723278",
+    "created_at": "2026-08-27T15:11:31.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T16:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092993418310066240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1978032792383709184",
+          "start": 0,
+          "username": "Sabrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092993418310066240",
+    "in_reply_to_user_id": "1978032792383709184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092923435026723278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sabrina8964 还真是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2092923424981258241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuOxCgaEAEaHce.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2092923435026723278",
+        "created_at": "2026-08-27T15:11:31.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092993418310066240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978032792383709184",
+              "start": 0,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092993418310066240",
+        "in_reply_to_user_id": "1978032792383709184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092923435026723278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina8964 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092923424981258241"
+          ]
+        },
+        "author_id": "1978032792383709184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092923435026723278",
+        "created_at": "2026-08-27T10:33:26.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092923435026723278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7uXgOJMvm8",
+              "end": 49,
+              "expanded_url": "https://x.com/Sabrina8964/status/2092923435026723278/photo/1",
+              "media_key": "3_2092923424981258241",
+              "start": 26,
+              "url": "https://t.co/7uXgOJMvm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092923435026723278",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092923424981258241"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 375,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这谱真难度是10+的可能性和我是异性恋的可能性一样 https://t.co/7uXgOJMvm8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2092993418310066240",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 876,
+          "like_count": 14654,
+          "listed_count": 2,
+          "media_count": 529,
+          "tweet_count": 4457
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "The World Has Turned And Left Me Here",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "clubjt.jp/brand-site/sev…",
+                "end": 23,
+                "expanded_url": "https://www.clubjt.jp/brand-site/sevenstars/?utm_source=chatgpt.com",
+                "start": 0,
+                "url": "https://t.co/3dNh7bzID5"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "is_identity_verified": false,
+        "location": "OliviaRodrigo反黑站",
+        "most_recent_tweet_id": "2092923588634722765",
+        "name": "溺れる飛べない鳥は水羽が必要",
+        "pinned_tweet_id": "2085267917588074625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1978032792383709184/1787643815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092649855655329795/Cus-edhQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 476,
+          "like_count": 34689,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 6015
+        },
+        "url": "https://t.co/3dNh7bzID5",
+        "username": "Sabrina8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

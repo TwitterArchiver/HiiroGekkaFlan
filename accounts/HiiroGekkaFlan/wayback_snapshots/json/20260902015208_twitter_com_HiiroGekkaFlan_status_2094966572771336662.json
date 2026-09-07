@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2094966572771336662",
+    "created_at": "2026-09-02T01:52:08.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T02:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094966572771336662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uramyai/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/uramyai/status/2094804162664071346",
+          "start": 5,
+          "url": "https://t.co/BOOSReMrSb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094966572771336662",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094804162664071346",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "扩散希望 https://t.co/BOOSReMrSb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1252,
+        "media_key": "3_2094804158146834432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRI9SHhacAAvQDK.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2094966572771336662",
+        "created_at": "2026-09-02T01:52:08.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T02:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094966572771336662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uramyai/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/uramyai/status/2094804162664071346",
+              "start": 5,
+              "url": "https://t.co/BOOSReMrSb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094966572771336662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094804162664071346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "扩散希望 https://t.co/BOOSReMrSb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094804158146834432"
+          ]
+        },
+        "author_id": "1469624264920035333",
+        "conversation_id": "2094804162664071346",
+        "created_at": "2026-09-01T15:06:46.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094804162664071346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6E6qjQ7dOY",
+              "end": 98,
+              "expanded_url": "https://x.com/uramyai/status/2094804162664071346/photo/1",
+              "media_key": "3_2094804158146834432",
+              "start": 75,
+              "url": "https://t.co/6E6qjQ7dOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094804162664071346",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094804158146834432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2071,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "あの…中国在住の東方ファンのみなさん…もしくは中国語できる、中国に興味のある方…私と一緒に来てくれますか😭\n中国在住の方……案内してくれませんか…… https://t.co/6E6qjQ7dOY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2094966572771336662",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 877,
+          "like_count": 14862,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 4559
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-11T11:06:37.000Z",
+        "description": "東方飛鳥/大生部多ガチ勢／🦊🏹いいよ〜／https://t.co/SmDG43SQr5→https://t.co/P1dvfWrEIn xj3w7vaavvcglci／隠岐奈オンリー主催／https://t.co/4gO7EaJgmM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@uramyai/",
+                "end": 43,
+                "expanded_url": "https://skeb.jp/@uramyai/",
+                "start": 20,
+                "url": "https://t.co/SmDG43SQr5"
+              },
+              {
+                "display_url": "marshmallow-qa.com",
+                "end": 67,
+                "expanded_url": "https://marshmallow-qa.com/",
+                "start": 44,
+                "url": "https://t.co/P1dvfWrEIn"
+              },
+              {
+                "display_url": "pixiv.net/users/10661393…",
+                "end": 117,
+                "expanded_url": "https://www.pixiv.net/users/106613939/",
+                "start": 94,
+                "url": "https://t.co/4gO7EaJgmM"
+              }
+            ]
+          }
+        },
+        "id": "1469624264920035333",
+        "is_identity_verified": false,
+        "location": "飛鳥",
+        "most_recent_tweet_id": "2094957725965062416",
+        "name": "うらみゃいさん",
+        "pinned_tweet_id": "2051686528938844402",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1469624264920035333/1743520156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092665613617635328/ezgG7tnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 251,
+          "like_count": 12750,
+          "listed_count": 6,
+          "media_count": 2033,
+          "tweet_count": 13618
+        },
+        "url": "",
+        "username": "uramyai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

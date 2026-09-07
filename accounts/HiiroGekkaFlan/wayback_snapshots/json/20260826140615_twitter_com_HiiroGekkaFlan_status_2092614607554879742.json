@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2092442013710815477",
+    "created_at": "2026-08-26T14:06:15.000Z",
+    "display_text_range": [
+      25,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T15:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092614607554879742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1991932836375560192",
+          "start": 0,
+          "username": "ME0415J"
+        },
+        {
+          "end": 24,
+          "id": "864395580574978048",
+          "start": 9,
+          "username": "CHNwallbreaker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092614607554879742",
+    "in_reply_to_user_id": "1991932836375560192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092519882042827100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ME0415J @CHNwallbreaker 港澳是中国pro，台湾是中国pro max"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 417,
+        "media_key": "3_2092519873931055104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQofvRsbEAAsYIX.jpg",
+        "width": 626
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2092442013710815477",
+        "created_at": "2026-08-26T14:06:15.000Z",
+        "display_text_range": [
+          25,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092614607554879742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1991932836375560192",
+              "start": 0,
+              "username": "ME0415J"
+            },
+            {
+              "end": 24,
+              "id": "864395580574978048",
+              "start": 9,
+              "username": "CHNwallbreaker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092614607554879742",
+        "in_reply_to_user_id": "1991932836375560192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092519882042827100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ME0415J @CHNwallbreaker 港澳是中国pro，台湾是中国pro max"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092519873931055104"
+          ]
+        },
+        "author_id": "1991932836375560192",
+        "conversation_id": "2092442013710815477",
+        "created_at": "2026-08-26T07:49:51.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092519882042827100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "864395580574978048",
+              "start": 0,
+              "username": "CHNwallbreaker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qivoKLUfDv",
+              "end": 47,
+              "expanded_url": "https://x.com/ME0415J/status/2092519882042827100/photo/1",
+              "media_key": "3_2092519873931055104",
+              "start": 24,
+              "url": "https://t.co/qivoKLUfDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092519882042827100",
+        "in_reply_to_user_id": "864395580574978048",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092519873931055104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 611,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092442013710815477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CHNwallbreaker 正统China https://t.co/qivoKLUfDv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2092614607554879742",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 877,
+          "like_count": 14623,
+          "listed_count": 2,
+          "media_count": 526,
+          "tweet_count": 4443
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T18:15:25.000Z",
+        "description": "",
+        "id": "1991932836375560192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092597612679762283",
+        "name": "Meng-eun Kim",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 34,
+          "like_count": 5258,
+          "listed_count": 0,
+          "media_count": 362,
+          "tweet_count": 516
+        },
+        "url": "",
+        "username": "ME0415J",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-16T08:22:20.000Z",
+        "description": "支那猪里我最有种",
+        "id": "864395580574978048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092442013710815477",
+        "name": "撸铁小能手",
+        "pinned_tweet_id": "1695049642084286738",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/864395580574978048/1742350013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1474228907687628801/XYzTjHDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93523,
+          "following_count": 1130,
+          "like_count": 93142,
+          "listed_count": 312,
+          "media_count": 1764,
+          "tweet_count": 16245
+        },
+        "url": "",
+        "username": "CHNwallbreaker",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

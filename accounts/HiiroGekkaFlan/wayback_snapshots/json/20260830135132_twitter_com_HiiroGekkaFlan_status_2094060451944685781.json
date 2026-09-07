@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2094003807546212756",
+    "created_at": "2026-08-30T13:51:32.000Z",
+    "display_text_range": [
+      17,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T14:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094060451944685781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1679788677583765505",
+          "start": 0,
+          "username": "YlYpBKkt3257198"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094060451944685781",
+    "in_reply_to_user_id": "1679788677583765505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094003807546212756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YlYpBKkt3257198 人类一定要睡觉📚📚📚🖊️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1613,
+        "media_key": "3_2094003800172564481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9lXJuakAEVn58.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2094003807546212756",
+        "created_at": "2026-08-30T13:51:32.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094060451944685781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1679788677583765505",
+              "start": 0,
+              "username": "YlYpBKkt3257198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094060451944685781",
+        "in_reply_to_user_id": "1679788677583765505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094003807546212756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YlYpBKkt3257198 人类一定要睡觉📚📚📚🖊️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094003800172564481"
+          ]
+        },
+        "author_id": "1679788677583765505",
+        "conversation_id": "2094003807546212756",
+        "created_at": "2026-08-30T10:06:27.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T11:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094003807546212756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJxG5lE0Ms",
+              "end": 167,
+              "expanded_url": "https://x.com/YlYpBKkt3257198/status/2094003807546212756/photo/1",
+              "media_key": "3_2094003800172564481",
+              "start": 144,
+              "url": "https://t.co/bJxG5lE0Ms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094003807546212756",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094003800172564481"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1479,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我提议，学生的睡眠时间再增加一小时。现在是八小时，实际上只有六七小时，普遍感到睡不够。因为知识青年容易神经衰弱，他们往往睡不着，醒不来。一定要规定九小时睡眠时间。要下一道命令，不要讨论，强迫执行。青年们要睡好，教师也要睡足。\n——《青年团的工作要照顾青年的特点》（1953年6月30日） https://t.co/bJxG5lE0Ms"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2094060451944685781",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 873,
+          "like_count": 14818,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 4528
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-14T09:43:50.000Z",
+        "description": "我与我周旋久，宁作我\n小號@watermelon1byh\n（香港人）粤／普都会说 Know a little English 日本語を少し知っている\n政治零分 学习中 喜欢我的反对我的都可以fo🥰叫我润之兄 东叔 腊哥都行（停更一年了）\n抑郁四年 吃药三年 病情反复无常（暂无自杀倾向）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "watermelon1byh"
+              }
+            ]
+          }
+        },
+        "id": "1679788677583765505",
+        "is_identity_verified": false,
+        "location": "延安",
+        "most_recent_tweet_id": "2094053139016302627",
+        "name": "毛润之 Mao Zedong",
+        "pinned_tweet_id": "2093613001463185756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679788677583765505/1786296974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924727739220951041/hFlBgl8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 1825,
+          "like_count": 23792,
+          "listed_count": 6,
+          "media_count": 456,
+          "tweet_count": 9635
+        },
+        "url": "",
+        "username": "YlYpBKkt3257198",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2088405305587802464",
+    "created_at": "2026-08-15T07:21:58.000Z",
+    "display_text_range": [
+      16,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T08:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088526596722536502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088526596722536502",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088405305587802464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 以前确实看到过，但现在还有这种现象确实挺骇人听闻了😨\n马上部分群体要发出尖锐爆鸣了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8867,
+        "height": 1280,
+        "media_key": "13_2088259035560615936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088259035560615936/img/SGDZYhEM8O2A_07n.jpg",
+        "public_metrics": {
+          "view_count": 92947
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088259035560615936/vid/avc1/320x568/_TGRA0SSl43MtmIN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088259035560615936/vid/avc1/480x852/iUQ9cTk7WLpLbvUH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088259035560615936/vid/avc1/720x1280/DZMGccSEn3b_6IgR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088259035560615936/pl/cZ36Ya7eGxDWz6WO.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2088259052140658688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr8iznWgAA85l7.jpg",
+        "width": 718
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2088259069232500736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr8jzSXUAAW2Wx.jpg",
+        "width": 716
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2088259103151759360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr8lxpWIAA1d1_.jpg",
+        "width": 713
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2088405305587802464",
+        "created_at": "2026-08-15T07:21:58.000Z",
+        "display_text_range": [
+          16,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088526596722536502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088526596722536502",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088405305587802464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 以前确实看到过，但现在还有这种现象确实挺骇人听闻了😨\n马上部分群体要发出尖锐爆鸣了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088259035560615936",
+            "3_2088259052140658688",
+            "3_2088259069232500736",
+            "3_2088259103151759360"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2088405305587802464",
+        "created_at": "2026-08-14T23:20:00.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T00:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088405305587802464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/69r4NIJxFZ",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2088405305587802464/video/1",
+              "media_key": "13_2088259035560615936",
+              "start": 121,
+              "url": "https://t.co/69r4NIJxFZ"
+            },
+            {
+              "display_url": "pic.x.com/69r4NIJxFZ",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2088405305587802464/video/1",
+              "media_key": "3_2088259052140658688",
+              "start": 121,
+              "url": "https://t.co/69r4NIJxFZ"
+            },
+            {
+              "display_url": "pic.x.com/69r4NIJxFZ",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2088405305587802464/video/1",
+              "media_key": "3_2088259069232500736",
+              "start": 121,
+              "url": "https://t.co/69r4NIJxFZ"
+            },
+            {
+              "display_url": "pic.x.com/69r4NIJxFZ",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2088405305587802464/video/1",
+              "media_key": "3_2088259103151759360",
+              "start": 121,
+              "url": "https://t.co/69r4NIJxFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088405305587802464",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088259035560615936"
+          },
+          {
+            "media_key": "3_2088259052140658688"
+          },
+          {
+            "media_key": "3_2088259069232500736"
+          },
+          {
+            "media_key": "3_2088259103151759360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 147603,
+          "like_count": 873,
+          "quote_count": 23,
+          "reply_count": 158,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "8月14日，网友曝光：\n\n湖北武汉洪山区街道口至亚贸广场附近的天桥上躺着一名残疾人，双手被截肢，还疑似骨头外露、腿部残疾，脸上沾满污垢，身边挂着二维收款码。\n\n评论区网友认为这是“采生折割”（指把健康人折磨成残疾以乞讨）或被“有组织控制”。 https://t.co/69r4NIJxFZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2088526596722536502",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 888,
+          "like_count": 14067,
+          "listed_count": 2,
+          "media_count": 507,
+          "tweet_count": 4242
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2088526101597528069",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249701,
+          "following_count": 1080,
+          "like_count": 9918,
+          "listed_count": 8874,
+          "media_count": 52063,
+          "tweet_count": 59359
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

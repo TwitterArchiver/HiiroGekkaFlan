@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2095249519097352196",
+    "created_at": "2026-09-03T03:34:42.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T04:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095354773864349929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1764366141659525120",
+          "start": 0,
+          "username": "FlatchestMoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095354773864349929",
+    "in_reply_to_user_id": "1764366141659525120",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095249519097352196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FlatchestMoe so kawaii"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61138,
+        "height": 640,
+        "media_key": "13_2095249470975844353",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095249470975844353/img/LY9gZGKD8Kx3M2Cv.jpg",
+        "public_metrics": {
+          "view_count": 17211
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095249470975844353/vid/avc1/320x320/kZ_lXkUx2-sSkcz9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095249470975844353/vid/avc1/540x540/H97Zah7d175sZToO.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095249470975844353/vid/avc1/640x640/wJA7LwHUSAjWU2Ts.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095249470975844353/pl/lDbDnr4Tw7iu4Cd1.m3u8?v=a64"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2095249519097352196",
+        "created_at": "2026-09-03T03:34:42.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095354773864349929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1764366141659525120",
+              "start": 0,
+              "username": "FlatchestMoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095354773864349929",
+        "in_reply_to_user_id": "1764366141659525120",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095249519097352196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FlatchestMoe so kawaii"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095249470975844353"
+          ]
+        },
+        "author_id": "1764366141659525120",
+        "conversation_id": "2095249519097352196",
+        "created_at": "2026-09-02T20:36:27.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T21:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095249519097352196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xCHvGnuAN6",
+              "end": 23,
+              "expanded_url": "https://x.com/FlatchestMoe/status/2095249519097352196/video/1",
+              "media_key": "13_2095249470975844353",
+              "start": 0,
+              "url": "https://t.co/xCHvGnuAN6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095249519097352196",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2095249470975844353"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 520,
+          "impression_count": 26891,
+          "like_count": 977,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xCHvGnuAN6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2095354773864349929",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 877,
+          "like_count": 14936,
+          "listed_count": 2,
+          "media_count": 539,
+          "tweet_count": 4627
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-03T19:04:10.000Z",
+        "description": "very kind individual... female... old enough to do maths...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "flatchestmoe.straw.page",
+                "end": 23,
+                "expanded_url": "https://flatchestmoe.straw.page",
+                "start": 0,
+                "url": "https://t.co/OThxjPobHx"
+              }
+            ]
+          }
+        },
+        "id": "1764366141659525120",
+        "is_identity_verified": false,
+        "location": "Sigma, Western Visayas",
+        "most_recent_tweet_id": "2095300604453151057",
+        "name": "batshit insane bisexual lolicon 𐔌˙.",
+        "pinned_tweet_id": "2069700288420761884",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764366141659525120/1777796670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069554202401996800/2qwy0qeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 119,
+          "like_count": 3473,
+          "listed_count": 4,
+          "media_count": 479,
+          "tweet_count": 1403
+        },
+        "url": "https://t.co/OThxjPobHx",
+        "username": "FlatchestMoe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

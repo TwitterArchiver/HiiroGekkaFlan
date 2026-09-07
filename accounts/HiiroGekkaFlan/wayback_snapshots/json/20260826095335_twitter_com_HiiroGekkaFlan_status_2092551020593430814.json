@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2092238524737298775",
+    "created_at": "2026-08-26T09:53:35.000Z",
+    "display_text_range": [
+      9,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T10:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092551020593430814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2089034928982052864",
+          "start": 0,
+          "username": "Zhan1ao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092551020593430814",
+    "in_reply_to_user_id": "2089034928982052864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092238524737298775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhan1ao 确实啊，台湾人受到的教育就是自己是中华民国的公民，你还能强行给他们灌输那种思想吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2092238524737298775",
+        "created_at": "2026-08-26T09:53:35.000Z",
+        "display_text_range": [
+          9,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092551020593430814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2089034928982052864",
+              "start": 0,
+              "username": "Zhan1ao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092551020593430814",
+        "in_reply_to_user_id": "2089034928982052864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092238524737298775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhan1ao 确实啊，台湾人受到的教育就是自己是中华民国的公民，你还能强行给他们灌输那种思想吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089034928982052864",
+        "conversation_id": "2092238524737298775",
+        "created_at": "2026-08-25T13:11:50.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092238524737298775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092238524737298775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 69302,
+          "like_count": 1064,
+          "quote_count": 4,
+          "reply_count": 606,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "你们这群特意翻墙过来骂台独的人真的很闲很弱智知道吗，大爹的信息茧房把你保护得这么好，你非要特意翻出来彰显一下自己的爱国情怀，骂了半天只感动到了自己，再说了台独不能上网还是咋，反正你可能这辈子都去不了一趟台湾，人家爱干啥干啥呗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2092551020593430814",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 878,
+          "like_count": 14609,
+          "listed_count": 2,
+          "media_count": 526,
+          "tweet_count": 4438
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T17:02:50.000Z",
+        "description": "欢迎老板下单 覆盖查档业务 效率出单拉满 司法冻结 犯罪网逃 立案详情 人脸识别 个户全户 手机定位 手机轨迹 开房记录 查收款码 抖音实名 护照反查 名下公司 电报联系  https://t.co/vGvc0CaX1K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/u7chadang",
+                "end": 110,
+                "expanded_url": "https://t.me/u7chadang",
+                "start": 87,
+                "url": "https://t.co/vGvc0CaX1K"
+              }
+            ]
+          }
+        },
+        "id": "2089034928982052864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092546068999557300",
+        "name": "斩妖",
+        "pinned_tweet_id": "2091905270175916482",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089034928982052864/1786978453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089035380641472512/g0RW5RjQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 47,
+          "like_count": 584,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "Zhan1ao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

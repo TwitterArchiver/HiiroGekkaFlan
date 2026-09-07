@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2088147733131805166",
+    "created_at": "2026-08-15T01:50:04.000Z",
+    "display_text_range": [
+      19,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T02:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088443070866227641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2078008755325722624",
+          "start": 0,
+          "username": "tgqmao1"
+        },
+        {
+          "end": 18,
+          "id": "1884546510919979008",
+          "start": 9,
+          "username": "iamThuja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088443070866227641",
+    "in_reply_to_user_id": "2078008755325722624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088155330454901036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tgqmao1 @iamThuja 今日首绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2088147733131805166",
+        "created_at": "2026-08-15T01:50:04.000Z",
+        "display_text_range": [
+          19,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T02:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088443070866227641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2078008755325722624",
+              "start": 0,
+              "username": "tgqmao1"
+            },
+            {
+              "end": 18,
+              "id": "1884546510919979008",
+              "start": 9,
+              "username": "iamThuja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088443070866227641",
+        "in_reply_to_user_id": "2078008755325722624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088155330454901036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tgqmao1 @iamThuja 今日首绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078008755325722624",
+        "conversation_id": "2088147733131805166",
+        "created_at": "2026-08-14T06:46:41.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088155330454901036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884546510919979008",
+              "start": 0,
+              "username": "iamThuja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088155330454901036",
+        "in_reply_to_user_id": "1884546510919979008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1921,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088155021011730802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamThuja 还好我女朋友也是毛派😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2088443070866227641",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 888,
+          "like_count": 14009,
+          "listed_count": 2,
+          "media_count": 507,
+          "tweet_count": 4204
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-17T06:48:27.000Z",
+        "description": "反毛贼严父\n大号@tangangqinmao12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "tangangqinmao12"
+              }
+            ]
+          }
+        },
+        "id": "2078008755325722624",
+        "is_identity_verified": false,
+        "location": "反毛贼屠宰场",
+        "most_recent_tweet_id": "2088316327081763305",
+        "name": "弹钢琴",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078008755325722624/1784291786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078096475515691008/avdabwyM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 13,
+          "like_count": 352,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "tgqmao1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T10:18:10.000Z",
+        "description": "@theRealThuja唯一小号，@notThujaS原老号。默认一切到处瞎鉴证追着叫的嗣爹嗣妈/我线下真不是大老粗，喝高了会泄露隐私⛔️先去问AI查我成分立场再开火好不，各位\\\\欢迎勇士把我搬回墙里，感激不尽（我是直男。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "theRealThuja"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "notThujaS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/Wwc59b1XKQ"
+              }
+            ]
+          }
+        },
+        "id": "1884546510919979008",
+        "is_identity_verified": false,
+        "location": "总裁走廊集结老黑液氮制裁猛攻区",
+        "most_recent_tweet_id": "2088316954356625528",
+        "name": "岑柏今天堵桥了吗（扫狐狸没有在千恋万花打折时为了丛雨忍痛买正版不快进打完从雨线结果发现从雨一点也不平",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884546510919979008/1785280718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082053869035769856/ZR-IOx5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 1027,
+          "like_count": 9520,
+          "listed_count": 6,
+          "media_count": 375,
+          "tweet_count": 4202
+        },
+        "url": "https://t.co/Wwc59b1XKQ",
+        "username": "iamThuja",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

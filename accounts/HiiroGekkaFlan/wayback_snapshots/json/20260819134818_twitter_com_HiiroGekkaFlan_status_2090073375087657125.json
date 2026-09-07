@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2089980686019293410",
+    "created_at": "2026-08-19T13:48:18.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090073375087657125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090073375087657125",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089980686019293410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 魔法对魔法这一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 889,
+        "media_key": "3_2089916973769793536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDgai-boAAXdBU.jpg",
+        "width": 1206
+      },
+      {
+        "height": 648,
+        "media_key": "3_2089916973765562368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDgai9bEAAhXUP.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2089980686019293410",
+        "created_at": "2026-08-19T13:48:18.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090073375087657125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090073375087657125",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089980686019293410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 魔法对魔法这一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089916973769793536",
+            "3_2089916973765562368"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2089980686019293410",
+        "created_at": "2026-08-19T07:40:00.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089980686019293410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UeNc0GkZvB",
+              "end": 103,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2089980686019293410/photo/1",
+              "media_key": "3_2089916973769793536",
+              "start": 80,
+              "url": "https://t.co/UeNc0GkZvB"
+            },
+            {
+              "display_url": "pic.x.com/UeNc0GkZvB",
+              "end": 103,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2089980686019293410/photo/1",
+              "media_key": "3_2089916973765562368",
+              "start": 80,
+              "url": "https://t.co/UeNc0GkZvB"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2089721480326287420",
+              "start": 104,
+              "url": "https://t.co/Um54DAxOE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089980686019293410",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089916973769793536"
+          },
+          {
+            "media_key": "3_2089916973765562368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 119560,
+          "like_count": 335,
+          "quote_count": 14,
+          "reply_count": 98,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089721480326287420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8月19日，重庆长江国际，粉丝聚集和打卡圣地——时代峰峻的涂鸦墙上，有人用黑色喷漆写下了大型的“人民万岁”字样，将原本写满偶像名字及追星留言的墙面大面积覆盖。 https://t.co/UeNc0GkZvB https://t.co/Um54DAxOE8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2090073375087657125",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 880,
+          "like_count": 14288,
+          "listed_count": 2,
+          "media_count": 517,
+          "tweet_count": 4333
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2090071283270623394",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252116,
+          "following_count": 1081,
+          "like_count": 10025,
+          "listed_count": 8888,
+          "media_count": 52304,
+          "tweet_count": 59612
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

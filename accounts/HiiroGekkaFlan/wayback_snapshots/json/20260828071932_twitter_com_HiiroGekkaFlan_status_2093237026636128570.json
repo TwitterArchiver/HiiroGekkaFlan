@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092722197202673665"
+      ],
+      "media_source_tweet_id": [
+        "2092722211928920392"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "conversation_id": "2093237026636128570",
+    "created_at": "2026-08-28T07:19:32.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T08:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093237026636128570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1752465741062811648",
+          "start": 3,
+          "username": "danmakuboy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kjJbuB489F",
+          "end": 39,
+          "expanded_url": "https://x.com/danmakuboy/status/2092722211928920392/video/1",
+          "media_key": "13_2092722197202673665",
+          "start": 16,
+          "url": "https://t.co/kjJbuB489F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093237026636128570",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2092722197202673665"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1417
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092722211928920392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @danmakuboy: https://t.co/kjJbuB489F"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17902,
+        "height": 400,
+        "media_key": "13_2092722197202673665",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092722197202673665/img/FTtoCl5rPBKNln0Q.jpg",
+        "public_metrics": {
+          "view_count": 84636
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092722197202673665/vid/avc1/320x400/F-eDm_9msEA5768f.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092722197202673665/pl/5d_XYAw87BHLjlB3.m3u8?v=cfc"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092722197202673665"
+          ],
+          "media_source_tweet_id": [
+            "2092722211928920392"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2093237026636128570",
+        "created_at": "2026-08-28T07:19:32.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T08:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093237026636128570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1752465741062811648",
+              "start": 3,
+              "username": "danmakuboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjJbuB489F",
+              "end": 39,
+              "expanded_url": "https://x.com/danmakuboy/status/2092722211928920392/video/1",
+              "media_key": "13_2092722197202673665",
+              "start": 16,
+              "url": "https://t.co/kjJbuB489F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093237026636128570",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2092722197202673665"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1417
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092722211928920392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @danmakuboy: https://t.co/kjJbuB489F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092722197202673665"
+          ]
+        },
+        "author_id": "1752465741062811648",
+        "conversation_id": "2092722211928920392",
+        "created_at": "2026-08-26T21:13:50.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T22:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092722211928920392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjJbuB489F",
+              "end": 23,
+              "expanded_url": "https://x.com/danmakuboy/status/2092722211928920392/video/1",
+              "media_key": "13_2092722197202673665",
+              "start": 0,
+              "url": "https://t.co/kjJbuB489F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092722211928920392",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2092722197202673665"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1955,
+          "impression_count": 171818,
+          "like_count": 11139,
+          "quote_count": 24,
+          "reply_count": 33,
+          "retweet_count": 1417
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kjJbuB489F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2093237026636128570",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 876,
+          "like_count": 14712,
+          "listed_count": 2,
+          "media_count": 531,
+          "tweet_count": 4477
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-30T22:56:27.000Z",
+        "description": "I like cute girls.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@danmakuboy",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@danmakuboy",
+                "start": 0,
+                "url": "https://t.co/1HQ3NdgWXG"
+              }
+            ]
+          }
+        },
+        "id": "1752465741062811648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092722211928920392",
+        "name": "danmakuboy",
+        "pinned_tweet_id": "2068194218837696589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752465741062811648/1781625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073267836827373568/F5FbEy2Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2485,
+          "following_count": 13,
+          "like_count": 40529,
+          "listed_count": 5,
+          "media_count": 81,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/1HQ3NdgWXG",
+        "username": "danmakuboy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

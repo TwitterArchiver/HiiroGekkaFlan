@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2095195367872823348",
+    "created_at": "2026-09-02T17:01:17.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T18:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095195367872823348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dj58UPFlKe5931…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/dj58UPFlKe59316/status/2094752232780550479",
+          "start": 8,
+          "url": "https://t.co/WynELg3HC9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095195367872823348",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094752232780550479",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "豪 俊 金 曲 https://t.co/WynELg3HC9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26993,
+        "height": 720,
+        "media_key": "13_2094752206465765376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094752206465765376/img/vk02cLFnHLAvF_T9.jpg",
+        "public_metrics": {
+          "view_count": 907026
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094752206465765376/vid/avc1/480x270/q38HXe2K_Fdv1V8N.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094752206465765376/vid/avc1/640x360/66c6veFbvz1GNRsp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094752206465765376/vid/avc1/1280x720/2Hi_CnnFDLxz3VVi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094752206465765376/pl/E1rklhAdhpUcE3K5.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2095195367872823348",
+        "created_at": "2026-09-02T17:01:17.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T18:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095195367872823348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dj58UPFlKe5931…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/dj58UPFlKe59316/status/2094752232780550479",
+              "start": 8,
+              "url": "https://t.co/WynELg3HC9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095195367872823348",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094752232780550479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "豪 俊 金 曲 https://t.co/WynELg3HC9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094752206465765376"
+          ]
+        },
+        "author_id": "1907620743418097666",
+        "conversation_id": "2094752232780550479",
+        "created_at": "2026-09-01T11:40:25.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094752232780550479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JX8eiv0H8I",
+              "end": 43,
+              "expanded_url": "https://x.com/dj58UPFlKe59316/status/2094752232780550479/video/1",
+              "media_key": "13_2094752206465765376",
+              "start": 20,
+              "url": "https://t.co/JX8eiv0H8I"
+            },
+            {
+              "display_url": "x.com/kyodo_official…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/kyodo_official/status/2093561995429867592",
+              "start": 44,
+              "url": "https://t.co/AclQLsMpcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094752232780550479",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2094752206465765376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2366,
+          "impression_count": 2729670,
+          "like_count": 20785,
+          "quote_count": 170,
+          "reply_count": 92,
+          "retweet_count": 1286
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093561995429867592",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今のところ一番有効なのこれなんだよなぁ https://t.co/JX8eiv0H8I https://t.co/AclQLsMpcI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2095195367872823348",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 877,
+          "like_count": 14884,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 4593
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-03T02:27:47.000Z",
+        "description": "ドラゴンズと細川と石橋、松葉が大好き　Vも少し好き",
+        "id": "1907620743418097666",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095128624940671282",
+        "name": "大後輩の親戚　浩二",
+        "pinned_tweet_id": "2087808777974378896",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907620743418097666/1786607288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087807436883410944/aOlxbhAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 1143,
+          "like_count": 2459,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 259
+        },
+        "url": "",
+        "username": "dj58UPFlKe59316",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

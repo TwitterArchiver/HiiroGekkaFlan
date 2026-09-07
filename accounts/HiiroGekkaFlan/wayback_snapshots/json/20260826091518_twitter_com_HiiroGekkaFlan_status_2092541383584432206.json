@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "2092541383584432206",
+    "created_at": "2026-08-26T09:15:18.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T10:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092541383584432206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aeclis_jp/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/aeclis_jp/status/2092446947625803939",
+          "start": 11,
+          "url": "https://t.co/iJgZbntVzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092541383584432206",
+    "lang": "hu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092446947625803939",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Arcaea 2D🤔 https://t.co/iJgZbntVzi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48064,
+        "height": 2160,
+        "media_key": "13_2092403046710124544",
+        "preview_image_url": "https://pbs.twimg.com/media/HQnj3VfbcAA2Vz5.jpg",
+        "public_metrics": {
+          "view_count": 38311
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092403046710124544/pl/_vbbDfqVyxRpqrRd.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092403046710124544/vid/avc1/640x360/-FxnDXBVmRvRb7YO.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092403046710124544/vid/avc1/3840x2160/-kraLIlv0MTKXa8W.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092403046710124544/vid/avc1/1920x1080/3QDDRcE7FBkmQm86.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092403046710124544/vid/avc1/1280x720/xvkT-0ccK4kxV1QN.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092403046710124544/vid/avc1/480x270/A9TS4SnhafJBBFFU.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2092541383584432206",
+        "created_at": "2026-08-26T09:15:18.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092541383584432206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aeclis_jp/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/aeclis_jp/status/2092446947625803939",
+              "start": 11,
+              "url": "https://t.co/iJgZbntVzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092541383584432206",
+        "lang": "hu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092446947625803939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Arcaea 2D🤔 https://t.co/iJgZbntVzi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092403046710124544"
+          ]
+        },
+        "author_id": "1870837889703284736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2092446947625803939",
+        "created_at": "2026-08-26T03:00:02.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092446947625803939"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 134,
+              "tag": "Aeclis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IXF9NEMPrI",
+              "end": 165,
+              "expanded_url": "https://x.com/aeclis_jp/status/2092446947625803939/video/1",
+              "media_key": "13_2092403046710124544",
+              "start": 142,
+              "url": "https://t.co/IXF9NEMPrI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092446947625803939",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2092403046710124544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 110014,
+          "like_count": 1057,
+          "quote_count": 163,
+          "reply_count": 17,
+          "retweet_count": 220
+        },
+        "reply_settings": "everyone",
+        "text": "『Aeclis』のゲームプレイをご紹介します！\n\n上下2段のレーンに流れてくるノーツを、タップやフリックで演奏する音楽ゲームです。\n\n♪ ataraxia / qfeileadh feat. のあ\n♪ Euphorbia / TAKIO\n\n※画面は開発中のものです\n\n#Aeclis https://t.co/IXF9NEMPrI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2092541383584432206",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 878,
+          "like_count": 14594,
+          "listed_count": 2,
+          "media_count": 526,
+          "tweet_count": 4429
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T14:25:08.000Z",
+        "description": "新作音楽ゲーム『Aeclis』公式アカウント。iOS / Android 向けに2026年リリース予定。\n\n@aeclis_en ⋆ @aeclis_kr ⋆ @nemutone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "aeclis_en"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "aeclis_kr"
+              },
+              {
+                "end": 89,
+                "start": 80,
+                "username": "nemutone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aeclis.com",
+                "end": 23,
+                "expanded_url": "https://aeclis.com",
+                "start": 0,
+                "url": "https://t.co/uFbqd4poNH"
+              }
+            ]
+          }
+        },
+        "id": "1870837889703284736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092537608274591981",
+        "name": "Aeclis公式",
+        "pinned_tweet_id": "2092084558829359448",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870837889703284736/1787622504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091952645850443777/UIlM_CBP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3509,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 9,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/uFbqd4poNH",
+        "username": "aeclis_jp",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2094757749150420993",
+    "created_at": "2026-09-02T14:12:57.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095153006295822651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1940340834014285824",
+          "start": 0,
+          "username": "XD__0913"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095153006295822651",
+    "in_reply_to_user_id": "1940340834014285824",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094757749150420993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XD__0913 🙏🏻🙏🏻🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2094757749150420993",
+        "created_at": "2026-09-02T14:12:57.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095153006295822651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1940340834014285824",
+              "start": 0,
+              "username": "XD__0913"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095153006295822651",
+        "in_reply_to_user_id": "1940340834014285824",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094757749150420993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XD__0913 🙏🏻🙏🏻🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940340834014285824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2094757749150420993",
+        "created_at": "2026-09-01T12:02:20.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T13:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094757749150420993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094757749150420993",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 313,
+          "impression_count": 734427,
+          "like_count": 42599,
+          "quote_count": 202,
+          "reply_count": 843,
+          "retweet_count": 1245
+        },
+        "reply_settings": "everyone",
+        "text": "안녕하세요\n지금 외할머니가 되게 편찮으셔요…… 머리에 주먹만한 피딱지가 생겨서 피고름이 계속 흘러나오고 변도 못 보시고 밥도 못 드시고 계속 누워계세요\n너무 절박해서 트위터미신이라도 한번만 믿어봅니다\n트친이든 탐넘이든 상관 없으니까 한번만 기도해주실 수 있으실까요 제발"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2095153006295822651",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 877,
+          "like_count": 14869,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 4573
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-02T09:36:52.000Z",
+        "description": "잡덕계ㅣ차살계 @gamdogxliang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "gamdogxliang"
+              }
+            ]
+          }
+        },
+        "id": "1940340834014285824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094994606605979999",
+        "name": "네베 (상태:메인트확인)",
+        "pinned_tweet_id": "2086434744301130062",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085997194948349952/FiQ93wbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 285,
+          "like_count": 51088,
+          "listed_count": 37,
+          "media_count": 200,
+          "tweet_count": 5418
+        },
+        "url": "",
+        "username": "XD__0913",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

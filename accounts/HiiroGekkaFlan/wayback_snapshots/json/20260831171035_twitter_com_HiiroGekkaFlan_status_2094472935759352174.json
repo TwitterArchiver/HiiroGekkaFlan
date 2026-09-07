@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2094084448551870952",
+    "created_at": "2026-08-31T17:10:35.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T18:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094472935759352174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094472935759352174",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094084448551870952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne 神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2094084448551870952",
+        "created_at": "2026-08-31T17:10:35.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094472935759352174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094472935759352174",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094084448551870952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne 神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247054463329656832",
+        "conversation_id": "2094084448551870952",
+        "created_at": "2026-08-30T15:26:53.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094084448551870952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094084448551870952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5720,
+          "like_count": 103,
+          "quote_count": 3,
+          "reply_count": 37,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "中国无产阶级失去的只是参政权，得到的却是整个世界。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2094472935759352174",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 876,
+          "like_count": 14847,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 4544
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "extraSAD｜AuABaABa｜想留德… \n最绝望的商科牲 QQ空间｜🏳️‍🌈gay/pan｜🚩🏴🏳️‍⚧️｜數碼、科幻、政治、語言學、Wikier ｜🌐漢(吴/普)/English 自介在亮点喵\n安人 @JunenKim YAA @kyrinxo \n我好想成为人类啊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 104,
+                "username": "JunenKim"
+              },
+              {
+                "end": 126,
+                "start": 118,
+                "username": "kyrinxo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/quasarne",
+                "end": 23,
+                "expanded_url": "https://github.com/quasarne",
+                "start": 0,
+                "url": "https://t.co/w0kS2yNpA0"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "is_identity_verified": false,
+        "location": "北京市西城区长安街174号",
+        "most_recent_tweet_id": "2094457188727345411",
+        "name": "неⒶστήρ |星ない🌹",
+        "pinned_tweet_id": "2093790786823528674",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247054463329656832/1761396959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084628127964377088/Bms90rmR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 1162,
+          "like_count": 89131,
+          "listed_count": 7,
+          "media_count": 1737,
+          "tweet_count": 21427
+        },
+        "url": "https://t.co/w0kS2yNpA0",
+        "username": "quasarne",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

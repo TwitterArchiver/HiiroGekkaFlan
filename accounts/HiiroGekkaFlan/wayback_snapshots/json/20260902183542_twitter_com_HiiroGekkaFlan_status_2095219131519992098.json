@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "2095219131519992098",
+    "created_at": "2026-09-02T18:35:42.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T19:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095219131519992098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jc0rbited7/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/jc0rbited7/status/2095012400676344087",
+          "start": 21,
+          "url": "https://t.co/1h0NDq2oAg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095219131519992098",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095012400676344087",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "The shit from Arcaea https://t.co/1h0NDq2oAg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30300,
+        "height": 720,
+        "media_key": "13_2095012331248103424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095012331248103424/img/vmMeywEi158tQbVx.jpg",
+        "public_metrics": {
+          "view_count": 12791
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095012331248103424/vid/avc1/386x270/pXg-fWwTVam_EqcG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095012331248103424/vid/avc1/514x360/XOtVHHI47OnYFahA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095012331248103424/vid/avc1/1030x720/lgRzgCz7iTjdXiDJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095012331248103424/pl/lyDDM3OIreiUv1jZ.m3u8?v=cfc"
+          }
+        ],
+        "width": 1030
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2095219131519992098",
+        "created_at": "2026-09-02T18:35:42.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T19:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095219131519992098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jc0rbited7/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/jc0rbited7/status/2095012400676344087",
+              "start": 21,
+              "url": "https://t.co/1h0NDq2oAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095219131519992098",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095012400676344087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The shit from Arcaea https://t.co/1h0NDq2oAg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095012331248103424"
+          ]
+        },
+        "author_id": "1939243173835898880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2095012400676344087",
+        "created_at": "2026-09-02T04:54:14.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095012400676344087"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "fyp"
+            },
+            {
+              "end": 94,
+              "start": 87,
+              "tag": "arcaea"
+            },
+            {
+              "end": 105,
+              "start": 95,
+              "tag": "arcaea_jp"
+            },
+            {
+              "end": 116,
+              "start": 106,
+              "tag": "arcaea_en"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rc1uZIp07F",
+              "end": 140,
+              "expanded_url": "https://x.com/jc0rbited7/status/2095012400676344087/video/1",
+              "media_key": "13_2095012331248103424",
+              "start": 117,
+              "url": "https://t.co/rc1uZIp07F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095012400676344087",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095012331248103424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 23706,
+          "like_count": 327,
+          "quote_count": 18,
+          "reply_count": 7,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "Arcaea 7.0 Spoiler\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\nWHAT IN THE ASTRAL QUANTIZATION- #fyp #arcaea #arcaea_jp #arcaea_en https://t.co/rc1uZIp07F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2095219131519992098",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 877,
+          "like_count": 14902,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 4604
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T08:43:14.000Z",
+        "description": "Any prns/18/🇵🇭🇺🇸/Bi(MLM)/Autism/Artist (sfw/suggestive)/Furry/Esp,Eng,中文, tag/Dec 12♐️|No horny 💬s|🚫 AI, 🚫 BOTS, 🚫 SCAMMERS & 🚫 SOLICITNG/Free 🇵🇸🇸🇩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jc0rbited7.straw.page",
+                "end": 23,
+                "expanded_url": "https://jc0rbited7.straw.page",
+                "start": 0,
+                "url": "https://t.co/V1iaixsDXQ"
+              }
+            ]
+          }
+        },
+        "id": "1939243173835898880",
+        "is_identity_verified": false,
+        "location": "LΟΟΠΔ Island 🏝️ (Stan LΟΟΠΔ)",
+        "most_recent_tweet_id": "2095203079130087536",
+        "name": "+.×.JC07.×.+ (arcaea 7.0 spolier zone)",
+        "pinned_tweet_id": "2082194234678169891",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939243173835898880/1773767977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085121594578624512/91S3Ew8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1330,
+          "like_count": 31525,
+          "listed_count": 2,
+          "media_count": 356,
+          "tweet_count": 6136
+        },
+        "url": "https://t.co/V1iaixsDXQ",
+        "username": "jc0rbited7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

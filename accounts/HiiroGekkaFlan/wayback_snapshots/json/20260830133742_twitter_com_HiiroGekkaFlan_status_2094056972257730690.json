@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2094003663639576965",
+    "created_at": "2026-08-30T13:37:42.000Z",
+    "display_text_range": [
+      17,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T14:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094056972257730690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1125643352169259008",
+          "start": 0,
+          "username": "SuTNkwfrFkMhHsG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094056972257730690",
+    "in_reply_to_user_id": "1125643352169259008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094003663639576965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuTNkwfrFkMhHsG 终究只是因为犯了错的老头子罢了，娱乐一下也行，也不知道我怎么总有人把他当圣人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1145,
+        "media_key": "3_2094003654902853632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9lOsjasAArs9e.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2094003663639576965",
+        "created_at": "2026-08-30T13:37:42.000Z",
+        "display_text_range": [
+          17,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094056972257730690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1125643352169259008",
+              "start": 0,
+              "username": "SuTNkwfrFkMhHsG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094056972257730690",
+        "in_reply_to_user_id": "1125643352169259008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094003663639576965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuTNkwfrFkMhHsG 终究只是因为犯了错的老头子罢了，娱乐一下也行，也不知道我怎么总有人把他当圣人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094003654902853632"
+          ]
+        },
+        "author_id": "1125643352169259008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2094003663639576965",
+        "created_at": "2026-08-30T10:05:52.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T11:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094003663639576965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WwRCFpVH02",
+              "end": 63,
+              "expanded_url": "https://x.com/SuTNkwfrFkMhHsG/status/2094003663639576965/photo/1",
+              "media_key": "3_2094003654902853632",
+              "start": 40,
+              "url": "https://t.co/WwRCFpVH02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094003663639576965",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094003654902853632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 15687,
+          "like_count": 408,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "R星真不考虑把他做成最终BOSS吗？毕竟要比杀人🥴的话\n\nGTA6-腊肉传奇😉 https://t.co/WwRCFpVH02"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2094056972257730690",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 873,
+          "like_count": 14808,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 4523
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-07T06:07:43.000Z",
+        "description": "America’s success is that you can talk about its failure (China’s failure is that you can only talk about its success)",
+        "id": "1125643352169259008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094034690307240000",
+        "name": "艾布拉姆斯🇺🇸💙💛",
+        "pinned_tweet_id": "1917159427775553991",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1125643352169259008/1716460892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579486210606919680/HG6HLeGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33011,
+          "following_count": 525,
+          "like_count": 535281,
+          "listed_count": 205,
+          "media_count": 6973,
+          "tweet_count": 33055
+        },
+        "url": "",
+        "username": "SuTNkwfrFkMhHsG",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

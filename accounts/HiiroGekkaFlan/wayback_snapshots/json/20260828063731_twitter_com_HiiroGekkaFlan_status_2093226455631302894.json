@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2092667262646006063",
+    "created_at": "2026-08-28T06:37:31.000Z",
+    "display_text_range": [
+      12,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T07:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093226455631302894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1928701662",
+          "start": 0,
+          "username": "NicolasLoq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093226455631302894",
+    "in_reply_to_user_id": "1928701662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092667262646006063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NicolasLoq 哦不，你上传的是战地4的游戏视频，战地4在中国大陆是被封杀或者限制的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 287,
+        "media_key": "3_2092667256282988544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqlyDvWwAA35YL.jpg",
+        "width": 1419
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2092667262646006063",
+        "created_at": "2026-08-28T06:37:31.000Z",
+        "display_text_range": [
+          12,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T07:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093226455631302894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1928701662",
+              "start": 0,
+              "username": "NicolasLoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093226455631302894",
+        "in_reply_to_user_id": "1928701662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092667262646006063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NicolasLoq 哦不，你上传的是战地4的游戏视频，战地4在中国大陆是被封杀或者限制的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092667256282988544"
+          ]
+        },
+        "author_id": "1928701662",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2092667262646006063",
+        "created_at": "2026-08-26T17:35:29.000Z",
+        "display_text_range": [
+          0,
+          177
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092667262646006063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L66Dv4HnBo",
+              "end": 201,
+              "expanded_url": "https://x.com/NicolasLoq/status/2092667262646006063/photo/1",
+              "media_key": "3_2092667256282988544",
+              "start": 178,
+              "url": "https://t.co/L66Dv4HnBo"
+            },
+            {
+              "display_url": "x.com/elduuuui/statu…",
+              "end": 225,
+              "expanded_url": "https://twitter.com/elduuuui/status/2092366859568128394",
+              "start": 202,
+              "url": "https://t.co/Tp6EA2gjYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092667262646006063",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2092667256282988544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1483,
+          "impression_count": 881715,
+          "like_count": 14518,
+          "quote_count": 34,
+          "reply_count": 306,
+          "retweet_count": 552
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092366859568128394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Me creé una cuenta en Bili Bili y comencé a subir un video de curiosidades de videojuegos. Mientras el vídeo se subía decidieron banearme por 365 días.\nQue grande sos Bili Bili. https://t.co/L66Dv4HnBo https://t.co/Tp6EA2gjYD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2093226455631302894",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 876,
+          "like_count": 14703,
+          "listed_count": 2,
+          "media_count": 531,
+          "tweet_count": 4472
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-10-03T00:39:05.000Z",
+        "description": "Hago videos sobre mitos, curiosidades y creepyastas de videojuegos.",
+        "id": "1928701662",
+        "is_identity_verified": false,
+        "location": "Loquendo City",
+        "most_recent_tweet_id": "2093043437742313479",
+        "name": "Nicolasloquendero",
+        "pinned_tweet_id": "2089095344508248429",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1928701662/1712027718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779882130274762753/D-tMe4sS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4051,
+          "following_count": 863,
+          "like_count": 70742,
+          "listed_count": 6,
+          "media_count": 904,
+          "tweet_count": 7418
+        },
+        "url": "",
+        "username": "NicolasLoq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

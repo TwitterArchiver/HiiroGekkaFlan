@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2089581441957126549",
+    "created_at": "2026-08-19T06:17:03.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089959814315336133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1279935256808718337",
+          "start": 0,
+          "username": "AiZhei"
+        },
+        {
+          "end": 16,
+          "id": "2017187905928888320",
+          "start": 8,
+          "username": "Pzyrnxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089959814315336133",
+    "in_reply_to_user_id": "1279935256808718337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089959034984321214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiZhei @Pzyrnxj 这可不兴坐好啊😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2089581441957126549",
+        "created_at": "2026-08-19T06:17:03.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089959814315336133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1279935256808718337",
+              "start": 0,
+              "username": "AiZhei"
+            },
+            {
+              "end": 16,
+              "id": "2017187905928888320",
+              "start": 8,
+              "username": "Pzyrnxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089959814315336133",
+        "in_reply_to_user_id": "1279935256808718337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089959034984321214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiZhei @Pzyrnxj 这可不兴坐好啊😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279935256808718337",
+        "conversation_id": "2089581441957126549",
+        "created_at": "2026-08-19T06:13:58.000Z",
+        "display_text_range": [
+          25,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089959034984321214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2017187905928888320",
+              "start": 0,
+              "username": "Pzyrnxj"
+            },
+            {
+              "end": 24,
+              "id": "2042276998668525573",
+              "start": 9,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089959034984321214",
+        "in_reply_to_user_id": "2017187905928888320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089924686067228843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pzyrnxj @HiiroGekkaFlan 真拿你没办法"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2089959814315336133",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 883,
+          "like_count": 14215,
+          "listed_count": 2,
+          "media_count": 515,
+          "tweet_count": 4303
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-06T00:29:07.000Z",
+        "description": "中文（中國）/ English (US)/ 日本語\n音ゲー/弐寺SP九段DP初段/ボルテ魔騎士/マイマイでらっくす虹レ/チュウニ15.40\nオタク。",
+        "id": "1279935256808718337",
+        "is_identity_verified": false,
+        "location": "Perditus Paradisus",
+        "most_recent_tweet_id": "2089959034984321214",
+        "name": "リップルズ",
+        "pinned_tweet_id": "1555924273637871617",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1279935256808718337/1754409089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958883165621428224/0uc4KfxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 520,
+          "like_count": 5335,
+          "listed_count": 3,
+          "media_count": 10,
+          "tweet_count": 1209
+        },
+        "url": "",
+        "username": "AiZhei",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-30T10:47:59.000Z",
+        "description": "",
+        "id": "2017187905928888320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089924686067228843",
+        "name": "Pzy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017188168853069824/_AQU_tJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "Pzyrnxj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

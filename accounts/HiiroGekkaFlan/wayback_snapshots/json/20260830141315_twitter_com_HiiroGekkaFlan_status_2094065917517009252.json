@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2093897383398830101",
+    "created_at": "2026-08-30T14:13:15.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T15:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094065917517009252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947252282745389056",
+          "start": 0,
+          "username": "linlvbenjiaquan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094065917517009252",
+    "in_reply_to_user_id": "1947252282745389056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094064482666594531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linlvbenjiaquan 好，我入"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2094064471883034624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-citdasAA48in.jpg",
+        "width": 770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2093897383398830101",
+        "created_at": "2026-08-30T14:13:15.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094065917517009252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947252282745389056",
+              "start": 0,
+              "username": "linlvbenjiaquan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094065917517009252",
+        "in_reply_to_user_id": "1947252282745389056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094064482666594531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlvbenjiaquan 好，我入"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094064471883034624"
+          ]
+        },
+        "author_id": "1947252282745389056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093897383398830101",
+        "created_at": "2026-08-30T14:07:33.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094064482666594531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mN8GlzNx2u",
+              "end": 45,
+              "expanded_url": "https://x.com/linlvbenjiaquan/status/2094064482666594531/photo/1",
+              "media_key": "3_2094064471883034624",
+              "start": 22,
+              "url": "https://t.co/mN8GlzNx2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094064482666594531",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094064471883034624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094046996252467594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 那这个呢🤓 https://t.co/mN8GlzNx2u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2094065917517009252",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 874,
+          "like_count": 14823,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 4535
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-21T11:08:31.000Z",
+        "description": "关注邻氯苯甲醛喵！关注邻氯苯甲醛谢谢喵！",
+        "id": "1947252282745389056",
+        "is_identity_verified": false,
+        "location": "中国人民共和国",
+        "most_recent_tweet_id": "2094065740471242903",
+        "name": "邻氯苯甲醛",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060927430563672064/pOsbX8cH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 123,
+          "like_count": 7411,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 2081
+        },
+        "url": "",
+        "username": "linlvbenjiaquan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

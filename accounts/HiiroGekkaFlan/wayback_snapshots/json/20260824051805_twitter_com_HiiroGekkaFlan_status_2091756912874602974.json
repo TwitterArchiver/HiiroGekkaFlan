@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2091344040638001218",
+    "created_at": "2026-08-24T05:18:05.000Z",
+    "display_text_range": [
+      24,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T06:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091756912874602974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063102266975166464",
+          "start": 0,
+          "username": "KSK_Jason"
+        },
+        {
+          "end": 23,
+          "id": "3286455176",
+          "start": 11,
+          "username": "slayers2015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091756912874602974",
+    "in_reply_to_user_id": "2063102266975166464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091697351241155005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KSK_Jason @slayers2015 中肯的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2091344040638001218",
+        "created_at": "2026-08-24T05:18:05.000Z",
+        "display_text_range": [
+          24,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T06:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091756912874602974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063102266975166464",
+              "start": 0,
+              "username": "KSK_Jason"
+            },
+            {
+              "end": 23,
+              "id": "3286455176",
+              "start": 11,
+              "username": "slayers2015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091756912874602974",
+        "in_reply_to_user_id": "2063102266975166464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091697351241155005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KSK_Jason @slayers2015 中肯的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063102266975166464",
+        "conversation_id": "2091344040638001218",
+        "created_at": "2026-08-24T01:21:25.000Z",
+        "display_text_range": [
+          13,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T02:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091697351241155005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3286455176",
+              "start": 0,
+              "username": "slayers2015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091697351241155005",
+        "in_reply_to_user_id": "3286455176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091344040638001218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slayers2015 就我个人而言感觉就是披着社会主义皮的资本主义，什么社会主义初期的探索啊、有中国特色啊什么的不过是给现在不完美的社会戴的漂亮帽子，反正各种政治主义各有优缺点，不影响我每天打打游戏上上班，偶尔翻墙看片撸管就无所谓"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2091756912874602974",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 882,
+          "like_count": 14391,
+          "listed_count": 2,
+          "media_count": 522,
+          "tweet_count": 4363
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T03:36:00.000Z",
+        "description": "",
+        "id": "2063102266975166464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091718220806046000",
+        "name": "KJason",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063102967209971712/5ItVdZFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 22,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "KSK_Jason",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-07-21T12:09:11.000Z",
+        "description": "중도좌파+리버럴. 성소수자, 여성, 기타 사회적 약자 혐오 반대. 윤어게인 자주 갈굽니다",
+        "id": "3286455176",
+        "is_identity_verified": false,
+        "location": "대한민국 서울",
+        "most_recent_tweet_id": "2091743227670045101",
+        "name": "개슬이",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1343163170890731521/6ygEQ2ng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 243,
+          "like_count": 1036,
+          "listed_count": 7,
+          "media_count": 2758,
+          "tweet_count": 46507
+        },
+        "url": "",
+        "username": "slayers2015",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

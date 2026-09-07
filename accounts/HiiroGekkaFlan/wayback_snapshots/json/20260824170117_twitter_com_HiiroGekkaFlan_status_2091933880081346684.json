@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2091228418268667935",
+    "created_at": "2026-08-24T17:01:17.000Z",
+    "display_text_range": [
+      12,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T18:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091933880081346684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1607983811618373633",
+          "start": 0,
+          "username": "wangye7723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091933880081346684",
+    "in_reply_to_user_id": "1607983811618373633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091228418268667935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangye7723 冲突比共识更容易传播，互联网怎么成赛博泔水了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2338,
+        "media_key": "3_2091228407678058496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQWJKC_bQAAxznO.jpg",
+        "width": 3546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2091228418268667935",
+        "created_at": "2026-08-24T17:01:17.000Z",
+        "display_text_range": [
+          12,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091933880081346684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1607983811618373633",
+              "start": 0,
+              "username": "wangye7723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091933880081346684",
+        "in_reply_to_user_id": "1607983811618373633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091228418268667935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangye7723 冲突比共识更容易传播，互联网怎么成赛博泔水了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091228407678058496"
+          ]
+        },
+        "author_id": "1607983811618373633",
+        "conversation_id": "2091228418268667935",
+        "created_at": "2026-08-22T18:18:02.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T19:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091228418268667935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AWJQbzxBm0",
+              "end": 122,
+              "expanded_url": "https://x.com/wangye7723/status/2091228418268667935/photo/1",
+              "media_key": "3_2091228407678058496",
+              "start": 99,
+              "url": "https://t.co/AWJQbzxBm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091228418268667935",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091228407678058496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "说中国政府主动把社会矛盾转移到性别矛盾的，就是完全没看懂资本主义\n资本主义的社会劳动力无偿再生产必须依靠男女的结合，大规模引进外国人又会造成社会剧烈抗议，所以资本绝对不会也不敢主动在性别矛盾上开刀\n资本是逐利性的，从生理上来看，男性由于没有月经，不用带薪休产假，所以资本在职场上更倾向于选择男性这个稳定的劳动力，有些女性看不清背后的矛盾，直接把它抽象为性别的矛盾，并且和被资产阶级吸收的消费主义女权结合，形成了对特权的索取\n中国则是在这上面更特殊，由于中国男多女少，为了保护这珍贵的“生育机器”，中国的选择是直接在治安和司法上偏袒女性，加上资产阶级女权在网上对特权的索取，以及商业资本的挑拨，最后形成了性别矛盾，这中间脱不了中国的政策，但绝不是中共想主动看到的"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说中国政府主动把社会矛盾转移到性别矛盾的，就是完全没看懂资本主义\n资本主义的社会劳动力无偿再生产必须依靠男女的结合，大规模引进外国人又会造成社会剧烈抗议，所以资本绝对不会也不敢主动在性别矛盾上开刀 https://t.co/AWJQbzxBm0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2091933880081346684",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 882,
+          "like_count": 14439,
+          "listed_count": 2,
+          "media_count": 524,
+          "tweet_count": 4386
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-28T06:16:39.000Z",
+        "description": "马列主义｜反修｜友跨｜反苏马｜毛泽东思想📕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com",
+                "end": 23,
+                "expanded_url": "https://www.github.com",
+                "start": 0,
+                "url": "https://t.co/PQ89XIpt0B"
+              }
+            ]
+          }
+        },
+        "id": "1607983811618373633",
+        "is_identity_verified": true,
+        "location": "幻想乡",
+        "most_recent_tweet_id": "2091925763788616024",
+        "name": "比比里阿西卡☭",
+        "pinned_tweet_id": "2084310127700853101",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1607983811618373633/1784446863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078748999524499456/RgjPKm63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 100,
+          "like_count": 908,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/PQ89XIpt0B",
+        "username": "wangye7723",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2088058071838810375",
+    "created_at": "2026-08-15T07:11:38.000Z",
+    "display_text_range": [
+      16,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T08:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088523995956326538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060632417153503234",
+          "start": 0,
+          "username": "AsahinaShikure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088523995956326538",
+    "in_reply_to_user_id": "2060632417153503234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088058071838810375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsahinaShikure 這就是中國👍🏻👍🏻👍🏻🌹🌹🌹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 398,
+        "media_key": "3_2088058060753244160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpFvkWWkAA7uYj.jpg",
+        "width": 424
+      },
+      {
+        "height": 398,
+        "media_key": "3_2088058060757463040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpFvkXW8AAclis.jpg",
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2088058071838810375",
+        "created_at": "2026-08-15T07:11:38.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088523995956326538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060632417153503234",
+              "start": 0,
+              "username": "AsahinaShikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088523995956326538",
+        "in_reply_to_user_id": "2060632417153503234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088058071838810375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsahinaShikure 這就是中國👍🏻👍🏻👍🏻🌹🌹🌹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088058060753244160",
+            "3_2088058060757463040"
+          ]
+        },
+        "author_id": "2060632417153503234",
+        "conversation_id": "2088058071838810375",
+        "created_at": "2026-08-14T00:20:13.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T01:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088058071838810375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B6v4hSAEqk",
+              "end": 56,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2088058071838810375/photo/1",
+              "media_key": "3_2088058060753244160",
+              "start": 33,
+              "url": "https://t.co/B6v4hSAEqk"
+            },
+            {
+              "display_url": "pic.x.com/B6v4hSAEqk",
+              "end": 56,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2088058071838810375/photo/1",
+              "media_key": "3_2088058060757463040",
+              "start": 33,
+              "url": "https://t.co/B6v4hSAEqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088058071838810375",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088058060753244160"
+          },
+          {
+            "media_key": "3_2088058060757463040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 10550,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "一种文字，两个世界。\nOne word, two worlds. https://t.co/B6v4hSAEqk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2088523995956326538",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 888,
+          "like_count": 14064,
+          "listed_count": 2,
+          "media_count": 507,
+          "tweet_count": 4238
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T08:01:21.000Z",
+        "description": "She/Her 🇸🇬|中三学生|14岁|MtF🏳️‍⚧️|尚未HRT🍥| 世界计划|朝比奈まふゆ激推|语言🇹🇼🇨🇳🇺🇸🇯🇵🇫🇷🌏 |格里芬联邦共和国总统| 中国民主党人 |社会自由主义 |行政院长：@L2e_dawndream |好朋友：@Liuyue_626 |联邦政府X：@urggov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 99,
+                "username": "L2e_dawndream"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Liuyue_626"
+              },
+              {
+                "end": 145,
+                "start": 138,
+                "username": "urggov"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/rErgygNg5a",
+                "end": 23,
+                "expanded_url": "https://discord.gg/rErgygNg5a",
+                "start": 0,
+                "url": "https://t.co/eZ2qUeHDSb"
+              }
+            ]
+          }
+        },
+        "id": "2060632417153503234",
+        "is_identity_verified": false,
+        "location": "Central Region, Singapore🇸🇬",
+        "most_recent_tweet_id": "2088491422366265513",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "pinned_tweet_id": "2086626578323099825",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060632417153503234/1783224715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060634013363306496/Hl6bmtdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 1423,
+          "like_count": 4877,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 687
+        },
+        "url": "https://t.co/eZ2qUeHDSb",
+        "username": "AsahinaShikure",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

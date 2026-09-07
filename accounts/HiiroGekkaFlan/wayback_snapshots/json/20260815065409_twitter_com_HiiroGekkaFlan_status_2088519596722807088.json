@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2087827046156452205",
+    "created_at": "2026-08-15T06:54:09.000Z",
+    "display_text_range": [
+      29,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T07:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088519596722807088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1898515519730552832",
+          "start": 0,
+          "username": "kawamura8375"
+        },
+        {
+          "end": 28,
+          "id": "1344604726650920960",
+          "start": 14,
+          "username": "Liuran_yanagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088519596722807088",
+    "in_reply_to_user_id": "1898515519730552832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087929201584476246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawamura8375 @Liuran_yanagi 我受不了了，我当串子这么久不如灵机一动的😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2087827046156452205",
+        "created_at": "2026-08-15T06:54:09.000Z",
+        "display_text_range": [
+          29,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088519596722807088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1898515519730552832",
+              "start": 0,
+              "username": "kawamura8375"
+            },
+            {
+              "end": 28,
+              "id": "1344604726650920960",
+              "start": 14,
+              "username": "Liuran_yanagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088519596722807088",
+        "in_reply_to_user_id": "1898515519730552832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087929201584476246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawamura8375 @Liuran_yanagi 我受不了了，我当串子这么久不如灵机一动的😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898515519730552832",
+        "conversation_id": "2087827046156452205",
+        "created_at": "2026-08-13T15:48:08.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087929201584476246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1344604726650920960",
+              "start": 0,
+              "username": "Liuran_yanagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087929201584476246",
+        "in_reply_to_user_id": "1344604726650920960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2789,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087827664942092755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liuran_yanagi 初恋姓邓？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2088519596722807088",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 888,
+          "like_count": 14049,
+          "listed_count": 2,
+          "media_count": 507,
+          "tweet_count": 4227
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-08T23:26:01.000Z",
+        "description": "即使杀掉所有公鸡，太阳依然会升起；\n即使封掉所有账号，光明依然会来到。",
+        "id": "1898515519730552832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088489715871936718",
+        "name": "徳島里夏（旧姓:川村)",
+        "pinned_tweet_id": "2083414268721172761",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898515519730552832/1768302161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011031130938753026/h7fzdurG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 135,
+          "like_count": 1936,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 5438
+        },
+        "url": "",
+        "username": "kawamura8375",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-31T11:23:01.000Z",
+        "description": "我与我周旋久，宁做我。",
+        "id": "1344604726650920960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088160398046646427",
+        "name": "柳染/Yanagi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344604726650920960/1766954149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998727103140016128/BZmTUGns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 3415,
+          "like_count": 3292,
+          "listed_count": 15,
+          "media_count": 390,
+          "tweet_count": 1252
+        },
+        "url": "",
+        "username": "Liuran_yanagi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

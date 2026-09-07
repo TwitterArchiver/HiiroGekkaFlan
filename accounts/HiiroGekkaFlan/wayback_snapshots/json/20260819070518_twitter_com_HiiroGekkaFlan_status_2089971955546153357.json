@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2089898417581347311",
+    "created_at": "2026-08-19T07:05:18.000Z",
+    "display_text_range": [
+      16,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089971955546153357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060632417153503234",
+          "start": 0,
+          "username": "AsahinaShikure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089971955546153357",
+    "in_reply_to_user_id": "2060632417153503234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089898417581347311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsahinaShikure 因为叠甲，这样无法选中了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2089898417581347311",
+        "created_at": "2026-08-19T07:05:18.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089971955546153357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060632417153503234",
+              "start": 0,
+              "username": "AsahinaShikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089971955546153357",
+        "in_reply_to_user_id": "2060632417153503234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089898417581347311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsahinaShikure 因为叠甲，这样无法选中了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060632417153503234",
+        "conversation_id": "2089898417581347311",
+        "created_at": "2026-08-19T02:13:05.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T03:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089898417581347311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2089717703540154545",
+              "start": 71,
+              "url": "https://t.co/C0x4VV5x3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089898417581347311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 610,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089717703540154545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么要唱中华人民共和国国歌？\nWhy did they sing the national anthem of the PR China? https://t.co/C0x4VV5x3d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2089971955546153357",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 878,
+          "like_count": 14232,
+          "listed_count": 2,
+          "media_count": 516,
+          "tweet_count": 4316
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T08:01:21.000Z",
+        "description": "She/Her 🇸🇬| 中三学生| 14岁| MtF|尚未HRT| 世界计划|朝比奈まふゆ激推| 社会自由主义|语言🇺🇸🇨🇳🇯🇵🇫🇷|格里芬联邦共和国总统|行政院长：@L2e_dawndream |好朋友：@Liuyue_626| 联邦政府X：@urggov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "L2e_dawndream"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "Liuyue_626"
+              },
+              {
+                "end": 129,
+                "start": 122,
+                "username": "urggov"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/rErgygNg5a",
+                "end": 23,
+                "expanded_url": "https://discord.gg/rErgygNg5a",
+                "start": 0,
+                "url": "https://t.co/eZ2qUeHDSb"
+              }
+            ]
+          }
+        },
+        "id": "2060632417153503234",
+        "is_identity_verified": false,
+        "location": "Central Region, Singapore🇸🇬",
+        "most_recent_tweet_id": "2089917938035802116",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "pinned_tweet_id": "2086626578323099825",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060632417153503234/1783224715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060634013363306496/Hl6bmtdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 1447,
+          "like_count": 5132,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/eZ2qUeHDSb",
+        "username": "AsahinaShikure",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2096185571882225896",
+    "created_at": "2026-09-06T08:20:29.000Z",
+    "display_text_range": [
+      21,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T09:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096513858823471403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2059582549614321664",
+          "start": 0,
+          "username": "l0a7t5"
+        },
+        {
+          "end": 20,
+          "id": "996556236404346880",
+          "start": 8,
+          "username": "crypto_daha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096513858823471403",
+    "in_reply_to_user_id": "2059582549614321664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096283131259257285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l0a7t5 @crypto_daha 握握手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2096185571882225896",
+        "created_at": "2026-09-06T08:20:29.000Z",
+        "display_text_range": [
+          21,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096513858823471403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2059582549614321664",
+              "start": 0,
+              "username": "l0a7t5"
+            },
+            {
+              "end": 20,
+              "id": "996556236404346880",
+              "start": 8,
+              "username": "crypto_daha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096513858823471403",
+        "in_reply_to_user_id": "2059582549614321664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096283131259257285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l0a7t5 @crypto_daha 握握手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059582549614321664",
+        "conversation_id": "2096185571882225896",
+        "created_at": "2026-09-05T17:03:40.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096283131259257285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "996556236404346880",
+              "start": 0,
+              "username": "crypto_daha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096283131259257285",
+        "in_reply_to_user_id": "996556236404346880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5406,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096185571882225896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crypto_daha 我一般叫它们支那猪"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2096513858823471403",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 879,
+          "like_count": 15021,
+          "listed_count": 2,
+          "media_count": 548,
+          "tweet_count": 4670
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T10:37:33.000Z",
+        "description": "支那猪尽早把我封锁，不然把你们猪眼看瞎了咋办😌",
+        "id": "2059582549614321664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096480181515149726",
+        "name": "只包",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059582549614321664/1788622687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096256936375373824/Y6iFYzj6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 323,
+          "like_count": 518,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "l0a7t5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-05-16T01:01:36.000Z",
+        "description": "哈哈哥 | 分享有趣人生、历史趣闻、生活meme、实用干货 | 每天一笑一悟",
+        "id": "996556236404346880",
+        "is_identity_verified": false,
+        "location": "宇宙",
+        "most_recent_tweet_id": "2096512224227393823",
+        "name": "哈哈哥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/996556236404346880/1701871937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996826608326660102/Mnc9uuzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32973,
+          "following_count": 7445,
+          "like_count": 7831,
+          "listed_count": 205,
+          "media_count": 1582,
+          "tweet_count": 10451
+        },
+        "url": "",
+        "username": "crypto_daha",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

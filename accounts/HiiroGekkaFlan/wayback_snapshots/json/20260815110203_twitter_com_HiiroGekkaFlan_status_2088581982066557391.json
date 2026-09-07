@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2088543718068699304",
+    "created_at": "2026-08-15T11:02:03.000Z",
+    "display_text_range": [
+      43,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T12:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088581982066557391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066805286015569920",
+          "start": 0,
+          "username": "Cybersheep168"
+        },
+        {
+          "end": 26,
+          "id": "1572313430161498112",
+          "start": 15,
+          "username": "yizhhf2006"
+        },
+        {
+          "end": 42,
+          "id": "1260553941714186241",
+          "start": 27,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088581982066557391",
+    "in_reply_to_user_id": "2066805286015569920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088567006727655494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cybersheep168 @yizhhf2006 @whyyoutouzhele 其實只有中華民國（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2088566998871789568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwUnqlbUAA4Al1.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2088543718068699304",
+        "created_at": "2026-08-15T11:02:03.000Z",
+        "display_text_range": [
+          43,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088581982066557391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066805286015569920",
+              "start": 0,
+              "username": "Cybersheep168"
+            },
+            {
+              "end": 26,
+              "id": "1572313430161498112",
+              "start": 15,
+              "username": "yizhhf2006"
+            },
+            {
+              "end": 42,
+              "id": "1260553941714186241",
+              "start": 27,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088581982066557391",
+        "in_reply_to_user_id": "2066805286015569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088567006727655494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cybersheep168 @yizhhf2006 @whyyoutouzhele 其實只有中華民國（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088566998871789568"
+          ]
+        },
+        "author_id": "2066805286015569920",
+        "conversation_id": "2088543718068699304",
+        "created_at": "2026-08-15T10:02:32.000Z",
+        "display_text_range": [
+          27,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088567006727655494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1572313430161498112",
+              "start": 0,
+              "username": "yizhhf2006"
+            },
+            {
+              "end": 27,
+              "id": "1260553941714186241",
+              "start": 12,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sXzNeVcnV1",
+              "end": 51,
+              "expanded_url": "https://x.com/Cybersheep168/status/2088567006727655494/photo/1",
+              "media_key": "3_2088566998871789568",
+              "start": 28,
+              "url": "https://t.co/sXzNeVcnV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088567006727655494",
+        "in_reply_to_user_id": "1572313430161498112",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088566998871789568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 385,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088544907149578649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yizhhf2006 @whyyoutouzhele https://t.co/sXzNeVcnV1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2088581982066557391",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 887,
+          "like_count": 14083,
+          "listed_count": 2,
+          "media_count": 507,
+          "tweet_count": 4246
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-16T08:51:41.000Z",
+        "description": "婆娑之洋！美麗之島！我先王先民之景命，實式憑之。\n\n哪裡有自由，哪裡就是祖國！",
+        "id": "2066805286015569920",
+        "is_identity_verified": false,
+        "location": "臺灣國高雄市",
+        "most_recent_tweet_id": "2088580108156375243",
+        "name": "Joseph Hsu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066805286015569920/1784890567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069157618078351360/ZDdUmmNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 139,
+          "like_count": 3722,
+          "listed_count": 6,
+          "media_count": 1799,
+          "tweet_count": 1887
+        },
+        "url": "",
+        "username": "Cybersheep168",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-20T19:55:29.000Z",
+        "description": "📍 Graphic Designer • Freelance Game & Music Design\n🎮 Heavy gamer, music enthusiast, & ACG fan.\n✍️ Sci-fi & art lover. Outdoors not supported.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suno.com/@nokioala",
+                "end": 23,
+                "expanded_url": "http://suno.com/@nokioala",
+                "start": 0,
+                "url": "https://t.co/von8sqpYjm"
+              }
+            ]
+          }
+        },
+        "id": "1572313430161498112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088549434183631213",
+        "name": "Nokioala",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572313430161498112/1781597700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070465825740591104/zU8hfwSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 10,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 638
+        },
+        "url": "https://t.co/von8sqpYjm",
+        "username": "yizhhf2006",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2088581477059498162",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249772,
+          "following_count": 1080,
+          "like_count": 9936,
+          "listed_count": 8875,
+          "media_count": 52069,
+          "tweet_count": 59365
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

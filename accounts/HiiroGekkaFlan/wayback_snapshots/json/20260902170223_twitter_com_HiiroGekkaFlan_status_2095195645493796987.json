@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2094976103891001713",
+    "created_at": "2026-09-02T17:02:23.000Z",
+    "display_text_range": [
+      33,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T18:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095195645493796987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1840055966525726720",
+          "start": 0,
+          "username": "Jueshengshenlan"
+        },
+        {
+          "end": 32,
+          "id": "1260553941714186241",
+          "start": 17,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095195645493796987",
+    "in_reply_to_user_id": "1840055966525726720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094978556765868236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jueshengshenlan @whyyoutouzhele 唉一股味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2094976103891001713",
+        "created_at": "2026-09-02T17:02:23.000Z",
+        "display_text_range": [
+          33,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T18:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095195645493796987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1840055966525726720",
+              "start": 0,
+              "username": "Jueshengshenlan"
+            },
+            {
+              "end": 32,
+              "id": "1260553941714186241",
+              "start": 17,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095195645493796987",
+        "in_reply_to_user_id": "1840055966525726720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094978556765868236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jueshengshenlan @whyyoutouzhele 唉一股味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840055966525726720",
+        "conversation_id": "2094976103891001713",
+        "created_at": "2026-09-02T02:39:45.000Z",
+        "display_text_range": [
+          16,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T03:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094978556765868236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094978556765868236",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3872,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094976103891001713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 这有什么问题？\n台湾人说普通话说的好的多了去了。\n我就是台湾人。\n现在只要我愿意，听不出一点台湾腔。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2095195645493796987",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 877,
+          "like_count": 14884,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 4594
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-28T15:48:30.000Z",
+        "description": "红色的旗帜，一定会在全球飘扬！",
+        "id": "1840055966525726720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095182903164494151",
+        "name": "链条",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840055966525726720/1774234573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035913469111975936/xKiAiVSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8612,
+          "following_count": 5380,
+          "like_count": 199476,
+          "listed_count": 105,
+          "media_count": 1396,
+          "tweet_count": 24711
+        },
+        "url": "",
+        "username": "Jueshengshenlan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2095195045708128634",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2260297,
+          "following_count": 1083,
+          "like_count": 10409,
+          "listed_count": 8892,
+          "media_count": 53151,
+          "tweet_count": 60476
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

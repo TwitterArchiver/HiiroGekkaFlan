@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2089402461555741155",
+    "created_at": "2026-08-18T11:34:58.000Z",
+    "display_text_range": [
+      12,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T12:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089677432270066056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1794266757995343872",
+          "start": 0,
+          "username": "miyuki_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089677432270066056",
+    "in_reply_to_user_id": "1794266757995343872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089402461555741155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyuki_114 哦牛逼，这下游也得游到金门了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2089402461555741155",
+        "created_at": "2026-08-18T11:34:58.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089677432270066056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794266757995343872",
+              "start": 0,
+              "username": "miyuki_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089677432270066056",
+        "in_reply_to_user_id": "1794266757995343872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089402461555741155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyuki_114 哦牛逼，这下游也得游到金门了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794266757995343872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2089402461555741155",
+        "created_at": "2026-08-17T17:22:20.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089402461555741155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QinYueLe/statu…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/QinYueLe/status/2089044761176940678",
+              "start": 96,
+              "url": "https://t.co/dDG9eu1nlC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089402461555741155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3601,
+          "like_count": 84,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089044761176940678",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "民主后的中国政府：\n总统：李老八\n行政院长：孙笑川\n行政院副院长：张顺飞\n外交部长：仰山杨爱民\n国防部长：古德莉莉安\n财政部长：杨帆\n内政部长：张云杰\n卫生福利部长：曲婉婷\n教育部长：傅亮亮 https://t.co/dDG9eu1nlC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2089677432270066056",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 883,
+          "like_count": 14183,
+          "listed_count": 2,
+          "media_count": 513,
+          "tweet_count": 4291
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-05-25T07:18:54.000Z",
+        "description": "يا أبناء القسام اضربوا صواريخكم على تل أبيب",
+        "id": "1794266757995343872",
+        "is_identity_verified": false,
+        "location": "南罗马帝国阿拔斯王朝",
+        "most_recent_tweet_id": "2089677032368251226",
+        "name": "川和法团美雪",
+        "pinned_tweet_id": "2084225850334183431",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794266757995343872/1786785838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089344912009613312/C6yDIFM9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 1720,
+          "like_count": 330508,
+          "listed_count": 2,
+          "media_count": 2949,
+          "tweet_count": 62233
+        },
+        "url": "",
+        "username": "miyuki_114",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2094516658601910675",
+    "created_at": "2026-09-01T16:07:29.000Z",
+    "display_text_range": [
+      16,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T17:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094819440391332265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1495733849271455748",
+          "start": 0,
+          "username": "J_Lingshan0909"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094819440391332265",
+    "in_reply_to_user_id": "1495733849271455748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094516658601910675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@J_Lingshan0909 谈论这个不如谈论明天吃什么😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 148184,
+        "height": 868,
+        "media_key": "13_2094515796936704000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094515796936704000/img/JRq_Y1JW6B-RfCfd.jpg",
+        "public_metrics": {
+          "view_count": 32724
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094515796936704000/pl/m0hukagXJ9Od4hTa.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094515796936704000/vid/avc1/596x270/F6XmVw9cvVoESTom.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094515796936704000/vid/avc1/1920x868/VAuR48NaVxSnJbGk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094515796936704000/vid/avc1/796x360/ew8MY6TNRJwhJhlE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094515796936704000/vid/avc1/1592x720/WtUkS7TQmDKq74Es.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2094516658601910675",
+        "created_at": "2026-09-01T16:07:29.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T17:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094819440391332265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1495733849271455748",
+              "start": 0,
+              "username": "J_Lingshan0909"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094819440391332265",
+        "in_reply_to_user_id": "1495733849271455748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094516658601910675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@J_Lingshan0909 谈论这个不如谈论明天吃什么😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094515796936704000"
+          ]
+        },
+        "author_id": "1495733849271455748",
+        "conversation_id": "2094516658601910675",
+        "created_at": "2026-08-31T20:04:20.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T21:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094516658601910675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nd33hHWTsO",
+              "end": 143,
+              "expanded_url": "https://x.com/J_Lingshan0909/status/2094516658601910675/video/1",
+              "media_key": "13_2094515796936704000",
+              "start": 120,
+              "url": "https://t.co/Nd33hHWTsO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094516658601910675",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094515796936704000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Bilibili up主 即兴演奏家 日本讽刺系列第四弹《安心安全》，现已正式放送。\n\n鉴于面对作者愈发直球的讽刺，不少日本人仍然沉迷于精神胜利，一厢情愿地咬死作者是在指桑骂槐讽刺中国，作者不得不制作了第四集《安心安全》，以再度表明本心。\n\n当然，我相信仍然会有日本人固执地认为作者仍然是在指桑骂槐、影射中国，但这完全没关系，因为这些日本人的鸵鸟行为已然成为了作者的创作灵感源泉——也许我们很快能在未来的第五集里，看到对这种鸵鸟行为和精神胜利法的讽刺。\n\n为了方便大家能对号入座找到视频中每一个片段对应的现实原型事件，现特地附上B友的考据一份，详情如下："
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 49883,
+          "like_count": 414,
+          "quote_count": 8,
+          "reply_count": 45,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "Bilibili up主 即兴演奏家 日本讽刺系列第四弹《安心安全》，现已正式放送。\n\n鉴于面对作者愈发直球的讽刺，不少日本人仍然沉迷于精神胜利，一厢情愿地咬死作者是在指桑骂槐讽刺中国，作者不得不制作了第四集《安心安全》，以再度表明本心。 https://t.co/Nd33hHWTsO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2094819440391332265",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 877,
+          "like_count": 14855,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 4554
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T12:15:27.000Z",
+        "description": "网络世界太精彩辣！\n关注 AI | 时政 | 历史 等领域议题\n目前正在专注的事情是爱倭TV😋",
+        "id": "1495733849271455748",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094814468660429084",
+        "name": "江林山",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770882667187458048/9RJqmA3V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 640,
+          "like_count": 11865,
+          "listed_count": 4,
+          "media_count": 29,
+          "tweet_count": 1054
+        },
+        "url": "",
+        "username": "J_Lingshan0909",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

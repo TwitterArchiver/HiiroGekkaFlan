@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2095181549042065444",
+    "created_at": "2026-09-02T16:34:33.000Z",
+    "display_text_range": [
+      11,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T17:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095188643342348579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1547081573962375170",
+          "start": 0,
+          "username": "mykfc6657"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095188643342348579",
+    "in_reply_to_user_id": "1547081573962375170",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095181549042065444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mykfc6657 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2095181549042065444",
+        "created_at": "2026-09-02T16:34:33.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095188643342348579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1547081573962375170",
+              "start": 0,
+              "username": "mykfc6657"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095188643342348579",
+        "in_reply_to_user_id": "1547081573962375170",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095181549042065444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mykfc6657 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547081573962375170",
+        "conversation_id": "2095181549042065444",
+        "created_at": "2026-09-02T16:06:22.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095181549042065444"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095181549042065444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候，小区的广场上有个秋千，平常想玩要排好久的队。于是我每次雨天来荡。小时候的我握着雨水浸透的铁链，像是握住了世界似的快乐。虽然回家不免要被一顿骂，但是我仍乐此不疲。\n接着，疫情来了，等解封想要再荡的时候，那里只剩一个浅浅的坑。\n等上次再去，坑也长满了深浅的草，像是埋着我的童年。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2095188643342348579",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 877,
+          "like_count": 14879,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 4586
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-13T04:52:58.000Z",
+        "description": "你说得对，但是我是一只珠颈斑鸠。\n非常非常非常欢迎互fo或私信我\n天蝎 06 enfp\\infp 是男生！\n个人网站👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "222-803.pages.dev",
+                "end": 23,
+                "expanded_url": "https://222-803.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/XghSZrismn"
+              }
+            ]
+          }
+        },
+        "id": "1547081573962375170",
+        "is_identity_verified": false,
+        "location": "冥府",
+        "most_recent_tweet_id": "2095181549042065444",
+        "name": "珠颈斑鸠",
+        "pinned_tweet_id": "2086347325887381720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547081573962375170/1780835278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088167671196229632/1-KzKltk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 347,
+          "like_count": 2129,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 840
+        },
+        "url": "https://t.co/XghSZrismn",
+        "username": "mykfc6657",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

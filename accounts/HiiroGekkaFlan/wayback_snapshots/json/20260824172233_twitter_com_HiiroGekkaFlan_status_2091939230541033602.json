@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2091852506930217069",
+    "created_at": "2026-08-24T17:22:33.000Z",
+    "display_text_range": [
+      25,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T18:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091939230541033602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1387085085346721794",
+          "start": 0,
+          "username": "zhnoluuo1235"
+        },
+        {
+          "end": 24,
+          "id": "1366815733657841669",
+          "start": 14,
+          "username": "kartasuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091939230541033602",
+    "in_reply_to_user_id": "1387085085346721794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091880537157943437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhnoluuo1235 @kartasuna 理想是理想\n现实是现实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2091852506930217069",
+        "created_at": "2026-08-24T17:22:33.000Z",
+        "display_text_range": [
+          25,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091939230541033602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1387085085346721794",
+              "start": 0,
+              "username": "zhnoluuo1235"
+            },
+            {
+              "end": 24,
+              "id": "1366815733657841669",
+              "start": 14,
+              "username": "kartasuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091939230541033602",
+        "in_reply_to_user_id": "1387085085346721794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091880537157943437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhnoluuo1235 @kartasuna 理想是理想\n现实是现实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1387085085346721794",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2091852506930217069",
+        "created_at": "2026-08-24T13:29:19.000Z",
+        "display_text_range": [
+          11,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091880537157943437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1366815733657841669",
+              "start": 0,
+              "username": "kartasuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091880537157943437",
+        "in_reply_to_user_id": "1366815733657841669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2546,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091852506930217069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kartasuna 邓小平摧毁了整个社会主义中国，他对中国的伤害比任何人都大，不仅改变了人民民主专政的社会主义体制，他和他的家族还带头贪污导致了整个中国政坛此后20年的贪污风潮，直到习近平大力打击才有所收敛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2091939230541033602",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 882,
+          "like_count": 14457,
+          "listed_count": 2,
+          "media_count": 524,
+          "tweet_count": 4395
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-27T16:44:03.000Z",
+        "description": "",
+        "id": "1387085085346721794",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091892086920606101",
+        "name": "苏汐",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1454828086768594944/TRnvtM_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 409,
+          "like_count": 5909,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 883
+        },
+        "url": "",
+        "username": "zhnoluuo1235",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-02T18:20:48.000Z",
+        "description": "Cuenta de Twitter del canal de YouTube La Kartasuna. (@Kartasuna)\nDedicada a la educación política y difusión de la ideología del proletariado internacional.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "Kartasuna"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCKdpv…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCKdpvseafvyFCHjOt_4KXZg/sub_confirmation%3D1",
+                "start": 0,
+                "url": "https://t.co/6U3OG8KOoG"
+              }
+            ]
+          }
+        },
+        "id": "1366815733657841669",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091852506930217069",
+        "name": "𝓛𝓪 𝓚𝓪𝓻𝓽𝓪𝓼𝓾𝓷𝓪📕",
+        "pinned_tweet_id": "1826597185682583937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1366815733657841669/1727949518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572196522678157317/6oJYKO0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4358,
+          "following_count": 53,
+          "like_count": 4946,
+          "listed_count": 20,
+          "media_count": 1861,
+          "tweet_count": 5152
+        },
+        "url": "https://t.co/6U3OG8KOoG",
+        "username": "kartasuna",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

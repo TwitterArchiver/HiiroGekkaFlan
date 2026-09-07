@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2094978638483759225",
+    "created_at": "2026-09-02T19:29:57.000Z",
+    "display_text_range": [
+      26,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T20:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095232780854776066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1969482650084917248",
+          "start": 0,
+          "username": "bodown350937"
+        },
+        {
+          "end": 25,
+          "id": "1509784741285105665",
+          "start": 14,
+          "username": "wangli0001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095232780854776066",
+    "in_reply_to_user_id": "1969482650084917248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095218251957670068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bodown350937 @wangli0001 现实很骨感，唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2094978638483759225",
+        "created_at": "2026-09-02T19:29:57.000Z",
+        "display_text_range": [
+          26,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T20:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095232780854776066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1969482650084917248",
+              "start": 0,
+              "username": "bodown350937"
+            },
+            {
+              "end": 25,
+              "id": "1509784741285105665",
+              "start": 14,
+              "username": "wangli0001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095232780854776066",
+        "in_reply_to_user_id": "1969482650084917248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095218251957670068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bodown350937 @wangli0001 现实很骨感，唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969482650084917248",
+        "conversation_id": "2094978638483759225",
+        "created_at": "2026-09-02T18:32:13.000Z",
+        "display_text_range": [
+          12,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T19:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095218251957670068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1509784741285105665",
+              "start": 0,
+              "username": "wangli0001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095218251957670068",
+        "in_reply_to_user_id": "1509784741285105665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094978638483759225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangli0001 不得不说，这个 BGM 我真的特别讨厌啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2095232780854776066",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 877,
+          "like_count": 14911,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 4609
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-20T19:23:59.000Z",
+        "description": "",
+        "id": "1969482650084917248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095218574537465925",
+        "name": "百舸莫争流",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969483103174606850/hPuUyAC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 31,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "bodown350937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-01T06:48:34.000Z",
+        "description": "新疆と新潟など多くの都市で生活したことがある中国人\n多くの日本の友達が新疆のことに関心があるので、アカウントを作りました。新疆のことを伝えたい\n事実を見たくない人は事実に怖がっているのでしょうか",
+        "id": "1509784741285105665",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095107008609526179",
+        "name": "王麗です",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1509784741285105665/1671100080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612738754862809089/_ND5R13w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7688,
+          "following_count": 5852,
+          "like_count": 2211,
+          "listed_count": 51,
+          "media_count": 2908,
+          "tweet_count": 3729
+        },
+        "url": "",
+        "username": "wangli0001",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
