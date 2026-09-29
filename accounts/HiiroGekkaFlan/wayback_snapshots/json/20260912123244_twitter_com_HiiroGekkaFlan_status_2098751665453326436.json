@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2098622827960438960",
+    "created_at": "2026-09-12T12:32:44.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T13:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098751665453326436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1947544662123941889",
+          "start": 0,
+          "username": "Chlinthans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098751665453326436",
+    "in_reply_to_user_id": "1947544662123941889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098635707715620964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chlinthans 真美呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2018,
+        "media_key": "3_2098635680872091650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_aCF9XUAIBco8.jpg",
+        "width": 1407
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2098622827960438960",
+        "created_at": "2026-09-12T12:32:44.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098751665453326436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1947544662123941889",
+              "start": 0,
+              "username": "Chlinthans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098751665453326436",
+        "in_reply_to_user_id": "1947544662123941889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098635707715620964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chlinthans 真美呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098635680872091650"
+          ]
+        },
+        "author_id": "1947544662123941889",
+        "conversation_id": "2098622827960438960",
+        "created_at": "2026-09-12T04:51:58.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098635707715620964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KFfXxQufIq",
+              "end": 42,
+              "expanded_url": "https://x.com/Chlinthans/status/2098635707715620964/photo/1",
+              "media_key": "3_2098635680872091650",
+              "start": 19,
+              "url": "https://t.co/KFfXxQufIq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098635707715620964",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098635680872091650"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098622827960438960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 請看 https://t.co/KFfXxQufIq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2098751665453326436",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 887,
+          "like_count": 15196,
+          "listed_count": 2,
+          "media_count": 559,
+          "tweet_count": 4781
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-22T06:30:12.000Z",
+        "description": "25，建築設計學碩士🇨🇳在讀，是個在設計公司工作的社會人。養了兩隻貓，對AI感興趣，正在為畢業設計發愁。輕度建政在學外語。靠自己攢夠20萬元后辭職去旅游",
+        "id": "1947544662123941889",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2098715288913006851",
+        "name": "Tenkou Kei",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1947544662123941889/1786694672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044602953105842176/L0lH2d-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 56,
+          "like_count": 4123,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1649
+        },
+        "url": "",
+        "username": "Chlinthans",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

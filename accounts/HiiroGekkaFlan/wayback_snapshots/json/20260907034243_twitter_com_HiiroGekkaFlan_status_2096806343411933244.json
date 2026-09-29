@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2096734766355853423",
+    "created_at": "2026-09-07T03:42:43.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T04:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096806343411933244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1810704701744435200",
+          "start": 0,
+          "username": "worlds_end_fumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096806343411933244",
+    "in_reply_to_user_id": "1810704701744435200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096734766355853423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@worlds_end_fumo 有了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2096734766355853423",
+        "created_at": "2026-09-07T03:42:43.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096806343411933244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1810704701744435200",
+              "start": 0,
+              "username": "worlds_end_fumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096806343411933244",
+        "in_reply_to_user_id": "1810704701744435200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096734766355853423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@worlds_end_fumo 有了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810704701744435200",
+        "conversation_id": "2096734766355853423",
+        "created_at": "2026-09-06T22:58:18.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096734766355853423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096734766355853423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1809,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "开智前：哈哈，舍曲林od起来真好玩😋\n开智中：我OD，是因为我承受了太多不应承受的痛苦，所以我需要OD来麻痹、逃避，以及惩罚自己。有些时候我真的没有力气再清醒地面对那些事情了。我不是真的想死，我只是想暂时什么都感觉不到，不用思考，不用回忆。\n开智后：哈哈，右美沙芬od起来真好玩😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2096806343411933244",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 878,
+          "like_count": 15027,
+          "listed_count": 2,
+          "media_count": 548,
+          "tweet_count": 4675
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-09T15:57:11.000Z",
+        "description": "第二次转生/🎈批发 /可代购任何能力以内的东西 /梗图都是自己做的！\n联系https://t.co/Ve4lzmqf76\n原号\n@popcat1234566\n\n3.25/一支 12邮 9g\n互关寻回！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "popcat1234566"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/opodoge",
+                "end": 60,
+                "expanded_url": "http://t.me/opodoge",
+                "start": 37,
+                "url": "https://t.co/Ve4lzmqf76"
+              }
+            ]
+          }
+        },
+        "id": "1810704701744435200",
+        "is_identity_verified": false,
+        "location": "fumo island",
+        "most_recent_tweet_id": "2096734766355853423",
+        "name": "popcat1234566",
+        "pinned_tweet_id": "2063607798639030523",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608187446812672/qwIQh47u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 352,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "worlds_end_fumo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

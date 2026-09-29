@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2098024369377443920",
+    "created_at": "2026-09-10T13:34:40.000Z",
+    "display_text_range": [
+      13,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T14:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098042474258165817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048693394226974720",
+          "start": 0,
+          "username": "CCA8798suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098042474258165817",
+    "in_reply_to_user_id": "2048693394226974720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098024369377443920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCA8798suki 盐酸特比萘芬片吗，这个药我听说副作用之一就是会有抑郁（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2098024344584867840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2uBo0aUAAVgPu.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2098024369377443920",
+        "created_at": "2026-09-10T13:34:40.000Z",
+        "display_text_range": [
+          13,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098042474258165817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098042474258165817",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098024369377443920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 盐酸特比萘芬片吗，这个药我听说副作用之一就是会有抑郁（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098024344584867840"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "conversation_id": "2098024369377443920",
+        "created_at": "2026-09-10T12:22:43.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098024369377443920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nweGXrSbE6",
+              "end": 109,
+              "expanded_url": "https://x.com/CCA8798suki/status/2098024369377443920/photo/1",
+              "media_key": "3_2098024344584867840",
+              "start": 86,
+              "url": "https://t.co/nweGXrSbE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098024369377443920",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098024344584867840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 841,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "？？？医生给我开的治疗灰指甲的药是CYP2D6抑制剂😱\n也就是说我吃这个能增加所有经过细胞色素P450-CYP2D6酶代谢的药物的血药浓度(如DXM,SSRIs等)😱😱😱 https://t.co/nweGXrSbE6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2098042474258165817",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 882,
+          "like_count": 15071,
+          "listed_count": 2,
+          "media_count": 553,
+          "tweet_count": 4735
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "is_identity_verified": false,
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "most_recent_tweet_id": "2098024369377443920",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048693394226974720/1777281811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 1569,
+          "like_count": 12121,
+          "listed_count": 5,
+          "media_count": 156,
+          "tweet_count": 1428
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

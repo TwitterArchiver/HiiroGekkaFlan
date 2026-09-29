@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2098966412727607427",
+    "created_at": "2026-09-14T07:07:48.000Z",
+    "display_text_range": [
+      42,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T08:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099394666521342277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1106852624438042625",
+          "start": 0,
+          "username": "wbn19971"
+        },
+        {
+          "end": 24,
+          "id": "2003076650846781440",
+          "start": 10,
+          "username": "jwhwhwhw49582"
+        },
+        {
+          "end": 41,
+          "id": "2089506719747674112",
+          "start": 25,
+          "username": "ikunlove666ikun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099394666521342277",
+    "in_reply_to_user_id": "1106852624438042625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099023856124281060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbn19971 @jwhwhwhw49582 @ikunlove666ikun 最中幻想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2098966412727607427",
+        "created_at": "2026-09-14T07:07:48.000Z",
+        "display_text_range": [
+          42,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T08:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099394666521342277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1106852624438042625",
+              "start": 0,
+              "username": "wbn19971"
+            },
+            {
+              "end": 24,
+              "id": "2003076650846781440",
+              "start": 10,
+              "username": "jwhwhwhw49582"
+            },
+            {
+              "end": 41,
+              "id": "2089506719747674112",
+              "start": 25,
+              "username": "ikunlove666ikun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099394666521342277",
+        "in_reply_to_user_id": "1106852624438042625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099023856124281060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbn19971 @jwhwhwhw49582 @ikunlove666ikun 最中幻想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1106852624438042625",
+        "conversation_id": "2098966412727607427",
+        "created_at": "2026-09-13T06:34:19.000Z",
+        "display_text_range": [
+          32,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T07:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099023856124281060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2003076650846781440",
+              "start": 0,
+              "username": "jwhwhwhw49582"
+            },
+            {
+              "end": 31,
+              "id": "2089506719747674112",
+              "start": 15,
+              "username": "ikunlove666ikun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099023856124281060",
+        "in_reply_to_user_id": "2003076650846781440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3999,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099003702267015529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jwhwhwhw49582 @ikunlove666ikun 等到中国民主了，政府就会顺应民意：全面恢复计划经济，商品统一售价，员工统一工资，生产提前计划，恢复铁饭碗，大学生毕业包分配工作……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2099394666521342277",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 888,
+          "like_count": 15262,
+          "listed_count": 2,
+          "media_count": 564,
+          "tweet_count": 4810
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-16T09:40:04.000Z",
+        "description": "人群游荡于街头，像疯狗一样搜寻🔍攻击的目标，通过攻击目标展示正义感，表达对群体的忠心。",
+        "id": "1106852624438042625",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099393194681360712",
+        "name": "霜冰雪月",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1226788920072888320/t5z1d4O5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 185,
+          "like_count": 28990,
+          "listed_count": 29,
+          "media_count": 6177,
+          "tweet_count": 51740
+        },
+        "url": "",
+        "username": "wbn19971",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-22T12:14:33.000Z",
+        "description": "去有鱼的地方钓鱼",
+        "id": "2003076650846781440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099389756807479343",
+        "name": "are迪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2003076650846781440/1786849993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098345424348475392/XuUJWePg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 31,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "jwhwhwhw49582",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T00:36:16.000Z",
+        "description": "干中学，学中干，一起互关。",
+        "id": "2089506719747674112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099394379484205553",
+        "name": "张益达",
+        "pinned_tweet_id": "2098966412727607427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089506719747674112/1787059078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089703350527053824/w63kbHoW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2446,
+          "following_count": 2205,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1290
+        },
+        "url": "",
+        "username": "ikunlove666ikun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2096453040786292919",
+    "created_at": "2026-09-07T04:33:53.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T05:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096819217555497290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1058609497088782336",
+          "start": 0,
+          "username": "Signalman_Free"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096819217555497290",
+    "in_reply_to_user_id": "1058609497088782336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096453040786292919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Signalman_Free 传奇牢保"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2096453040786292919",
+        "created_at": "2026-09-07T04:33:53.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096819217555497290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1058609497088782336",
+              "start": 0,
+              "username": "Signalman_Free"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096819217555497290",
+        "in_reply_to_user_id": "1058609497088782336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096453040786292919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Signalman_Free 传奇牢保"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058609497088782336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2096453040786292919",
+        "created_at": "2026-09-06T04:18:49.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096453040786292919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096453040786292919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 10243,
+          "like_count": 216,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "现在看来川皇简直是中国人心中最完美的主席，内政上亲近底层却利好大资本，外交上态度强硬军队说出动就出动，对待外国移民就像对待一只虫子，对动保毫不手软重拳出击，对女权强调传统家庭，对俄罗斯朝鲜毫不掩饰欣赏，对日本韩国欧洲动不动就恶语相向，还敢用白宫官号玩地狱笑话，建议中美交换元首。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2096819217555497290",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 879,
+          "like_count": 15035,
+          "listed_count": 2,
+          "media_count": 549,
+          "tweet_count": 4686
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-11-03T06:39:06.000Z",
+        "description": "这个形态下的信号侠强化了能够自由操纵道路上所有信号灯颜色的能力。世界の調和と均衡を保つため、真なる力を世に示せ、モードチェンジ！真！フリーブレンドモード！",
+        "id": "1058609497088782336",
+        "is_identity_verified": false,
+        "location": "信号星",
+        "most_recent_tweet_id": "2096487595375276300",
+        "name": "信号侠-真-自由混合形态",
+        "pinned_tweet_id": "2082729492771131509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058609497088782336/1778144737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069310651168894976/ZF2pWJxi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 142,
+          "like_count": 30703,
+          "listed_count": 18,
+          "media_count": 641,
+          "tweet_count": 20976
+        },
+        "url": "",
+        "username": "Signalman_Free",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

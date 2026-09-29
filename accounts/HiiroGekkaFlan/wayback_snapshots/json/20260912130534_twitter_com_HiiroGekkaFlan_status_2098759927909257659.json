@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2098577334551085302",
+    "created_at": "2026-09-12T13:05:34.000Z",
+    "display_text_range": [
+      16,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T14:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098759927909257659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098759927909257659",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098577334551085302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 之后：\n本意是好的，下面的人执行坏了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2437,
+        "media_key": "3_2098343377611988992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7QLzdbIAAXwp_.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2404,
+        "media_key": "3_2098343444708253696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7QPtaa4AAUrfA.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2053,
+        "media_key": "3_2098343479067967488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7QRtaagAA-zl3.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2098577334551085302",
+        "created_at": "2026-09-12T13:05:34.000Z",
+        "display_text_range": [
+          16,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098759927909257659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098759927909257659",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098577334551085302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 之后：\n本意是好的，下面的人执行坏了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098343377611988992",
+            "3_2098343444708253696",
+            "3_2098343479067967488"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098577334551085302",
+        "created_at": "2026-09-12T01:00:00.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098577334551085302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDan41lTZe",
+              "end": 120,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098577334551085302/photo/1",
+              "media_key": "3_2098343377611988992",
+              "start": 97,
+              "url": "https://t.co/jDan41lTZe"
+            },
+            {
+              "display_url": "pic.x.com/jDan41lTZe",
+              "end": 120,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098577334551085302/photo/1",
+              "media_key": "3_2098343444708253696",
+              "start": 97,
+              "url": "https://t.co/jDan41lTZe"
+            },
+            {
+              "display_url": "pic.x.com/jDan41lTZe",
+              "end": 120,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098577334551085302/photo/1",
+              "media_key": "3_2098343479067967488",
+              "start": 97,
+              "url": "https://t.co/jDan41lTZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098577334551085302",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098343377611988992"
+          },
+          {
+            "media_key": "3_2098343444708253696"
+          },
+          {
+            "media_key": "3_2098343479067967488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "官方辟谣出入境新规：不是闭关锁国\n\n近日，关于9月15日起实施的出入境新规，网络上出现“普通人出境变难”“闭关锁国”等说法。\n\n9月10日，中国网信网连续发布相关辟谣内容称，上述说法属于误读。\n官方表示，新规主要针对出境从事跨境赌博、电信诈骗，以及违规向境外转移技术等违法活动，并非限制普通民众正常出行。正常旅游、探亲、留学、经商等活动不受影响。\n\n官方同时表示，对符合相关条件的出境申请，均可正常办理；如依法需要劝阻出境，应书面说明理由，当事人也可依法提出申诉。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 279,
+          "impression_count": 303753,
+          "like_count": 1110,
+          "quote_count": 22,
+          "reply_count": 583,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "官方辟谣出入境新规：不是闭关锁国\n\n近日，关于9月15日起实施的出入境新规，网络上出现“普通人出境变难”“闭关锁国”等说法。\n\n9月10日，中国网信网连续发布相关辟谣内容称，上述说法属于误读。 https://t.co/jDan41lTZe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2098759927909257659",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 887,
+          "like_count": 15208,
+          "listed_count": 2,
+          "media_count": 559,
+          "tweet_count": 4788
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2098758530115522986",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264797,
+          "following_count": 1084,
+          "like_count": 10484,
+          "listed_count": 8905,
+          "media_count": 53639,
+          "tweet_count": 60973
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

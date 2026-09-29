@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2097968319961936350",
+    "created_at": "2026-09-10T17:25:28.000Z",
+    "display_text_range": [
+      16,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T18:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098100558532100529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098100558532100529",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097968319961936350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele Amazing China👍🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1925,
+        "media_key": "3_2097940699459325952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1h82cbkAA2VIq.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1663,
+        "media_key": "3_2097940732640399360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1h-yDakAAf3to.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1468,
+        "media_key": "3_2097940762973642752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1iAjDbIAA7mhZ.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2097968319961936350",
+        "created_at": "2026-09-10T17:25:28.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098100558532100529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098100558532100529",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097968319961936350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele Amazing China👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097940699459325952",
+            "3_2097940732640399360",
+            "3_2097940762973642752"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2097968319961936350",
+        "created_at": "2026-09-10T08:40:00.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097968319961936350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c6k7wb9CJG",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2097968319961936350/photo/1",
+              "media_key": "3_2097940699459325952",
+              "start": 95,
+              "url": "https://t.co/c6k7wb9CJG"
+            },
+            {
+              "display_url": "pic.x.com/c6k7wb9CJG",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2097968319961936350/photo/1",
+              "media_key": "3_2097940732640399360",
+              "start": 95,
+              "url": "https://t.co/c6k7wb9CJG"
+            },
+            {
+              "display_url": "pic.x.com/c6k7wb9CJG",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2097968319961936350/photo/1",
+              "media_key": "3_2097940762973642752",
+              "start": 95,
+              "url": "https://t.co/c6k7wb9CJG"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2097097585265979525",
+              "start": 119,
+              "url": "https://t.co/5EfMX78O9K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097968319961936350",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097940699459325952"
+          },
+          {
+            "media_key": "3_2097940732640399360"
+          },
+          {
+            "media_key": "3_2097940762973642752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 301531,
+          "like_count": 2368,
+          "quote_count": 8,
+          "reply_count": 135,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097097585265979525",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "9月10日，网友发现，“双休购”小程序已被暂停服务。\n\n网友评论\n“艺术已成，不允许你发声”\n“其实不意外，呵呵”\n还有网友反映关于“双休购”的讨论笔记与帖子也出现发不出去或被限流的情况。 https://t.co/c6k7wb9CJG https://t.co/5EfMX78O9K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2098100558532100529",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 883,
+          "like_count": 15079,
+          "listed_count": 2,
+          "media_count": 553,
+          "tweet_count": 4738
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2098094153024606485",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2263788,
+          "following_count": 1083,
+          "like_count": 10478,
+          "listed_count": 8897,
+          "media_count": 53548,
+          "tweet_count": 60878
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

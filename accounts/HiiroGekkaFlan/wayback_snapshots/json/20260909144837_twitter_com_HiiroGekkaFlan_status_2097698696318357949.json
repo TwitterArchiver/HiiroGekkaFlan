@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097698681369788417",
+        "3_2097698689343213569"
+      ]
+    },
+    "author_id": "2042276998668525573",
+    "conversation_id": "2097698696318357949",
+    "created_at": "2026-09-09T14:48:37.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T15:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097698696318357949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/70wF6QOcCz",
+          "end": 44,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2097698696318357949/photo/1",
+          "media_key": "3_2097698681369788417",
+          "start": 21,
+          "url": "https://t.co/70wF6QOcCz"
+        },
+        {
+          "display_url": "pic.x.com/70wF6QOcCz",
+          "end": 44,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2097698696318357949/photo/1",
+          "media_key": "3_2097698689343213569",
+          "start": 21,
+          "url": "https://t.co/70wF6QOcCz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097698696318357949",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097698681369788417"
+      },
+      {
+        "media_key": "3_2097698689343213569"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是在运动锻炼吗？\n不，这其实是在打舞萌 https://t.co/70wF6QOcCz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2097698681369788417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyF1izaAAEpcTS.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2097698689343213569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyF2Aga0AEk_XT.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097698681369788417",
+            "3_2097698689343213569"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2097698696318357949",
+        "created_at": "2026-09-09T14:48:37.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097698696318357949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/70wF6QOcCz",
+              "end": 44,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2097698696318357949/photo/1",
+              "media_key": "3_2097698681369788417",
+              "start": 21,
+              "url": "https://t.co/70wF6QOcCz"
+            },
+            {
+              "display_url": "pic.x.com/70wF6QOcCz",
+              "end": 44,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2097698696318357949/photo/1",
+              "media_key": "3_2097698689343213569",
+              "start": 21,
+              "url": "https://t.co/70wF6QOcCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097698696318357949",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097698681369788417"
+          },
+          {
+            "media_key": "3_2097698689343213569"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是在运动锻炼吗？\n不，这其实是在打舞萌 https://t.co/70wF6QOcCz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2097698696318357949",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 880,
+          "like_count": 15135,
+          "listed_count": 2,
+          "media_count": 553,
+          "tweet_count": 4732
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2096844479609373031",
+    "created_at": "2026-09-07T08:15:14.000Z",
+    "display_text_range": [
+      28,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T09:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096874922299752556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1586865677503451137",
+          "start": 0,
+          "username": "hare_1021_"
+        },
+        {
+          "end": 27,
+          "id": "2031599737078689793",
+          "start": 12,
+          "username": "aihekeleqaq666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096874922299752556",
+    "in_reply_to_user_id": "1586865677503451137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096865514521796620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hare_1021_ @aihekeleqaq666 这是我们大陆大学生的必修课程的书"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2096844479609373031",
+        "created_at": "2026-09-07T08:15:14.000Z",
+        "display_text_range": [
+          28,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096874922299752556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1586865677503451137",
+              "start": 0,
+              "username": "hare_1021_"
+            },
+            {
+              "end": 27,
+              "id": "2031599737078689793",
+              "start": 12,
+              "username": "aihekeleqaq666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096874922299752556",
+        "in_reply_to_user_id": "1586865677503451137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096865514521796620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hare_1021_ @aihekeleqaq666 这是我们大陆大学生的必修课程的书"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586865677503451137",
+        "conversation_id": "2096844479609373031",
+        "created_at": "2026-09-07T07:37:51.000Z",
+        "display_text_range": [
+          16,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096865514521796620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031599737078689793",
+              "start": 0,
+              "username": "aihekeleqaq666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096865514521796620",
+        "in_reply_to_user_id": "2031599737078689793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096844479609373031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aihekeleqaq666 這什麼玩意 要學什麼？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2096874922299752556",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 880,
+          "like_count": 15055,
+          "listed_count": 2,
+          "media_count": 550,
+          "tweet_count": 4702
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-30T23:40:42.000Z",
+        "description": "日記+爆言+發癲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/5glkv0eaue7l15…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/5glkv0eaue7l15g?t=KUV7xo&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/ivkJl2wwf9"
+              }
+            ]
+          }
+        },
+        "id": "1586865677503451137",
+        "is_identity_verified": false,
+        "location": "我家",
+        "most_recent_tweet_id": "2096865514521796620",
+        "name": "兔🐇",
+        "pinned_tweet_id": "1965132904872509577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586865677503451137/1750184881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927776147317870593/QaybQBdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12089,
+          "following_count": 663,
+          "like_count": 9844,
+          "listed_count": 3,
+          "media_count": 1627,
+          "tweet_count": 6663
+        },
+        "url": "https://t.co/ivkJl2wwf9",
+        "username": "hare_1021_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-11T05:15:04.000Z",
+        "description": "胡说八道，我就是顺主人之意而诞生，我便是这片空间的守护者。你们因我而再度存活，就该依照我的规则来。",
+        "id": "2031599737078689793",
+        "is_identity_verified": false,
+        "location": "斗气大陆",
+        "most_recent_tweet_id": "2096844479609373031",
+        "name": "爱喝可乐🥤（百分百互fo）",
+        "pinned_tweet_id": "2091863404197957944",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031599737078689793/1779862422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059518390017163266/CnhJ3wS7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 401,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 374
+        },
+        "url": "",
+        "username": "aihekeleqaq666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2097837179120546118",
+    "created_at": "2026-09-10T18:02:17.000Z",
+    "display_text_range": [
+      15,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T19:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098109821774074346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1446079652267704320",
+          "start": 0,
+          "username": "dryxxlovesyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098109821774074346",
+    "in_reply_to_user_id": "1446079652267704320",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097837179120546118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dryxxlovesyou The other side of PRC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21639,
+        "height": 576,
+        "media_key": "13_2097837159067652098",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097837159067652098/img/mSntxRWK6a-CjYbB.jpg",
+        "public_metrics": {
+          "view_count": 126834
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097837159067652098/vid/avc1/320x320/bN8wBjXW2wqiYv5q.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097837159067652098/vid/avc1/576x576/1T3wHPa2tNpCc7DQ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097837159067652098/pl/ueWTK9Vyu6xQecFU.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2097837179120546118",
+        "created_at": "2026-09-10T18:02:17.000Z",
+        "display_text_range": [
+          15,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098109821774074346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1446079652267704320",
+              "start": 0,
+              "username": "dryxxlovesyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098109821774074346",
+        "in_reply_to_user_id": "1446079652267704320",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097837179120546118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dryxxlovesyou The other side of PRC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097837159067652098"
+          ]
+        },
+        "author_id": "1446079652267704320",
+        "conversation_id": "2097837179120546118",
+        "created_at": "2026-09-09T23:58:54.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T00:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097837179120546118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hjGPLijPvg",
+              "end": 23,
+              "expanded_url": "https://x.com/dryxxlovesyou/status/2097837179120546118/video/1",
+              "media_key": "13_2097837159067652098",
+              "start": 0,
+              "url": "https://t.co/hjGPLijPvg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097837179120546118",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2097837159067652098"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1061,
+          "impression_count": 197382,
+          "like_count": 3553,
+          "quote_count": 70,
+          "reply_count": 77,
+          "retweet_count": 223
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hjGPLijPvg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2098109821774074346",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 884,
+          "like_count": 15095,
+          "listed_count": 2,
+          "media_count": 554,
+          "tweet_count": 4745
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-07T11:47:21.000Z",
+        "description": "★★★★★★",
+        "id": "1446079652267704320",
+        "is_identity_verified": false,
+        "location": "journaliste",
+        "most_recent_tweet_id": "2098079929334120902",
+        "name": "Dorriksou Massaï 🇰🇪 ★",
+        "pinned_tweet_id": "1911907503295627429",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1446079652267704320/1745662316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855249911056347136/YDu4t7sC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 559,
+          "like_count": 71781,
+          "listed_count": 2,
+          "media_count": 7031,
+          "tweet_count": 25442
+        },
+        "url": "",
+        "username": "dryxxlovesyou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

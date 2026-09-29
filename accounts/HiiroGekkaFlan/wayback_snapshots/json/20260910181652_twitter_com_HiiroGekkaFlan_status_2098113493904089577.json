@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2097975942497050894",
+    "created_at": "2026-09-10T18:16:52.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T19:16:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098113493904089577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "998781910485618688",
+          "start": 0,
+          "username": "hichukiso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098113493904089577",
+    "in_reply_to_user_id": "998781910485618688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097975942497050894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hichukiso 歡迎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2097975936981643264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2B_8cbsAA7l7i.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2097975942497050894",
+        "created_at": "2026-09-10T18:16:52.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098113493904089577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "998781910485618688",
+              "start": 0,
+              "username": "hichukiso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098113493904089577",
+        "in_reply_to_user_id": "998781910485618688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097975942497050894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hichukiso 歡迎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097975936981643264"
+          ]
+        },
+        "author_id": "998781910485618688",
+        "conversation_id": "2097975942497050894",
+        "created_at": "2026-09-10T09:10:17.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097975942497050894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7GAHIR4Rh",
+              "end": 36,
+              "expanded_url": "https://x.com/hichukiso/status/2097975942497050894/photo/1",
+              "media_key": "3_2097975936981643264",
+              "start": 13,
+              "url": "https://t.co/p7GAHIR4Rh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097975942497050894",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097975936981643264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 90274,
+          "like_count": 569,
+          "quote_count": 0,
+          "reply_count": 95,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "訪中するよ～🇨🇳你好☺️ https://t.co/p7GAHIR4Rh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2098113493904089577",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 884,
+          "like_count": 15106,
+          "listed_count": 2,
+          "media_count": 554,
+          "tweet_count": 4749
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-05-22T04:25:38.000Z",
+        "description": "ラーメン二郎全制覇済(沖縄は12月に行く)/#ロリィタラーメン/旅(47都道府県済🇯🇵&34州🇺🇸&65ヶ国/領土🌍️)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 22,
+                "tag": "ロリィタラーメン"
+              }
+            ]
+          }
+        },
+        "id": "998781910485618688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097975942497050894",
+        "name": "ひちゅきそ",
+        "pinned_tweet_id": "1573141963112685568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/998781910485618688/1548375105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1038769532850982913/glBrXNKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 301,
+          "like_count": 3117,
+          "listed_count": 4,
+          "media_count": 2795,
+          "tweet_count": 3731
+        },
+        "url": "",
+        "username": "hichukiso",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

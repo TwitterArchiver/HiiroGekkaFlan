@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2097490426332684422",
+    "created_at": "2026-09-10T03:40:10.000Z",
+    "display_text_range": [
+      17,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T04:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097892865770959235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2096992990338469889",
+          "start": 0,
+          "username": "Ambient_Isotopy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097892865770959235",
+    "in_reply_to_user_id": "2096992990338469889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097490426332684422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ambient_Isotopy 我也是，曾经打算专升本\n后来抑郁症复发再一次休学了\n无所谓了，去沙滩晒点太阳吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_2097490412000743424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvIaq8XkAAKnjR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2097490426332684422",
+        "created_at": "2026-09-10T03:40:10.000Z",
+        "display_text_range": [
+          17,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T04:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097892865770959235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2096992990338469889",
+              "start": 0,
+              "username": "Ambient_Isotopy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097892865770959235",
+        "in_reply_to_user_id": "2096992990338469889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097490426332684422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ambient_Isotopy 我也是，曾经打算专升本\n后来抑郁症复发再一次休学了\n无所谓了，去沙滩晒点太阳吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097490412000743424"
+          ]
+        },
+        "author_id": "2096992990338469889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097490426332684422",
+        "created_at": "2026-09-09T01:01:01.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T02:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097490426332684422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AK06vvWbJl",
+              "end": 137,
+              "expanded_url": "https://x.com/Ambient_Isotopy/status/2097490426332684422/photo/1",
+              "media_key": "3_2097490412000743424",
+              "start": 114,
+              "url": "https://t.co/AK06vvWbJl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097490426332684422",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097490412000743424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 6990,
+          "like_count": 60,
+          "quote_count": 3,
+          "reply_count": 29,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "没能考上本科，始终是我难以解开的心结\n\n每次在社交媒体上刷到别人分享的大学生活：专业课、实验室、高数、四六级、论文、校招、实习……\n\n我总觉得和他人相比自己的人生缺少了些什么，而这些经历、这些词汇大概永远不会成为我生活的一部分 https://t.co/AK06vvWbJl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2097892865770959235",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 881,
+          "like_count": 15147,
+          "listed_count": 2,
+          "media_count": 553,
+          "tweet_count": 4734
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T16:05:21.000Z",
+        "description": "白骑士：@decohere_here ❤️ ｜学习、看书",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "decohere_here"
+              }
+            ]
+          }
+        },
+        "id": "2096992990338469889",
+        "is_identity_verified": false,
+        "location": "深圳",
+        "most_recent_tweet_id": "2097880776130126320",
+        "name": "同痕",
+        "pinned_tweet_id": "2097263072050352480",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096992990338469889/1788858853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097680329360429058/SFxVoNKx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 101,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "Ambient_Isotopy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

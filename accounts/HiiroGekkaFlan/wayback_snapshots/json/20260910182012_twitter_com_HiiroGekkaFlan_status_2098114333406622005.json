@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2097758563045347546",
+    "created_at": "2026-09-10T18:20:12.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T19:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098114333406622005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1653278595719081986",
+          "start": 0,
+          "username": "QuanLujun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098114333406622005",
+    "in_reply_to_user_id": "1653278595719081986",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097758563045347546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuanLujun 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 871,
+        "media_key": "3_2097758324624355328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRy8FPPacAAjluq.jpg",
+        "width": 1161
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2097758563045347546",
+        "created_at": "2026-09-10T18:20:12.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098114333406622005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1653278595719081986",
+              "start": 0,
+              "username": "QuanLujun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098114333406622005",
+        "in_reply_to_user_id": "1653278595719081986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097758563045347546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuanLujun 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097758324624355328"
+          ]
+        },
+        "author_id": "1653278595719081986",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2097758563045347546",
+        "created_at": "2026-09-09T18:46:30.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T19:45:35.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097758331196883418",
+          "2097758446485717353",
+          "2097758563045347546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bPR3a5nfFD",
+              "end": 124,
+              "expanded_url": "https://x.com/QuanLujun/status/2097758563045347546/photo/1",
+              "media_key": "3_2097758324624355328",
+              "start": 101,
+              "url": "https://t.co/bPR3a5nfFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097758563045347546",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097758324624355328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 23677,
+          "like_count": 883,
+          "quote_count": 13,
+          "reply_count": 178,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "网友：想到伟大的毛主席，不由自主已泪湿衣襟，眼泪如涛涛江水，悲哀在心中久久不散，现在想起还是会泪水涟涟。缅怀伟人，吾辈不忘，为了纪念毛主席逝世50周年，我决定今晚吃这个。\n\n腊肉蛋炒饭也能做这么好看！ https://t.co/bPR3a5nfFD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2098114333406622005",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 884,
+          "like_count": 15109,
+          "listed_count": 2,
+          "media_count": 554,
+          "tweet_count": 4752
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-02T06:02:43.000Z",
+        "description": "台湾就是台湾；守护民主自由就是守护普世价值与人类的底线未来，对邪恶中共说不！结束习近平中共封建独裁专制纳粹暴政祸害世界；「世界需要真实的声音」 ！🔥【欢迎加入反共电报群https://t.co/xxJHoK3DNT】基督✝️文明世界必将战胜邪恶撒旦；守护民主自由/荣耀基督联盟 Luke-权录军",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+_MojCr8soxMyN…",
+                "end": 107,
+                "expanded_url": "https://t.me/+_MojCr8soxMyNGEx",
+                "start": 84,
+                "url": "https://t.co/xxJHoK3DNT"
+              }
+            ]
+          }
+        },
+        "id": "1653278595719081986",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2098073951583051934",
+        "name": "LuJun Quan",
+        "pinned_tweet_id": "2087269683670245491",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653278595719081986/1761814774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780063090182365184/OY7ky_fp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29089,
+          "following_count": 10411,
+          "like_count": 40984,
+          "listed_count": 131,
+          "media_count": 4006,
+          "tweet_count": 22127
+        },
+        "url": "",
+        "username": "QuanLujun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

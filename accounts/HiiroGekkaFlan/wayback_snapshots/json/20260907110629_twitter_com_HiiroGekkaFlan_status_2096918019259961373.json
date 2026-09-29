@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2096912811826065920",
+    "created_at": "2026-09-07T11:06:29.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T12:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096918019259961373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096918019259961373",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096912811826065920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii ccb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_2096912797280116736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRm7FEbaIAA1DV7.jpg",
+        "width": 977
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2096912811826065920",
+        "created_at": "2026-09-07T11:06:29.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096918019259961373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096918019259961373",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096912811826065920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii ccb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096912797280116736"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "conversation_id": "2096912811826065920",
+        "created_at": "2026-09-07T10:45:47.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096912811826065920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pMLwOLsluB",
+              "end": 31,
+              "expanded_url": "https://x.com/xixikawaii/status/2096912811826065920/photo/1",
+              "media_key": "3_2096912797280116736",
+              "start": 8,
+              "url": "https://t.co/pMLwOLsluB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096912811826065920",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096912797280116736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 783,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是在干什么🫪 https://t.co/pMLwOLsluB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2096918019259961373",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 877,
+          "like_count": 15064,
+          "listed_count": 2,
+          "media_count": 551,
+          "tweet_count": 4712
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "INFP | 全力Crypto版 | 水手服 | 喜欢可爱的事物 | 分享欲高 | 每天都要去迪士尼版 | DYOR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_xixi",
+                "start": 0,
+                "url": "https://t.co/Xf4PjsKl0T"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "is_identity_verified": false,
+        "location": "GMGN 聪明钱 1000x Meme Alpha 👉🏻",
+        "most_recent_tweet_id": "2096917652539338867",
+        "name": "汐",
+        "pinned_tweet_id": "2094613714901016616",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1342135083252105216/1744721710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090127412013182976/-_Pe7Ang_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57054,
+          "following_count": 1232,
+          "like_count": 15743,
+          "listed_count": 486,
+          "media_count": 5563,
+          "tweet_count": 26898
+        },
+        "url": "https://t.co/Xf4PjsKl0T",
+        "username": "xixikawaii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

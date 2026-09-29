@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2096165740605043096",
+    "created_at": "2026-09-07T04:30:54.000Z",
+    "display_text_range": [
+      14,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T05:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096818469601980662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1364200446080913413",
+          "start": 0,
+          "username": "andy88988696"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096818469601980662",
+    "in_reply_to_user_id": "1364200446080913413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096165740605043096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@andy88988696 铜心铜德罐车屎钟\n青天白日满地红"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_2096165734665854977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcToTUaoAEWk5v.jpg",
+        "width": 1155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2096165740605043096",
+        "created_at": "2026-09-07T04:30:54.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096818469601980662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1364200446080913413",
+              "start": 0,
+              "username": "andy88988696"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096818469601980662",
+        "in_reply_to_user_id": "1364200446080913413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096165740605043096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@andy88988696 铜心铜德罐车屎钟\n青天白日满地红"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096165734665854977"
+          ]
+        },
+        "author_id": "1364200446080913413",
+        "conversation_id": "2096165740605043096",
+        "created_at": "2026-09-05T09:17:12.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096165740605043096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SiUEz8wF1o",
+              "end": 41,
+              "expanded_url": "https://x.com/andy88988696/status/2096165740605043096/photo/1",
+              "media_key": "3_2096165734665854977",
+              "start": 18,
+              "url": "https://t.co/SiUEz8wF1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096165740605043096",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096165734665854977"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 320,
+          "impression_count": 984584,
+          "like_count": 1805,
+          "quote_count": 4,
+          "reply_count": 345,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "隐喻这块台湾人还得跟老中学一万年呢 https://t.co/SiUEz8wF1o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2096818469601980662",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 879,
+          "like_count": 15032,
+          "listed_count": 2,
+          "media_count": 549,
+          "tweet_count": 4683
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-23T13:08:34.000Z",
+        "description": "医学生｜把複杂身体科学讲简单\n性生理・健康・生活迷思\nCrypto｜Web3｜商务私信\n\nTg 交流群 https://t.co/bA4JcFjdJP\n\nGmail: wsy881022@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+7doZ4wUl8RZhY…",
+                "end": 75,
+                "expanded_url": "https://t.me/+7doZ4wUl8RZhYWJl",
+                "start": 52,
+                "url": "https://t.co/bA4JcFjdJP"
+              }
+            ]
+          }
+        },
+        "id": "1364200446080913413",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096815070663848356",
+        "name": "迷思拆解_Panda🐼🐼",
+        "pinned_tweet_id": "2088462856052469935",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1364200446080913413/1771843916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897447830480097280/q4Do2mUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31176,
+          "following_count": 1827,
+          "like_count": 35864,
+          "listed_count": 105,
+          "media_count": 1917,
+          "tweet_count": 33303
+        },
+        "url": "",
+        "username": "andy88988696",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

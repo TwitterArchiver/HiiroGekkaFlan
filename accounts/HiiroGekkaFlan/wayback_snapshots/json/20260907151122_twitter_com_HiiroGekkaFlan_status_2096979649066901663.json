@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2096871117436919856",
+    "created_at": "2026-09-07T15:11:22.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096979649066901663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012843367982628864",
+          "start": 0,
+          "username": "XiaoJi0403"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096979649066901663",
+    "in_reply_to_user_id": "2012843367982628864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096871117436919856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoJi0403 是的，我甚至还不能多次往返港澳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2096871117436919856",
+        "created_at": "2026-09-07T15:11:22.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096979649066901663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012843367982628864",
+              "start": 0,
+              "username": "XiaoJi0403"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096979649066901663",
+        "in_reply_to_user_id": "2012843367982628864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096871117436919856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoJi0403 是的，我甚至还不能多次往返港澳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012843367982628864",
+        "conversation_id": "2096871117436919856",
+        "created_at": "2026-09-07T08:00:07.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096871117436919856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096871117436919856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11337,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 54,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去办了港澳通行证\n\n我实在不明白\n\n为什么明明同在一个国家\n\n香港和澳门不能像其他省市一样自由进出随便住多久都行\n\n很多人说怕黑在那里，但是以中国的执法力度和香港的物价\n\n就算黑也黑不下来啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2096979649066901663",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 879,
+          "like_count": 15075,
+          "listed_count": 2,
+          "media_count": 551,
+          "tweet_count": 4714
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-18T11:04:05.000Z",
+        "description": "🐷猪猪爱好者｜⚠️推文都是故事\n杂谈观察｜热点拆解｜故事八卦｜人性观察与社会真相\n用自己的话讲有意思的故事，偶尔毒舌，尽量理性",
+        "id": "2012843367982628864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096965517563379852",
+        "name": "老季",
+        "pinned_tweet_id": "2057366163508650237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012843367982628864/1770874396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044687987460485120/NTtGh8Vq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18495,
+          "following_count": 1121,
+          "like_count": 16658,
+          "listed_count": 40,
+          "media_count": 1321,
+          "tweet_count": 9707
+        },
+        "url": "",
+        "username": "XiaoJi0403",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

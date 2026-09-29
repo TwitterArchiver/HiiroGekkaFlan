@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192269799428096",
+          "name": "China politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192841529200640",
+          "name": "China political issues"
+        }
+      }
+    ],
+    "conversation_id": "2098314597153509877",
+    "created_at": "2026-09-12T12:40:55.000Z",
+    "display_text_range": [
+      17,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T13:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098753724814618983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1194755806534586368",
+          "start": 0,
+          "username": "TaiwanFreedom89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098753724814618983",
+    "in_reply_to_user_id": "1194755806534586368",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098314597153509877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaiwanFreedom89 Taiwan is ROC😈\nRepublic of China🇹🇼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 980,
+        "media_key": "3_2098314586688729088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR61_86aMAAq-BD.jpg",
+        "width": 770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "2098314597153509877",
+        "created_at": "2026-09-12T12:40:55.000Z",
+        "display_text_range": [
+          17,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098753724814618983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1194755806534586368",
+              "start": 0,
+              "username": "TaiwanFreedom89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098753724814618983",
+        "in_reply_to_user_id": "1194755806534586368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098314597153509877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaiwanFreedom89 Taiwan is ROC😈\nRepublic of China🇹🇼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098314586688729088"
+          ]
+        },
+        "author_id": "1194755806534586368",
+        "conversation_id": "2098314597153509877",
+        "created_at": "2026-09-11T07:35:59.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T08:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098314597153509877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oRL8E8SlGv",
+              "end": 61,
+              "expanded_url": "https://x.com/TaiwanFreedom89/status/2098314597153509877/photo/1",
+              "media_key": "3_2098314586688729088",
+              "start": 38,
+              "url": "https://t.co/oRL8E8SlGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098314597153509877",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098314586688729088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 194181,
+          "like_count": 16800,
+          "quote_count": 73,
+          "reply_count": 646,
+          "retweet_count": 1764
+        },
+        "reply_settings": "everyone",
+        "text": "This is Taiwan. \nTaiwan is a country. https://t.co/oRL8E8SlGv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2098753724814618983",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 887,
+          "like_count": 15200,
+          "listed_count": 2,
+          "media_count": 559,
+          "tweet_count": 4783
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-13T23:16:08.000Z",
+        "description": "Memes & News about Taiwan from an Australian perspective. Follow on FB, same name & picture. \nOur Hashtag's #TWFreedom89 \nRetweets ≠ endorsements. \n#NAFO #TAFO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 108,
+                "tag": "TWFreedom89"
+              },
+              {
+                "end": 153,
+                "start": 148,
+                "tag": "NAFO"
+              },
+              {
+                "end": 159,
+                "start": 154,
+                "tag": "TAFO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/taiwan_freedom",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/taiwan_freedom",
+                "start": 0,
+                "url": "https://t.co/vngNGFL8Fr"
+              }
+            ]
+          }
+        },
+        "id": "1194755806534586368",
+        "is_identity_verified": true,
+        "location": "Brisbane, Queensland",
+        "most_recent_tweet_id": "2098315767809036751",
+        "name": "Taiwan Freedom - 台灣自由",
+        "pinned_tweet_id": "1424670962218196995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1194755806534586368/1573688111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1467149515668942850/_y8cR1GW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67506,
+          "following_count": 2498,
+          "like_count": 36266,
+          "listed_count": 352,
+          "media_count": 2803,
+          "tweet_count": 31076
+        },
+        "url": "https://t.co/vngNGFL8Fr",
+        "username": "TaiwanFreedom89",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

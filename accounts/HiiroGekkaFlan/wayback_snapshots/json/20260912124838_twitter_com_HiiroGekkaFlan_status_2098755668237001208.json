@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2098622827960438960",
+    "created_at": "2026-09-12T12:48:38.000Z",
+    "display_text_range": [
+      11,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T13:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098755668237001208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2081572168773890048",
+          "start": 0,
+          "username": "hbjx12345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098755668237001208",
+    "in_reply_to_user_id": "2081572168773890048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098715455666196656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hbjx12345 感觉不如相信我是秦始皇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2098622827960438960",
+        "created_at": "2026-09-12T12:48:38.000Z",
+        "display_text_range": [
+          11,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098755668237001208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2081572168773890048",
+              "start": 0,
+              "username": "hbjx12345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098755668237001208",
+        "in_reply_to_user_id": "2081572168773890048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098715455666196656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hbjx12345 感觉不如相信我是秦始皇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081572168773890048",
+        "conversation_id": "2098622827960438960",
+        "created_at": "2026-09-12T10:08:51.000Z",
+        "display_text_range": [
+          16,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T11:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098715455666196656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098715455666196656",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098622827960438960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 等2035年就行了\n\n坐上那动车去台湾，就在那2035年……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2098755668237001208",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 887,
+          "like_count": 15201,
+          "listed_count": 2,
+          "media_count": 559,
+          "tweet_count": 4785
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-27T02:48:17.000Z",
+        "description": "",
+        "id": "2081572168773890048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098744195154620484",
+        "name": "小笠原华子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081572168773890048/1785505033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084686314100961280/ALTh58ho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 101,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "hbjx12345",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

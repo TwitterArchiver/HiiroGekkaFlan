@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2097968163946410004",
+    "created_at": "2026-09-10T18:11:22.000Z",
+    "display_text_range": [
+      29,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T19:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098112109330801001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047486065154641920",
+          "start": 0,
+          "username": "jiang_ho30024"
+        },
+        {
+          "end": 28,
+          "id": "1381528438826131457",
+          "start": 15,
+          "username": "ZedongWinine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098112109330801001",
+    "in_reply_to_user_id": "2047486065154641920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097971287532638677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiang_ho30024 @ZedongWinine 八紘一宇，七生報國\n万歳！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 594,
+        "media_key": "3_2097971280972800000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR19w7da4AASnA6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2097968163946410004",
+        "created_at": "2026-09-10T18:11:22.000Z",
+        "display_text_range": [
+          29,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098112109330801001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047486065154641920",
+              "start": 0,
+              "username": "jiang_ho30024"
+            },
+            {
+              "end": 28,
+              "id": "1381528438826131457",
+              "start": 15,
+              "username": "ZedongWinine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098112109330801001",
+        "in_reply_to_user_id": "2047486065154641920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097971287532638677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiang_ho30024 @ZedongWinine 八紘一宇，七生報國\n万歳！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097971280972800000"
+          ]
+        },
+        "author_id": "2047486065154641920",
+        "conversation_id": "2097968163946410004",
+        "created_at": "2026-09-10T08:51:48.000Z",
+        "display_text_range": [
+          14,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097971287532638677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1381528438826131457",
+              "start": 0,
+              "username": "ZedongWinine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dsaZd9MpqO",
+              "end": 62,
+              "expanded_url": "https://x.com/jiang_ho30024/status/2097971287532638677/photo/1",
+              "media_key": "3_2097971280972800000",
+              "start": 39,
+              "url": "https://t.co/dsaZd9MpqO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097971287532638677",
+        "in_reply_to_user_id": "1381528438826131457",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097971280972800000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3607,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097968163946410004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZedongWinine 義は山嶽よりも重く、死は鴻毛よりも軽しと覺悟せよ https://t.co/dsaZd9MpqO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2098112109330801001",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 884,
+          "like_count": 15102,
+          "listed_count": 2,
+          "media_count": 554,
+          "tweet_count": 4746
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T01:21:49.000Z",
+        "description": "",
+        "id": "2047486065154641920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098094873018769910",
+        "name": "Ho yi Jiang",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047519494587990017/El_bFyLt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 2587,
+          "like_count": 18164,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 10480
+        },
+        "url": "",
+        "username": "jiang_ho30024",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-12T08:43:58.000Z",
+        "description": "圓頭耄耋😻\n井上尚弥🥊big bang Zhang🥊\ndo bronx🥋 Jack Della Maddalena🥊Nick Diaz🚬\n白井智之😱方丈貴惠 📖",
+        "id": "1381528438826131457",
+        "is_identity_verified": false,
+        "location": "Henan",
+        "most_recent_tweet_id": "2098084316840640604",
+        "name": "川和.豆沙維尼🇹🇼 橘貓愛好份子",
+        "pinned_tweet_id": "2038641173875863617",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1381528438826131457/1784428625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024318566695325696/WKA0ABSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9836,
+          "following_count": 6018,
+          "like_count": 238981,
+          "listed_count": 95,
+          "media_count": 8888,
+          "tweet_count": 83363
+        },
+        "url": "",
+        "username": "ZedongWinine",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

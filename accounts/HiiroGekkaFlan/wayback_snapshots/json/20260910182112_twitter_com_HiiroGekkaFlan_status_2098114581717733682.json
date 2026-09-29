@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2097947229491511645",
+    "created_at": "2026-09-10T18:21:12.000Z",
+    "display_text_range": [
+      15,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T19:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098114581717733682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3460383084",
+          "start": 0,
+          "username": "TruthMedia123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098114581717733682",
+    "in_reply_to_user_id": "3460383084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097947229491511645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TruthMedia123 川渝老辈子特有的直言不讳"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13862,
+        "height": 676,
+        "media_key": "13_2097947159471828994",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097947159471828994/img/HWxYnVZt2KtcIdL4.jpg",
+        "public_metrics": {
+          "view_count": 48007
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097947159471828994/vid/avc1/286x270/-Ng3KvU1Jd-vnSOj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097947159471828994/vid/avc1/382x360/TWI78uG71ko2gX2F.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097947159471828994/vid/avc1/720x676/Y1lOL5GS05KJcU6-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097947159471828994/pl/ADpMOrkwbhdI8wK6.m3u8?v=3db"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2097947229491511645",
+        "created_at": "2026-09-10T18:21:12.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098114581717733682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3460383084",
+              "start": 0,
+              "username": "TruthMedia123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098114581717733682",
+        "in_reply_to_user_id": "3460383084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097947229491511645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TruthMedia123 川渝老辈子特有的直言不讳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097947159471828994"
+          ]
+        },
+        "author_id": "3460383084",
+        "conversation_id": "2097947229491511645",
+        "created_at": "2026-09-10T07:16:12.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:16:04.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097947195408543780",
+          "2097947229491511645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0cjULsojgA",
+              "end": 58,
+              "expanded_url": "https://x.com/TruthMedia123/status/2097947229491511645/video/1",
+              "media_key": "13_2097947159471828994",
+              "start": 35,
+              "url": "https://t.co/0cjULsojgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097947229491511645",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097947159471828994"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 73755,
+          "like_count": 533,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "中共老兵：半夜三更偷偷摸摸跑过鸭绿江，哪有什么“雄赳赳气昂昂”啊❗️ https://t.co/0cjULsojgA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2098114581717733682",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 884,
+          "like_count": 15110,
+          "listed_count": 2,
+          "media_count": 554,
+          "tweet_count": 4753
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-09-05T15:04:03.000Z",
+        "description": "傳播真相，匡扶正義良知，回歸中華傳統。 世間總有公道。歡迎投稿爆料！如果推文有錯誤歡迎指正。通過本號私信發送即可。",
+        "id": "3460383084",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098002066593783999",
+        "name": "真相傳媒",
+        "pinned_tweet_id": "2097267937929462060",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3460383084/1704744180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618727520500850692/SdW0o-cV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283549,
+          "following_count": 4975,
+          "like_count": 9251,
+          "listed_count": 658,
+          "media_count": 75112,
+          "tweet_count": 109656
+        },
+        "url": "",
+        "username": "TruthMedia123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

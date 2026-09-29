@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2098431089580614075",
+    "created_at": "2026-09-12T08:25:41.000Z",
+    "display_text_range": [
+      9,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T09:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098689493599752231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1841988608825466880",
+          "start": 0,
+          "username": "america"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098689493599752231",
+    "in_reply_to_user_id": "1841988608825466880",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098431089580614075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@america AMERICA!\nFUCK YEAN!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1011,
+        "media_key": "3_2098431086024151040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8f9GwbUAAT-Kn.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2098431089580614075",
+        "created_at": "2026-09-12T08:25:41.000Z",
+        "display_text_range": [
+          9,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T09:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098689493599752231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1841988608825466880",
+              "start": 0,
+              "username": "america"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098689493599752231",
+        "in_reply_to_user_id": "1841988608825466880",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098431089580614075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@america AMERICA!\nFUCK YEAN!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098431086024151040"
+          ]
+        },
+        "author_id": "1841988608825466880",
+        "conversation_id": "2098431089580614075",
+        "created_at": "2026-09-11T15:18:53.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T16:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098431089580614075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wqjSaPcQnn",
+              "end": 36,
+              "expanded_url": "https://x.com/america/status/2098431089580614075/photo/1",
+              "media_key": "3_2098431086024151040",
+              "start": 13,
+              "url": "https://t.co/wqjSaPcQnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098431089580614075",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098431086024151040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 969,
+          "impression_count": 631060,
+          "like_count": 61614,
+          "quote_count": 217,
+          "reply_count": 599,
+          "retweet_count": 6720
+        },
+        "reply_settings": "everyone",
+        "text": "Never Forget https://t.co/wqjSaPcQnn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2098689493599752231",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 887,
+          "like_count": 15154,
+          "listed_count": 2,
+          "media_count": 556,
+          "tweet_count": 4764
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-03T23:48:27.000Z",
+        "description": "PAC Founded by @ElonMusk to support candidates who champion Secure Borders, Sensible Spending, Safe Cities, Fair Justice System, Free Speech and Self-Protection",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "ElonMusk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "theamericapac.org",
+                "end": 23,
+                "expanded_url": "https://theamericapac.org",
+                "start": 0,
+                "url": "https://t.co/PdGFm7qcgm"
+              }
+            ]
+          }
+        },
+        "id": "1841988608825466880",
+        "is_identity_verified": false,
+        "location": "USA",
+        "most_recent_tweet_id": "2098516541914362070",
+        "name": "America",
+        "pinned_tweet_id": "2012218370058252341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841988608825466880/1728002939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842003465448398848/U3EZmdUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215380,
+          "following_count": 1,
+          "like_count": 1059,
+          "listed_count": 2250,
+          "media_count": 2701,
+          "tweet_count": 4399
+        },
+        "url": "https://t.co/PdGFm7qcgm",
+        "username": "america",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

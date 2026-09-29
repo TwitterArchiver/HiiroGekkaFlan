@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2099227365515903453",
+    "created_at": "2026-09-14T06:50:15.000Z",
+    "display_text_range": [
+      13,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T07:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099390252804878477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866114456411099137",
+          "start": 0,
+          "username": "rinko910409"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099390252804878477",
+    "in_reply_to_user_id": "1866114456411099137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099227365515903453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinko910409 以防刚翻墙的朋友不知道\n这些词汇都是习近平总书记在公开演讲中读错的词"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1692,
+        "media_key": "3_2099227358838558720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSH0KSJakAA-1yA.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2099227365515903453",
+        "created_at": "2026-09-14T06:50:15.000Z",
+        "display_text_range": [
+          13,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T07:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099390252804878477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866114456411099137",
+              "start": 0,
+              "username": "rinko910409"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099390252804878477",
+        "in_reply_to_user_id": "1866114456411099137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099227365515903453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinko910409 以防刚翻墙的朋友不知道\n这些词汇都是习近平总书记在公开演讲中读错的词"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099227358838558720"
+          ]
+        },
+        "author_id": "1866114456411099137",
+        "conversation_id": "2099227365515903453",
+        "created_at": "2026-09-13T20:03:00.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T21:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099227365515903453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7rY0FqioXY",
+              "end": 57,
+              "expanded_url": "https://x.com/rinko910409/status/2099227365515903453/photo/1",
+              "media_key": "3_2099227358838558720",
+              "start": 34,
+              "url": "https://t.co/7rY0FqioXY"
+            },
+            {
+              "display_url": "x.com/rinko910409/st…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/rinko910409/status/2099183504538144870",
+              "start": 58,
+              "url": "https://t.co/J6Dmd3507a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099227365515903453",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099227358838558720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 29103,
+          "like_count": 236,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099183504538144870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈真的要笑崩溃了，在B站‘萨格尔王’和‘通商宽衣’是他妈屏蔽词 https://t.co/7rY0FqioXY https://t.co/J6Dmd3507a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2099390252804878477",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 887,
+          "like_count": 15248,
+          "listed_count": 2,
+          "media_count": 563,
+          "tweet_count": 4807
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-09T13:35:42.000Z",
+        "description": "日本語勉強中\n趣味はバンドリ／声優\r/航空/鉄道/ミリーコス\n邦批/女声优痴/航空/轨道交通 以及尼龙\n男 玉玉双相躁狂但是不割不o😥\nお推しは白金燐子、中島由貴\n\n声明声明我不是弱智低龄火车迷和飞友🤮，我只是喜欢轨交和航空",
+        "id": "1866114456411099137",
+        "is_identity_verified": false,
+        "location": "タルコフ市/塔科夫市",
+        "most_recent_tweet_id": "2099380070846693813",
+        "name": "りんこShirokane",
+        "pinned_tweet_id": "2090104058900295930",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866114456411099137/1786743076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866337684836564992/RRKoiS-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 754,
+          "like_count": 9075,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 2871
+        },
+        "url": "",
+        "username": "rinko910409",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2098737225928413268",
+    "created_at": "2026-09-12T13:36:46.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T14:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098767777784111182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2000729757655453696",
+          "start": 0,
+          "username": "thantos_2518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098767777784111182",
+    "in_reply_to_user_id": "2000729757655453696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098765376326873121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thantos_2518 帽子先生掉了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2098737225928413268",
+        "created_at": "2026-09-12T13:36:46.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098767777784111182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2000729757655453696",
+              "start": 0,
+              "username": "thantos_2518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098767777784111182",
+        "in_reply_to_user_id": "2000729757655453696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098765376326873121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thantos_2518 帽子先生掉了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000729757655453696",
+        "conversation_id": "2098737225928413268",
+        "created_at": "2026-09-12T13:27:13.000Z",
+        "display_text_range": [
+          16,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098765376326873121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098765376326873121",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098737225928413268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 可爱的呢.（帽子先生呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2098767777784111182",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 887,
+          "like_count": 15213,
+          "listed_count": 2,
+          "media_count": 559,
+          "tweet_count": 4790
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-16T00:49:12.000Z",
+        "description": "喜欢可爱的人和物.2007.2.18出厂  .友跨.\n时间消耗在：galgame/pjsk/arknights等...\n对人友好.喜欢魔裁.东方project.欢迎私信和我聊天\n心理疾病史：|抑郁|双相|躁郁| 愿大家越来越好的\n提问箱：https://t.co/dVAEMLgKFn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thantos_ovo",
+                "end": 142,
+                "expanded_url": "https://ngl.link/thantos_ovo",
+                "start": 119,
+                "url": "https://t.co/dVAEMLgKFn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thantos_ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thantos_ovo",
+                "start": 0,
+                "url": "https://t.co/dVAEMLgKFn"
+              }
+            ]
+          }
+        },
+        "id": "2000729757655453696",
+        "is_identity_verified": false,
+        "location": "the moon",
+        "most_recent_tweet_id": "2098765376326873121",
+        "name": "thantos_ovo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000729757655453696/1788832953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005450264355143680/svwsDLCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 34,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/dVAEMLgKFn",
+        "username": "thantos_2518",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

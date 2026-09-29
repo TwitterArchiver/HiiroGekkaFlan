@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042276998668525573",
+    "conversation_id": "2096597613307179428",
+    "created_at": "2026-09-07T04:51:07.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T05:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096823558056116687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1457364958841225222",
+          "start": 0,
+          "username": "u7ed2x2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096823558056116687",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096597613307179428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@u7ed2x2 扫孩子艾玛……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1510,
+        "media_key": "3_2096597599747006464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRicaKHbYAA_zvp.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2096597613307179428",
+        "created_at": "2026-09-07T04:51:07.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096823558056116687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096823558056116687",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096597613307179428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 扫孩子艾玛……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096597599747006464"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2096597613307179428",
+        "created_at": "2026-09-06T13:53:18.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096597613307179428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xlv28TsDJ1",
+              "end": 60,
+              "expanded_url": "https://x.com/u7ed2x2/status/2096597613307179428/photo/1",
+              "media_key": "3_2096597599747006464",
+              "start": 37,
+              "url": "https://t.co/Xlv28TsDJ1"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2096538153733816461",
+              "start": 61,
+              "url": "https://t.co/y4awcxDcuf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096597613307179428",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096597599747006464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1735,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096538153733816461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Altko说发这种图片会被人打的\n😖好痛的 不可以打狗 怎么会有人打狗呢 https://t.co/Xlv28TsDJ1 https://t.co/y4awcxDcuf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2096823558056116687",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 879,
+          "like_count": 15038,
+          "listed_count": 2,
+          "media_count": 549,
+          "tweet_count": 4693
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2096813946862989398",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 997,
+          "like_count": 4240,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 1910
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
